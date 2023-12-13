@@ -460,6 +460,30 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 RANK REWARDS:
 
+lta-xpboosted-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-xpboosted-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-xpboosted-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-xpboosted-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
 lta-expo-0
 minScore: 0
 SCOREBASED REWARDS:
@@ -548,7 +572,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Annie)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Star Child)
 	  10000 Canopy Coins
@@ -556,20 +580,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Annie)
 	Tier 1:
-	      1 Relic (Celestial Relic, ID: 16170)
+	      1 Relic (Celestial Relic, ID: 16944)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Annie)
 	      1 Key (Bronze)
 	      5 Skill Points (Annie)
 	Tier 2:
-	      1 Relic (Celestial Relic, ID: 16170)
+	      1 Relic (Celestial Relic, ID: 16944)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Annie)
 	      1 Randomized (BB B, Annie)
 	      1 Key (Bronze)
 	      5 Skill Points (Annie)
 	Tier 3:
-	      2 Relics (Celestial Relic, ID: 16170)
+	      2 Relics (Celestial Relic, ID: 16944)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Annie)
 	      1 Randomized (BB B, Annie)
@@ -577,7 +601,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Annie)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Celestial Relic, ID: 16170)
+	      3 Relics (Celestial Relic, ID: 16944)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Annie)
 	      1 Randomized (SM B, Annie)
@@ -627,11 +651,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Annie)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Ageless Wonder)
 	  70000 Canopy Coins
@@ -645,7 +669,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Annie)
 	     30 Skill Points (Annie)
 	Tier 2:
-	      2 Relics (Celestial Relic, ID: 16170)
+	      2 Relics (Celestial Relic, ID: 16944)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Annie)
@@ -653,7 +677,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Annie)
 	Tier 3:
-	      3 Relics (Celestial Relic, ID: 16170)
+	      3 Relics (Celestial Relic, ID: 16944)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Annie)
@@ -662,7 +686,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Annie)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Celestial Relic, ID: 16170)
+	      4 Relics (Celestial Relic, ID: 16944)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Annie)
@@ -711,8 +735,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Annie)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Ageless Wonder)
 	  40000 Canopy Coins
@@ -724,14 +748,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Annie)
 	     20 Skill Points (Annie)
 	Tier 2:
-	      2 Relics (Celestial Relic, ID: 16170)
+	      2 Relics (Celestial Relic, ID: 16944)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Annie)
 	      1 Randomized (BB G, Annie)
 	      1 Key (Gold)
 	     20 Skill Points (Annie)
 	Tier 3:
-	      3 Relics (Celestial Relic, ID: 16170)
+	      3 Relics (Celestial Relic, ID: 16944)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Annie)
 	      1 Randomized (BB G, Annie)
@@ -739,7 +763,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Annie)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Celestial Relic, ID: 16170)
+	      4 Relics (Celestial Relic, ID: 16944)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Annie)
 	      1 Randomized (SM G, Annie)
@@ -785,7 +809,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Annie)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Ninja Star)
 	  20000 Canopy Coins
@@ -793,19 +817,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Annie)
 	Tier 1:
-	      1 Relic (Celestial Relic, ID: 16170)
+	      1 Relic (Celestial Relic, ID: 16944)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Annie)
 	     10 Skill Points (Annie)
 	Tier 2:
-	      1 Relic (Celestial Relic, ID: 16170)
+	      1 Relic (Celestial Relic, ID: 16944)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Annie)
 	      1 Randomized (BB S, Annie)
 	      1 Key (Silver)
 	     10 Skill Points (Annie)
 	Tier 3:
-	      2 Relics (Celestial Relic, ID: 16170)
+	      2 Relics (Celestial Relic, ID: 16944)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Annie)
 	      1 Randomized (BB S, Annie)
@@ -813,7 +837,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Annie)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Celestial Relic, ID: 16170)
+	      3 Relics (Celestial Relic, ID: 16944)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Annie)
 	      1 Randomized (SM S, Annie)
@@ -855,7 +879,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Beowulf)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Underdog)
 	  10000 Canopy Coins
@@ -863,20 +887,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Beowulf)
 	Tier 1:
-	      1 Relic (Smackdown Relic, ID: 16137)
+	      1 Relic (Smackdown Relic, ID: 16911)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Beowulf)
 	      1 Key (Bronze)
 	      5 Skill Points (Beowulf)
 	Tier 2:
-	      1 Relic (Smackdown Relic, ID: 16137)
+	      1 Relic (Smackdown Relic, ID: 16911)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Beowulf)
 	      1 Randomized (BB B, Beowulf)
 	      1 Key (Bronze)
 	      5 Skill Points (Beowulf)
 	Tier 3:
-	      2 Relics (Smackdown Relic, ID: 16137)
+	      2 Relics (Smackdown Relic, ID: 16911)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Beowulf)
 	      1 Randomized (BB B, Beowulf)
@@ -884,7 +908,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Beowulf)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Smackdown Relic, ID: 16137)
+	      3 Relics (Smackdown Relic, ID: 16911)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Beowulf)
 	      1 Randomized (SM B, Beowulf)
@@ -930,11 +954,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Beowulf)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Wulfsbane)
 	  70000 Canopy Coins
@@ -948,7 +972,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Beowulf)
 	     30 Skill Points (Beowulf)
 	Tier 2:
-	      2 Relics (Smackdown Relic, ID: 16137)
+	      2 Relics (Smackdown Relic, ID: 16911)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
@@ -956,7 +980,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Beowulf)
 	Tier 3:
-	      3 Relics (Smackdown Relic, ID: 16137)
+	      3 Relics (Smackdown Relic, ID: 16911)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
@@ -965,7 +989,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Beowulf)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Smackdown Relic, ID: 16137)
+	      4 Relics (Smackdown Relic, ID: 16911)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
@@ -1012,8 +1036,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Beowulf)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Wulfsbane)
 	  40000 Canopy Coins
@@ -1025,14 +1049,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Beowulf)
 	     20 Skill Points (Beowulf)
 	Tier 2:
-	      2 Relics (Smackdown Relic, ID: 16137)
+	      2 Relics (Smackdown Relic, ID: 16911)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (BB G, Beowulf)
 	      1 Key (Gold)
 	     20 Skill Points (Beowulf)
 	Tier 3:
-	      3 Relics (Smackdown Relic, ID: 16137)
+	      3 Relics (Smackdown Relic, ID: 16911)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (BB G, Beowulf)
@@ -1040,7 +1064,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Beowulf)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Smackdown Relic, ID: 16137)
+	      4 Relics (Smackdown Relic, ID: 16911)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (SM G, Beowulf)
@@ -1086,7 +1110,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Beowulf)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Hype Man)
 	  20000 Canopy Coins
@@ -1094,19 +1118,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Beowulf)
 	Tier 1:
-	      1 Relic (Smackdown Relic, ID: 16137)
+	      1 Relic (Smackdown Relic, ID: 16911)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Beowulf)
 	     10 Skill Points (Beowulf)
 	Tier 2:
-	      1 Relic (Smackdown Relic, ID: 16137)
+	      1 Relic (Smackdown Relic, ID: 16911)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Beowulf)
 	      1 Randomized (BB S, Beowulf)
 	      1 Key (Silver)
 	     10 Skill Points (Beowulf)
 	Tier 3:
-	      2 Relics (Smackdown Relic, ID: 16137)
+	      2 Relics (Smackdown Relic, ID: 16911)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Beowulf)
 	      1 Randomized (BB S, Beowulf)
@@ -1114,7 +1138,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Beowulf)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Smackdown Relic, ID: 16137)
+	      3 Relics (Smackdown Relic, ID: 16911)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Beowulf)
 	      1 Randomized (SM S, Beowulf)
@@ -1156,7 +1180,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Big Band)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Bassline)
 	  10000 Canopy Coins
@@ -1164,20 +1188,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, BigBand)
 	Tier 1:
-	      1 Relic (Top Brass Relic, ID: 16104)
+	      1 Relic (Top Brass Relic, ID: 16869)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, BigBand)
 	      1 Key (Bronze)
 	      5 Skill Points (Big Band)
 	Tier 2:
-	      1 Relic (Top Brass Relic, ID: 16104)
+	      1 Relic (Top Brass Relic, ID: 16869)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, BigBand)
 	      1 Randomized (BB B, BigBand)
 	      1 Key (Bronze)
 	      5 Skill Points (Big Band)
 	Tier 3:
-	      2 Relics (Top Brass Relic, ID: 16104)
+	      2 Relics (Top Brass Relic, ID: 16869)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, BigBand)
 	      1 Randomized (BB B, BigBand)
@@ -1185,7 +1209,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Big Band)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Top Brass Relic, ID: 16104)
+	      3 Relics (Top Brass Relic, ID: 16869)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, BigBand)
 	      1 Randomized (SM B, BigBand)
@@ -1231,11 +1255,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Big Band)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Epic Sax)
 	  70000 Canopy Coins
@@ -1249,7 +1273,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, BigBand)
 	     30 Skill Points (Big Band)
 	Tier 2:
-	      2 Relics (Top Brass Relic, ID: 16104)
+	      2 Relics (Top Brass Relic, ID: 16869)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
@@ -1257,7 +1281,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Big Band)
 	Tier 3:
-	      3 Relics (Top Brass Relic, ID: 16104)
+	      3 Relics (Top Brass Relic, ID: 16869)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
@@ -1266,7 +1290,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Big Band)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Top Brass Relic, ID: 16104)
+	      4 Relics (Top Brass Relic, ID: 16869)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
@@ -1313,8 +1337,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Big Band)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Epic Sax)
 	  40000 Canopy Coins
@@ -1326,14 +1350,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, BigBand)
 	     20 Skill Points (Big Band)
 	Tier 2:
-	      2 Relics (Top Brass Relic, ID: 16104)
+	      2 Relics (Top Brass Relic, ID: 16869)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
 	      1 Randomized (BB G, BigBand)
 	      1 Key (Gold)
 	     20 Skill Points (Big Band)
 	Tier 3:
-	      3 Relics (Top Brass Relic, ID: 16104)
+	      3 Relics (Top Brass Relic, ID: 16869)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
 	      1 Randomized (BB G, BigBand)
@@ -1341,7 +1365,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Big Band)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Top Brass Relic, ID: 16104)
+	      4 Relics (Top Brass Relic, ID: 16869)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
 	      1 Randomized (SM G, BigBand)
@@ -1387,7 +1411,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Big Band)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Robocopy)
 	  20000 Canopy Coins
@@ -1395,19 +1419,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, BigBand)
 	Tier 1:
-	      1 Relic (Top Brass Relic, ID: 16104)
+	      1 Relic (Top Brass Relic, ID: 16869)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, BigBand)
 	     10 Skill Points (Big Band)
 	Tier 2:
-	      1 Relic (Top Brass Relic, ID: 16104)
+	      1 Relic (Top Brass Relic, ID: 16869)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, BigBand)
 	      1 Randomized (BB S, BigBand)
 	      1 Key (Silver)
 	     10 Skill Points (Big Band)
 	Tier 3:
-	      2 Relics (Top Brass Relic, ID: 16104)
+	      2 Relics (Top Brass Relic, ID: 16869)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, BigBand)
 	      1 Randomized (BB S, BigBand)
@@ -1415,7 +1439,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Big Band)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Top Brass Relic, ID: 16104)
+	      3 Relics (Top Brass Relic, ID: 16869)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, BigBand)
 	      1 Randomized (SM S, BigBand)
@@ -1457,7 +1481,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Black Dahlia)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Trigger Happy)
 	  10000 Canopy Coins
@@ -1465,20 +1489,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, BlackDahlia)
 	Tier 1:
-	      1 Relic (Loose Cannon Relic, ID: 16094)
+	      1 Relic (Loose Cannon Relic, ID: 16859)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, BlackDahlia)
 	      1 Key (Bronze)
 	      5 Skill Points (Black Dahlia)
 	Tier 2:
-	      1 Relic (Loose Cannon Relic, ID: 16094)
+	      1 Relic (Loose Cannon Relic, ID: 16859)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, BlackDahlia)
 	      1 Randomized (BB B, BlackDahlia)
 	      1 Key (Bronze)
 	      5 Skill Points (Black Dahlia)
 	Tier 3:
-	      2 Relics (Loose Cannon Relic, ID: 16094)
+	      2 Relics (Loose Cannon Relic, ID: 16859)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, BlackDahlia)
 	      1 Randomized (BB B, BlackDahlia)
@@ -1486,7 +1510,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Black Dahlia)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Loose Cannon Relic, ID: 16094)
+	      3 Relics (Loose Cannon Relic, ID: 16859)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, BlackDahlia)
 	      1 Randomized (SM B, BlackDahlia)
@@ -1534,11 +1558,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Black Dahlia)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Psycommander)
 	  70000 Canopy Coins
@@ -1552,7 +1576,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, BlackDahlia)
 	     30 Skill Points (Black Dahlia)
 	Tier 2:
-	      2 Relics (Loose Cannon Relic, ID: 16094)
+	      2 Relics (Loose Cannon Relic, ID: 16859)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
@@ -1560,7 +1584,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Black Dahlia)
 	Tier 3:
-	      3 Relics (Loose Cannon Relic, ID: 16094)
+	      3 Relics (Loose Cannon Relic, ID: 16859)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
@@ -1569,7 +1593,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Black Dahlia)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Loose Cannon Relic, ID: 16094)
+	      4 Relics (Loose Cannon Relic, ID: 16859)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
@@ -1618,8 +1642,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Black Dahlia)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Psycommander)
 	  40000 Canopy Coins
@@ -1631,14 +1655,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, BlackDahlia)
 	     20 Skill Points (Black Dahlia)
 	Tier 2:
-	      2 Relics (Loose Cannon Relic, ID: 16094)
+	      2 Relics (Loose Cannon Relic, ID: 16859)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (BB G, BlackDahlia)
 	      1 Key (Gold)
 	     20 Skill Points (Black Dahlia)
 	Tier 3:
-	      3 Relics (Loose Cannon Relic, ID: 16094)
+	      3 Relics (Loose Cannon Relic, ID: 16859)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (BB G, BlackDahlia)
@@ -1646,7 +1670,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Black Dahlia)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Loose Cannon Relic, ID: 16094)
+	      4 Relics (Loose Cannon Relic, ID: 16859)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (SM G, BlackDahlia)
@@ -1692,7 +1716,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Black Dahlia)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Dame Slayer)
 	  20000 Canopy Coins
@@ -1700,19 +1724,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, BlackDahlia)
 	Tier 1:
-	      1 Relic (Loose Cannon Relic, ID: 16094)
+	      1 Relic (Loose Cannon Relic, ID: 16859)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, BlackDahlia)
 	     10 Skill Points (Black Dahlia)
 	Tier 2:
-	      1 Relic (Loose Cannon Relic, ID: 16094)
+	      1 Relic (Loose Cannon Relic, ID: 16859)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, BlackDahlia)
 	      1 Randomized (BB S, BlackDahlia)
 	      1 Key (Silver)
 	     10 Skill Points (Black Dahlia)
 	Tier 3:
-	      2 Relics (Loose Cannon Relic, ID: 16094)
+	      2 Relics (Loose Cannon Relic, ID: 16859)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, BlackDahlia)
 	      1 Randomized (BB S, BlackDahlia)
@@ -1720,7 +1744,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Black Dahlia)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Loose Cannon Relic, ID: 16094)
+	      3 Relics (Loose Cannon Relic, ID: 16859)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, BlackDahlia)
 	      1 Randomized (SM S, BlackDahlia)
@@ -1762,7 +1786,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Cerebella)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Understudy)
 	  10000 Canopy Coins
@@ -1770,20 +1794,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Cerebella)
 	Tier 1:
-	      1 Relic (Ringleader Relic, ID: 16093)
+	      1 Relic (Ringleader Relic, ID: 16858)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Cerebella)
 	      1 Key (Bronze)
 	      5 Skill Points (Cerebella)
 	Tier 2:
-	      1 Relic (Ringleader Relic, ID: 16093)
+	      1 Relic (Ringleader Relic, ID: 16858)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Cerebella)
 	      1 Randomized (BB B, Cerebella)
 	      1 Key (Bronze)
 	      5 Skill Points (Cerebella)
 	Tier 3:
-	      2 Relics (Ringleader Relic, ID: 16093)
+	      2 Relics (Ringleader Relic, ID: 16858)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Cerebella)
 	      1 Randomized (BB B, Cerebella)
@@ -1791,7 +1815,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Cerebella)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Ringleader Relic, ID: 16093)
+	      3 Relics (Ringleader Relic, ID: 16858)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Cerebella)
 	      1 Randomized (SM B, Cerebella)
@@ -1837,11 +1861,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Cerebella)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Harlequin)
 	  70000 Canopy Coins
@@ -1855,7 +1879,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Cerebella)
 	     30 Skill Points (Cerebella)
 	Tier 2:
-	      2 Relics (Ringleader Relic, ID: 16093)
+	      2 Relics (Ringleader Relic, ID: 16858)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
@@ -1863,7 +1887,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Cerebella)
 	Tier 3:
-	      3 Relics (Ringleader Relic, ID: 16093)
+	      3 Relics (Ringleader Relic, ID: 16858)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
@@ -1872,7 +1896,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Cerebella)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Ringleader Relic, ID: 16093)
+	      4 Relics (Ringleader Relic, ID: 16858)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
@@ -1919,8 +1943,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Cerebella)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Harlequin)
 	  40000 Canopy Coins
@@ -1932,14 +1956,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Cerebella)
 	     20 Skill Points (Cerebella)
 	Tier 2:
-	      2 Relics (Ringleader Relic, ID: 16093)
+	      2 Relics (Ringleader Relic, ID: 16858)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (BB G, Cerebella)
 	      1 Key (Gold)
 	     20 Skill Points (Cerebella)
 	Tier 3:
-	      3 Relics (Ringleader Relic, ID: 16093)
+	      3 Relics (Ringleader Relic, ID: 16858)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (BB G, Cerebella)
@@ -1947,7 +1971,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Cerebella)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Ringleader Relic, ID: 16093)
+	      4 Relics (Ringleader Relic, ID: 16858)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (SM G, Cerebella)
@@ -1993,7 +2017,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Cerebella)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Gray Matter)
 	  20000 Canopy Coins
@@ -2001,19 +2025,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Cerebella)
 	Tier 1:
-	      1 Relic (Ringleader Relic, ID: 16093)
+	      1 Relic (Ringleader Relic, ID: 16858)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Cerebella)
 	     10 Skill Points (Cerebella)
 	Tier 2:
-	      1 Relic (Ringleader Relic, ID: 16093)
+	      1 Relic (Ringleader Relic, ID: 16858)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Cerebella)
 	      1 Randomized (BB S, Cerebella)
 	      1 Key (Silver)
 	     10 Skill Points (Cerebella)
 	Tier 3:
-	      2 Relics (Ringleader Relic, ID: 16093)
+	      2 Relics (Ringleader Relic, ID: 16858)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Cerebella)
 	      1 Randomized (BB S, Cerebella)
@@ -2021,7 +2045,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Cerebella)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Ringleader Relic, ID: 16093)
+	      3 Relics (Ringleader Relic, ID: 16858)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Cerebella)
 	      1 Randomized (SM S, Cerebella)
@@ -2063,7 +2087,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Double)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Nunsense)
 	  10000 Canopy Coins
@@ -2071,20 +2095,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Double)
 	Tier 1:
-	      1 Relic (Unspeakable Relic, ID: 16146)
+	      1 Relic (Unspeakable Relic, ID: 16920)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Double)
 	      1 Key (Bronze)
 	      5 Skill Points (Double)
 	Tier 2:
-	      1 Relic (Unspeakable Relic, ID: 16146)
+	      1 Relic (Unspeakable Relic, ID: 16920)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Double)
 	      1 Randomized (BB B, Double)
 	      1 Key (Bronze)
 	      5 Skill Points (Double)
 	Tier 3:
-	      2 Relics (Unspeakable Relic, ID: 16146)
+	      2 Relics (Unspeakable Relic, ID: 16920)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Double)
 	      1 Randomized (BB B, Double)
@@ -2092,7 +2116,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Double)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Unspeakable Relic, ID: 16146)
+	      3 Relics (Unspeakable Relic, ID: 16920)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Double)
 	      1 Randomized (SM B, Double)
@@ -2140,11 +2164,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Double)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Immoral Fiber)
 	  70000 Canopy Coins
@@ -2158,7 +2182,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Double)
 	     30 Skill Points (Double)
 	Tier 2:
-	      2 Relics (Unspeakable Relic, ID: 16146)
+	      2 Relics (Unspeakable Relic, ID: 16920)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Double)
@@ -2166,7 +2190,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Double)
 	Tier 3:
-	      3 Relics (Unspeakable Relic, ID: 16146)
+	      3 Relics (Unspeakable Relic, ID: 16920)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Double)
@@ -2175,7 +2199,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Double)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Unspeakable Relic, ID: 16146)
+	      4 Relics (Unspeakable Relic, ID: 16920)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Double)
@@ -2222,8 +2246,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Double)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Immoral Fiber)
 	  40000 Canopy Coins
@@ -2235,14 +2259,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Double)
 	     20 Skill Points (Double)
 	Tier 2:
-	      2 Relics (Unspeakable Relic, ID: 16146)
+	      2 Relics (Unspeakable Relic, ID: 16920)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Double)
 	      1 Randomized (BB G, Double)
 	      1 Key (Gold)
 	     20 Skill Points (Double)
 	Tier 3:
-	      3 Relics (Unspeakable Relic, ID: 16146)
+	      3 Relics (Unspeakable Relic, ID: 16920)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Double)
 	      1 Randomized (BB G, Double)
@@ -2250,7 +2274,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Double)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Unspeakable Relic, ID: 16146)
+	      4 Relics (Unspeakable Relic, ID: 16920)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Double)
 	      1 Randomized (SM G, Double)
@@ -2298,7 +2322,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Double)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Doublicious)
 	  20000 Canopy Coins
@@ -2306,19 +2330,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Double)
 	Tier 1:
-	      1 Relic (Unspeakable Relic, ID: 16146)
+	      1 Relic (Unspeakable Relic, ID: 16920)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Double)
 	     10 Skill Points (Double)
 	Tier 2:
-	      1 Relic (Unspeakable Relic, ID: 16146)
+	      1 Relic (Unspeakable Relic, ID: 16920)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Double)
 	      1 Randomized (BB S, Double)
 	      1 Key (Silver)
 	     10 Skill Points (Double)
 	Tier 3:
-	      2 Relics (Unspeakable Relic, ID: 16146)
+	      2 Relics (Unspeakable Relic, ID: 16920)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Double)
 	      1 Randomized (BB S, Double)
@@ -2326,7 +2350,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Double)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Unspeakable Relic, ID: 16146)
+	      3 Relics (Unspeakable Relic, ID: 16920)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Double)
 	      1 Randomized (SM S, Double)
@@ -2354,7 +2378,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	     30 Elemental Shards (Air)
 	Tier 5:
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	     40 Elemental Shards (Air)
 	Tier 6:
 	     50 Elemental Shards (Air)
@@ -2363,25 +2387,25 @@ SCOREBASED REWARDS:
 	Tier 8:
 	     80 Elemental Shards (Air)
 	Tier 9:
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	    100 Elemental Shards (Air)
 PERCENTILE REWARDS:
 	Tier 0:
 	    200 Relic Shards (Silver)
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	Tier 1:
 	    500 Relic Shards (Silver)
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	Tier 2:
 	    200 Relic Shards (Gold)
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	Tier 3:
 	    500 Relic Shards (Gold)
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 RANK REWARDS:
 	Tier 0:
 	    500 Relic Shards (Gold)
-	      1 Relic (Stormy Relic, ID: 16148)
+	      1 Relic (Stormy Relic, ID: 16922)
 	      1 Elemental Essence (Air)
 
 pf-dark
@@ -2404,7 +2428,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	     30 Elemental Shards (Dark)
 	Tier 5:
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	     40 Elemental Shards (Dark)
 	Tier 6:
 	     50 Elemental Shards (Dark)
@@ -2413,25 +2437,25 @@ SCOREBASED REWARDS:
 	Tier 8:
 	     80 Elemental Shards (Dark)
 	Tier 9:
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	    100 Elemental Shards (Dark)
 PERCENTILE REWARDS:
 	Tier 0:
 	    200 Relic Shards (Silver)
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	Tier 1:
 	    500 Relic Shards (Silver)
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	Tier 2:
 	    200 Relic Shards (Gold)
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	Tier 3:
 	    500 Relic Shards (Gold)
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 RANK REWARDS:
 	Tier 0:
 	    500 Relic Shards (Gold)
-	      1 Relic (Shrouded Relic, ID: 16152)
+	      1 Relic (Shrouded Relic, ID: 16926)
 	      1 Elemental Essence (Dark)
 
 pf-fire
@@ -2459,7 +2483,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	     30 Elemental Shards (Fire)
 	Tier 5:
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	     40 Elemental Shards (Fire)
 	Tier 6:
 	     50 Elemental Shards (Fire)
@@ -2468,25 +2492,25 @@ SCOREBASED REWARDS:
 	Tier 8:
 	     80 Elemental Shards (Fire)
 	Tier 9:
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	    100 Elemental Shards (Fire)
 PERCENTILE REWARDS:
 	Tier 0:
 	    200 Relic Shards (Silver)
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	Tier 1:
 	    500 Relic Shards (Silver)
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	Tier 2:
 	    200 Relic Shards (Gold)
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	Tier 3:
 	    500 Relic Shards (Gold)
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 RANK REWARDS:
 	Tier 0:
 	    500 Relic Shards (Gold)
-	      1 Relic (Scorched Relic, ID: 16149)
+	      1 Relic (Scorched Relic, ID: 16923)
 	      1 Elemental Essence (Fire)
 
 pf-light
@@ -2512,7 +2536,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	     30 Elemental Shards (Light)
 	Tier 5:
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	     40 Elemental Shards (Light)
 	Tier 6:
 	     50 Elemental Shards (Light)
@@ -2521,25 +2545,25 @@ SCOREBASED REWARDS:
 	Tier 8:
 	     80 Elemental Shards (Light)
 	Tier 9:
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	    100 Elemental Shards (Light)
 PERCENTILE REWARDS:
 	Tier 0:
 	    200 Relic Shards (Silver)
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	Tier 1:
 	    500 Relic Shards (Silver)
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	Tier 2:
 	    200 Relic Shards (Gold)
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	Tier 3:
 	    500 Relic Shards (Gold)
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 RANK REWARDS:
 	Tier 0:
 	    500 Relic Shards (Gold)
-	      1 Relic (Shining Relic, ID: 16151)
+	      1 Relic (Shining Relic, ID: 16925)
 	      1 Elemental Essence (Light)
 
 pf-water
@@ -2562,7 +2586,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	     30 Elemental Shards (Water)
 	Tier 5:
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	     40 Elemental Shards (Water)
 	Tier 6:
 	     50 Elemental Shards (Water)
@@ -2571,25 +2595,25 @@ SCOREBASED REWARDS:
 	Tier 8:
 	     80 Elemental Shards (Water)
 	Tier 9:
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	    100 Elemental Shards (Water)
 PERCENTILE REWARDS:
 	Tier 0:
 	    200 Relic Shards (Silver)
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	Tier 1:
 	    500 Relic Shards (Silver)
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	Tier 2:
 	    200 Relic Shards (Gold)
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	Tier 3:
 	    500 Relic Shards (Gold)
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 RANK REWARDS:
 	Tier 0:
 	    500 Relic Shards (Gold)
-	      1 Relic (Sunken Relic, ID: 16150)
+	      1 Relic (Sunken Relic, ID: 16924)
 	      1 Elemental Essence (Water)
 
 pf-bloSpo-b
@@ -2626,7 +2650,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Eliza)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (In Denile)
 	  10000 Canopy Coins
@@ -2634,20 +2658,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Eliza)
 	Tier 1:
-	      1 Relic (Hieroglyphic Relic, ID: 16130)
+	      1 Relic (Hieroglyphic Relic, ID: 16904)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Eliza)
 	      1 Key (Bronze)
 	      5 Skill Points (Eliza)
 	Tier 2:
-	      1 Relic (Hieroglyphic Relic, ID: 16130)
+	      1 Relic (Hieroglyphic Relic, ID: 16904)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Eliza)
 	      1 Randomized (BB B, Eliza)
 	      1 Key (Bronze)
 	      5 Skill Points (Eliza)
 	Tier 3:
-	      2 Relics (Hieroglyphic Relic, ID: 16130)
+	      2 Relics (Hieroglyphic Relic, ID: 16904)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Eliza)
 	      1 Randomized (BB B, Eliza)
@@ -2655,7 +2679,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Eliza)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hieroglyphic Relic, ID: 16130)
+	      3 Relics (Hieroglyphic Relic, ID: 16904)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Eliza)
 	      1 Randomized (SM B, Eliza)
@@ -2701,11 +2725,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Eliza)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Diva Intervention)
 	  70000 Canopy Coins
@@ -2719,7 +2743,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Eliza)
 	     30 Skill Points (Eliza)
 	Tier 2:
-	      2 Relics (Hieroglyphic Relic, ID: 16130)
+	      2 Relics (Hieroglyphic Relic, ID: 16904)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
@@ -2727,7 +2751,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Eliza)
 	Tier 3:
-	      3 Relics (Hieroglyphic Relic, ID: 16130)
+	      3 Relics (Hieroglyphic Relic, ID: 16904)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
@@ -2736,7 +2760,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Eliza)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hieroglyphic Relic, ID: 16130)
+	      4 Relics (Hieroglyphic Relic, ID: 16904)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
@@ -2783,8 +2807,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Eliza)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Diva Intervention)
 	  40000 Canopy Coins
@@ -2796,14 +2820,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Eliza)
 	     20 Skill Points (Eliza)
 	Tier 2:
-	      2 Relics (Hieroglyphic Relic, ID: 16130)
+	      2 Relics (Hieroglyphic Relic, ID: 16904)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
 	      1 Randomized (BB G, Eliza)
 	      1 Key (Gold)
 	     20 Skill Points (Eliza)
 	Tier 3:
-	      3 Relics (Hieroglyphic Relic, ID: 16130)
+	      3 Relics (Hieroglyphic Relic, ID: 16904)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
 	      1 Randomized (BB G, Eliza)
@@ -2811,7 +2835,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Eliza)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hieroglyphic Relic, ID: 16130)
+	      4 Relics (Hieroglyphic Relic, ID: 16904)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Eliza)
 	      1 Randomized (SM G, Eliza)
@@ -2857,7 +2881,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Eliza)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Scarlet Viper)
 	  20000 Canopy Coins
@@ -2865,19 +2889,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Eliza)
 	Tier 1:
-	      1 Relic (Hieroglyphic Relic, ID: 16130)
+	      1 Relic (Hieroglyphic Relic, ID: 16904)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Eliza)
 	     10 Skill Points (Eliza)
 	Tier 2:
-	      1 Relic (Hieroglyphic Relic, ID: 16130)
+	      1 Relic (Hieroglyphic Relic, ID: 16904)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Eliza)
 	      1 Randomized (BB S, Eliza)
 	      1 Key (Silver)
 	     10 Skill Points (Eliza)
 	Tier 3:
-	      2 Relics (Hieroglyphic Relic, ID: 16130)
+	      2 Relics (Hieroglyphic Relic, ID: 16904)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Eliza)
 	      1 Randomized (BB S, Eliza)
@@ -2885,7 +2909,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Eliza)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hieroglyphic Relic, ID: 16130)
+	      3 Relics (Hieroglyphic Relic, ID: 16904)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Eliza)
 	      1 Randomized (SM S, Eliza)
@@ -2927,7 +2951,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Filia)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Bad Hair Day)
 	  10000 Canopy Coins
@@ -2935,20 +2959,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Filia)
 	Tier 1:
-	      1 Relic (Beware Of Relic, ID: 16209)
+	      1 Relic (Beware Of Relic, ID: 16983)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Filia)
 	      1 Key (Bronze)
 	      5 Skill Points (Filia)
 	Tier 2:
-	      1 Relic (Beware Of Relic, ID: 16209)
+	      1 Relic (Beware Of Relic, ID: 16983)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Filia)
 	      1 Randomized (BB B, Filia)
 	      1 Key (Bronze)
 	      5 Skill Points (Filia)
 	Tier 3:
-	      2 Relics (Beware Of Relic, ID: 16209)
+	      2 Relics (Beware Of Relic, ID: 16983)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Filia)
 	      1 Randomized (BB B, Filia)
@@ -2956,7 +2980,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Filia)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Beware Of Relic, ID: 16209)
+	      3 Relics (Beware Of Relic, ID: 16983)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Filia)
 	      1 Randomized (SM B, Filia)
@@ -3002,11 +3026,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Filia)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Parasite Weave)
 	  70000 Canopy Coins
@@ -3020,7 +3044,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Filia)
 	     30 Skill Points (Filia)
 	Tier 2:
-	      2 Relics (Beware Of Relic, ID: 16209)
+	      2 Relics (Beware Of Relic, ID: 16983)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Filia)
@@ -3028,7 +3052,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Filia)
 	Tier 3:
-	      3 Relics (Beware Of Relic, ID: 16209)
+	      3 Relics (Beware Of Relic, ID: 16983)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Filia)
@@ -3037,7 +3061,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Filia)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Beware Of Relic, ID: 16209)
+	      4 Relics (Beware Of Relic, ID: 16983)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Filia)
@@ -3084,8 +3108,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Filia)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Parasite Weave)
 	  40000 Canopy Coins
@@ -3097,14 +3121,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Filia)
 	     20 Skill Points (Filia)
 	Tier 2:
-	      2 Relics (Beware Of Relic, ID: 16209)
+	      2 Relics (Beware Of Relic, ID: 16983)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Filia)
 	      1 Randomized (BB G, Filia)
 	      1 Key (Gold)
 	     20 Skill Points (Filia)
 	Tier 3:
-	      3 Relics (Beware Of Relic, ID: 16209)
+	      3 Relics (Beware Of Relic, ID: 16983)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Filia)
 	      1 Randomized (BB G, Filia)
@@ -3112,7 +3136,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Filia)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Beware Of Relic, ID: 16209)
+	      4 Relics (Beware Of Relic, ID: 16983)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Filia)
 	      1 Randomized (SM G, Filia)
@@ -3158,7 +3182,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Filia)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Hair Apparent)
 	  20000 Canopy Coins
@@ -3166,19 +3190,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Filia)
 	Tier 1:
-	      1 Relic (Beware Of Relic, ID: 16209)
+	      1 Relic (Beware Of Relic, ID: 16983)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Filia)
 	     10 Skill Points (Filia)
 	Tier 2:
-	      1 Relic (Beware Of Relic, ID: 16209)
+	      1 Relic (Beware Of Relic, ID: 16983)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Filia)
 	      1 Randomized (BB S, Filia)
 	      1 Key (Silver)
 	     10 Skill Points (Filia)
 	Tier 3:
-	      2 Relics (Beware Of Relic, ID: 16209)
+	      2 Relics (Beware Of Relic, ID: 16983)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Filia)
 	      1 Randomized (BB S, Filia)
@@ -3186,7 +3210,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Filia)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Beware Of Relic, ID: 16209)
+	      3 Relics (Beware Of Relic, ID: 16983)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Filia)
 	      1 Randomized (SM S, Filia)
@@ -3228,7 +3252,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Fukua)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Rough Copy)
 	  10000 Canopy Coins
@@ -3236,20 +3260,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Fukua)
 	Tier 1:
-	      1 Relic (DoppelgÃ¤nger Relic, ID: 16166)
+	      1 Relic (Doppelgänger Relic, ID: 16940)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Fukua)
 	      1 Key (Bronze)
 	      5 Skill Points (Fukua)
 	Tier 2:
-	      1 Relic (DoppelgÃ¤nger Relic, ID: 16166)
+	      1 Relic (Doppelgänger Relic, ID: 16940)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Fukua)
 	      1 Randomized (BB B, Fukua)
 	      1 Key (Bronze)
 	      5 Skill Points (Fukua)
 	Tier 3:
-	      2 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      2 Relics (Doppelgänger Relic, ID: 16940)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Fukua)
 	      1 Randomized (BB B, Fukua)
@@ -3257,7 +3281,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Fukua)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      3 Relics (Doppelgänger Relic, ID: 16940)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Fukua)
 	      1 Randomized (SM B, Fukua)
@@ -3305,11 +3329,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Fukua)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Vaporwave Vixen)
 	  70000 Canopy Coins
@@ -3323,7 +3347,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Fukua)
 	     30 Skill Points (Fukua)
 	Tier 2:
-	      2 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      2 Relics (Doppelgänger Relic, ID: 16940)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
@@ -3331,7 +3355,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Fukua)
 	Tier 3:
-	      3 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      3 Relics (Doppelgänger Relic, ID: 16940)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
@@ -3340,7 +3364,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Fukua)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      4 Relics (Doppelgänger Relic, ID: 16940)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
@@ -3389,8 +3413,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Fukua)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Vaporwave Vixen)
 	  40000 Canopy Coins
@@ -3402,14 +3426,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Fukua)
 	     20 Skill Points (Fukua)
 	Tier 2:
-	      2 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      2 Relics (Doppelgänger Relic, ID: 16940)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
 	      1 Randomized (BB G, Fukua)
 	      1 Key (Gold)
 	     20 Skill Points (Fukua)
 	Tier 3:
-	      3 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      3 Relics (Doppelgänger Relic, ID: 16940)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
 	      1 Randomized (BB G, Fukua)
@@ -3417,7 +3441,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Fukua)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      4 Relics (Doppelgänger Relic, ID: 16940)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
 	      1 Randomized (SM G, Fukua)
@@ -3463,7 +3487,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Fukua)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Souls Sister)
 	  20000 Canopy Coins
@@ -3471,19 +3495,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Fukua)
 	Tier 1:
-	      1 Relic (DoppelgÃ¤nger Relic, ID: 16166)
+	      1 Relic (Doppelgänger Relic, ID: 16940)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Fukua)
 	     10 Skill Points (Fukua)
 	Tier 2:
-	      1 Relic (DoppelgÃ¤nger Relic, ID: 16166)
+	      1 Relic (Doppelgänger Relic, ID: 16940)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Fukua)
 	      1 Randomized (BB S, Fukua)
 	      1 Key (Silver)
 	     10 Skill Points (Fukua)
 	Tier 3:
-	      2 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      2 Relics (Doppelgänger Relic, ID: 16940)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Fukua)
 	      1 Randomized (BB S, Fukua)
@@ -3491,7 +3515,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Fukua)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (DoppelgÃ¤nger Relic, ID: 16166)
+	      3 Relics (Doppelgänger Relic, ID: 16940)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Fukua)
 	      1 Randomized (SM S, Fukua)
@@ -3582,7 +3606,7 @@ SCOREBASED REWARDS:
 	Tier 0:
 	   6000 Canopy Coins
 	Tier 1:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  12000 Canopy Coins
 	Tier 2:
 	  18000 Canopy Coins
@@ -3591,7 +3615,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	  30000 Canopy Coins
 	Tier 5:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  36000 Canopy Coins
 	Tier 6:
 	  42000 Canopy Coins
@@ -3600,12 +3624,12 @@ SCOREBASED REWARDS:
 	Tier 8:
 	  54000 Canopy Coins
 	Tier 9:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  60000 Canopy Coins
 PERCENTILE REWARDS:
 RANK REWARDS:
 	Tier 0:
-	      5 Relics (Gold Move Relic, ID: 16143)
+	      5 Relics (Gold Move Relic, ID: 16917)
 	 250000 Canopy Coins
 
 pf-fClub
@@ -3621,7 +3645,7 @@ SCOREBASED REWARDS:
 	Tier 0:
 	   6000 Canopy Coins
 	Tier 1:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  12000 Canopy Coins
 	Tier 2:
 	  18000 Canopy Coins
@@ -3630,7 +3654,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	  30000 Canopy Coins
 	Tier 5:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  36000 Canopy Coins
 	Tier 6:
 	  42000 Canopy Coins
@@ -3639,12 +3663,12 @@ SCOREBASED REWARDS:
 	Tier 8:
 	  54000 Canopy Coins
 	Tier 9:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  60000 Canopy Coins
 PERCENTILE REWARDS:
 RANK REWARDS:
 	Tier 0:
-	      5 Relics (Gold Move Relic, ID: 16143)
+	      5 Relics (Gold Move Relic, ID: 16917)
 	 250000 Canopy Coins
 
 pf-heist
@@ -3660,7 +3684,7 @@ SCOREBASED REWARDS:
 	Tier 0:
 	   6000 Canopy Coins
 	Tier 1:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  12000 Canopy Coins
 	Tier 2:
 	  18000 Canopy Coins
@@ -3669,7 +3693,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	  30000 Canopy Coins
 	Tier 5:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  36000 Canopy Coins
 	Tier 6:
 	  42000 Canopy Coins
@@ -3678,12 +3702,12 @@ SCOREBASED REWARDS:
 	Tier 8:
 	  54000 Canopy Coins
 	Tier 9:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  60000 Canopy Coins
 PERCENTILE REWARDS:
 RANK REWARDS:
 	Tier 0:
-	      5 Relics (Gold Move Relic, ID: 16143)
+	      5 Relics (Gold Move Relic, ID: 16917)
 	 250000 Canopy Coins
 
 pf-pFight
@@ -3699,7 +3723,7 @@ SCOREBASED REWARDS:
 	Tier 0:
 	   6000 Canopy Coins
 	Tier 1:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  12000 Canopy Coins
 	Tier 2:
 	  18000 Canopy Coins
@@ -3708,7 +3732,7 @@ SCOREBASED REWARDS:
 	Tier 4:
 	  30000 Canopy Coins
 	Tier 5:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  36000 Canopy Coins
 	Tier 6:
 	  42000 Canopy Coins
@@ -3717,13 +3741,326 @@ SCOREBASED REWARDS:
 	Tier 8:
 	  54000 Canopy Coins
 	Tier 9:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	  60000 Canopy Coins
 PERCENTILE REWARDS:
 RANK REWARDS:
 	Tier 0:
-	      5 Relics (Gold Move Relic, ID: 16143)
+	      5 Relics (Gold Move Relic, ID: 16917)
 	 250000 Canopy Coins
+
+pf-deathmettle-b
+Death Mettle (Bronze)
+PLAYER MODIFIERS:
+ENEMY MODIFIERS:
+minScore: 15000
+SCOREBASED REWARDS:
+	Tier 0:
+	    750 Canopy Coins
+	Tier 1:
+	      5 Theonite
+	   1500 Canopy Coins
+	      5 Skill Points (Marie)
+	Tier 2:
+	   2250 Canopy Coins
+	Tier 3:
+	     10 Theonite
+	   3000 Canopy Coins
+	Tier 4:
+	   3750 Canopy Coins
+	Tier 5:
+	     10 Theonite
+	   4500 Canopy Coins
+	      5 Skill Points (Marie)
+	Tier 6:
+	   5250 Canopy Coins
+	Tier 7:
+	     15 Theonite
+	   6000 Canopy Coins
+	Tier 8:
+	   6750 Canopy Coins
+	Tier 9:
+	     15 Theonite
+	   7500 Canopy Coins
+	     10 Skill Points (Marie)
+	      1 Relic (Silver Move Relic, ID: 16916)
+	Tier 10:
+	      1 Fighter (Bare Bones)
+	  10000 Canopy Coins
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Randomized (SM B, Marie)
+	Tier 1:
+	      1 Relic (Resurrection Relic, ID: 16890)
+	  15000 Canopy Coins
+	      1 Randomized (SM B, Marie)
+	      1 Key (Bronze)
+	      5 Skill Points (Marie)
+	Tier 2:
+	      1 Relic (Resurrection Relic, ID: 16890)
+	  25000 Canopy Coins
+	      1 Randomized (SM B, Marie)
+	      1 Randomized (BB B, Marie)
+	      1 Key (Bronze)
+	      5 Skill Points (Marie)
+	Tier 3:
+	      2 Relics (Resurrection Relic, ID: 16890)
+	  35000 Canopy Coins
+	      1 Randomized (SM B, Marie)
+	      1 Randomized (BB B, Marie)
+	      2 Keys (Bronze)
+	     10 Skill Points (Marie)
+RANK REWARDS:
+	Tier 0:
+	      3 Relics (Resurrection Relic, ID: 16890)
+	  45000 Canopy Coins
+	      1 Randomized (SM B, Marie)
+	      1 Randomized (SM B, Marie)
+	      1 Randomized (BB B, Marie)
+	      3 Keys (Bronze)
+	     20 Skill Points (Marie)
+
+pf-deathmettle-d
+Death Mettle (Diamond)
+PLAYER MODIFIERS:
+	REPRISED POSSESSION
+	Once per match, RESURRECT with 25.0% HEALTH after being dead for 15.0 seconds. 
+Resurrected teammates gain the following permanent modifiers: DEADEYE, HASTE, 5 stacks of ENRAGE, QUIETUS, and a 20.0 second, UNSTOPPABLE DOOM.
+	
+ENEMY MODIFIERS:
+	REPRISED POSSESSION
+	Once per match, RESURRECT with 25.0% HEALTH after being dead for 15.0 seconds. 
+Resurrected teammates gain the following permanent modifiers: DEADEYE, HASTE, 5 stacks of ENRAGE, QUIETUS, and a 20.0 second, UNSTOPPABLE DOOM.
+	
+minScore: 1000000
+SCOREBASED REWARDS:
+	Tier 0:
+	   6000 Canopy Coins
+	Tier 1:
+	     10 Theonite
+	  12000 Canopy Coins
+	     30 Skill Points (Marie)
+	Tier 2:
+	  18000 Canopy Coins
+	Tier 3:
+	     20 Theonite
+	  24000 Canopy Coins
+	Tier 4:
+	  30000 Canopy Coins
+	Tier 5:
+	     20 Theonite
+	  36000 Canopy Coins
+	     30 Skill Points (Marie)
+	Tier 6:
+	  42000 Canopy Coins
+	Tier 7:
+	     25 Theonite
+	  48000 Canopy Coins
+	Tier 8:
+	  54000 Canopy Coins
+	Tier 9:
+	     25 Theonite
+	  60000 Canopy Coins
+	     60 Skill Points (Marie)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	Tier 10:
+	      1 Fighter (Gust Buster)
+	  70000 Canopy Coins
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	Tier 1:
+	 105000 Canopy Coins
+	      1 Randomized (SM G, MsFortune)
+	      1 Randomized (BB G, Marie)
+	     30 Skill Points (Marie)
+	Tier 2:
+	      2 Relics (Resurrection Relic, ID: 16890)
+	    500 Relic Shards (Gold)
+	 175000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      1 Key (Diamond)
+	     30 Skill Points (Marie)
+	Tier 3:
+	      3 Relics (Resurrection Relic, ID: 16890)
+	    750 Relic Shards (Gold)
+	 245000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      1 Key (Diamond)
+	     60 Skill Points (Marie)
+RANK REWARDS:
+	Tier 0:
+	      4 Relics (Resurrection Relic, ID: 16890)
+	   1000 Relic Shards (Gold)
+	 315000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      2 Keys (Diamond)
+	    120 Skill Points (Marie)
+
+pf-deathmettle-g
+Death Mettle (Gold)
+PLAYER MODIFIERS:
+	METRONOMICON
+	Suffer a random, 10.0 second DEBUFF every 3.0 seconds near a dead enemy.
+Every 15 seconds, gain a 10.0 second BUFF for each dead body on the stage.
+	
+ENEMY MODIFIERS:
+	METRONOMICON
+	Suffer a random, 10.0 second DEBUFF every 3.0 seconds near a dead enemy.
+Every 15 seconds, gain a 10.0 second BUFF for each dead body on the stage.
+	
+minScore: 60000
+SCOREBASED REWARDS:
+	Tier 0:
+	   3000 Canopy Coins
+	Tier 1:
+	      5 Theonite
+	   6000 Canopy Coins
+	     20 Skill Points (Marie)
+	Tier 2:
+	   9000 Canopy Coins
+	Tier 3:
+	     10 Theonite
+	  12000 Canopy Coins
+	Tier 4:
+	  15000 Canopy Coins
+	Tier 5:
+	     10 Theonite
+	  18000 Canopy Coins
+	     20 Skill Points (Marie)
+	Tier 6:
+	  21000 Canopy Coins
+	Tier 7:
+	     15 Theonite
+	  24000 Canopy Coins
+	Tier 8:
+	  27000 Canopy Coins
+	Tier 9:
+	     15 Theonite
+	  30000 Canopy Coins
+	     40 Skill Points (Marie)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	Tier 10:
+	      1 Fighter (Gust Buster)
+	  40000 Canopy Coins
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Randomized (SM G, Marie)
+	Tier 1:
+	  60000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	     20 Skill Points (Marie)
+	Tier 2:
+	      2 Relics (Resurrection Relic, ID: 16890)
+	 100000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      1 Key (Gold)
+	     20 Skill Points (Marie)
+	Tier 3:
+	      3 Relics (Resurrection Relic, ID: 16890)
+	 140000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      2 Keys (Gold)
+	     40 Skill Points (Marie)
+RANK REWARDS:
+	Tier 0:
+	      4 Relics (Resurrection Relic, ID: 16890)
+	 180000 Canopy Coins
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (BB G, Marie)
+	      3 Keys (Gold)
+	     80 Skill Points (Marie)
+
+pf-deathmettle-s
+Death Mettle (Silver)
+PLAYER MODIFIERS:
+	TEMPO TANTRUM
+	Gain ENRAGE every 10 seconds, 5.0 stacks of PRECISION every 20.0 seconds, and THORNS every 30.0 seconds. ENRAGE and THORNS last 60.0 seconds.
+	
+	
+ENEMY MODIFIERS:
+	TEMPO TANTRUM
+	Gain ENRAGE every 10 seconds, 5.0 stacks of PRECISION every 20.0 seconds, and THORNS every 30.0 seconds. ENRAGE and THORNS last 60.0 seconds.
+	
+	
+minScore: 30000
+SCOREBASED REWARDS:
+	Tier 0:
+	   1500 Canopy Coins
+	Tier 1:
+	      5 Theonite
+	   3000 Canopy Coins
+	     10 Skill Points (Marie)
+	Tier 2:
+	   4500 Canopy Coins
+	Tier 3:
+	     10 Theonite
+	   6000 Canopy Coins
+	Tier 4:
+	   7500 Canopy Coins
+	Tier 5:
+	     10 Theonite
+	   9000 Canopy Coins
+	     10 Skill Points (Marie)
+	Tier 6:
+	  10500 Canopy Coins
+	Tier 7:
+	     15 Theonite
+	  12000 Canopy Coins
+	Tier 8:
+	  13500 Canopy Coins
+	Tier 9:
+	     15 Theonite
+	  15000 Canopy Coins
+	     20 Skill Points (Marie)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	Tier 10:
+	      1 Fighter (Maid of Honor)
+	  20000 Canopy Coins
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Randomized (SM S, Marie)
+	Tier 1:
+	      1 Relic (Resurrection Relic, ID: 16890)
+	  30000 Canopy Coins
+	      1 Randomized (SM S, Marie)
+	     10 Skill Points (Marie)
+	Tier 2:
+	      1 Relic (Resurrection Relic, ID: 16890)
+	  50000 Canopy Coins
+	      1 Randomized (SM S, Marie)
+	      1 Randomized (BB S, Marie)
+	      1 Key (Silver)
+	     10 Skill Points (Marie)
+	Tier 3:
+	      2 Relics (Resurrection Relic, ID: 16890)
+	  70000 Canopy Coins
+	      1 Randomized (SM S, Marie)
+	      1 Randomized (BB S, Marie)
+	      2 Keys (Silver)
+	     20 Skill Points (Marie)
+RANK REWARDS:
+	Tier 0:
+	      3 Relics (Resurrection Relic, ID: 16890)
+	  90000 Canopy Coins
+	      1 Randomized (SM S, Marie)
+	      1 Randomized (SM S, Marie)
+	      1 Randomized (BB S, Marie)
+	      3 Keys (Silver)
+	     40 Skill Points (Marie)
 
 pf-class
 A Class of One's Own ()
@@ -3736,7 +4073,7 @@ ENEMY MODIFIERS:
 	While benefiting from either buff, gain 5.0% BLOCKBUSTER METER per second.
 	FINAL EXAM
 	Once per match, the last surviving teammate TAGS IN with INVINCIBLE for 20.0 seconds. INVINCIBLE is removed if HIT while attacking.
-	While benefiting from INVINCIBLE, DRAIN 2.0% of an opponentâ€™s HEALTH per second.
+	While benefiting from INVINCIBLE, DRAIN 2.0% of an opponent’s HEALTH per second.
 minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
@@ -3750,7 +4087,7 @@ SCOREBASED REWARDS:
 	  22500 Canopy Coins
 	Tier 3:
 	     40 Theonite
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	  34000 Canopy Coins
 	Tier 4:
 	     50 Theonite
@@ -3760,7 +4097,7 @@ SCOREBASED REWARDS:
 	  76000 Canopy Coins
 	Tier 6:
 	     70 Theonite
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	 114000 Canopy Coins
 	Tier 7:
 	     80 Theonite
@@ -3770,7 +4107,7 @@ SCOREBASED REWARDS:
 	 256000 Canopy Coins
 	Tier 9:
 	    100 Theonite
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	 384000 Canopy Coins
 	Tier 10:
 	    500 Relic Shards (Gold)
@@ -3780,42 +4117,42 @@ SCOREBASED REWARDS:
 	    300 Elemental Shards (Water)
 	Tier 12:
 	    500 Elemental Shards (Water)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Homecoming Diamond Relic, ID: 16111)
+	      1 Relic (Homecoming Diamond Relic, ID: 16876)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	Tier 1:
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	Tier 2:
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 	Tier 3:
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
-	      1 Relic (Back to School Relic, ID: 16110)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
+	      1 Relic (Back to School Relic (2023), ID: 16875)
 
 pf-cinco
-Â¡Viva La Fiesta! ()
+¡Viva La Fiesta! ()
 PLAYER MODIFIERS:
-	PIÃ‘ATA MEXICANA
+	PIÑATA MEXICANA
 	[Air, Light and Fire Element Fighters] Gain 3 stacks of a BUFF every 10 seconds and at the start of the match. The BUFF gained lasts for 10.0 seconds and cycles between REGEN, BLESSING, and ENRAGE.
 	
 	
 ENEMY MODIFIERS:
-	PIÃ‘ATA MEXICANA
+	PIÑATA MEXICANA
 	[Air, Light and Fire Element Fighters] Gain 3 stacks of a BUFF every 10 seconds and at the start of the match. The BUFF gained lasts for 10.0 seconds and cycles between REGEN, BLESSING, and ENRAGE.
 	
 	
@@ -3831,7 +4168,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -3841,7 +4178,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -3851,7 +4188,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -3868,32 +4205,32 @@ SCOREBASED REWARDS:
 	    150 Elemental Shards (Air)
 	    150 Elemental Shards (Light)
 	    150 Elemental Shards (Fire)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Mariachi Diamond Relic, ID: 16201)
+	      1 Relic (Mariachi Diamond Relic, ID: 16975)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	Tier 1:
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	Tier 2:
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 	Tier 3:
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
-	      1 Relic (Bandera Relic, ID: 16167)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
+	      1 Relic (Bandera Relic (2023), ID: 16941)
 
 pf-hallow
 Costume Party ()
@@ -3915,7 +4252,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -3925,7 +4262,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -3935,7 +4272,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -3946,34 +4283,34 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Dark)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Nightmare Relic, ID: 16117)
+	      1 Relic (Nightmare Relic, ID: 16882)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	Tier 1:
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	Tier 2:
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 	Tier 3:
 	      1 Fighter (Necrobreaker)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 RANK REWARDS:
 	Tier 0:
 	      1 Fighter (Necrobreaker)
 	      1 Key (Diamond)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
-	      1 Relic (Spooky Relic, ID: 16116)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
+	      1 Relic (Spooky Relic (2023), ID: 16881)
 
 pf-paddys
 Craic Some Heads ()
@@ -3997,7 +4334,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4007,7 +4344,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4017,7 +4354,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4028,32 +4365,32 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Air)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Tree of Life Relic, ID: 16197)
+	      1 Relic (Tree of Life Diamond Relic, ID: 16900)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	Tier 1:
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	Tier 2:
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
 	Tier 3:
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
-	      1 Relic (Shamrock Relic, ID: 16156)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
+	      1 Relic (Shamrock Relic, ID: 16899)
 
 pf-fWorks
 Fireworks Show ()
@@ -4085,7 +4422,7 @@ SCOREBASED REWARDS:
 	Tier 3:
 	     40 Theonite
 	  34000 Canopy Coins
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 4:
 	     50 Theonite
 	  50000 Canopy Coins
@@ -4095,7 +4432,7 @@ SCOREBASED REWARDS:
 	Tier 6:
 	     70 Theonite
 	 114000 Canopy Coins
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 7:
 	     80 Theonite
 	 171000 Canopy Coins
@@ -4105,7 +4442,7 @@ SCOREBASED REWARDS:
 	Tier 9:
 	    100 Theonite
 	 384000 Canopy Coins
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 10:
 	    200 Elemental Shards (Fire)
 	    500 Relic Shards (Gold)
@@ -4114,31 +4451,31 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Fire)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Firecracker Diamond Relic, ID: 16107)
+	      1 Relic (Firecracker Diamond Relic, ID: 16872)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 1:
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 2:
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	Tier 3:
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 RANK REWARDS:
 	Tier 0:
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
-	      1 Relic (Revolutionary Relic, ID: 16106)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
+	      1 Relic (Revolutionary Relic (2023), ID: 16871)
 	      1 Key (Diamond)
 
 pf-hotPress
@@ -4203,11 +4540,11 @@ SCOREBASED REWARDS:
 	     10 Skill Points (Valentine)
 	     15 Theonite
 	  30000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 1:
 	      5 Skill Points (Beowulf)
 	      5 Skill Points (Big Band)
@@ -4218,7 +4555,7 @@ PERCENTILE REWARDS:
 	      5 Skill Points (Parasoul)
 	      5 Skill Points (Peacock)
 	      5 Skill Points (Valentine)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 2:
 	      1 Key (Gold)
 	      5 Skill Points (Beowulf)
@@ -4230,9 +4567,9 @@ PERCENTILE REWARDS:
 	      5 Skill Points (Parasoul)
 	      5 Skill Points (Peacock)
 	      5 Skill Points (Valentine)
-	      1 Relic (Jackpot Relic, ID: 16144)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Jackpot Relic, ID: 16918)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 3:
 	      2 Keys (Gold)
 	     10 Skill Points (Beowulf)
@@ -4244,9 +4581,9 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Parasoul)
 	     10 Skill Points (Peacock)
 	     10 Skill Points (Valentine)
-	      1 Relic (Newly Minted Relic, ID: 16145)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Newly Minted Relic, ID: 16919)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 RANK REWARDS:
 	Tier 0:
 	      3 Keys (Gold)
@@ -4259,10 +4596,10 @@ RANK REWARDS:
 	     20 Skill Points (Parasoul)
 	     20 Skill Points (Peacock)
 	     20 Skill Points (Valentine)
-	      1 Relic (Newly Minted Relic, ID: 16145)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Newly Minted Relic, ID: 16919)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 
 pf-inhotwater
 Sun of a Beach ()
@@ -4288,7 +4625,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4298,7 +4635,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4308,7 +4645,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4319,32 +4656,32 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Light)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Beach Day Diamond Relic, ID: 16206)
+	      1 Relic (Beach Day Diamond Relic, ID: 16980)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	Tier 1:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	Tier 2:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 	Tier 3:
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
-	      1 Relic (Summer Breeze Relic, ID: 16205)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
+	      1 Relic (Summer Breeze Relic (2023), ID: 16979)
 
 pf-newyears
 Beginnings & Ends ()
@@ -4376,7 +4713,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4386,7 +4723,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4396,7 +4733,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4413,32 +4750,32 @@ SCOREBASED REWARDS:
 	    100 Elemental Shards (Light)
 	    100 Elemental Shards (Air)
 	    250 Elemental Shards (Water)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Debutante Diamond Relic, ID: 16097)
+	      1 Relic (Debutante Diamond Relic, ID: 16896)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	Tier 1:
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	Tier 2:
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
 	Tier 3:
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
-	      1 Relic (High Resolution Relic, ID: 16096)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
+	      1 Relic (High Resolution Relic, ID: 16895)
 
 pf-xmas
 Season's Beatings ()
@@ -4476,7 +4813,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4486,7 +4823,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4496,7 +4833,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4514,36 +4851,36 @@ SCOREBASED REWARDS:
 	    300 Elemental Shards (Dark)
 	    250 Relic Shards (Diamond)
 	Tier 12:
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	    500 Elemental Shards (Water)
 	    500 Elemental Shards (Fire)
 	    500 Elemental Shards (Air)
 	    500 Elemental Shards (Light)
 	    500 Elemental Shards (Dark)
 	Tier 13:
-	      1 Relic (Frosted Diamond Relic, ID: 16121)
+	      1 Relic (Frosted Diamond Relic, ID: 16886)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	Tier 1:
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	Tier 2:
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	Tier 3:
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
 RANK REWARDS:
 	Tier 0:
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
-	      1 Relic (Ornamental Relic, ID: 16120)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
+	      1 Relic (Ornamental Relic, ID: 16885)
 	      1 Key (Diamond)
 
 pf-moves
@@ -4562,81 +4899,81 @@ minScore: 250000
 SCOREBASED REWARDS:
 	Tier 0:
 	   3000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 1:
 	   6000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 2:
 	   9000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 3:
 	  12000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 4:
 	  15000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 5:
 	  18000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 6:
 	  21000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 7:
 	  24000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 8:
 	  27000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 9:
 	  30000 Canopy Coins
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	      1 Universal Retake
 	      1 Universal Retake
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 1:
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	Tier 2:
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
 	      1 Universal Retake
 	Tier 3:
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Retake Relic, ID: 16101)
-	      1 Relic (Retake Relic, ID: 16101)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Retake Relic, ID: 16866)
+	      1 Relic (Retake Relic, ID: 16866)
 	      1 Universal Retake
 	      1 Universal Retake
 RANK REWARDS:
 	Tier 0:
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 15188},
+ 'character': {'m_FileID': 0, 'm_PathID': 15824},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -4645,7 +4982,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 16101},
+ 'reel': {'m_FileID': 0, 'm_PathID': 16866},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
@@ -4683,7 +5020,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4693,7 +5030,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4703,7 +5040,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4717,32 +5054,32 @@ SCOREBASED REWARDS:
 	Tier 12:
 	    250 Elemental Shards (Air)
 	    250 Elemental Shards (Dark)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Royal Flush Diamond Relic, ID: 16109)
+	      1 Relic (Royal Flush Diamond Relic, ID: 16874)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	Tier 1:
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	Tier 2:
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 	Tier 3:
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
-	      1 Relic (Showtime Relic, ID: 16108)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
+	      1 Relic (Showtime Relic (2023), ID: 16873)
 
 pf-springclean
 SPRING CLEANING ()
@@ -4768,7 +5105,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4778,7 +5115,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4788,7 +5125,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4802,32 +5139,32 @@ SCOREBASED REWARDS:
 	Tier 12:
 	    250 Elemental Shards (Water)
 	    250 Elemental Shards (Dark)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Sunshine Diamond Relic, ID: 16200)
+	      1 Relic (Sunshine Diamond Relic, ID: 16974)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	Tier 1:
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	Tier 2:
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 	Tier 3:
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
-	      1 Relic (Blossom Relic, ID: 16199)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
+	      1 Relic (Blossom Relic (2023), ID: 16973)
 
 pf-thanksgiving
 Combocopia ()
@@ -4861,7 +5198,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4871,7 +5208,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4881,7 +5218,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4894,32 +5231,32 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Light)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Dressed Up Diamond Relic, ID: 16119)
+	      1 Relic (Dressed Up Diamond Relic, ID: 16884)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	Tier 1:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	Tier 2:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 	Tier 3:
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
-	      1 Relic (Harvest Moon Relic, ID: 16118)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
+	      1 Relic (Harvest Moon Relic (2023), ID: 16883)
 
 pf-valDay
 Roses Are Red, Violence Is Due ()
@@ -4928,6 +5265,8 @@ PLAYER MODIFIERS:
 	While at an ELEMENTAL ADVANTAGE, 50.0% of damage inflicted when HITTING an opponent is regained as HEALTH.
 	SHE LOVES ME NOT
 	While at an ELEMENTAL DISADVANTAGE, 50.0% of damage inflicted when HITTING an opponent is reflected back.
+	BOX OF CHOCOLATES
+	[Valentine Fighters] Gain a random, 20.0 second BUFF on TAG IN.
 ENEMY MODIFIERS:
 minScore: 100000
 SCOREBASED REWARDS:
@@ -4941,7 +5280,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4951,7 +5290,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4961,7 +5300,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4972,32 +5311,32 @@ SCOREBASED REWARDS:
 	    250 Relic Shards (Diamond)
 	Tier 12:
 	    500 Elemental Shards (Fire)
-	      1 Relic (Legendary Relic, ID: 16161)
+	      1 Relic (Legendary Relic, ID: 16935)
 	Tier 13:
-	      1 Relic (Heartbreaker Relic, ID: 16196)
+	      1 Relic (Heartbreaker Diamond Relic, ID: 16898)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	Tier 1:
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	Tier 2:
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 	Tier 3:
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
-	      1 Relic (Lovestruck Relic, ID: 16165)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
+	      1 Relic (Lovestruck Relic, ID: 16897)
 
 pf-cradle-b
 A Head of the Game (Bronze)
@@ -5033,7 +5372,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Ms. Fortune)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Just Kitten)
 	  10000 Canopy Coins
@@ -5041,20 +5380,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, MsFortune)
 	Tier 1:
-	      1 Relic (SchrÃ¶dinger's Relic, ID: 16138)
+	      1 Relic (Schrödinger's Relic, ID: 16912)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, MsFortune)
 	      1 Key (Bronze)
 	      5 Skill Points (Ms. Fortune)
 	Tier 2:
-	      1 Relic (SchrÃ¶dinger's Relic, ID: 16138)
+	      1 Relic (Schrödinger's Relic, ID: 16912)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, MsFortune)
 	      1 Randomized (BB B, MsFortune)
 	      1 Key (Bronze)
 	      5 Skill Points (Ms. Fortune)
 	Tier 3:
-	      2 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      2 Relics (Schrödinger's Relic, ID: 16912)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, MsFortune)
 	      1 Randomized (BB B, MsFortune)
@@ -5062,7 +5401,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Ms. Fortune)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      3 Relics (Schrödinger's Relic, ID: 16912)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, MsFortune)
 	      1 Randomized (SM B, MsFortune)
@@ -5108,11 +5447,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Ms. Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Claw & Order)
 	  70000 Canopy Coins
@@ -5126,7 +5465,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, MsFortune)
 	     30 Skill Points (Ms. Fortune)
 	Tier 2:
-	      2 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      2 Relics (Schrödinger's Relic, ID: 16912)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
@@ -5134,7 +5473,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Ms. Fortune)
 	Tier 3:
-	      3 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      3 Relics (Schrödinger's Relic, ID: 16912)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
@@ -5143,7 +5482,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Ms. Fortune)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      4 Relics (Schrödinger's Relic, ID: 16912)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
@@ -5192,8 +5531,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Ms. Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Claw & Order)
 	  40000 Canopy Coins
@@ -5205,14 +5544,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, MsFortune)
 	     20 Skill Points (Ms. Fortune)
 	Tier 2:
-	      2 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      2 Relics (Schrödinger's Relic, ID: 16912)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
 	      1 Randomized (BB G, MsFortune)
 	      1 Key (Gold)
 	     20 Skill Points (Ms. Fortune)
 	Tier 3:
-	      3 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      3 Relics (Schrödinger's Relic, ID: 16912)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
 	      1 Randomized (BB G, MsFortune)
@@ -5220,7 +5559,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Ms. Fortune)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      4 Relics (Schrödinger's Relic, ID: 16912)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
 	      1 Randomized (SM G, MsFortune)
@@ -5268,7 +5607,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Ms. Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Feline Lucky)
 	  20000 Canopy Coins
@@ -5276,19 +5615,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, MsFortune)
 	Tier 1:
-	      1 Relic (SchrÃ¶dinger's Relic, ID: 16138)
+	      1 Relic (Schrödinger's Relic, ID: 16912)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, MsFortune)
 	     10 Skill Points (Ms. Fortune)
 	Tier 2:
-	      1 Relic (SchrÃ¶dinger's Relic, ID: 16138)
+	      1 Relic (Schrödinger's Relic, ID: 16912)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, MsFortune)
 	      1 Randomized (BB S, MsFortune)
 	      1 Key (Silver)
 	     10 Skill Points (Ms. Fortune)
 	Tier 3:
-	      2 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      2 Relics (Schrödinger's Relic, ID: 16912)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, MsFortune)
 	      1 Randomized (BB S, MsFortune)
@@ -5296,7 +5635,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Ms. Fortune)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (SchrÃ¶dinger's Relic, ID: 16138)
+	      3 Relics (Schrödinger's Relic, ID: 16912)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, MsFortune)
 	      1 Randomized (SM S, MsFortune)
@@ -5338,7 +5677,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Painwheel)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Rusty)
 	  10000 Canopy Coins
@@ -5346,20 +5685,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Painwheel)
 	Tier 1:
-	      1 Relic (Tortured Relic, ID: 16132)
+	      1 Relic (Tortured Relic, ID: 16906)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Painwheel)
 	      1 Key (Bronze)
 	      5 Skill Points (Painwheel)
 	Tier 2:
-	      1 Relic (Tortured Relic, ID: 16132)
+	      1 Relic (Tortured Relic, ID: 16906)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Painwheel)
 	      1 Randomized (BB B, Painwheel)
 	      1 Key (Bronze)
 	      5 Skill Points (Painwheel)
 	Tier 3:
-	      2 Relics (Tortured Relic, ID: 16132)
+	      2 Relics (Tortured Relic, ID: 16906)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Painwheel)
 	      1 Randomized (BB B, Painwheel)
@@ -5367,7 +5706,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Painwheel)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Tortured Relic, ID: 16132)
+	      3 Relics (Tortured Relic, ID: 16906)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Painwheel)
 	      1 Randomized (SM B, Painwheel)
@@ -5413,11 +5752,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Painwheel)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Raw Nerv)
 	  70000 Canopy Coins
@@ -5431,7 +5770,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Painwheel)
 	     30 Skill Points (Painwheel)
 	Tier 2:
-	      2 Relics (Tortured Relic, ID: 16132)
+	      2 Relics (Tortured Relic, ID: 16906)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
@@ -5439,7 +5778,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Painwheel)
 	Tier 3:
-	      3 Relics (Tortured Relic, ID: 16132)
+	      3 Relics (Tortured Relic, ID: 16906)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
@@ -5448,7 +5787,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Painwheel)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Tortured Relic, ID: 16132)
+	      4 Relics (Tortured Relic, ID: 16906)
 	 315000 Canopy Coins
 	   1000 Relic Shards (Gold)
 	      1 Randomized (SM G, Painwheel)
@@ -5495,8 +5834,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Painwheel)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Raw Nerv)
 	  40000 Canopy Coins
@@ -5508,14 +5847,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Painwheel)
 	     20 Skill Points (Painwheel)
 	Tier 2:
-	      2 Relics (Tortured Relic, ID: 16132)
+	      2 Relics (Tortured Relic, ID: 16906)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
 	      1 Randomized (BB G, Painwheel)
 	      1 Key (Gold)
 	     20 Skill Points (Painwheel)
 	Tier 3:
-	      3 Relics (Tortured Relic, ID: 16132)
+	      3 Relics (Tortured Relic, ID: 16906)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
 	      1 Randomized (BB G, Painwheel)
@@ -5523,7 +5862,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Painwheel)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Tortured Relic, ID: 16132)
+	      4 Relics (Tortured Relic, ID: 16906)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
 	      1 Randomized (SM G, Painwheel)
@@ -5569,7 +5908,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Painwheel)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Rage Appropriate)
 	  20000 Canopy Coins
@@ -5577,19 +5916,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Painwheel)
 	Tier 1:
-	      1 Relic (Tortured Relic, ID: 16132)
+	      1 Relic (Tortured Relic, ID: 16906)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Painwheel)
 	     10 Skill Points (Painwheel)
 	Tier 2:
-	      1 Relic (Tortured Relic, ID: 16132)
+	      1 Relic (Tortured Relic, ID: 16906)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Painwheel)
 	      1 Randomized (BB S, Painwheel)
 	      1 Key (Silver)
 	     10 Skill Points (Painwheel)
 	Tier 3:
-	      2 Relics (Tortured Relic, ID: 16132)
+	      2 Relics (Tortured Relic, ID: 16906)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Painwheel)
 	      1 Randomized (BB S, Painwheel)
@@ -5597,7 +5936,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Painwheel)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Tortured Relic, ID: 16132)
+	      3 Relics (Tortured Relic, ID: 16906)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Painwheel)
 	      1 Randomized (SM S, Painwheel)
@@ -5639,7 +5978,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Parasoul)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Sheltered)
 	  10000 Canopy Coins
@@ -5647,20 +5986,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Parasoul)
 	Tier 1:
-	      1 Relic (Royalty Relic, ID: 16136)
+	      1 Relic (Royalty Relic, ID: 16910)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Parasoul)
 	      1 Key (Bronze)
 	      5 Skill Points (Parasoul)
 	Tier 2:
-	      1 Relic (Royalty Relic, ID: 16136)
+	      1 Relic (Royalty Relic, ID: 16910)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Parasoul)
 	      1 Randomized (BB B, Parasoul)
 	      1 Key (Bronze)
 	      5 Skill Points (Parasoul)
 	Tier 3:
-	      2 Relics (Royalty Relic, ID: 16136)
+	      2 Relics (Royalty Relic, ID: 16910)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Parasoul)
 	      1 Randomized (BB B, Parasoul)
@@ -5668,7 +6007,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Parasoul)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Royalty Relic, ID: 16136)
+	      3 Relics (Royalty Relic, ID: 16910)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Parasoul)
 	      1 Randomized (SM B, Parasoul)
@@ -5716,11 +6055,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Parasoul)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Primed)
 	  70000 Canopy Coins
@@ -5734,7 +6073,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Parasoul)
 	     30 Skill Points (Parasoul)
 	Tier 2:
-	      2 Relics (Royalty Relic, ID: 16136)
+	      2 Relics (Royalty Relic, ID: 16910)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
@@ -5742,7 +6081,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Parasoul)
 	Tier 3:
-	      3 Relics (Royalty Relic, ID: 16136)
+	      3 Relics (Royalty Relic, ID: 16910)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
@@ -5751,7 +6090,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Parasoul)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Royalty Relic, ID: 16136)
+	      4 Relics (Royalty Relic, ID: 16910)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
@@ -5798,8 +6137,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Parasoul)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Primed)
 	  40000 Canopy Coins
@@ -5811,14 +6150,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Parasoul)
 	     20 Skill Points (Parasoul)
 	Tier 2:
-	      2 Relics (Royalty Relic, ID: 16136)
+	      2 Relics (Royalty Relic, ID: 16910)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
 	      1 Randomized (BB G, Parasoul)
 	      1 Key (Gold)
 	     20 Skill Points (Parasoul)
 	Tier 3:
-	      3 Relics (Royalty Relic, ID: 16136)
+	      3 Relics (Royalty Relic, ID: 16910)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
 	      1 Randomized (BB G, Parasoul)
@@ -5826,7 +6165,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Parasoul)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Royalty Relic, ID: 16136)
+	      4 Relics (Royalty Relic, ID: 16910)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
 	      1 Randomized (SM G, Parasoul)
@@ -5872,7 +6211,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Parasoul)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Ivy League)
 	  20000 Canopy Coins
@@ -5880,19 +6219,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Parasoul)
 	Tier 1:
-	      1 Relic (Royalty Relic, ID: 16136)
+	      1 Relic (Royalty Relic, ID: 16910)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Parasoul)
 	     10 Skill Points (Parasoul)
 	Tier 2:
-	      1 Relic (Royalty Relic, ID: 16136)
+	      1 Relic (Royalty Relic, ID: 16910)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Parasoul)
 	      1 Randomized (BB S, Parasoul)
 	      1 Key (Silver)
 	     10 Skill Points (Parasoul)
 	Tier 3:
-	      2 Relics (Royalty Relic, ID: 16136)
+	      2 Relics (Royalty Relic, ID: 16910)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Parasoul)
 	      1 Randomized (BB S, Parasoul)
@@ -5900,7 +6239,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Parasoul)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Royalty Relic, ID: 16136)
+	      3 Relics (Royalty Relic, ID: 16910)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Parasoul)
 	      1 Randomized (SM S, Parasoul)
@@ -5942,7 +6281,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Peacock)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Rerun)
 	  10000 Canopy Coins
@@ -5950,20 +6289,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Peacock)
 	Tier 1:
-	      1 Relic (Hand-Drawn Relic, ID: 16133)
+	      1 Relic (Hand-Drawn Relic, ID: 16907)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Peacock)
 	      1 Key (Bronze)
 	      5 Skill Points (Peacock)
 	Tier 2:
-	      1 Relic (Hand-Drawn Relic, ID: 16133)
+	      1 Relic (Hand-Drawn Relic, ID: 16907)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Peacock)
 	      1 Randomized (BB B, Peacock)
 	      1 Key (Bronze)
 	      5 Skill Points (Peacock)
 	Tier 3:
-	      2 Relics (Hand-Drawn Relic, ID: 16133)
+	      2 Relics (Hand-Drawn Relic, ID: 16907)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Peacock)
 	      1 Randomized (BB B, Peacock)
@@ -5971,7 +6310,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Peacock)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hand-Drawn Relic, ID: 16133)
+	      3 Relics (Hand-Drawn Relic, ID: 16907)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Peacock)
 	      1 Randomized (SM B, Peacock)
@@ -6017,11 +6356,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Peacock)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Untouchable)
 	  70000 Canopy Coins
@@ -6035,7 +6374,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Peacock)
 	     30 Skill Points (Peacock)
 	Tier 2:
-	      2 Relics (Hand-Drawn Relic, ID: 16133)
+	      2 Relics (Hand-Drawn Relic, ID: 16907)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
@@ -6043,7 +6382,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Peacock)
 	Tier 3:
-	      3 Relics (Hand-Drawn Relic, ID: 16133)
+	      3 Relics (Hand-Drawn Relic, ID: 16907)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
@@ -6052,7 +6391,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Peacock)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hand-Drawn Relic, ID: 16133)
+	      4 Relics (Hand-Drawn Relic, ID: 16907)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
@@ -6099,8 +6438,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Peacock)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Untouchable)
 	  40000 Canopy Coins
@@ -6112,14 +6451,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Peacock)
 	     20 Skill Points (Peacock)
 	Tier 2:
-	      2 Relics (Hand-Drawn Relic, ID: 16133)
+	      2 Relics (Hand-Drawn Relic, ID: 16907)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
 	      1 Randomized (BB G, Peacock)
 	      1 Key (Gold)
 	     20 Skill Points (Peacock)
 	Tier 3:
-	      3 Relics (Hand-Drawn Relic, ID: 16133)
+	      3 Relics (Hand-Drawn Relic, ID: 16907)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
 	      1 Randomized (BB G, Peacock)
@@ -6127,7 +6466,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Peacock)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hand-Drawn Relic, ID: 16133)
+	      4 Relics (Hand-Drawn Relic, ID: 16907)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
 	      1 Randomized (SM G, Peacock)
@@ -6173,7 +6512,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Peacock)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Pea Shooter)
 	  20000 Canopy Coins
@@ -6181,19 +6520,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Peacock)
 	Tier 1:
-	      1 Relic (Hand-Drawn Relic, ID: 16133)
+	      1 Relic (Hand-Drawn Relic, ID: 16907)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Peacock)
 	     10 Skill Points (Peacock)
 	Tier 2:
-	      1 Relic (Hand-Drawn Relic, ID: 16133)
+	      1 Relic (Hand-Drawn Relic, ID: 16907)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Peacock)
 	      1 Randomized (BB S, Peacock)
 	      1 Key (Silver)
 	     10 Skill Points (Peacock)
 	Tier 3:
-	      2 Relics (Hand-Drawn Relic, ID: 16133)
+	      2 Relics (Hand-Drawn Relic, ID: 16907)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Peacock)
 	      1 Randomized (BB S, Peacock)
@@ -6201,7 +6540,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Peacock)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hand-Drawn Relic, ID: 16133)
+	      3 Relics (Hand-Drawn Relic, ID: 16907)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Peacock)
 	      1 Randomized (SM S, Peacock)
@@ -6243,7 +6582,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Robo-Fortune)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Prototype)
 	  10000 Canopy Coins
@@ -6251,20 +6590,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, RoboFortune)
 	Tier 1:
-	      1 Relic (Random-Access Relic, ID: 16157)
+	      1 Relic (Random-Access Relic, ID: 16931)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, RoboFortune)
 	      1 Key (Bronze)
 	      5 Skill Points (Robo-Fortune)
 	Tier 2:
-	      1 Relic (Random-Access Relic, ID: 16157)
+	      1 Relic (Random-Access Relic, ID: 16931)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, RoboFortune)
 	      1 Randomized (BB B, RoboFortune)
 	      1 Key (Bronze)
 	      5 Skill Points (Robo-Fortune)
 	Tier 3:
-	      2 Relics (Random-Access Relic, ID: 16157)
+	      2 Relics (Random-Access Relic, ID: 16931)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, RoboFortune)
 	      1 Randomized (BB B, RoboFortune)
@@ -6272,7 +6611,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Robo-Fortune)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Random-Access Relic, ID: 16157)
+	      3 Relics (Random-Access Relic, ID: 16931)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, RoboFortune)
 	      1 Randomized (SM B, RoboFortune)
@@ -6320,11 +6659,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Robo-Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Blue Screen)
 	  70000 Canopy Coins
@@ -6338,7 +6677,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, RoboFortune)
 	     30 Skill Points (Robo-Fortune)
 	Tier 2:
-	      2 Relics (Random-Access Relic, ID: 16157)
+	      2 Relics (Random-Access Relic, ID: 16931)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
@@ -6346,7 +6685,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Robo-Fortune)
 	Tier 3:
-	      3 Relics (Random-Access Relic, ID: 16157)
+	      3 Relics (Random-Access Relic, ID: 16931)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
@@ -6355,7 +6694,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Robo-Fortune)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Random-Access Relic, ID: 16157)
+	      4 Relics (Random-Access Relic, ID: 16931)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
@@ -6404,8 +6743,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Robo-Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Blue Screen)
 	  40000 Canopy Coins
@@ -6417,14 +6756,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, RoboFortune)
 	     20 Skill Points (Robo-Fortune)
 	Tier 2:
-	      2 Relics (Random-Access Relic, ID: 16157)
+	      2 Relics (Random-Access Relic, ID: 16931)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (BB G, RoboFortune)
 	      1 Key (Gold)
 	     20 Skill Points (Robo-Fortune)
 	Tier 3:
-	      3 Relics (Random-Access Relic, ID: 16157)
+	      3 Relics (Random-Access Relic, ID: 16931)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (BB G, RoboFortune)
@@ -6432,7 +6771,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Robo-Fortune)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Random-Access Relic, ID: 16157)
+	      4 Relics (Random-Access Relic, ID: 16931)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (SM G, RoboFortune)
@@ -6478,7 +6817,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Robo-Fortune)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Nyanotech)
 	  20000 Canopy Coins
@@ -6486,19 +6825,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, RoboFortune)
 	Tier 1:
-	      1 Relic (Random-Access Relic, ID: 16157)
+	      1 Relic (Random-Access Relic, ID: 16931)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, RoboFortune)
 	     10 Skill Points (Robo-Fortune)
 	Tier 2:
-	      1 Relic (Random-Access Relic, ID: 16157)
+	      1 Relic (Random-Access Relic, ID: 16931)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, RoboFortune)
 	      1 Randomized (BB S, RoboFortune)
 	      1 Key (Silver)
 	     10 Skill Points (Robo-Fortune)
 	Tier 3:
-	      2 Relics (Random-Access Relic, ID: 16157)
+	      2 Relics (Random-Access Relic, ID: 16931)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, RoboFortune)
 	      1 Randomized (BB S, RoboFortune)
@@ -6506,7 +6845,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Robo-Fortune)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Random-Access Relic, ID: 16157)
+	      3 Relics (Random-Access Relic, ID: 16931)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, RoboFortune)
 	      1 Randomized (SM S, RoboFortune)
@@ -6548,7 +6887,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Squigly)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Stage Fright)
 	  10000 Canopy Coins
@@ -6556,20 +6895,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Squigly)
 	Tier 1:
-	      1 Relic (Reanimated Relic, ID: 16147)
+	      1 Relic (Reanimated Relic, ID: 16921)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Squigly)
 	      1 Key (Bronze)
 	      5 Skill Points (Squigly)
 	Tier 2:
-	      1 Relic (Reanimated Relic, ID: 16147)
+	      1 Relic (Reanimated Relic, ID: 16921)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Squigly)
 	      1 Randomized (BB B, Squigly)
 	      1 Key (Bronze)
 	      5 Skill Points (Squigly)
 	Tier 3:
-	      2 Relics (Reanimated Relic, ID: 16147)
+	      2 Relics (Reanimated Relic, ID: 16921)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Squigly)
 	      1 Randomized (BB B, Squigly)
@@ -6577,7 +6916,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Squigly)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Reanimated Relic, ID: 16147)
+	      3 Relics (Reanimated Relic, ID: 16921)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Squigly)
 	      1 Randomized (SM B, Squigly)
@@ -6623,11 +6962,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Squigly)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Poltergust)
 	  70000 Canopy Coins
@@ -6641,7 +6980,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Squigly)
 	     30 Skill Points (Squigly)
 	Tier 2:
-	      2 Relics (Reanimated Relic, ID: 16147)
+	      2 Relics (Reanimated Relic, ID: 16921)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
@@ -6649,7 +6988,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Squigly)
 	Tier 3:
-	      3 Relics (Reanimated Relic, ID: 16147)
+	      3 Relics (Reanimated Relic, ID: 16921)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
@@ -6658,7 +6997,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Squigly)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Reanimated Relic, ID: 16147)
+	      4 Relics (Reanimated Relic, ID: 16921)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
@@ -6705,8 +7044,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Squigly)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Poltergust)
 	  40000 Canopy Coins
@@ -6718,14 +7057,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Squigly)
 	     20 Skill Points (Squigly)
 	Tier 2:
-	      2 Relics (Reanimated Relic, ID: 16147)
+	      2 Relics (Reanimated Relic, ID: 16921)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
 	      1 Randomized (BB G, Squigly)
 	      1 Key (Gold)
 	     20 Skill Points (Squigly)
 	Tier 3:
-	      3 Relics (Reanimated Relic, ID: 16147)
+	      3 Relics (Reanimated Relic, ID: 16921)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
 	      1 Randomized (BB G, Squigly)
@@ -6733,7 +7072,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Squigly)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Reanimated Relic, ID: 16147)
+	      4 Relics (Reanimated Relic, ID: 16921)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
 	      1 Randomized (SM G, Squigly)
@@ -6779,7 +7118,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Squigly)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Nearly Departed)
 	  20000 Canopy Coins
@@ -6787,19 +7126,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Squigly)
 	Tier 1:
-	      1 Relic (Reanimated Relic, ID: 16147)
+	      1 Relic (Reanimated Relic, ID: 16921)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Squigly)
 	     10 Skill Points (Squigly)
 	Tier 2:
-	      1 Relic (Reanimated Relic, ID: 16147)
+	      1 Relic (Reanimated Relic, ID: 16921)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Squigly)
 	      1 Randomized (BB S, Squigly)
 	      1 Key (Silver)
 	     10 Skill Points (Squigly)
 	Tier 3:
-	      2 Relics (Reanimated Relic, ID: 16147)
+	      2 Relics (Reanimated Relic, ID: 16921)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Squigly)
 	      1 Randomized (BB S, Squigly)
@@ -6807,7 +7146,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Squigly)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Reanimated Relic, ID: 16147)
+	      3 Relics (Reanimated Relic, ID: 16921)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Squigly)
 	      1 Randomized (SM S, Squigly)
@@ -6849,7 +7188,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Umbrella)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Salty)
 	  10000 Canopy Coins
@@ -6857,20 +7196,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Umbrella)
 	Tier 1:
-	      1 Relic (Hangry Relic, ID: 16202)
+	      1 Relic (Hangry Relic, ID: 16976)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Umbrella)
 	      1 Key (Bronze)
 	      5 Skill Points (Umbrella)
 	Tier 2:
-	      1 Relic (Hangry Relic, ID: 16202)
+	      1 Relic (Hangry Relic, ID: 16976)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Umbrella)
 	      1 Randomized (BB B, Umbrella)
 	      1 Key (Bronze)
 	      5 Skill Points (Umbrella)
 	Tier 3:
-	      2 Relics (Hangry Relic, ID: 16202)
+	      2 Relics (Hangry Relic, ID: 16976)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Umbrella)
 	      1 Randomized (BB B, Umbrella)
@@ -6878,7 +7217,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Umbrella)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hangry Relic, ID: 16202)
+	      3 Relics (Hangry Relic, ID: 16976)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Umbrella)
 	      1 Randomized (SM B, Umbrella)
@@ -6926,11 +7265,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Umbrella)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Wunderkind)
 	  70000 Canopy Coins
@@ -6944,7 +7283,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Umbrella)
 	     30 Skill Points (Umbrella)
 	Tier 2:
-	      2 Relics (Hangry Relic, ID: 16202)
+	      2 Relics (Hangry Relic, ID: 16976)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
@@ -6952,7 +7291,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Umbrella)
 	Tier 3:
-	      3 Relics (Hangry Relic, ID: 16202)
+	      3 Relics (Hangry Relic, ID: 16976)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
@@ -6961,7 +7300,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Umbrella)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hangry Relic, ID: 16202)
+	      4 Relics (Hangry Relic, ID: 16976)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
@@ -7008,8 +7347,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Umbrella)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Wunderkind)
 	  40000 Canopy Coins
@@ -7021,14 +7360,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Umbrella)
 	     20 Skill Points (Umbrella)
 	Tier 2:
-	      2 Relics (Hangry Relic, ID: 16202)
+	      2 Relics (Hangry Relic, ID: 16976)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (BB G, Umbrella)
 	      1 Key (Gold)
 	     20 Skill Points (Umbrella)
 	Tier 3:
-	      3 Relics (Hangry Relic, ID: 16202)
+	      3 Relics (Hangry Relic, ID: 16976)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (BB G, Umbrella)
@@ -7036,7 +7375,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Umbrella)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Hangry Relic, ID: 16202)
+	      4 Relics (Hangry Relic, ID: 16976)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (SM G, Umbrella)
@@ -7082,7 +7421,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Umbrella)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Puddle Pirate)
 	  20000 Canopy Coins
@@ -7090,19 +7429,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Umbrella)
 	Tier 1:
-	      1 Relic (Hangry Relic, ID: 16202)
+	      1 Relic (Hangry Relic, ID: 16976)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Umbrella)
 	     10 Skill Points (Umbrella)
 	Tier 2:
-	      1 Relic (Hangry Relic, ID: 16202)
+	      1 Relic (Hangry Relic, ID: 16976)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Umbrella)
 	      1 Randomized (BB S, Umbrella)
 	      1 Key (Silver)
 	     10 Skill Points (Umbrella)
 	Tier 3:
-	      2 Relics (Hangry Relic, ID: 16202)
+	      2 Relics (Hangry Relic, ID: 16976)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Umbrella)
 	      1 Randomized (BB S, Umbrella)
@@ -7110,7 +7449,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Umbrella)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Hangry Relic, ID: 16202)
+	      3 Relics (Hangry Relic, ID: 16976)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Umbrella)
 	      1 Randomized (SM S, Umbrella)
@@ -7152,7 +7491,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Valentine)
-	      1 Relic (Silver Move Relic, ID: 16142)
+	      1 Relic (Silver Move Relic, ID: 16916)
 	Tier 10:
 	      1 Fighter (Scrub)
 	  10000 Canopy Coins
@@ -7160,20 +7499,20 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM B, Valentine)
 	Tier 1:
-	      1 Relic (Surgical Relic, ID: 16131)
+	      1 Relic (Surgical Relic, ID: 16905)
 	  15000 Canopy Coins
 	      1 Randomized (SM B, Valentine)
 	      1 Key (Bronze)
 	      5 Skill Points (Valentine)
 	Tier 2:
-	      1 Relic (Surgical Relic, ID: 16131)
+	      1 Relic (Surgical Relic, ID: 16905)
 	  25000 Canopy Coins
 	      1 Randomized (SM B, Valentine)
 	      1 Randomized (BB B, Valentine)
 	      1 Key (Bronze)
 	      5 Skill Points (Valentine)
 	Tier 3:
-	      2 Relics (Surgical Relic, ID: 16131)
+	      2 Relics (Surgical Relic, ID: 16905)
 	  35000 Canopy Coins
 	      1 Randomized (SM B, Valentine)
 	      1 Randomized (BB B, Valentine)
@@ -7181,7 +7520,7 @@ PERCENTILE REWARDS:
 	     10 Skill Points (Valentine)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Surgical Relic, ID: 16131)
+	      3 Relics (Surgical Relic, ID: 16905)
 	  45000 Canopy Coins
 	      1 Randomized (SM B, Valentine)
 	      1 Randomized (SM B, Valentine)
@@ -7229,11 +7568,11 @@ SCOREBASED REWARDS:
 	     25 Theonite
 	  60000 Canopy Coins
 	     60 Skill Points (Valentine)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Silent Kill)
 	  70000 Canopy Coins
@@ -7247,7 +7586,7 @@ PERCENTILE REWARDS:
 	      1 Randomized (BB G, Valentine)
 	     30 Skill Points (Valentine)
 	Tier 2:
-	      2 Relics (Surgical Relic, ID: 16131)
+	      2 Relics (Surgical Relic, ID: 16905)
 	    500 Relic Shards (Gold)
 	 175000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
@@ -7255,7 +7594,7 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	     30 Skill Points (Valentine)
 	Tier 3:
-	      3 Relics (Surgical Relic, ID: 16131)
+	      3 Relics (Surgical Relic, ID: 16905)
 	    750 Relic Shards (Gold)
 	 245000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
@@ -7264,7 +7603,7 @@ PERCENTILE REWARDS:
 	     60 Skill Points (Valentine)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Surgical Relic, ID: 16131)
+	      4 Relics (Surgical Relic, ID: 16905)
 	   1000 Relic Shards (Gold)
 	 315000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
@@ -7311,8 +7650,8 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  30000 Canopy Coins
 	     40 Skill Points (Valentine)
-	      1 Relic (Gold Move Relic, ID: 16143)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Silent Kill)
 	  40000 Canopy Coins
@@ -7324,14 +7663,14 @@ PERCENTILE REWARDS:
 	      1 Randomized (SM G, Valentine)
 	     20 Skill Points (Valentine)
 	Tier 2:
-	      2 Relics (Surgical Relic, ID: 16131)
+	      2 Relics (Surgical Relic, ID: 16905)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
 	      1 Randomized (BB G, Valentine)
 	      1 Key (Gold)
 	     20 Skill Points (Valentine)
 	Tier 3:
-	      3 Relics (Surgical Relic, ID: 16131)
+	      3 Relics (Surgical Relic, ID: 16905)
 	 140000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
 	      1 Randomized (BB G, Valentine)
@@ -7339,7 +7678,7 @@ PERCENTILE REWARDS:
 	     40 Skill Points (Valentine)
 RANK REWARDS:
 	Tier 0:
-	      4 Relics (Surgical Relic, ID: 16131)
+	      4 Relics (Surgical Relic, ID: 16905)
 	 180000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
 	      1 Randomized (SM G, Valentine)
@@ -7385,7 +7724,7 @@ SCOREBASED REWARDS:
 	     15 Theonite
 	  15000 Canopy Coins
 	     20 Skill Points (Valentine)
-	      1 Relic (Gold Move Relic, ID: 16143)
+	      1 Relic (Gold Move Relic, ID: 16917)
 	Tier 10:
 	      1 Fighter (Graveyard Shift)
 	  20000 Canopy Coins
@@ -7393,19 +7732,19 @@ PERCENTILE REWARDS:
 	Tier 0:
 	      1 Randomized (SM S, Valentine)
 	Tier 1:
-	      1 Relic (Surgical Relic, ID: 16131)
+	      1 Relic (Surgical Relic, ID: 16905)
 	  30000 Canopy Coins
 	      1 Randomized (SM S, Valentine)
 	     10 Skill Points (Valentine)
 	Tier 2:
-	      1 Relic (Surgical Relic, ID: 16131)
+	      1 Relic (Surgical Relic, ID: 16905)
 	  50000 Canopy Coins
 	      1 Randomized (SM S, Valentine)
 	      1 Randomized (BB S, Valentine)
 	      1 Key (Silver)
 	     10 Skill Points (Valentine)
 	Tier 3:
-	      2 Relics (Surgical Relic, ID: 16131)
+	      2 Relics (Surgical Relic, ID: 16905)
 	  70000 Canopy Coins
 	      1 Randomized (SM S, Valentine)
 	      1 Randomized (BB S, Valentine)
@@ -7413,7 +7752,7 @@ PERCENTILE REWARDS:
 	     20 Skill Points (Valentine)
 RANK REWARDS:
 	Tier 0:
-	      3 Relics (Surgical Relic, ID: 16131)
+	      3 Relics (Surgical Relic, ID: 16905)
 	  90000 Canopy Coins
 	      1 Randomized (SM S, Valentine)
 	      1 Randomized (SM S, Valentine)
