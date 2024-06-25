@@ -107,12 +107,13 @@ LootTableSet_Char_Cerebella_Var_D
 		Total Weight: 2
 LootTableSet_Char_Cerebella_Var_G
 	 LootTable_Char_Cerebella_Var_G
-		20.00%	      1 Fighter (Armed Forces)
-		20.00%	      1 Fighter (Brain Freeze)
-		20.00%	      1 Fighter (Harlequin)
-		20.00%	      1 Fighter (Criminal Mind)
-		20.00%	      1 Fighter (Blitz & Glamour)
-		Total Weight: 5
+		16.67%	      1 Fighter (Armed Forces)
+		16.67%	      1 Fighter (Brain Freeze)
+		16.67%	      1 Fighter (Harlequin)
+		16.67%	      1 Fighter (Criminal Mind)
+		16.67%	      1 Fighter (Blitz & Glamour)
+		16.67%	      1 Fighter (Scare Giver)
+		Total Weight: 6
 LootTableSet_Char_Cerebella_Var_S
 	 LootTable_Char_Cerebella_Var_S
 		33.33%	      1 Fighter (Big Top)
@@ -174,20 +175,21 @@ LootTableSet_Element_Air
 			7.14%	      1 Fighter (Snake Charmer)
 			Subtotal Weight: 14
 		3.50%	      1 Randomized (Character G, Air)
-			7.69%	      1 Fighter (G.I. Jazz)
-			7.69%	      1 Fighter (Armed Forces)
-			7.69%	      1 Fighter (Windswept)
-			7.69%	      1 Fighter (Buzzkill)
-			7.69%	      1 Fighter (Star-Crossed)
-			7.69%	      1 Fighter (Surgeon General)
-			7.69%	      1 Fighter (Poltergust)
-			7.69%	      1 Fighter (Claw & Order)
-			7.69%	      1 Fighter (Evergreen Evil)
-			7.69%	      1 Fighter (Vaporwave Vixen)
-			7.69%	      1 Fighter (Timeless Hero)
-			7.69%	      1 Fighter (Martial Outlaw)
-			7.69%	      1 Fighter (Gust Buster)
-			Subtotal Weight: 13
+			7.14%	      1 Fighter (G.I. Jazz)
+			7.14%	      1 Fighter (Armed Forces)
+			7.14%	      1 Fighter (Windswept)
+			7.14%	      1 Fighter (Buzzkill)
+			7.14%	      1 Fighter (Star-Crossed)
+			7.14%	      1 Fighter (Surgeon General)
+			7.14%	      1 Fighter (Poltergust)
+			7.14%	      1 Fighter (Claw & Order)
+			7.14%	      1 Fighter (Evergreen Evil)
+			7.14%	      1 Fighter (Vaporwave Vixen)
+			7.14%	      1 Fighter (Timeless Hero)
+			7.14%	      1 Fighter (Martial Outlaw)
+			7.14%	      1 Fighter (Gust Buster)
+			7.14%	      1 Fighter (Primal Prodigy)
+			Subtotal Weight: 14
 		0.50%	      1 Randomized (Character D, Air)
 			16.67%	      1 Fighter (Stand Out)
 			16.67%	      1 Fighter (Fly Trap)
@@ -273,36 +275,38 @@ LootTableSet_Element_Dark
 			9.09%	      1 Fighter (Wild Child)
 			Subtotal Weight: 11
 		3.50%	      1 Randomized (Character G, Dark)
-			5.88%	      1 Fighter (Wulfsbane)
-			5.88%	      1 Fighter (Megasonic)
-			5.88%	      1 Fighter (Xenomorph)
-			5.88%	      1 Fighter (Bloodbath)
-			5.88%	      1 Fighter (Raw Nerv)
-			5.88%	      1 Fighter (Primed)
-			5.88%	      1 Fighter (Ultraviolent)
-			5.88%	      1 Fighter (Bio-Exorcist)
-			5.88%	      1 Fighter (Terror Byte)
-			5.88%	      1 Fighter (Rogue Agent)
-			5.88%	      1 Fighter (Criminal Mind)
-			5.88%	      1 Fighter (Night Terror)
-			5.88%	      1 Fighter (Moonstruck)
-			5.88%	      1 Fighter (Space Case)
-			5.88%	      1 Fighter (Unfazed)
-			5.88%	      1 Fighter (Dark Horse)
-			5.88%	      1 Fighter (Final Fang)
-			Subtotal Weight: 17
+			5.56%	      1 Fighter (Wulfsbane)
+			5.56%	      1 Fighter (Megasonic)
+			5.56%	      1 Fighter (Xenomorph)
+			5.56%	      1 Fighter (Bloodbath)
+			5.56%	      1 Fighter (Raw Nerv)
+			5.56%	      1 Fighter (Primed)
+			5.56%	      1 Fighter (Ultraviolent)
+			5.56%	      1 Fighter (Bio-Exorcist)
+			5.56%	      1 Fighter (Terror Byte)
+			5.56%	      1 Fighter (Rogue Agent)
+			5.56%	      1 Fighter (Criminal Mind)
+			5.56%	      1 Fighter (Night Terror)
+			5.56%	      1 Fighter (Moonstruck)
+			5.56%	      1 Fighter (Space Case)
+			5.56%	      1 Fighter (Unfazed)
+			5.56%	      1 Fighter (Dark Horse)
+			5.56%	      1 Fighter (Final Fang)
+			5.56%	      1 Fighter (Scare Giver)
+			Subtotal Weight: 18
 		0.50%	      1 Randomized (Character D, Dark)
-			10.00%	      1 Fighter (Dark Might)
-			10.00%	      1 Fighter (Class Cutter)
-			10.00%	      1 Fighter (Love Crafted)
-			10.00%	      1 Fighter (Heart of Darkness)
-			10.00%	      1 Fighter (Neuromancer)
-			10.00%	      1 Fighter (Trï¿½s Chic)
-			10.00%	      1 Fighter (Shadow Puppet)
-			10.00%	      1 Fighter (Unholy Host)
-			10.00%	      1 Fighter (Death Wish)
-			10.00%	      1 Fighter (Heartless)
-			Subtotal Weight: 10
+			9.09%	      1 Fighter (Dark Might)
+			9.09%	      1 Fighter (Class Cutter)
+			9.09%	      1 Fighter (Love Crafted)
+			9.09%	      1 Fighter (Heart of Darkness)
+			9.09%	      1 Fighter (Neuromancer)
+			9.09%	      1 Fighter (Très Chic)
+			9.09%	      1 Fighter (Shadow Puppet)
+			9.09%	      1 Fighter (Unholy Host)
+			9.09%	      1 Fighter (Death Wish)
+			9.09%	      1 Fighter (Heartless)
+			9.09%	      1 Fighter (Foot Soldier)
+			Subtotal Weight: 11
 		Total Weight: 200
 	 LootTable_Element_Dark_Essence
 		75.00%	     25 Elemental Shards (Dark)
@@ -472,15 +476,16 @@ LootTableSet_Element_Water
 			6.25%	      1 Fighter (Octoplasm)
 			Subtotal Weight: 16
 		0.50%	      1 Randomized (Character D, Water)
-			12.50%	      1 Fighter (Heavy Metal)
-			12.50%	      1 Fighter (Freeze Frame)
-			12.50%	      1 Fighter (Star-Spangled)
-			12.50%	      1 Fighter (Plot Twisted)
-			12.50%	      1 Fighter (Model Leader)
-			12.50%	      1 Fighter (Wetwork)
-			12.50%	      1 Fighter (Megalomaniac)
-			12.50%	      1 Fighter (Blue Streak)
-			Subtotal Weight: 8
+			11.11%	      1 Fighter (Heavy Metal)
+			11.11%	      1 Fighter (Freeze Frame)
+			11.11%	      1 Fighter (Star-Spangled)
+			11.11%	      1 Fighter (Plot Twisted)
+			11.11%	      1 Fighter (Model Leader)
+			11.11%	      1 Fighter (Wetwork)
+			11.11%	      1 Fighter (Megalomaniac)
+			11.11%	      1 Fighter (Blue Streak)
+			11.11%	      1 Fighter (Web Crawler)
+			Subtotal Weight: 9
 		Total Weight: 200
 	 LootTable_Element_Water_Essence
 		75.00%	     25 Elemental Shards (Water)
@@ -524,6 +529,12 @@ LootTableSet_Char_AugustShowtime_D_2023
 		33.33%	      1 Fighter (Snake Bite)
 		33.33%	      1 Fighter (Overclocked)
 		Total Weight: 3
+LootTableSet_Char_AugustShowtime_D_2024
+	 LootTable_Var_AugustShowtime_D_2024
+		33.33%	      1 Fighter (Reimaged)
+		33.33%	      1 Fighter (Summer Salt)
+		33.33%	      1 Fighter (Fire Branded)
+		Total Weight: 3
 LootTableSet_Char_AugustShowtime_G
 	 LootTable_Var_AugustShowtime_G
 		33.33%	      1 Fighter (Feathered Edges)
@@ -535,6 +546,12 @@ LootTableSet_Char_AugustShowtime_G_2023
 		33.33%	      1 Fighter (Final Fang)
 		33.33%	      1 Fighter (High Ruler)
 		33.33%	      1 Fighter (Grim Fan)
+		Total Weight: 3
+LootTableSet_Char_AugustShowtime_G_2024
+	 LootTable_Var_AugustShowtime_G_2024
+		33.33%	      1 Fighter (Hell's Belle)
+		33.33%	      1 Fighter (Raw Nerv)
+		33.33%	      1 Fighter (Megasonic)
 		Total Weight: 3
 LootTableSet_Char_AugustShowtime_S
 	 LootTable_Var_AugustShowtime_S
@@ -563,6 +580,21 @@ LootTableSet_Char_AugustShowtime_S_2023
 		9.09%	      1 Fighter (Dead Heat)
 		9.09%	      1 Fighter (Candy Crusher)
 		Total Weight: 11
+LootTableSet_Char_AugustShowtime_S_2024
+	 LootTable_Var_AugustShowtime_S_2024
+		8.33%	      1 Fighter (Number One)
+		8.33%	      1 Fighter (Dame Slayer)
+		8.33%	      1 Fighter (Gray Matter)
+		8.33%	      1 Fighter (Myst-Match)
+		8.33%	      1 Fighter (Bloody Valentine)
+		8.33%	      1 Fighter (Bad Ms Frosty)
+		8.33%	      1 Fighter (Maid of Honor)
+		8.33%	      1 Fighter (Feline Lucky)
+		8.33%	      1 Fighter (Prism Plumage)
+		8.33%	      1 Fighter (Dead Heat)
+		8.33%	      1 Fighter (Puddle Pirate)
+		8.33%	      1 Fighter (Graveyard Shift)
+		Total Weight: 12
 LootTableSet_Char_BackToSchool_D
 	 LootTable_Var_BackToSchool_D
 		33.33%	      1 Fighter (Class Cutter)
@@ -573,6 +605,12 @@ LootTableSet_Char_BackToSchool_D_2023
 	 LootTable_Var_BackToSchool_D_2023
 		33.33%	      1 Fighter (Starlight Rose)
 		33.33%	      1 Fighter (Heavy Metal)
+		33.33%	      1 Fighter (Class Cutter)
+		Total Weight: 3
+LootTableSet_Char_BackToSchool_D_2024
+	 LootTable_Var_BackToSchool_D_2024
+		33.33%	      1 Fighter (Mekastar)
+		33.33%	      1 Fighter (Stand Out)
 		33.33%	      1 Fighter (Class Cutter)
 		Total Weight: 3
 LootTableSet_Char_BackToSchool_G
@@ -586,6 +624,12 @@ LootTableSet_Char_BackToSchool_G_2023
 		33.33%	      1 Fighter (Psykid)
 		33.33%	      1 Fighter (Buzzkill)
 		33.33%	      1 Fighter (Feathered Edges)
+		Total Weight: 3
+LootTableSet_Char_BackToSchool_G_2024
+	 LootTable_Var_BackToSchool_G_2024
+		33.33%	      1 Fighter (Furmidable)
+		33.33%	      1 Fighter (Weekend Warrior)
+		33.33%	      1 Fighter (Moonstruck)
 		Total Weight: 3
 LootTableSet_Char_BackToSchool_S
 	 LootTable_Var_BackToSchool_S
@@ -614,6 +658,21 @@ LootTableSet_Char_BackToSchool_S_2023
 		9.09%	      1 Fighter (Nearly Departed)
 		9.09%	      1 Fighter (Kill Joy)
 		Total Weight: 11
+LootTableSet_Char_BackToSchool_S_2024
+	 LootTable_Var_BackToSchool_S_2024
+		8.33%	      1 Fighter (Treble Maker)
+		8.33%	      1 Fighter (Soul Crusher)
+		8.33%	      1 Fighter (Temple Tyrant)
+		8.33%	      1 Fighter (Souls Sister)
+		8.33%	      1 Fighter (Phantom Wrangler)
+		8.33%	      1 Fighter (Rage Appropriate)
+		8.33%	      1 Fighter (No Egrets)
+		8.33%	      1 Fighter (Inkling)
+		8.33%	      1 Fighter (Vector Protector)
+		8.33%	      1 Fighter (Gang Green)
+		8.33%	      1 Fighter (Candy Crusher)
+		8.33%	      1 Fighter (Kill Joy)
+		Total Weight: 12
 LootTableSet_Char_Bandera_D
 	 LootTable_Var_Bandera_D
 		33.33%	      1 Fighter (Creature of Habit)
@@ -755,7 +814,7 @@ LootTableSet_Char_Debutante_D_2024
 LootTableSet_Char_Dinnertime_D
 	 LootTable_Var_Dinnertime
 		20.00%	      1 Fighter (Jawbreaker)
-		20.00%	      1 Fighter (Trï¿½s Chic)
+		20.00%	      1 Fighter (Très Chic)
 		20.00%	      1 Fighter (Fire Branded)
 		20.00%	      1 Fighter (Dark Might)
 		20.00%	      1 Fighter (Plot Twisted)
@@ -765,7 +824,7 @@ LootTableSet_Char_Dinnertime_D_2023
 		20.00%	      1 Fighter (Bombshell)
 		20.00%	      1 Fighter (Creature of Habit)
 		20.00%	      1 Fighter (Model Leader)
-		20.00%	      1 Fighter (Trï¿½s Chic)
+		20.00%	      1 Fighter (Très Chic)
 		20.00%	      1 Fighter (Dark Might)
 		Total Weight: 5
 LootTableSet_Char_DoubleDown_D
@@ -784,6 +843,14 @@ LootTableSet_Char_DoubleDown_D_2023
 		20.00%	      1 Fighter (Assassin's Greed)
 		20.00%	      1 Fighter (Freeze Frame)
 		Total Weight: 5
+LootTableSet_Char_DoubleDown_D_2024
+	 LootTable_Var_DoubleDown_D_2024
+		20.00%	      1 Fighter (Reimaged)
+		20.00%	      1 Fighter (Summer Salt)
+		20.00%	      1 Fighter (Fire Branded)
+		20.00%	      1 Fighter (Creature of Habit)
+		20.00%	      1 Fighter (Très Chic)
+		Total Weight: 5
 LootTableSet_Char_Firecracker_D
 	 LootTable_Var_Firecracker_D
 		20.00%	      1 Fighter (Fire Branded)
@@ -799,6 +866,14 @@ LootTableSet_Char_Firecracker_D_2023
 		20.00%	      1 Fighter (Heavy Handed)
 		20.00%	      1 Fighter (Wetwork)
 		20.00%	      1 Fighter (Blue Streak)
+		Total Weight: 5
+LootTableSet_Char_Firecracker_D_2024
+	 LootTable_Var_Firecracker_D_2024
+		20.00%	      1 Fighter (Grave Danger)
+		20.00%	      1 Fighter (Fur Monger)
+		20.00%	      1 Fighter (Freeze Frame)
+		20.00%	      1 Fighter (Dream Demon)
+		20.00%	      1 Fighter (Jawbreaker)
 		Total Weight: 5
 LootTableSet_Char_Frosted_D
 	 LootTable_Var_Frosted_D
@@ -819,7 +894,7 @@ LootTableSet_Char_Frosted_D_2023
 LootTableSet_Char_HarvestMoon_D
 	 LootTable_Var_HarvestMoon_D
 		33.33%	      1 Fighter (Jawbreaker)
-		33.33%	      1 Fighter (Trï¿½s Chic)
+		33.33%	      1 Fighter (Très Chic)
 		33.33%	      1 Fighter (Fire Branded)
 		Total Weight: 3
 LootTableSet_Char_HarvestMoon_D_2023
@@ -1020,6 +1095,14 @@ LootTableSet_Char_Homecoming_D_2023
 		20.00%	      1 Fighter (Jawbreaker)
 		20.00%	      1 Fighter (Wind Stalker)
 		Total Weight: 5
+LootTableSet_Char_Homecoming_D_2024
+	 LootTable_Var_Homecoming_D_2024
+		20.00%	      1 Fighter (Mekastar)
+		20.00%	      1 Fighter (Stand Out)
+		20.00%	      1 Fighter (Class Cutter)
+		20.00%	      1 Fighter (Dream Catcher)
+		20.00%	      1 Fighter (Wetwork)
+		Total Weight: 5
 LootTableSet_Char_LoveStruck_D
 	 LootTable_Var_LoveStruck_D
 		33.33%	      1 Fighter (Beast King)
@@ -1117,6 +1200,12 @@ LootTableSet_Char_Revolutionary_D_2023
 		33.33%	      1 Fighter (Splitting Image)
 		33.33%	      1 Fighter (Heavy Handed)
 		Total Weight: 3
+LootTableSet_Char_Revolutionary_D_2024
+	 LootTable_Var_Revolutionary_D_2024
+		33.33%	      1 Fighter (Grave Danger)
+		33.33%	      1 Fighter (Fur Monger)
+		33.33%	      1 Fighter (Freeze Frame)
+		Total Weight: 3
 LootTableSet_Char_Revolutionary_G
 	 LootTable_Var_Revolutionary_G
 		33.33%	      1 Fighter (Head Hunter)
@@ -1128,6 +1217,12 @@ LootTableSet_Char_Revolutionary_G_2023
 		33.33%	      1 Fighter (Red Rider)
 		33.33%	      1 Fighter (Persona Assistant)
 		33.33%	      1 Fighter (Freedom Fighter)
+		Total Weight: 3
+LootTableSet_Char_Revolutionary_G_2024
+	 LootTable_Var_Revolutionary_G_2024
+		33.33%	      1 Fighter (Palace Plunderer)
+		33.33%	      1 Fighter (Last Hope)
+		33.33%	      1 Fighter (Private Dick)
 		Total Weight: 3
 LootTableSet_Char_Revolutionary_S
 	 LootTable_Var_Revolutionary_S
@@ -1157,6 +1252,21 @@ LootTableSet_Char_Revolutionary_S_2023
 		9.09%	      1 Fighter (Puddle Pirate)
 		9.09%	      1 Fighter (Graveyard Shift)
 		Total Weight: 11
+LootTableSet_Char_Revolutionary_S_2024
+	 LootTable_Var_Revolutionary_S_2024
+		8.33%	      1 Fighter (Galactic Glamour)
+		8.33%	      1 Fighter (Wrestler X)
+		8.33%	      1 Fighter (Big Top)
+		8.33%	      1 Fighter (Doublicious)
+		8.33%	      1 Fighter (Scarlet Viper)
+		8.33%	      1 Fighter (Hair Apparent)
+		8.33%	      1 Fighter (Rain Shadow)
+		8.33%	      1 Fighter (Snake Charmer)
+		8.33%	      1 Fighter (Purrfect Dark)
+		8.33%	      1 Fighter (Blood Drive)
+		8.33%	      1 Fighter (Ivy League)
+		8.33%	      1 Fighter (Blue Bomber)
+		Total Weight: 12
 LootTableSet_Char_Shamrock_D
 	 LootTable_Var_Shamrock_D
 		33.33%	      1 Fighter (Snake Bite)
@@ -1735,52 +1845,55 @@ LootTableSet_Char_ALL_B_2xUM
 		Total Weight: 34
 LootTableSet_Char_ALL_D
 	 LootTable_Var_ALL_D
-		2.22%	      1 Fighter (Dark Might)
-		2.22%	      1 Fighter (Snake Bite)
-		2.22%	      1 Fighter (Heavy Metal)
-		2.22%	      1 Fighter (Dream Band)
-		2.22%	      1 Fighter (Heavy Handed)
-		2.22%	      1 Fighter (Star-Spangled)
-		2.22%	      1 Fighter (Jawbreaker)
-		2.22%	      1 Fighter (Heart of Darkness)
-		2.22%	      1 Fighter (Stand Out)
-		2.22%	      1 Fighter (Mummy Dearest)
-		2.22%	      1 Fighter (Class Cutter)
-		2.22%	      1 Fighter (Djinn Frizz)
-		2.22%	      1 Fighter (Furry Fury)
-		2.22%	      1 Fighter (Wind Stalker)
-		2.22%	      1 Fighter (Fly Trap)
-		2.22%	      1 Fighter (Neuromancer)
-		2.22%	      1 Fighter (Summer Salt)
-		2.22%	      1 Fighter (Risky Ginger)
-		2.22%	      1 Fighter (Freeze Frame)
-		2.22%	      1 Fighter (Dream Catcher)
-		2.22%	      1 Fighter (Love Crafted)
-		2.22%	      1 Fighter (Plot Twisted)
-		2.22%	      1 Fighter (Assassin's Greed)
-		2.22%	      1 Fighter (Trï¿½s Chic)
-		2.22%	      1 Fighter (Overclocked)
-		2.22%	      1 Fighter (X-Bot)
-		2.22%	      1 Fighter (Splitting Image)
-		2.22%	      1 Fighter (Shadow Puppet)
-		2.22%	      1 Fighter (Fire Branded)
-		2.22%	      1 Fighter (Model Leader)
-		2.22%	      1 Fighter (Star Shine)
-		2.22%	      1 Fighter (Beast King)
-		2.22%	      1 Fighter (Creature of Habit)
-		2.22%	      1 Fighter (Wetwork)
-		2.22%	      1 Fighter (Dream Demon)
-		2.22%	      1 Fighter (Eager Deceiver)
-		2.22%	      1 Fighter (Raining Champ)
-		2.22%	      1 Fighter (Fur Monger)
-		2.22%	      1 Fighter (Unholy Host)
-		2.22%	      1 Fighter (Death Wish)
-		2.22%	      1 Fighter (Heartless)
-		2.22%	      1 Fighter (Megalomaniac)
-		2.22%	      1 Fighter (Blue Streak)
-		2.22%	      1 Fighter (Altar Ego)
-		2.22%	      1 Fighter (Starlight Rose)
-		Total Weight: 45
+		2.08%	      1 Fighter (Dark Might)
+		2.08%	      1 Fighter (Snake Bite)
+		2.08%	      1 Fighter (Heavy Metal)
+		2.08%	      1 Fighter (Dream Band)
+		2.08%	      1 Fighter (Heavy Handed)
+		2.08%	      1 Fighter (Star-Spangled)
+		2.08%	      1 Fighter (Jawbreaker)
+		2.08%	      1 Fighter (Heart of Darkness)
+		2.08%	      1 Fighter (Stand Out)
+		2.08%	      1 Fighter (Mummy Dearest)
+		2.08%	      1 Fighter (Class Cutter)
+		2.08%	      1 Fighter (Djinn Frizz)
+		2.08%	      1 Fighter (Furry Fury)
+		2.08%	      1 Fighter (Wind Stalker)
+		2.08%	      1 Fighter (Fly Trap)
+		2.08%	      1 Fighter (Neuromancer)
+		2.08%	      1 Fighter (Summer Salt)
+		2.08%	      1 Fighter (Risky Ginger)
+		2.08%	      1 Fighter (Freeze Frame)
+		2.08%	      1 Fighter (Dream Catcher)
+		2.08%	      1 Fighter (Love Crafted)
+		2.08%	      1 Fighter (Plot Twisted)
+		2.08%	      1 Fighter (Assassin's Greed)
+		2.08%	      1 Fighter (Très Chic)
+		2.08%	      1 Fighter (Overclocked)
+		2.08%	      1 Fighter (X-Bot)
+		2.08%	      1 Fighter (Splitting Image)
+		2.08%	      1 Fighter (Shadow Puppet)
+		2.08%	      1 Fighter (Fire Branded)
+		2.08%	      1 Fighter (Model Leader)
+		2.08%	      1 Fighter (Star Shine)
+		2.08%	      1 Fighter (Beast King)
+		2.08%	      1 Fighter (Creature of Habit)
+		2.08%	      1 Fighter (Wetwork)
+		2.08%	      1 Fighter (Dream Demon)
+		2.08%	      1 Fighter (Eager Deceiver)
+		2.08%	      1 Fighter (Raining Champ)
+		2.08%	      1 Fighter (Fur Monger)
+		2.08%	      1 Fighter (Unholy Host)
+		2.08%	      1 Fighter (Death Wish)
+		2.08%	      1 Fighter (Heartless)
+		2.08%	      1 Fighter (Megalomaniac)
+		2.08%	      1 Fighter (Blue Streak)
+		2.08%	      1 Fighter (Altar Ego)
+		2.08%	      1 Fighter (Starlight Rose)
+		2.08%	      1 Fighter (Bombshell)
+		2.08%	      1 Fighter (Foot Soldier)
+		2.08%	      1 Fighter (Web Crawler)
+		Total Weight: 48
 LootTableSet_Char_ALL_D_2xAN
 	 LootTable_Var_ALL_D_2xAN
 		3.12%	      1 Fighter (Dark Might)
@@ -1806,7 +1919,7 @@ LootTableSet_Char_ALL_D_2xAN
 		3.12%	      1 Fighter (Love Crafted)
 		3.12%	      1 Fighter (Plot Twisted)
 		3.12%	      1 Fighter (Assassin's Greed)
-		3.12%	      1 Fighter (Trï¿½s Chic)
+		3.12%	      1 Fighter (Très Chic)
 		3.12%	      1 Fighter (Overclocked)
 		3.12%	      1 Fighter (X-Bot)
 		3.12%	      1 Fighter (Splitting Image)
@@ -1839,7 +1952,7 @@ LootTableSet_Char_ALL_D_2xDAH
 		2.44%	      1 Fighter (Love Crafted)
 		2.44%	      1 Fighter (Plot Twisted)
 		2.44%	      1 Fighter (Assassin's Greed)
-		2.44%	      1 Fighter (Trï¿½s Chic)
+		2.44%	      1 Fighter (Très Chic)
 		2.44%	      1 Fighter (Overclocked)
 		2.44%	      1 Fighter (X-Bot)
 		2.44%	      1 Fighter (Splitting Image)
@@ -1882,7 +1995,7 @@ LootTableSet_Char_ALL_D_2xFU
 		3.33%	      1 Fighter (Love Crafted)
 		3.33%	      1 Fighter (Plot Twisted)
 		3.33%	      1 Fighter (Assassin's Greed)
-		3.33%	      1 Fighter (Trï¿½s Chic)
+		3.33%	      1 Fighter (Très Chic)
 		3.33%	      1 Fighter (Overclocked)
 		3.33%	      1 Fighter (X-Bot)
 		6.67%	      1 Fighter (Splitting Image)
@@ -1913,7 +2026,7 @@ LootTableSet_Char_ALL_D_2xMAR
 		2.27%	      1 Fighter (Love Crafted)
 		2.27%	      1 Fighter (Plot Twisted)
 		2.27%	      1 Fighter (Assassin's Greed)
-		2.27%	      1 Fighter (Trï¿½s Chic)
+		2.27%	      1 Fighter (Très Chic)
 		2.27%	      1 Fighter (Overclocked)
 		2.27%	      1 Fighter (X-Bot)
 		2.27%	      1 Fighter (Splitting Image)
@@ -1958,7 +2071,7 @@ LootTableSet_Char_ALL_D_2xMAR_Sub
 		2.27%	      1 Fighter (Love Crafted)
 		2.27%	      1 Fighter (Plot Twisted)
 		2.27%	      1 Fighter (Assassin's Greed)
-		2.27%	      1 Fighter (Trï¿½s Chic)
+		2.27%	      1 Fighter (Très Chic)
 		2.27%	      1 Fighter (Overclocked)
 		2.27%	      1 Fighter (X-Bot)
 		2.27%	      1 Fighter (Splitting Image)
@@ -2003,7 +2116,7 @@ LootTableSet_Char_ALL_D_2xUM
 		2.56%	      1 Fighter (Love Crafted)
 		2.56%	      1 Fighter (Plot Twisted)
 		2.56%	      1 Fighter (Assassin's Greed)
-		2.56%	      1 Fighter (Trï¿½s Chic)
+		2.56%	      1 Fighter (Très Chic)
 		2.56%	      1 Fighter (Overclocked)
 		2.56%	      1 Fighter (X-Bot)
 		2.56%	      1 Fighter (Splitting Image)
@@ -2020,86 +2133,89 @@ LootTableSet_Char_ALL_D_2xUM
 		Total Weight: 39
 LootTableSet_Char_ALL_G
 	 LootTable_Var_ALL_G
-		1.37%	      1 Fighter (Dragon Brawler)
-		1.37%	      1 Fighter (Weekend Warrior)
-		1.37%	      1 Fighter (Wulfsbane)
-		1.37%	      1 Fighter (Freedom Fighter)
-		1.37%	      1 Fighter (Epic Sax)
-		1.37%	      1 Fighter (G.I. Jazz)
-		1.37%	      1 Fighter (Private Dick)
+		1.32%	      1 Fighter (Dragon Brawler)
+		1.32%	      1 Fighter (Weekend Warrior)
+		1.32%	      1 Fighter (Wulfsbane)
+		1.32%	      1 Fighter (Freedom Fighter)
+		1.32%	      1 Fighter (Epic Sax)
+		1.32%	      1 Fighter (G.I. Jazz)
+		1.32%	      1 Fighter (Private Dick)
 		0.00%	      1 Fighter (Megasonic)
-		1.37%	      1 Fighter (Armed Forces)
-		1.37%	      1 Fighter (Brain Freeze)
-		1.37%	      1 Fighter (Harlequin)
-		1.37%	      1 Fighter (Criminal Mind)
-		1.37%	      1 Fighter (Immoral Fiber)
-		1.37%	      1 Fighter (Rainbow Blight)
-		1.37%	      1 Fighter (Xenomorph)
-		1.37%	      1 Fighter (Evergreen Evil)
-		1.37%	      1 Fighter (Bloodbath)
-		1.37%	      1 Fighter (Diva Intervention)
-		1.37%	      1 Fighter (Red Velvet)
-		1.37%	      1 Fighter (Lapis Luxury)
-		1.37%	      1 Fighter (Dread Locks)
-		1.37%	      1 Fighter (Parasite Weave)
-		1.37%	      1 Fighter (Windswept)
+		1.32%	      1 Fighter (Armed Forces)
+		1.32%	      1 Fighter (Brain Freeze)
+		1.32%	      1 Fighter (Harlequin)
+		1.32%	      1 Fighter (Criminal Mind)
+		1.32%	      1 Fighter (Immoral Fiber)
+		1.32%	      1 Fighter (Rainbow Blight)
+		1.32%	      1 Fighter (Xenomorph)
+		1.32%	      1 Fighter (Evergreen Evil)
+		1.32%	      1 Fighter (Bloodbath)
+		1.32%	      1 Fighter (Diva Intervention)
+		1.32%	      1 Fighter (Red Velvet)
+		1.32%	      1 Fighter (Lapis Luxury)
+		1.32%	      1 Fighter (Dread Locks)
+		1.32%	      1 Fighter (Parasite Weave)
+		1.32%	      1 Fighter (Windswept)
 		0.00%	      1 Fighter (Idol Threat)
-		1.37%	      1 Fighter (Buzzkill)
-		1.37%	      1 Fighter (Firefly)
-		1.37%	      1 Fighter (Raw Nerv)
+		1.32%	      1 Fighter (Buzzkill)
+		1.32%	      1 Fighter (Firefly)
+		1.32%	      1 Fighter (Raw Nerv)
 		0.00%	      1 Fighter (Grim Fan)
-		1.37%	      1 Fighter (Primed)
-		1.37%	      1 Fighter (Princess Pride)
-		1.37%	      1 Fighter (Regally Blonde)
+		1.32%	      1 Fighter (Primed)
+		1.32%	      1 Fighter (Princess Pride)
+		1.32%	      1 Fighter (Regally Blonde)
 		0.00%	      1 Fighter (Star-Crossed)
-		1.37%	      1 Fighter (That's All Folks!)
-		1.37%	      1 Fighter (Ultraviolent)
-		1.37%	      1 Fighter (Untouchable)
-		1.37%	      1 Fighter (Mean One)
-		1.37%	      1 Fighter (Last Hope)
-		1.37%	      1 Fighter (Silent Kill)
-		1.37%	      1 Fighter (Surgeon General)
+		1.32%	      1 Fighter (That's All Folks!)
+		1.32%	      1 Fighter (Ultraviolent)
+		1.32%	      1 Fighter (Untouchable)
+		1.32%	      1 Fighter (Mean One)
+		1.32%	      1 Fighter (Last Hope)
+		1.32%	      1 Fighter (Silent Kill)
+		1.32%	      1 Fighter (Surgeon General)
 		0.00%	      1 Fighter (Pyro-Technique)
-		1.37%	      1 Fighter (Bio-Exorcist)
-		1.37%	      1 Fighter (Dead of Winter)
-		1.37%	      1 Fighter (Poltergust)
-		1.37%	      1 Fighter (Thrill Shrieker)
-		1.37%	      1 Fighter (Claw & Order)
-		1.37%	      1 Fighter (Hack n' Splash)
-		1.37%	      1 Fighter (Meow & Furever)
-		1.37%	      1 Fighter (Rogue Agent)
-		1.37%	      1 Fighter (Blue Screen)
-		1.37%	      1 Fighter (Terror Byte)
-		1.37%	      1 Fighter (Head Hunter)
-		1.37%	      1 Fighter (Persona Assistant)
-		1.37%	      1 Fighter (Vaporwave Vixen)
-		1.37%	      1 Fighter (Phantom Threads)
-		1.37%	      1 Fighter (Night Terror)
-		1.37%	      1 Fighter (Feathered Edges)
-		1.37%	      1 Fighter (Ageless Wonder)
-		1.37%	      1 Fighter (Materia Girl)
-		1.37%	      1 Fighter (Moonstruck)
-		1.37%	      1 Fighter (Timeless Hero)
-		1.37%	      1 Fighter (Time Thief)
-		1.37%	      1 Fighter (Biting Cold)
-		1.37%	      1 Fighter (High Ruler)
+		1.32%	      1 Fighter (Bio-Exorcist)
+		1.32%	      1 Fighter (Dead of Winter)
+		1.32%	      1 Fighter (Poltergust)
+		1.32%	      1 Fighter (Thrill Shrieker)
+		1.32%	      1 Fighter (Claw & Order)
+		1.32%	      1 Fighter (Hack n' Splash)
+		1.32%	      1 Fighter (Meow & Furever)
+		1.32%	      1 Fighter (Rogue Agent)
+		1.32%	      1 Fighter (Blue Screen)
+		1.32%	      1 Fighter (Terror Byte)
+		1.32%	      1 Fighter (Head Hunter)
+		1.32%	      1 Fighter (Persona Assistant)
+		1.32%	      1 Fighter (Vaporwave Vixen)
+		1.32%	      1 Fighter (Phantom Threads)
+		1.32%	      1 Fighter (Night Terror)
+		1.32%	      1 Fighter (Feathered Edges)
+		1.32%	      1 Fighter (Ageless Wonder)
+		1.32%	      1 Fighter (Materia Girl)
+		1.32%	      1 Fighter (Moonstruck)
+		1.32%	      1 Fighter (Timeless Hero)
+		1.32%	      1 Fighter (Time Thief)
+		1.32%	      1 Fighter (Biting Cold)
+		1.32%	      1 Fighter (High Ruler)
 		0.00%	      1 Fighter (Inner Pieces)
-		1.37%	      1 Fighter (Blitz & Glamour)
-		1.37%	      1 Fighter (Space Case)
-		1.37%	      1 Fighter (Tidal Traveler)
-		1.37%	      1 Fighter (Wunderkind)
-		1.37%	      1 Fighter (Corrosive Agent)
-		1.37%	      1 Fighter (Martial Outlaw)
-		1.37%	      1 Fighter (Psycommander)
-		1.37%	      1 Fighter (Unfazed)
-		1.37%	      1 Fighter (Dark Horse)
-		1.37%	      1 Fighter (Gravedigger)
-		1.37%	      1 Fighter (Gust Buster)
-		1.37%	      1 Fighter (Octoplasm)
-		1.37%	      1 Fighter (Red Rider)
-		1.37%	      1 Fighter (Final Fang)
-		1.37%	      1 Fighter (Psykid)
-		Total Weight: 73
+		1.32%	      1 Fighter (Blitz & Glamour)
+		1.32%	      1 Fighter (Space Case)
+		1.32%	      1 Fighter (Tidal Traveler)
+		1.32%	      1 Fighter (Wunderkind)
+		1.32%	      1 Fighter (Corrosive Agent)
+		1.32%	      1 Fighter (Martial Outlaw)
+		1.32%	      1 Fighter (Psycommander)
+		1.32%	      1 Fighter (Unfazed)
+		1.32%	      1 Fighter (Dark Horse)
+		1.32%	      1 Fighter (Gravedigger)
+		1.32%	      1 Fighter (Gust Buster)
+		1.32%	      1 Fighter (Octoplasm)
+		1.32%	      1 Fighter (Red Rider)
+		1.32%	      1 Fighter (Final Fang)
+		1.32%	      1 Fighter (Psykid)
+		1.32%	      1 Fighter (Scare Giver)
+		1.32%	      1 Fighter (Primal Prodigy)
+		1.32%	      1 Fighter (Demon Artist)
+		Total Weight: 76
 LootTableSet_Char_ALL_G_2xAN
 	 LootTable_Var_ALL_G_2xAN
 		1.69%	      1 Fighter (Dragon Brawler)
@@ -3162,7 +3278,7 @@ LootTableSet_Hourly_T2
 			11.11%	      1 Move (Bronze, Napalm Shot)
 			11.11%	      1 Move (Bronze, Banishment)
 			11.11%	      1 Move (Bronze, Burst)
-			11.11%	      1 Move (Bronze, Bï¿½illement)
+			11.11%	      1 Move (Bronze, Bâillement)
 			11.11%	      1 Move (Bronze, Egret Call)
 			11.11%	      1 Move (Bronze, Egret Moto)
 			11.11%	      1 Move (Bronze, Napalm Toss)
@@ -3483,7 +3599,7 @@ LootTableSet_Hourly_T3
 			11.11%	      1 Move (Silver, Napalm Shot)
 			11.11%	      1 Move (Silver, Banishment)
 			11.11%	      1 Move (Silver, Burst)
-			11.11%	      1 Move (Silver, Bï¿½illement)
+			11.11%	      1 Move (Silver, Bâillement)
 			11.11%	      1 Move (Silver, Egret Call)
 			11.11%	      1 Move (Silver, Egret Moto)
 			11.11%	      1 Move (Silver, Napalm Toss)
@@ -4201,12 +4317,13 @@ LootTableSet_Premium_T4_Gold
 			0.00%	      1 Fighter (Megasonic)
 			Subtotal Weight: 3
 		10.00%	      1 Randomized (Var G, Cerebella)
-			20.00%	      1 Fighter (Armed Forces)
-			20.00%	      1 Fighter (Brain Freeze)
-			20.00%	      1 Fighter (Harlequin)
-			20.00%	      1 Fighter (Criminal Mind)
-			20.00%	      1 Fighter (Blitz & Glamour)
-			Subtotal Weight: 5
+			16.67%	      1 Fighter (Armed Forces)
+			16.67%	      1 Fighter (Brain Freeze)
+			16.67%	      1 Fighter (Harlequin)
+			16.67%	      1 Fighter (Criminal Mind)
+			16.67%	      1 Fighter (Blitz & Glamour)
+			16.67%	      1 Fighter (Scare Giver)
+			Subtotal Weight: 6
 		10.00%	      1 Randomized (Var G, Double)
 			25.00%	      1 Fighter (Immoral Fiber)
 			25.00%	      1 Fighter (Rainbow Blight)
@@ -4241,11 +4358,12 @@ LootTableSet_Premium_T4_Gold
 			25.00%	      1 Fighter (High Ruler)
 			Subtotal Weight: 4
 		10.00%	      1 Randomized (Var G, Peacock)
-			25.00%	      1 Fighter (That's All Folks!)
-			25.00%	      1 Fighter (Ultraviolent)
-			25.00%	      1 Fighter (Untouchable)
-			25.00%	      1 Fighter (Mean One)
-			Subtotal Weight: 4
+			20.00%	      1 Fighter (That's All Folks!)
+			20.00%	      1 Fighter (Ultraviolent)
+			20.00%	      1 Fighter (Untouchable)
+			20.00%	      1 Fighter (Mean One)
+			20.00%	      1 Fighter (Primal Prodigy)
+			Subtotal Weight: 5
 		10.00%	      1 Randomized (Var G, Valentine)
 			33.33%	      1 Fighter (Last Hope)
 			33.33%	      1 Fighter (Silent Kill)
@@ -4777,7 +4895,7 @@ LootTableSet_Standard_SM_B
 			11.11%	      1 Move (Bronze, Napalm Shot)
 			11.11%	      1 Move (Bronze, Banishment)
 			11.11%	      1 Move (Bronze, Burst)
-			11.11%	      1 Move (Bronze, Bï¿½illement)
+			11.11%	      1 Move (Bronze, Bâillement)
 			11.11%	      1 Move (Bronze, Egret Call)
 			11.11%	      1 Move (Bronze, Egret Moto)
 			11.11%	      1 Move (Bronze, Napalm Toss)
@@ -5098,7 +5216,7 @@ LootTableSet_Standard_SM_G
 			11.11%	      1 Move (Gold, Napalm Shot)
 			11.11%	      1 Move (Gold, Banishment)
 			11.11%	      1 Move (Gold, Burst)
-			11.11%	      1 Move (Gold, Bï¿½illement)
+			11.11%	      1 Move (Gold, Bâillement)
 			11.11%	      1 Move (Gold, Egret Call)
 			11.11%	      1 Move (Gold, Egret Moto)
 			11.11%	      1 Move (Gold, Napalm Toss)
@@ -5419,7 +5537,7 @@ LootTableSet_Standard_SM_S
 			11.11%	      1 Move (Silver, Napalm Shot)
 			11.11%	      1 Move (Silver, Banishment)
 			11.11%	      1 Move (Silver, Burst)
-			11.11%	      1 Move (Silver, Bï¿½illement)
+			11.11%	      1 Move (Silver, Bâillement)
 			11.11%	      1 Move (Silver, Egret Call)
 			11.11%	      1 Move (Silver, Egret Moto)
 			11.11%	      1 Move (Silver, Napalm Toss)
@@ -5900,9 +6018,10 @@ LootTableSet_Char_MsFortune_Var_B
 		Total Weight: 2
 LootTableSet_Char_MsFortune_Var_D
 	 LootTable_Char_MsFortune_Var_D
-		50.00%	      1 Fighter (Furry Fury)
-		50.00%	      1 Fighter (Wind Stalker)
-		Total Weight: 2
+		33.33%	      1 Fighter (Furry Fury)
+		33.33%	      1 Fighter (Wind Stalker)
+		33.33%	      1 Fighter (Foot Soldier)
+		Total Weight: 3
 LootTableSet_Char_MsFortune_Var_G
 	 LootTable_Char_MsFortune_Var_G
 		20.00%	      1 Fighter (Hack n' Splash)
@@ -5924,9 +6043,10 @@ LootTableSet_Char_Painwheel_Var_B
 		Total Weight: 2
 LootTableSet_Char_Painwheel_Var_D
 	 LootTable_Char_Painwheel_Var_D
-		50.00%	      1 Fighter (Fly Trap)
-		50.00%	      1 Fighter (Neuromancer)
-		Total Weight: 2
+		33.33%	      1 Fighter (Fly Trap)
+		33.33%	      1 Fighter (Neuromancer)
+		33.33%	      1 Fighter (Web Crawler)
+		Total Weight: 3
 LootTableSet_Char_Painwheel_Var_G
 	 LootTable_Char_Painwheel_Var_G
 		25.00%	      1 Fighter (Buzzkill)
@@ -5948,9 +6068,10 @@ LootTableSet_Char_Parasoul_Var_B
 		Total Weight: 2
 LootTableSet_Char_Parasoul_Var_D
 	 LootTable_Char_Parasoul_Var_D
-		50.00%	      1 Fighter (Summer Salt)
-		50.00%	      1 Fighter (Risky Ginger)
-		Total Weight: 2
+		33.33%	      1 Fighter (Summer Salt)
+		33.33%	      1 Fighter (Risky Ginger)
+		33.33%	      1 Fighter (Bombshell)
+		Total Weight: 3
 LootTableSet_Char_Parasoul_Var_G
 	 LootTable_Char_Parasoul_Var_G
 		25.00%	      1 Fighter (Primed)
@@ -5977,11 +6098,12 @@ LootTableSet_Char_Peacock_Var_D
 		Total Weight: 2
 LootTableSet_Char_Peacock_Var_G
 	 LootTable_Char_Peacock_Var_G
-		25.00%	      1 Fighter (That's All Folks!)
-		25.00%	      1 Fighter (Ultraviolent)
-		25.00%	      1 Fighter (Untouchable)
-		25.00%	      1 Fighter (Mean One)
-		Total Weight: 4
+		20.00%	      1 Fighter (That's All Folks!)
+		20.00%	      1 Fighter (Ultraviolent)
+		20.00%	      1 Fighter (Untouchable)
+		20.00%	      1 Fighter (Mean One)
+		20.00%	      1 Fighter (Primal Prodigy)
+		Total Weight: 5
 LootTableSet_Char_Peacock_Var_S
 	 LootTable_Char_Peacock_Var_S
 		25.00%	      1 Fighter (Inkling)
@@ -6235,15 +6357,29 @@ LootTableSet_Char_Spotlight_Distorted_D
 	 LootTable_Var_Spotlight_Distorted_D
 		100.00%	      1 Fighter (Class Cutter)
 		Total Weight: 1
+LootTableSet_Char_Spotlight_Distorted_D_2024
+	 LootTable_Var_Spotlight_Distorted_D_2024
+		100.00%	      1 Fighter (Model Leader)
+		Total Weight: 1
 LootTableSet_Char_Spotlight_Distorted_G
 	 LootTable_Var_Spotlight_Distorted_G
 		100.00%	      1 Fighter (Hack n' Splash)
+		Total Weight: 1
+LootTableSet_Char_Spotlight_Distorted_G_2024
+	 LootTable_Var_Spotlight_Distorted_G_2024
+		100.00%	      1 Fighter (Scare Giver)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_Distorted_S
 	 LootTable_Var_Spotlight_Distorted_S
 		33.33%	      1 Fighter (Robocopy)
 		33.33%	      1 Fighter (Bad Ms Frosty)
 		33.33%	      1 Fighter (Freaky Friday)
+		Total Weight: 3
+LootTableSet_Char_Spotlight_Distorted_S_2024
+	 LootTable_Var_Spotlight_Distorted_S_2024
+		33.33%	      1 Fighter (Rage Appropriate)
+		33.33%	      1 Fighter (Robocopy)
+		33.33%	      1 Fighter (Wild Child)
 		Total Weight: 3
 LootTableSet_Char_Spotlight_Duality_D
 	 LootTable_Var_Spotlight_Duality_D
@@ -6431,9 +6567,17 @@ LootTableSet_Char_Spotlight_SpecialForces_D
 	 LootTable_Var_Spotlight_SpecialForces_D
 		100.00%	      1 Fighter (X-Bot)
 		Total Weight: 1
+LootTableSet_Char_Spotlight_SpecialForces_D_2024
+	 LootTable_Var_Spotlight_SpecialForces_D_2024
+		100.00%	      1 Fighter (Foot Soldier)
+		Total Weight: 1
 LootTableSet_Char_Spotlight_SpecialForces_G
 	 LootTable_Var_Spotlight_SpecialForces_G
 		100.00%	      1 Fighter (Unfazed)
+		Total Weight: 1
+LootTableSet_Char_Spotlight_SpecialForces_G_2024
+	 LootTable_Var_Spotlight_SpecialForces_G_2024
+		100.00%	      1 Fighter (G.I. Jazz)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_SpecialForces_S
 	 LootTable_Var_Spotlight_SpecialForces_S
@@ -6441,9 +6585,15 @@ LootTableSet_Char_Spotlight_SpecialForces_S
 		33.33%	      1 Fighter (Shadow Ops)
 		33.33%	      1 Fighter (Vector Protector)
 		Total Weight: 3
+LootTableSet_Char_Spotlight_SpecialForces_S_2024
+	 LootTable_Var_Spotlight_SpecialForces_S_2024
+		33.33%	      1 Fighter (Hype Man)
+		33.33%	      1 Fighter (Resonant Evil)
+		33.33%	      1 Fighter (Shadow Ops)
+		Total Weight: 3
 LootTableSet_Char_Spotlight_SpeedRun_D
 	 LootTable_Var_Spotlight_SpeedRun_D
-		100.00%	      1 Fighter (Trï¿½s Chic)
+		100.00%	      1 Fighter (Très Chic)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_SpeedRun_D_2024
 	 LootTable_Var_Spotlight_SpeedRun_D_2024
@@ -6505,6 +6655,10 @@ LootTableSet_Char_Spotlight_Undefeated_D_2023
 	 LootTable_Var_Spotlight_Undefeated_D_2023
 		100.00%	      1 Fighter (Raining Champ)
 		Total Weight: 1
+LootTableSet_Char_Spotlight_Undefeated_D_2024
+	 LootTable_Var_Spotlight_Undefeated_D_2024
+		100.00%	      1 Fighter (Bombshell)
+		Total Weight: 1
 LootTableSet_Char_Spotlight_Undefeated_G
 	 LootTable_Var_Spotlight_Undefeated_G
 		100.00%	      1 Fighter (Dragon Brawler)
@@ -6512,6 +6666,10 @@ LootTableSet_Char_Spotlight_Undefeated_G
 LootTableSet_Char_Spotlight_Undefeated_G_2023
 	 LootTable_Var_Spotlight_Undefeated_G_2023
 		100.00%	      1 Fighter (Dragon Brawler)
+		Total Weight: 1
+LootTableSet_Char_Spotlight_Undefeated_G_2024
+	 LootTable_Var_Spotlight_Undefeated_G_2024
+		100.00%	      1 Fighter (Meow & Furever)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_Undefeated_S
 	 LootTable_Var_Spotlight_Undefeated_S
@@ -6524,6 +6682,12 @@ LootTableSet_Char_Spotlight_Undefeated_S_2023
 		33.33%	      1 Fighter (Rock Star)
 		33.33%	      1 Fighter (Vintage Virtuoso)
 		33.33%	      1 Fighter (Big Top)
+		Total Weight: 3
+LootTableSet_Char_Spotlight_Undefeated_S_2024
+	 LootTable_Var_Spotlight_Undefeated_S_2024
+		33.33%	      1 Fighter (Rock Star)
+		33.33%	      1 Fighter (Vintage Virtuoso)
+		33.33%	      1 Fighter (Rose-Tinted)
 		Total Weight: 3
 LootTableSet_Char_Spotlight_Untamed_D
 	 LootTable_Var_Spotlight_Untamed_D
@@ -6593,11 +6757,12 @@ LootTableSet_Char_Squigly_Var_D
 		Total Weight: 2
 LootTableSet_Char_Squigly_Var_G
 	 LootTable_Char_Squigly_Var_G
-		25.00%	      1 Fighter (Bio-Exorcist)
-		25.00%	      1 Fighter (Poltergust)
-		25.00%	      1 Fighter (Dead of Winter)
-		25.00%	      1 Fighter (Thrill Shrieker)
-		Total Weight: 4
+		20.00%	      1 Fighter (Bio-Exorcist)
+		20.00%	      1 Fighter (Poltergust)
+		20.00%	      1 Fighter (Dead of Winter)
+		20.00%	      1 Fighter (Thrill Shrieker)
+		20.00%	      1 Fighter (Demon Artist)
+		Total Weight: 5
 LootTableSet_Char_Squigly_Var_S
 	 LootTable_Char_Squigly_Var_S
 		33.33%	      1 Fighter (Nearly Departed)
@@ -6637,7 +6802,7 @@ LootTableSet_Char_Valentine_Var_B
 LootTableSet_Char_Valentine_Var_D
 	 LootTable_Char_Valentine_Var_D
 		33.33%	      1 Fighter (Assassin's Greed)
-		33.33%	      1 Fighter (Trï¿½s Chic)
+		33.33%	      1 Fighter (Très Chic)
 		33.33%	      1 Fighter (Wetwork)
 		Total Weight: 3
 LootTableSet_Char_Valentine_Var_G
