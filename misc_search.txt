@@ -297,7 +297,7 @@ LootTableSet_Element_Dark
 			10.00%	      1 Fighter (Love Crafted)
 			10.00%	      1 Fighter (Heart of Darkness)
 			10.00%	      1 Fighter (Neuromancer)
-			10.00%	      1 Fighter (Très Chic)
+			10.00%	      1 Fighter (Trï¿½s Chic)
 			10.00%	      1 Fighter (Shadow Puppet)
 			10.00%	      1 Fighter (Unholy Host)
 			10.00%	      1 Fighter (Death Wish)
@@ -755,7 +755,7 @@ LootTableSet_Char_Debutante_D_2024
 LootTableSet_Char_Dinnertime_D
 	 LootTable_Var_Dinnertime
 		20.00%	      1 Fighter (Jawbreaker)
-		20.00%	      1 Fighter (Très Chic)
+		20.00%	      1 Fighter (Trï¿½s Chic)
 		20.00%	      1 Fighter (Fire Branded)
 		20.00%	      1 Fighter (Dark Might)
 		20.00%	      1 Fighter (Plot Twisted)
@@ -765,7 +765,7 @@ LootTableSet_Char_Dinnertime_D_2023
 		20.00%	      1 Fighter (Bombshell)
 		20.00%	      1 Fighter (Creature of Habit)
 		20.00%	      1 Fighter (Model Leader)
-		20.00%	      1 Fighter (Très Chic)
+		20.00%	      1 Fighter (Trï¿½s Chic)
 		20.00%	      1 Fighter (Dark Might)
 		Total Weight: 5
 LootTableSet_Char_DoubleDown_D
@@ -819,7 +819,7 @@ LootTableSet_Char_Frosted_D_2023
 LootTableSet_Char_HarvestMoon_D
 	 LootTable_Var_HarvestMoon_D
 		33.33%	      1 Fighter (Jawbreaker)
-		33.33%	      1 Fighter (Très Chic)
+		33.33%	      1 Fighter (Trï¿½s Chic)
 		33.33%	      1 Fighter (Fire Branded)
 		Total Weight: 3
 LootTableSet_Char_HarvestMoon_D_2023
@@ -1400,30 +1400,30 @@ LootTableSet_AdReward_T0
 		40.00%	      1 Rift Coin
 		9.00%	   2500 Canopy Coins
 		9.00%	      3 Rift Coins
-		1.50%	      1 Relic (Premiere Relic, ID: 17107)
-		0.50%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.50%	      1 Relic (Premiere Relic)
+		0.50%	      1 Relic (Jackpot Relic)
 		Total Weight: 1000
 LootTableSet_AdReward_T1
 	 LootTable_AdReward_T1
 		80.00%	   1000 Canopy Coins
 		18.00%	   2500 Canopy Coins
-		1.75%	      1 Relic (Premiere Relic, ID: 17107)
-		0.25%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.75%	      1 Relic (Premiere Relic)
+		0.25%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T2
 	 LootTable_AdReward_T2
 		80.00%	   1000 Canopy Coins
 		18.00%	   2500 Canopy Coins
-		1.90%	      1 Relic (Premiere Relic, ID: 17107)
-		0.10%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.90%	      1 Relic (Premiere Relic)
+		0.10%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T3
 	 LootTable_AdReward_T3
 		80.00%	   1000 Canopy Coins
 		16.00%	   2500 Canopy Coins
 		2.00%	  10000 Canopy Coins
-		1.75%	      1 Relic (Premiere Relic, ID: 17107)
-		0.25%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.75%	      1 Relic (Premiere Relic)
+		0.25%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T4
 	 LootTable_AdReward_T4
@@ -1431,8 +1431,8 @@ LootTableSet_AdReward_T4
 		14.00%	   2500 Canopy Coins
 		2.00%	   5000 Canopy Coins
 		2.00%	      1 Energy Refill
-		1.75%	      1 Relic (Premiere Relic, ID: 17107)
-		0.25%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.75%	      1 Relic (Premiere Relic)
+		0.25%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T5
 	 LootTable_AdReward_T5
@@ -1440,8 +1440,8 @@ LootTableSet_AdReward_T5
 		14.00%	   2500 Canopy Coins
 		2.00%	   5000 Canopy Coins
 		2.00%	      1 Energy Refill
-		1.90%	      1 Relic (Premiere Relic, ID: 17107)
-		0.10%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.90%	      1 Relic (Premiere Relic)
+		0.10%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T6
 	 LootTable_AdReward_T6
@@ -1449,13 +1449,13 @@ LootTableSet_AdReward_T6
 		14.00%	   2500 Canopy Coins
 		2.00%	   5000 Canopy Coins
 		2.00%	      1 Energy Refill
-		2.00%	      1 Relic (Premiere Relic, ID: 17107)
+		2.00%	      1 Relic (Premiere Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T7
 	 LootTable_AdReward_T7
-		0.25%	      1 Relic (Jackpot Relic, ID: 17111)
-		1.75%	      1 Relic (Premiere Relic, ID: 17107)
-		3.00%	      1 Relic (Bronze Fighter Relic, ID: 17064)
+		0.25%	      1 Relic (Jackpot Relic)
+		1.75%	      1 Relic (Premiere Relic)
+		3.00%	      1 Relic (Bronze Fighter Relic)
 		3.00%	      1 Energy Refill
 		3.00%	      1 Consumable (XP Treat (Large))
 		9.00%	  10000 Canopy Coins
@@ -1468,17 +1468,17 @@ LootTableSet_AdReward_T8
 		12.00%	   2500 Canopy Coins
 		1.00%	   5000 Canopy Coins
 		1.00%	      1 Energy Refill
-		0.90%	      1 Relic (Premiere Relic, ID: 17107)
-		0.10%	      1 Relic (Jackpot Relic, ID: 17111)
+		0.90%	      1 Relic (Premiere Relic)
+		0.10%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_AdReward_T9
 	 LootTable_AdReward_T9
 		81.00%	   1000 Canopy Coins
 		15.00%	   2500 Canopy Coins
 		2.00%	   5000 Canopy Coins
-		1.40%	      1 Relic (Bronze Fighter Relic, ID: 17064)
-		0.50%	      1 Relic (Premiere Relic, ID: 17107)
-		0.10%	      1 Relic (Jackpot Relic, ID: 17111)
+		1.40%	      1 Relic (Bronze Fighter Relic)
+		0.50%	      1 Relic (Premiere Relic)
+		0.10%	      1 Relic (Jackpot Relic)
 		Total Weight: 10000
 LootTableSet_Char_ALL_B
 	 LootTable_Var_ALL_B
@@ -1758,7 +1758,7 @@ LootTableSet_Char_ALL_D
 		2.22%	      1 Fighter (Love Crafted)
 		2.22%	      1 Fighter (Plot Twisted)
 		2.22%	      1 Fighter (Assassin's Greed)
-		2.22%	      1 Fighter (Très Chic)
+		2.22%	      1 Fighter (Trï¿½s Chic)
 		2.22%	      1 Fighter (Overclocked)
 		2.22%	      1 Fighter (X-Bot)
 		2.22%	      1 Fighter (Splitting Image)
@@ -1806,7 +1806,7 @@ LootTableSet_Char_ALL_D_2xAN
 		3.12%	      1 Fighter (Love Crafted)
 		3.12%	      1 Fighter (Plot Twisted)
 		3.12%	      1 Fighter (Assassin's Greed)
-		3.12%	      1 Fighter (Très Chic)
+		3.12%	      1 Fighter (Trï¿½s Chic)
 		3.12%	      1 Fighter (Overclocked)
 		3.12%	      1 Fighter (X-Bot)
 		3.12%	      1 Fighter (Splitting Image)
@@ -1839,7 +1839,7 @@ LootTableSet_Char_ALL_D_2xDAH
 		2.44%	      1 Fighter (Love Crafted)
 		2.44%	      1 Fighter (Plot Twisted)
 		2.44%	      1 Fighter (Assassin's Greed)
-		2.44%	      1 Fighter (Très Chic)
+		2.44%	      1 Fighter (Trï¿½s Chic)
 		2.44%	      1 Fighter (Overclocked)
 		2.44%	      1 Fighter (X-Bot)
 		2.44%	      1 Fighter (Splitting Image)
@@ -1882,7 +1882,7 @@ LootTableSet_Char_ALL_D_2xFU
 		3.33%	      1 Fighter (Love Crafted)
 		3.33%	      1 Fighter (Plot Twisted)
 		3.33%	      1 Fighter (Assassin's Greed)
-		3.33%	      1 Fighter (Très Chic)
+		3.33%	      1 Fighter (Trï¿½s Chic)
 		3.33%	      1 Fighter (Overclocked)
 		3.33%	      1 Fighter (X-Bot)
 		6.67%	      1 Fighter (Splitting Image)
@@ -1913,7 +1913,7 @@ LootTableSet_Char_ALL_D_2xMAR
 		2.27%	      1 Fighter (Love Crafted)
 		2.27%	      1 Fighter (Plot Twisted)
 		2.27%	      1 Fighter (Assassin's Greed)
-		2.27%	      1 Fighter (Très Chic)
+		2.27%	      1 Fighter (Trï¿½s Chic)
 		2.27%	      1 Fighter (Overclocked)
 		2.27%	      1 Fighter (X-Bot)
 		2.27%	      1 Fighter (Splitting Image)
@@ -1958,7 +1958,7 @@ LootTableSet_Char_ALL_D_2xMAR_Sub
 		2.27%	      1 Fighter (Love Crafted)
 		2.27%	      1 Fighter (Plot Twisted)
 		2.27%	      1 Fighter (Assassin's Greed)
-		2.27%	      1 Fighter (Très Chic)
+		2.27%	      1 Fighter (Trï¿½s Chic)
 		2.27%	      1 Fighter (Overclocked)
 		2.27%	      1 Fighter (X-Bot)
 		2.27%	      1 Fighter (Splitting Image)
@@ -2003,7 +2003,7 @@ LootTableSet_Char_ALL_D_2xUM
 		2.56%	      1 Fighter (Love Crafted)
 		2.56%	      1 Fighter (Plot Twisted)
 		2.56%	      1 Fighter (Assassin's Greed)
-		2.56%	      1 Fighter (Très Chic)
+		2.56%	      1 Fighter (Trï¿½s Chic)
 		2.56%	      1 Fighter (Overclocked)
 		2.56%	      1 Fighter (X-Bot)
 		2.56%	      1 Fighter (Splitting Image)
@@ -3162,7 +3162,7 @@ LootTableSet_Hourly_T2
 			11.11%	      1 Move (Bronze, Napalm Shot)
 			11.11%	      1 Move (Bronze, Banishment)
 			11.11%	      1 Move (Bronze, Burst)
-			11.11%	      1 Move (Bronze, Bâillement)
+			11.11%	      1 Move (Bronze, Bï¿½illement)
 			11.11%	      1 Move (Bronze, Egret Call)
 			11.11%	      1 Move (Bronze, Egret Moto)
 			11.11%	      1 Move (Bronze, Napalm Toss)
@@ -3483,7 +3483,7 @@ LootTableSet_Hourly_T3
 			11.11%	      1 Move (Silver, Napalm Shot)
 			11.11%	      1 Move (Silver, Banishment)
 			11.11%	      1 Move (Silver, Burst)
-			11.11%	      1 Move (Silver, Bâillement)
+			11.11%	      1 Move (Silver, Bï¿½illement)
 			11.11%	      1 Move (Silver, Egret Call)
 			11.11%	      1 Move (Silver, Egret Moto)
 			11.11%	      1 Move (Silver, Napalm Toss)
@@ -4612,7 +4612,7 @@ LootTableSet_SocialGifts_Gold
 			16.67%	  10000 Canopy Coins
 			16.67%	      1 Randomized (SP 20, Random)
 			16.67%	     10 Rift Coins
-			16.67%	      1 Relic (Premiere Relic, ID: 17107)
+			16.67%	      1 Relic (Premiere Relic)
 			33.33%	      1 Consumable (XP Treat (Large))
 			Subtotal Weight: 6
 		2.99%	      1 Randomized (LootTable_SocialGifts_Gold_T4)
@@ -4777,7 +4777,7 @@ LootTableSet_Standard_SM_B
 			11.11%	      1 Move (Bronze, Napalm Shot)
 			11.11%	      1 Move (Bronze, Banishment)
 			11.11%	      1 Move (Bronze, Burst)
-			11.11%	      1 Move (Bronze, Bâillement)
+			11.11%	      1 Move (Bronze, Bï¿½illement)
 			11.11%	      1 Move (Bronze, Egret Call)
 			11.11%	      1 Move (Bronze, Egret Moto)
 			11.11%	      1 Move (Bronze, Napalm Toss)
@@ -5098,7 +5098,7 @@ LootTableSet_Standard_SM_G
 			11.11%	      1 Move (Gold, Napalm Shot)
 			11.11%	      1 Move (Gold, Banishment)
 			11.11%	      1 Move (Gold, Burst)
-			11.11%	      1 Move (Gold, Bâillement)
+			11.11%	      1 Move (Gold, Bï¿½illement)
 			11.11%	      1 Move (Gold, Egret Call)
 			11.11%	      1 Move (Gold, Egret Moto)
 			11.11%	      1 Move (Gold, Napalm Toss)
@@ -5419,7 +5419,7 @@ LootTableSet_Standard_SM_S
 			11.11%	      1 Move (Silver, Napalm Shot)
 			11.11%	      1 Move (Silver, Banishment)
 			11.11%	      1 Move (Silver, Burst)
-			11.11%	      1 Move (Silver, Bâillement)
+			11.11%	      1 Move (Silver, Bï¿½illement)
 			11.11%	      1 Move (Silver, Egret Call)
 			11.11%	      1 Move (Silver, Egret Moto)
 			11.11%	      1 Move (Silver, Napalm Toss)
@@ -6443,7 +6443,7 @@ LootTableSet_Char_Spotlight_SpecialForces_S
 		Total Weight: 3
 LootTableSet_Char_Spotlight_SpeedRun_D
 	 LootTable_Var_Spotlight_SpeedRun_D
-		100.00%	      1 Fighter (Très Chic)
+		100.00%	      1 Fighter (Trï¿½s Chic)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_SpeedRun_D_2024
 	 LootTable_Var_Spotlight_SpeedRun_D_2024
@@ -6637,7 +6637,7 @@ LootTableSet_Char_Valentine_Var_B
 LootTableSet_Char_Valentine_Var_D
 	 LootTable_Char_Valentine_Var_D
 		33.33%	      1 Fighter (Assassin's Greed)
-		33.33%	      1 Fighter (Très Chic)
+		33.33%	      1 Fighter (Trï¿½s Chic)
 		33.33%	      1 Fighter (Wetwork)
 		Total Weight: 3
 LootTableSet_Char_Valentine_Var_G
