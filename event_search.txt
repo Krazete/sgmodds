@@ -4264,7 +4264,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -4274,7 +4274,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -4284,7 +4284,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -4297,32 +4297,32 @@ SCOREBASED REWARDS:
 	    500 Elemental Shards (Dark)
 	      1 Relic (Legendary Relic)
 	Tier 13:
-	      1 Relic (Nightmare Relic)
+	      1 Relic (Nightmare Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
 	Tier 1:
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
 	Tier 2:
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
 	Tier 3:
 	      1 Fighter (Necrobreaker)
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
 RANK REWARDS:
 	Tier 0:
 	      1 Fighter (Necrobreaker)
 	      1 Key (Diamond)
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
-	      1 Relic (Spooky Relic (2023))
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
 
 pf-paddys
 Craic Some Heads ()
@@ -4802,6 +4802,8 @@ PLAYER MODIFIERS:
 	[Light Element Fighters]: RESURRECT with 25.0% HEALTH and FINAL STAND for 15.0 seconds after being dead for 60.0 seconds.
 	LET IT SNOW
 	[Water Element Fighters]: Gain ARMOR for 3.0 seconds when suffering a HIT that deals less than 1.0% MAX HEALTH.
+	ALL IS CALM
+	[Neutral Element Fighters]: Using a SPECIAL MOVE will convert up to 2 DEBUFFS into BARRIER.
 ENEMY MODIFIERS:
 	SLAY BELLS
 	[Fire Element Fighters]: Gain ENRAGE for 5.0 seconds every 3.0 seconds not suffering a hit (includes blocked hits). ENRAGE is removed when HIT.
@@ -4813,6 +4815,8 @@ ENEMY MODIFIERS:
 	[Light Element Fighters]: RESURRECT with 25.0% HEALTH and FINAL STAND for 15.0 seconds after being dead for 60.0 seconds.
 	LET IT SNOW
 	[Water Element Fighters]: Gain ARMOR for 3.0 seconds when suffering a HIT that deals less than 1.0% MAX HEALTH.
+	ALL IS CALM
+	[Neutral Element Fighters]: Using a SPECIAL MOVE will convert up to 2 DEBUFFS into BARRIER.
 minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
@@ -4985,7 +4989,7 @@ RANK REWARDS:
 	      1 Relic (Gold Move Relic)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 16141},
+ 'character': {'m_FileID': 0, 'm_PathID': 16183},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -4994,7 +4998,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 17249},
+ 'reel': {'m_FileID': 0, 'm_PathID': 17345},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
@@ -5210,7 +5214,7 @@ SCOREBASED REWARDS:
 	     30 Theonite
 	  22500 Canopy Coins
 	Tier 3:
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
@@ -5220,7 +5224,7 @@ SCOREBASED REWARDS:
 	     60 Theonite
 	  76000 Canopy Coins
 	Tier 6:
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
 	     70 Theonite
 	 114000 Canopy Coins
 	Tier 7:
@@ -5230,7 +5234,7 @@ SCOREBASED REWARDS:
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
@@ -5248,27 +5252,27 @@ SCOREBASED REWARDS:
 	      1 Relic (Dressed Up Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
 	Tier 1:
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
 	Tier 2:
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
 	Tier 3:
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
-	      1 Relic (Harvest Moon Relic (2023))
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
+	      1 Relic (Harvest Moon Relic)
 
 pf-valDay
 Roses Are Red, Violence Is Due ()
