@@ -4328,11 +4328,11 @@ pf-paddys
 Craic Some Heads ()
 PLAYER MODIFIERS:
 	LUCK OF THE IRISH
-	[Air Element Fighters]: Gain 1 stack of PRECISION every 3 seconds.
-	CRITICAL HITS have a 20.000000% chance to grant REGEN for 10.0 seconds.
+	[Air Element Fighters]: Gain either DEADEYE, ENRAGE or HEAVY REGEN for 1 seconds every 3 seconds.
+	CHARGE ATTACK HITS have a 20.000000% chance of granting 10.0 stacks of MIASMA.
 ENEMY MODIFIERS:
 	SAINTS AND SCHOLARS
-	Gain a BUFF every 10.0 seconds and at the start of the match. The BUFF gained lasts for 10.0 seconds and cycles between FINAL STAND and IMMUNITY.
+	Gain a BUFF every 10.0 seconds and at the start of the match. The BUFF gained lasts for 10.0 seconds and cycles between BLESSING or FINAL STAND and UNFLINCHING or IMMUNITY.
 	
 minScore: 100000
 SCOREBASED REWARDS:
@@ -4833,6 +4833,7 @@ SCOREBASED REWARDS:
 	     40 Theonite
 	  34000 Canopy Coins
 	Tier 4:
+	      1 Relic (Guest Star Relic)
 	     50 Theonite
 	  50000 Canopy Coins
 	Tier 5:
@@ -4846,6 +4847,8 @@ SCOREBASED REWARDS:
 	     80 Theonite
 	 171000 Canopy Coins
 	Tier 8:
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
 	     90 Theonite
 	 256000 Canopy Coins
 	Tier 9:
@@ -4878,18 +4881,23 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 	Tier 0:
 	      1 Relic (Ornamental Relic)
+	      1 Relic (Guest Star Relic)
 	Tier 1:
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
+	      1 Relic (Guest Star Relic)
 	Tier 2:
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
+	      1 Relic (Guest Star Relic)
 	Tier 3:
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
 RANK REWARDS:
 	Tier 0:
 	      1 Relic (Ornamental Relic)
@@ -4897,6 +4905,9 @@ RANK REWARDS:
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
 	      1 Relic (Ornamental Relic)
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
 	      1 Key (Diamond)
 
 pf-moves
@@ -4989,7 +5000,7 @@ RANK REWARDS:
 	      1 Relic (Gold Move Relic)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 16183},
+ 'character': {'m_FileID': 0, 'm_PathID': 16726},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -4998,7 +5009,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 17345},
+ 'reel': {'m_FileID': 0, 'm_PathID': 17889},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
@@ -5353,6 +5364,66 @@ RANK REWARDS:
 	      1 Relic (Lovestruck Relic)
 	      1 Relic (Lovestruck Relic)
 	      1 Relic (Lovestruck Relic)
+
+pf-assists
+Seeing Stars ()
+PLAYER MODIFIERS:
+	DEBUTING IN STYLE
+	When using a GUEST STAR, remove a number of DEBUFFS and grant a number of BUFFS for 20.0 seconds equal to the GUEST STAR'S TIER.
+	
+	
+	
+	
+	
+	FALLING FLAT
+	After every 12.0 seconds while not using a GUEST STAR, suffer a random DEBUFF for 12.0 seconds.
+ENEMY MODIFIERS:
+	DEBUTING IN STYLE
+	When using a GUEST STAR, remove a number of DEBUFFS and grant a number of BUFFS for 20.0 seconds equal to the GUEST STAR'S TIER.
+	
+	
+	
+	
+	
+minScore: 250000
+SCOREBASED REWARDS:
+	Tier 0:
+	     25 Stardusts
+	Tier 1:
+	     25 Stardusts
+	      1 Relic (Guest Star Relic)
+	Tier 2:
+	     50 Stardusts
+	Tier 3:
+	      1 Relic (Guest Star Relic)
+	     50 Stardusts
+	Tier 4:
+	     75 Stardusts
+	Tier 5:
+	      1 Relic (Guest Star Relic)
+	     75 Stardusts
+	Tier 6:
+	    100 Stardusts
+	      1 Relic (Guest Star Relic)
+	Tier 7:
+	      1 Relic (Guest Star Relic)
+	    200 Stardusts
+	      1 Universal Retake
+PERCENTILE REWARDS:
+	Tier 0:
+	     50 Stardusts
+	      1 Relic (Guest Star Relic)
+	Tier 1:
+	    100 Stardusts
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
+RANK REWARDS:
+	Tier 0:
+	    200 Stardusts
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
+	      1 Relic (Guest Star Relic)
+	      1 Universal Retake
 
 pf-cradle-b
 A Head of the Game (Bronze)
