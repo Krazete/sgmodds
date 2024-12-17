@@ -165,9 +165,10 @@ Loose Cannon Relic (Gacha_109_Char_Dahlia_Token)
 		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
-		50.00%	      1 Fighter (Fur Monger)
-		50.00%	      1 Fighter (Unholy Host)
-		Subtotal Weight: 2
+		33.33%	      1 Fighter (Fur Monger)
+		33.33%	      1 Fighter (Unholy Host)
+		33.33%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 3
 	Total Weight: 200
 Ringleader Relic (Gacha_10_Char_Cerebella)
 	82.0% Chance
@@ -216,9 +217,10 @@ Loose Cannon Relic (Gacha_110_Char_Dahlia)
 		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
-		50.00%	      1 Fighter (Fur Monger)
-		50.00%	      1 Fighter (Unholy Host)
-		Subtotal Weight: 2
+		33.33%	      1 Fighter (Fur Monger)
+		33.33%	      1 Fighter (Unholy Host)
+		33.33%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 3
 	Total Weight: 200
 Veiled Premiere Relic (Gacha_111_Premiere_Dahlia)
 	82.0% Chance
@@ -523,9 +525,10 @@ Loose Cannon Relic (50% OFF!) (Gacha_116_Char_Dahlia_Sale)
 		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
-		50.00%	      1 Fighter (Fur Monger)
-		50.00%	      1 Fighter (Unholy Host)
-		Subtotal Weight: 2
+		33.33%	      1 Fighter (Fur Monger)
+		33.33%	      1 Fighter (Unholy Host)
+		33.33%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 3
 	Total Weight: 200
 Retake Relic (Gacha_117_Reroll)
 	100.0% Chance
@@ -813,9 +816,10 @@ Top Brass Relic (Gacha_11_Char_BigBand)
 		Subtotal Weight: 3
 	Total Weight: 200
 	0.5% Chance
-		50.00%	      1 Fighter (Heavy Metal)
-		50.00%	      1 Fighter (Dream Band)
-		Subtotal Weight: 2
+		33.33%	      1 Fighter (Heavy Metal)
+		33.33%	      1 Fighter (Dream Band)
+		33.33%	      1 Fighter (Brass Bandit)
+		Subtotal Weight: 3
 	Total Weight: 200
 Speed Run Spotlight Relic (2023) (Gacha_120_Spotlight_SpeedRun)
 	90.0% Chance
@@ -1193,11 +1197,12 @@ Resurrection Relic (Gacha_139_Char_Marie)
 		Subtotal Weight: 3
 	Total Weight: 200
 	3.5% Chance
-		25.00%	      1 Fighter (Dark Horse)
-		25.00%	      1 Fighter (Gravedigger)
-		25.00%	      1 Fighter (Gust Buster)
-		25.00%	      1 Fighter (Octoplasm)
-		Subtotal Weight: 4
+		20.00%	      1 Fighter (Dark Horse)
+		20.00%	      1 Fighter (Gravedigger)
+		20.00%	      1 Fighter (Gust Buster)
+		20.00%	      1 Fighter (Octoplasm)
+		20.00%	      1 Fighter (Grin Reaper)
+		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
 		50.00%	      1 Fighter (Heartless)
@@ -1222,11 +1227,12 @@ Resurrection Relic (Gacha_140_Char_Marie_Token)
 		Subtotal Weight: 3
 	Total Weight: 200
 	3.5% Chance
-		25.00%	      1 Fighter (Dark Horse)
-		25.00%	      1 Fighter (Gravedigger)
-		25.00%	      1 Fighter (Gust Buster)
-		25.00%	      1 Fighter (Octoplasm)
-		Subtotal Weight: 4
+		20.00%	      1 Fighter (Dark Horse)
+		20.00%	      1 Fighter (Gravedigger)
+		20.00%	      1 Fighter (Gust Buster)
+		20.00%	      1 Fighter (Octoplasm)
+		20.00%	      1 Fighter (Grin Reaper)
+		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
 		50.00%	      1 Fighter (Heartless)
@@ -1246,11 +1252,12 @@ Resurrection Relic (50% OFF!) (Gacha_141_Char_Marie_Sale)
 		Subtotal Weight: 3
 	Total Weight: 200
 	3.5% Chance
-		25.00%	      1 Fighter (Dark Horse)
-		25.00%	      1 Fighter (Gravedigger)
-		25.00%	      1 Fighter (Gust Buster)
-		25.00%	      1 Fighter (Octoplasm)
-		Subtotal Weight: 4
+		20.00%	      1 Fighter (Dark Horse)
+		20.00%	      1 Fighter (Gravedigger)
+		20.00%	      1 Fighter (Gust Buster)
+		20.00%	      1 Fighter (Octoplasm)
+		20.00%	      1 Fighter (Grin Reaper)
+		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
 		50.00%	      1 Fighter (Heartless)
@@ -1484,7 +1491,7 @@ Enhanced Wishful Premiere Relic (Gacha_142_Premiere_Marie_Sub)
 		4.55%	      1 Fighter (Heartless)
 		Subtotal Weight: 44
 	Total Weight: 200
-High Resolution Relic (Gacha_143_HighResolution_2024)
+High Resolution Relic (2024) (Gacha_143_HighResolution_2024)
 	90.0% Chance
 		8.33%	      1 Fighter (Number One)
 		8.33%	      1 Fighter (Soul Crusher)
@@ -1512,7 +1519,7 @@ High Resolution Relic (Gacha_143_HighResolution_2024)
 		33.33%	      1 Fighter (Heavy Handed)
 		Subtotal Weight: 3
 	Total Weight: 100
-Debutante Diamond Relic (Gacha_144_Debutante_Diamond_2024)
+Debutante Diamond Relic (2024) (Gacha_144_Debutante_Diamond_2024)
 	100.0% Chance
 		20.00%	      1 Fighter (Apex Complex)
 		20.00%	      1 Fighter (Summer Salt)
@@ -1521,7 +1528,7 @@ Debutante Diamond Relic (Gacha_144_Debutante_Diamond_2024)
 		20.00%	      1 Fighter (Class Cutter)
 		Subtotal Weight: 5
 	Total Weight: 90
-Lovestruck Relic (Gacha_145_LoveStruck_2024)
+Lovestruck Relic (2024) (Gacha_145_LoveStruck_2024)
 	90.0% Chance
 		8.33%	      1 Fighter (Triple Threat)
 		8.33%	      1 Fighter (Wrestler X)
@@ -1549,7 +1556,7 @@ Lovestruck Relic (Gacha_145_LoveStruck_2024)
 		33.33%	      1 Fighter (Overclocked)
 		Subtotal Weight: 3
 	Total Weight: 100
-Heartbreaker Diamond Relic (Gacha_146_Heartbreaker_Diamond_2024)
+Heartbreaker Diamond Relic (2024) (Gacha_146_Heartbreaker_Diamond_2024)
 	100.0% Chance
 		20.00%	      1 Fighter (Seraph Soldier)
 		20.00%	      1 Fighter (Love Crafted)
@@ -1558,7 +1565,7 @@ Heartbreaker Diamond Relic (Gacha_146_Heartbreaker_Diamond_2024)
 		20.00%	      1 Fighter (Furry Fury)
 		Subtotal Weight: 5
 	Total Weight: 100
-Shamrock Relic (Gacha_147_Shamrock_2024)
+Shamrock Relic (2024) (Gacha_147_Shamrock_2024)
 	90.0% Chance
 		8.33%	      1 Fighter (Galactic Glamour)
 		8.33%	      1 Fighter (Treble Maker)
@@ -1586,7 +1593,7 @@ Shamrock Relic (Gacha_147_Shamrock_2024)
 		33.33%	      1 Fighter (Wind Stalker)
 		Subtotal Weight: 3
 	Total Weight: 100
-Tree of Life Diamond Relic (Gacha_148_TreeOfLife_Diamond_2024)
+Tree of Life Diamond Relic (2024) (Gacha_148_TreeOfLife_Diamond_2024)
 	100.0% Chance
 		20.00%	      1 Fighter (Ogre Achiever)
 		20.00%	      1 Fighter (Megalomaniac)
@@ -1766,7 +1773,7 @@ Duality Spotlight Relic (Gacha_158_Spotlight_Duality_2024)
 		100.00%	      1 Fighter (Altar Ego)
 		Subtotal Weight: 1
 	Total Weight: 100
-Interstellar Spotlight Relic (Gacha_159_Spotlight_Interstellar_2024)
+Interstellar Spotlight Relic (2024) (Gacha_159_Spotlight_Interstellar_2024)
 	90.0% Chance
 		33.33%	      1 Fighter (Number One)
 		33.33%	      1 Fighter (Triple Threat)
@@ -1794,12 +1801,13 @@ Hieroglyphic Relic (Gacha_15_Char_Eliza)
 		Subtotal Weight: 3
 	Total Weight: 200
 	3.5% Chance
-		25.00%	      1 Fighter (Bloodbath)
-		25.00%	      1 Fighter (Diva Intervention)
-		25.00%	      1 Fighter (Red Velvet)
-		25.00%	      1 Fighter (Lapis Luxury)
+		20.00%	      1 Fighter (Bloodbath)
+		20.00%	      1 Fighter (Diva Intervention)
+		20.00%	      1 Fighter (Red Velvet)
+		20.00%	      1 Fighter (Lapis Luxury)
 		0.00%	      1 Fighter (Inner Pieces)
-		Subtotal Weight: 4
+		20.00%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
 		50.00%	      1 Fighter (Stand Out)
@@ -1932,7 +1940,7 @@ Homecoming Diamond Relic (Gacha_166_Homecoming_Diamond_2024)
 		20.00%	      1 Fighter (Wetwork)
 		Subtotal Weight: 5
 	Total Weight: 100
-Distorted Spotlight Relic (Gacha_167_Spotlight_Distorted_2024)
+Distorted Spotlight Relic (2024) (Gacha_167_Spotlight_Distorted_2024)
 	90.0% Chance
 		33.33%	      1 Fighter (Rage Appropriate)
 		33.33%	      1 Fighter (Robocopy)
@@ -2162,4 +2170,3856 @@ Silent Night Spotlight Relic (Gacha_178_Spotlight_SilentNight_2024)
 	Total Weight: 100
 Guest Star Relic (Gacha_179_AssistMoves)
 	100.0% Chance
-		2.50%
+		2.50%	      1 Guest Star (Minette, Get Kraken)
+		2.50%	      1 Guest Star (Minette, Get Kraken)
+		2.50%	      1 Guest Star (Minette, Get Kraken)
+		2.50%	      1 Guest Star (Minette, Get Kraken)
+		2.50%	      1 Guest Star (Minette, Get Kraken)
+		2.50%	      1 Guest Star (Minette, Will It Blend?)
+		2.50%	      1 Guest Star (Minette, Will It Blend?)
+		2.50%	      1 Guest Star (Minette, Will It Blend?)
+		2.50%	      1 Guest Star (Minette, Will It Blend?)
+		2.50%	      1 Guest Star (Minette, Will It Blend?)
+		2.50%	      1 Guest Star (Minette, Dim Sum Delivery)
+		2.50%	      1 Guest Star (Minette, Dim Sum Delivery)
+		2.50%	      1 Guest Star (Minette, Dim Sum Delivery)
+		2.50%	      1 Guest Star (Minette, Dim Sum Delivery)
+		2.50%	      1 Guest Star (Minette, Dim Sum Delivery)
+		2.50%	      1 Guest Star (Minette, CHOMP!)
+		2.50%	      1 Guest Star (Minette, CHOMP!)
+		2.50%	      1 Guest Star (Minette, CHOMP!)
+		2.50%	      1 Guest Star (Minette, CHOMP!)
+		2.50%	      1 Guest Star (Minette, CHOMP!)
+		2.50%	      1 Guest Star (BrainDrain, Head Trauma)
+		2.50%	      1 Guest Star (BrainDrain, Head Trauma)
+		2.50%	      1 Guest Star (BrainDrain, Head Trauma)
+		2.50%	      1 Guest Star (BrainDrain, Head Trauma)
+		2.50%	      1 Guest Star (BrainDrain, Head Trauma)
+		2.50%	      1 Guest Star (BrainDrain, Psychic Jumble)
+		2.50%	      1 Guest Star (BrainDrain, Psychic Jumble)
+		2.50%	      1 Guest Star (BrainDrain, Psychic Jumble)
+		2.50%	      1 Guest Star (BrainDrain, Psychic Jumble)
+		2.50%	      1 Guest Star (BrainDrain, Psychic Jumble)
+		2.50%	      1 Guest Star (BrainDrain, Mech Support)
+		2.50%	      1 Guest Star (BrainDrain, Mech Support)
+		2.50%	      1 Guest Star (BrainDrain, Mech Support)
+		2.50%	      1 Guest Star (BrainDrain, Mech Support)
+		2.50%	      1 Guest Star (BrainDrain, Mech Support)
+		2.50%	      1 Guest Star (BrainDrain, Brainstorm)
+		2.50%	      1 Guest Star (BrainDrain, Brainstorm)
+		2.50%	      1 Guest Star (BrainDrain, Brainstorm)
+		2.50%	      1 Guest Star (BrainDrain, Brainstorm)
+		2.50%	      1 Guest Star (BrainDrain, Brainstorm)
+		Subtotal Weight: 40
+	Total Weight: 1
+Tortured Relic (Gacha_17_Char_Painwheel)
+	82.0% Chance
+		50.00%	      1 Fighter (Rusty)
+		50.00%	      1 Fighter (Twisted Mettle)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Blood Drive)
+		33.33%	      1 Fighter (Rage Appropriate)
+		33.33%	      1 Fighter (Freaky Friday)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Buzzkill)
+		25.00%	      1 Fighter (Firefly)
+		25.00%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		25.00%	      1 Fighter (Biting Cold)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Fly Trap)
+		33.33%	      1 Fighter (Neuromancer)
+		33.33%	      1 Fighter (Web Crawler)
+		Subtotal Weight: 3
+	Total Weight: 200
+High Resolution Relic (Gacha_180_HighResolution_2025)
+	90.0% Chance
+		8.33%	      1 Fighter (Number One)
+		8.33%	      1 Fighter (Vintage Virtuoso)
+		8.33%	      1 Fighter (Lethal Weapon)
+		8.33%	      1 Fighter (Toad Warrior)
+		8.33%	      1 Fighter (Temple Tyrant)
+		8.33%	      1 Fighter (Tomb & Gloom)
+		8.33%	      1 Fighter (Hair Apparent)
+		8.33%	      1 Fighter (Purrfect Dark)
+		8.33%	      1 Fighter (Ivy League)
+		8.33%	      1 Fighter (Inkling)
+		8.33%	      1 Fighter (Nyanotech)
+		8.33%	      1 Fighter (Kill Joy)
+		Subtotal Weight: 12
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Wave Warrior)
+		33.33%	      1 Fighter (Wunderkind)
+		33.33%	      1 Fighter (Gravedigger)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Glacial Ghoul)
+		33.33%	      1 Fighter (Neuromancer)
+		33.33%	      1 Fighter (Shadow Puppet)
+		Subtotal Weight: 3
+	Total Weight: 100
+Debutante Diamond Relic (Gacha_181_Debutante_Diamond_2025)
+	100.0% Chance
+		20.00%	      1 Fighter (Glacial Ghoul)
+		20.00%	      1 Fighter (Neuromancer)
+		20.00%	      1 Fighter (Shadow Puppet)
+		20.00%	      1 Fighter (Jawbreaker)
+		20.00%	      1 Fighter (Risky Ginger)
+		Subtotal Weight: 5
+	Total Weight: 100
+Lovestruck Relic (Gacha_182_LoveStruck_2025)
+	90.0% Chance
+		8.33%	      1 Fighter (Ninja Star)
+		8.33%	      1 Fighter (Wrestler X)
+		8.33%	      1 Fighter (Big Top)
+		8.33%	      1 Fighter (Myst-Match)
+		8.33%	      1 Fighter (Souls Sister)
+		8.33%	      1 Fighter (Maid of Honor)
+		8.33%	      1 Fighter (Feline Lucky)
+		8.33%	      1 Fighter (Freaky Friday)
+		8.33%	      1 Fighter (Wildcard)
+		8.33%	      1 Fighter (Gang Green)
+		8.33%	      1 Fighter (Rose-Tinted)
+		8.33%	      1 Fighter (Graveyard Shift)
+		Subtotal Weight: 12
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Stellar Huntress)
+		33.33%	      1 Fighter (High Ruler)
+		33.33%	      1 Fighter (Idol Threat)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Don Passione)
+		33.33%	      1 Fighter (Overclocked)
+		33.33%	      1 Fighter (Heavy Metal)
+		Subtotal Weight: 3
+	Total Weight: 100
+Heartbreaker Diamond Relic (Gacha_183_Heartbreaker_Diamond_2025)
+	100.0% Chance
+		20.00%	      1 Fighter (Don Passione)
+		20.00%	      1 Fighter (Overclocked)
+		20.00%	      1 Fighter (Heavy Metal)
+		20.00%	      1 Fighter (Eager Deceiver)
+		20.00%	      1 Fighter (Fur Monger)
+		Subtotal Weight: 5
+	Total Weight: 100
+Shamrock Relic (Gacha_184_Shamrock_2025)
+	90.0% Chance
+		8.33%	      1 Fighter (Triple Threat)
+		8.33%	      1 Fighter (Hype Man)
+		8.33%	      1 Fighter (Soul Crusher)
+		8.33%	      1 Fighter (Doublicious)
+		8.33%	      1 Fighter (Bloody Valentine)
+		8.33%	      1 Fighter (Chameleon Twist)
+		8.33%	      1 Fighter (Snake Charmer)
+		8.33%	      1 Fighter (Ms. Trial)
+		8.33%	      1 Fighter (No Egrets)
+		8.33%	      1 Fighter (Pea Shooter)
+		8.33%	      1 Fighter (Nearly Departed)
+		8.33%	      1 Fighter (Candy Crusher)
+		Subtotal Weight: 12
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Rhythm Rider)
+		33.33%	      1 Fighter (Persona Assistant)
+		33.33%	      1 Fighter (Armed Forces)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Shear Force)
+		33.33%	      1 Fighter (Fly Trap)
+		33.33%	      1 Fighter (Assassin's Greed)
+		Subtotal Weight: 3
+	Total Weight: 100
+Tree of Life Diamond Relic (Gacha_185_TreeOfLife_Diamond_2025)
+	100.0% Chance
+		20.00%	      1 Fighter (Shear Force)
+		20.00%	      1 Fighter (Fly Trap)
+		20.00%	      1 Fighter (Assassin's Greed)
+		20.00%	      1 Fighter (Freeze Frame)
+		20.00%	      1 Fighter (Mummy Dearest)
+		Subtotal Weight: 5
+	Total Weight: 100
+Heroic Spotlight Relic (Gacha_186_Spotlight_Heroic_2025)
+	90.0% Chance
+		33.33%	      1 Fighter (Phantom Wrangler)
+		33.33%	      1 Fighter (Dame Slayer)
+		33.33%	      1 Fighter (Ms. Trial)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Time Thief)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Seraph Soldier)
+		Subtotal Weight: 1
+	Total Weight: 100
+Interstellar Spotlight Relic (Gacha_187_Spotlight_Interstellar_2025)
+	90.0% Chance
+		33.33%	      1 Fighter (Galactic Glamour)
+		33.33%	      1 Fighter (Number One)
+		33.33%	      1 Fighter (Gray Matter)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Cosmic Rebel)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Dream Catcher)
+		Subtotal Weight: 1
+	Total Weight: 100
+Distorted Spotlight Relic (Gacha_188_Spotlight_Distorted_2025)
+	90.0% Chance
+		33.33%	      1 Fighter (Inkling)
+		33.33%	      1 Fighter (Dead Heat)
+		33.33%	      1 Fighter (Bad Ms Frosty)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Dead of Winter)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Apex Complex)
+		Subtotal Weight: 1
+	Total Weight: 100
+Hand-Drawn Relic (Gacha_18_Char_Peacock)
+	82.0% Chance
+		50.00%	      1 Fighter (Rerun)
+		50.00%	      1 Fighter (Sketchy)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Inkling)
+		25.00%	      1 Fighter (Pea Shooter)
+		25.00%	      1 Fighter (Wildcard)
+		25.00%	      1 Fighter (Prism Plumage)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (That's All Folks!)
+		20.00%	      1 Fighter (Ultraviolent)
+		20.00%	      1 Fighter (Untouchable)
+		20.00%	      1 Fighter (Mean One)
+		20.00%	      1 Fighter (Primal Prodigy)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Freeze Frame)
+		33.33%	      1 Fighter (Dream Catcher)
+		33.33%	      1 Fighter (Deal Breaker)
+		Subtotal Weight: 3
+	Total Weight: 200
+Silver Fighter Relic (Gacha_19_Silver)
+	100.0% Chance
+		1.75%	      1 Fighter (Hype Man)
+		1.75%	      1 Fighter (Number One)
+		1.75%	      1 Fighter (Wrestler X)
+		1.75%	      1 Fighter (Resonant Evil)
+		1.75%	      1 Fighter (Robocopy)
+		1.75%	      1 Fighter (Treble Maker)
+		1.75%	      1 Fighter (Big Top)
+		1.75%	      1 Fighter (Gray Matter)
+		1.75%	      1 Fighter (Toad Warrior)
+		1.75%	      1 Fighter (Doublicious)
+		1.75%	      1 Fighter (Myst-Match)
+		1.75%	      1 Fighter (Temple Tyrant)
+		1.75%	      1 Fighter (Bloody Valentine)
+		1.75%	      1 Fighter (Scarlet Viper)
+		1.75%	      1 Fighter (Tomb & Gloom)
+		1.75%	      1 Fighter (Bad Ms Frosty)
+		1.75%	      1 Fighter (Hair Apparent)
+		1.75%	      1 Fighter (Rock Star)
+		1.75%	      1 Fighter (Feline Lucky)
+		1.75%	      1 Fighter (Ms. Trial)
+		1.75%	      1 Fighter (Purrfect Dark)
+		1.75%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Rage Appropriate)
+		1.75%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Ivy League)
+		1.75%	      1 Fighter (No Egrets)
+		1.75%	      1 Fighter (Shadow Ops)
+		1.75%	      1 Fighter (Inkling)
+		1.75%	      1 Fighter (Pea Shooter)
+		1.75%	      1 Fighter (Wildcard)
+		1.75%	      1 Fighter (Blue Bomber)
+		1.75%	      1 Fighter (Nyanotech)
+		1.75%	      1 Fighter (Purrminator)
+		1.75%	      1 Fighter (Dead Heat)
+		1.75%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		1.75%	      1 Fighter (Graveyard Shift)
+		1.75%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		1.75%	      1 Fighter (Souls Sister)
+		1.75%	      1 Fighter (Rain Shadow)
+		1.75%	      1 Fighter (Chameleon Twist)
+		1.75%	      1 Fighter (Galactic Glamour)
+		1.75%	      1 Fighter (Ninja Star)
+		1.75%	      1 Fighter (Triple Threat)
+		1.75%	      1 Fighter (Gang Green)
+		1.75%	      1 Fighter (Prism Plumage)
+		1.75%	      1 Fighter (Vintage Virtuoso)
+		1.75%	      1 Fighter (Vector Protector)
+		1.75%	      1 Fighter (Candy Crusher)
+		1.75%	      1 Fighter (Puddle Pirate)
+		1.75%	      1 Fighter (Rose-Tinted)
+		1.75%	      1 Fighter (Wild Child)
+		1.75%	      1 Fighter (Dame Slayer)
+		1.75%	      1 Fighter (Lethal Weapon)
+		1.75%	      1 Fighter (Soul Crusher)
+		1.75%	      1 Fighter (Maid of Honor)
+		1.75%	      1 Fighter (Phantom Wrangler)
+		1.75%	      1 Fighter (Snake Charmer)
+		Subtotal Weight: 57
+	Total Weight: 100
+Royalty Relic (Gacha_20_Char_Parasoul)
+	82.0% Chance
+		50.00%	      1 Fighter (Sheltered)
+		50.00%	      1 Fighter (Heavy Reign)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Ivy League)
+		33.33%	      1 Fighter (No Egrets)
+		33.33%	      1 Fighter (Shadow Ops)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Primed)
+		20.00%	      1 Fighter (Princess Pride)
+		20.00%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		20.00%	      1 Fighter (High Ruler)
+		20.00%	      1 Fighter (Indomitable)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Summer Salt)
+		33.33%	      1 Fighter (Risky Ginger)
+		33.33%	      1 Fighter (Bombshell)
+		Subtotal Weight: 3
+	Total Weight: 200
+Smackdown Relic (Gacha_21_Char_Beowulf)
+	82.0% Chance
+		50.00%	      1 Fighter (Underdog)
+		50.00%	      1 Fighter (Cold Stones)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Hype Man)
+		33.33%	      1 Fighter (Number One)
+		33.33%	      1 Fighter (Wrestler X)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Dragon Brawler)
+		25.00%	      1 Fighter (Weekend Warrior)
+		25.00%	      1 Fighter (Wulfsbane)
+		25.00%	      1 Fighter (Freedom Fighter)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Dark Might)
+		25.00%	      1 Fighter (Snake Bite)
+		25.00%	      1 Fighter (Beast King)
+		25.00%	      1 Fighter (Ogre Achiever)
+		Subtotal Weight: 4
+	Total Weight: 200
+Schrödinger's Relic (Gacha_22_Char_MsFortune)
+	82.0% Chance
+		50.00%	      1 Fighter (Just Kitten)
+		50.00%	      1 Fighter (Hellcat)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Feline Lucky)
+		33.33%	      1 Fighter (Purrfect Dark)
+		33.33%	      1 Fighter (Ms. Trial)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Hack n' Splash)
+		20.00%	      1 Fighter (Meow & Furever)
+		20.00%	      1 Fighter (Claw & Order)
+		20.00%	      1 Fighter (Rogue Agent)
+		20.00%	      1 Fighter (Time Thief)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Furry Fury)
+		33.33%	      1 Fighter (Wind Stalker)
+		33.33%	      1 Fighter (Foot Soldier)
+		Subtotal Weight: 3
+	Total Weight: 200
+Daily Relic (Gacha_2_Daily)
+	19.0% Chance
+		2.78%	      1 Fighter (Underdog)
+		2.78%	      1 Fighter (Cold Stones)
+		2.78%	      1 Fighter (Bassline)
+		2.78%	      1 Fighter (Beat Box)
+		2.78%	      1 Fighter (Understudy)
+		2.78%	      1 Fighter (Headstrong)
+		2.78%	      1 Fighter (Nunsense)
+		2.78%	      1 Fighter (Sundae School)
+		2.78%	      1 Fighter (In Denile)
+		2.78%	      1 Fighter (Decrypted)
+		2.78%	      1 Fighter (Bad Hair Day)
+		2.78%	      1 Fighter (Frayed Ends)
+		2.78%	      1 Fighter (Rusty)
+		2.78%	      1 Fighter (Twisted Mettle)
+		2.78%	      1 Fighter (Sheltered)
+		2.78%	      1 Fighter (Heavy Reign)
+		2.78%	      1 Fighter (Rerun)
+		2.78%	      1 Fighter (Sketchy)
+		2.78%	      1 Fighter (Scrub)
+		2.78%	      1 Fighter (Icy Hot)
+		2.78%	      1 Fighter (Scared Stiff)
+		2.78%	      1 Fighter (Stage Fright)
+		2.78%	      1 Fighter (Just Kitten)
+		2.78%	      1 Fighter (Hellcat)
+		2.78%	      1 Fighter (Prototype)
+		2.78%	      1 Fighter (M-3OW)
+		2.78%	      1 Fighter (Rough Copy)
+		2.78%	      1 Fighter (Infernal Twin)
+		2.78%	      1 Fighter (Solar Flair)
+		2.78%	      1 Fighter (Star Child)
+		2.78%	      1 Fighter (Salty)
+		2.78%	      1 Fighter (Fresh Heir)
+		2.78%	      1 Fighter (Golden Gunner)
+		2.78%	      1 Fighter (Trigger Happy)
+		2.78%	      1 Fighter (Bare Bones)
+		2.78%	      1 Fighter (Moody Magus)
+		Subtotal Weight: 36
+	Total Weight: 100
+	30.0% Chance
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+	Total Weight: 100
+	30.0% Chance
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Oh Mai)
+		Subtotal Weight: 1
+	Total Weight: 100
+	10.0% Chance
+		20.00%	      1 Randomized (Essence Daily, Water)
+		20.00%	      1 Randomized (Essence Daily, Fire)
+		20.00%	      1 Randomized (Essence Daily, Air)
+		20.00%	      1 Randomized (Essence Daily, Light)
+		20.00%	      1 Randomized (Essence Daily, Dark)
+		Subtotal Weight: 5
+	Total Weight: 100
+	10.0% Chance
+		40.00%	      1 Consumable (XP Treat (Medium))
+		40.00%	      2 Consumables (XP Treat (Medium))
+		20.00%	      1 Consumable (XP Treat (Large))
+		Subtotal Weight: 100
+	Total Weight: 100
+Premiere Relic (Gacha_31_Premiere)
+	82.0% Chance
+		2.78%	      1 Fighter (Underdog)
+		2.78%	      1 Fighter (Cold Stones)
+		2.78%	      1 Fighter (Bassline)
+		2.78%	      1 Fighter (Beat Box)
+		2.78%	      1 Fighter (Understudy)
+		2.78%	      1 Fighter (Headstrong)
+		2.78%	      1 Fighter (Nunsense)
+		2.78%	      1 Fighter (Sundae School)
+		2.78%	      1 Fighter (In Denile)
+		2.78%	      1 Fighter (Decrypted)
+		2.78%	      1 Fighter (Bad Hair Day)
+		2.78%	      1 Fighter (Frayed Ends)
+		2.78%	      1 Fighter (Rusty)
+		2.78%	      1 Fighter (Twisted Mettle)
+		2.78%	      1 Fighter (Sheltered)
+		2.78%	      1 Fighter (Heavy Reign)
+		2.78%	      1 Fighter (Rerun)
+		2.78%	      1 Fighter (Sketchy)
+		2.78%	      1 Fighter (Scrub)
+		2.78%	      1 Fighter (Icy Hot)
+		2.78%	      1 Fighter (Scared Stiff)
+		2.78%	      1 Fighter (Stage Fright)
+		2.78%	      1 Fighter (Just Kitten)
+		2.78%	      1 Fighter (Hellcat)
+		2.78%	      1 Fighter (Prototype)
+		2.78%	      1 Fighter (M-3OW)
+		2.78%	      1 Fighter (Rough Copy)
+		2.78%	      1 Fighter (Infernal Twin)
+		2.78%	      1 Fighter (Solar Flair)
+		2.78%	      1 Fighter (Star Child)
+		2.78%	      1 Fighter (Salty)
+		2.78%	      1 Fighter (Fresh Heir)
+		2.78%	      1 Fighter (Golden Gunner)
+		2.78%	      1 Fighter (Trigger Happy)
+		2.78%	      1 Fighter (Bare Bones)
+		2.78%	      1 Fighter (Moody Magus)
+		Subtotal Weight: 36
+	Total Weight: 200
+	14.0% Chance
+		1.75%	      1 Fighter (Hype Man)
+		1.75%	      1 Fighter (Number One)
+		1.75%	      1 Fighter (Wrestler X)
+		1.75%	      1 Fighter (Resonant Evil)
+		1.75%	      1 Fighter (Robocopy)
+		1.75%	      1 Fighter (Treble Maker)
+		1.75%	      1 Fighter (Big Top)
+		1.75%	      1 Fighter (Gray Matter)
+		1.75%	      1 Fighter (Toad Warrior)
+		1.75%	      1 Fighter (Doublicious)
+		1.75%	      1 Fighter (Myst-Match)
+		1.75%	      1 Fighter (Temple Tyrant)
+		1.75%	      1 Fighter (Bloody Valentine)
+		1.75%	      1 Fighter (Scarlet Viper)
+		1.75%	      1 Fighter (Tomb & Gloom)
+		1.75%	      1 Fighter (Bad Ms Frosty)
+		1.75%	      1 Fighter (Hair Apparent)
+		1.75%	      1 Fighter (Rock Star)
+		1.75%	      1 Fighter (Feline Lucky)
+		1.75%	      1 Fighter (Ms. Trial)
+		1.75%	      1 Fighter (Purrfect Dark)
+		1.75%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Rage Appropriate)
+		1.75%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Ivy League)
+		1.75%	      1 Fighter (No Egrets)
+		1.75%	      1 Fighter (Shadow Ops)
+		1.75%	      1 Fighter (Inkling)
+		1.75%	      1 Fighter (Pea Shooter)
+		1.75%	      1 Fighter (Wildcard)
+		1.75%	      1 Fighter (Blue Bomber)
+		1.75%	      1 Fighter (Nyanotech)
+		1.75%	      1 Fighter (Purrminator)
+		1.75%	      1 Fighter (Dead Heat)
+		1.75%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		1.75%	      1 Fighter (Graveyard Shift)
+		1.75%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		1.75%	      1 Fighter (Souls Sister)
+		1.75%	      1 Fighter (Rain Shadow)
+		1.75%	      1 Fighter (Chameleon Twist)
+		1.75%	      1 Fighter (Galactic Glamour)
+		1.75%	      1 Fighter (Ninja Star)
+		1.75%	      1 Fighter (Triple Threat)
+		1.75%	      1 Fighter (Gang Green)
+		1.75%	      1 Fighter (Prism Plumage)
+		1.75%	      1 Fighter (Vintage Virtuoso)
+		1.75%	      1 Fighter (Vector Protector)
+		1.75%	      1 Fighter (Candy Crusher)
+		1.75%	      1 Fighter (Puddle Pirate)
+		1.75%	      1 Fighter (Rose-Tinted)
+		1.75%	      1 Fighter (Wild Child)
+		1.75%	      1 Fighter (Dame Slayer)
+		1.75%	      1 Fighter (Lethal Weapon)
+		1.75%	      1 Fighter (Soul Crusher)
+		1.75%	      1 Fighter (Maid of Honor)
+		1.75%	      1 Fighter (Phantom Wrangler)
+		1.75%	      1 Fighter (Snake Charmer)
+		Subtotal Weight: 57
+	Total Weight: 200
+	3.5% Chance
+		1.22%	      1 Fighter (Dragon Brawler)
+		1.22%	      1 Fighter (Weekend Warrior)
+		1.22%	      1 Fighter (Wulfsbane)
+		1.22%	      1 Fighter (Freedom Fighter)
+		1.22%	      1 Fighter (Epic Sax)
+		1.22%	      1 Fighter (G.I. Jazz)
+		1.22%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.22%	      1 Fighter (Armed Forces)
+		1.22%	      1 Fighter (Brain Freeze)
+		1.22%	      1 Fighter (Harlequin)
+		1.22%	      1 Fighter (Criminal Mind)
+		1.22%	      1 Fighter (Immoral Fiber)
+		1.22%	      1 Fighter (Rainbow Blight)
+		1.22%	      1 Fighter (Xenomorph)
+		1.22%	      1 Fighter (Evergreen Evil)
+		1.22%	      1 Fighter (Bloodbath)
+		1.22%	      1 Fighter (Diva Intervention)
+		1.22%	      1 Fighter (Red Velvet)
+		1.22%	      1 Fighter (Lapis Luxury)
+		1.22%	      1 Fighter (Dread Locks)
+		1.22%	      1 Fighter (Parasite Weave)
+		1.22%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.22%	      1 Fighter (Buzzkill)
+		1.22%	      1 Fighter (Firefly)
+		1.22%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.22%	      1 Fighter (Primed)
+		1.22%	      1 Fighter (Princess Pride)
+		1.22%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.22%	      1 Fighter (That's All Folks!)
+		1.22%	      1 Fighter (Ultraviolent)
+		1.22%	      1 Fighter (Untouchable)
+		1.22%	      1 Fighter (Mean One)
+		1.22%	      1 Fighter (Last Hope)
+		1.22%	      1 Fighter (Silent Kill)
+		1.22%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.22%	      1 Fighter (Bio-Exorcist)
+		1.22%	      1 Fighter (Dead of Winter)
+		1.22%	      1 Fighter (Poltergust)
+		1.22%	      1 Fighter (Thrill Shrieker)
+		1.22%	      1 Fighter (Claw & Order)
+		1.22%	      1 Fighter (Hack n' Splash)
+		1.22%	      1 Fighter (Meow & Furever)
+		1.22%	      1 Fighter (Rogue Agent)
+		1.22%	      1 Fighter (Blue Screen)
+		1.22%	      1 Fighter (Terror Byte)
+		1.22%	      1 Fighter (Head Hunter)
+		1.22%	      1 Fighter (Persona Assistant)
+		1.22%	      1 Fighter (Vaporwave Vixen)
+		1.22%	      1 Fighter (Phantom Threads)
+		1.22%	      1 Fighter (Night Terror)
+		1.22%	      1 Fighter (Feathered Edges)
+		1.22%	      1 Fighter (Ageless Wonder)
+		1.22%	      1 Fighter (Materia Girl)
+		1.22%	      1 Fighter (Moonstruck)
+		1.22%	      1 Fighter (Timeless Hero)
+		1.22%	      1 Fighter (Time Thief)
+		1.22%	      1 Fighter (Biting Cold)
+		1.22%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.22%	      1 Fighter (Blitz & Glamour)
+		1.22%	      1 Fighter (Space Case)
+		1.22%	      1 Fighter (Tidal Traveler)
+		1.22%	      1 Fighter (Wunderkind)
+		1.22%	      1 Fighter (Corrosive Agent)
+		1.22%	      1 Fighter (Martial Outlaw)
+		1.22%	      1 Fighter (Psycommander)
+		1.22%	      1 Fighter (Unfazed)
+		1.22%	      1 Fighter (Dark Horse)
+		1.22%	      1 Fighter (Gravedigger)
+		1.22%	      1 Fighter (Gust Buster)
+		1.22%	      1 Fighter (Octoplasm)
+		1.22%	      1 Fighter (Red Rider)
+		1.22%	      1 Fighter (Final Fang)
+		1.22%	      1 Fighter (Psykid)
+		1.22%	      1 Fighter (Scare Giver)
+		1.22%	      1 Fighter (Primal Prodigy)
+		1.22%	      1 Fighter (Demon Artist)
+		1.22%	      1 Fighter (Cosmic Rebel)
+		1.22%	      1 Fighter (Indomitable)
+		1.22%	      1 Fighter (Buffer Zone)
+		1.22%	      1 Fighter (Curl Scout)
+		1.22%	      1 Fighter (Grin Reaper)
+		1.22%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 82
+	Total Weight: 200
+	0.5% Chance
+		1.85%	      1 Fighter (Dark Might)
+		1.85%	      1 Fighter (Snake Bite)
+		1.85%	      1 Fighter (Heavy Metal)
+		1.85%	      1 Fighter (Dream Band)
+		1.85%	      1 Fighter (Heavy Handed)
+		1.85%	      1 Fighter (Star-Spangled)
+		1.85%	      1 Fighter (Jawbreaker)
+		1.85%	      1 Fighter (Heart of Darkness)
+		1.85%	      1 Fighter (Stand Out)
+		1.85%	      1 Fighter (Mummy Dearest)
+		1.85%	      1 Fighter (Class Cutter)
+		1.85%	      1 Fighter (Djinn Frizz)
+		1.85%	      1 Fighter (Furry Fury)
+		1.85%	      1 Fighter (Wind Stalker)
+		1.85%	      1 Fighter (Fly Trap)
+		1.85%	      1 Fighter (Neuromancer)
+		1.85%	      1 Fighter (Summer Salt)
+		1.85%	      1 Fighter (Risky Ginger)
+		1.85%	      1 Fighter (Freeze Frame)
+		1.85%	      1 Fighter (Dream Catcher)
+		1.85%	      1 Fighter (Love Crafted)
+		1.85%	      1 Fighter (Plot Twisted)
+		1.85%	      1 Fighter (Assassin's Greed)
+		1.85%	      1 Fighter (Très Chic)
+		1.85%	      1 Fighter (Overclocked)
+		1.85%	      1 Fighter (X-Bot)
+		1.85%	      1 Fighter (Splitting Image)
+		1.85%	      1 Fighter (Shadow Puppet)
+		1.85%	      1 Fighter (Fire Branded)
+		1.85%	      1 Fighter (Model Leader)
+		1.85%	      1 Fighter (Star Shine)
+		1.85%	      1 Fighter (Beast King)
+		1.85%	      1 Fighter (Creature of Habit)
+		1.85%	      1 Fighter (Wetwork)
+		1.85%	      1 Fighter (Dream Demon)
+		1.85%	      1 Fighter (Eager Deceiver)
+		1.85%	      1 Fighter (Raining Champ)
+		1.85%	      1 Fighter (Fur Monger)
+		1.85%	      1 Fighter (Unholy Host)
+		1.85%	      1 Fighter (Death Wish)
+		1.85%	      1 Fighter (Heartless)
+		1.85%	      1 Fighter (Megalomaniac)
+		1.85%	      1 Fighter (Blue Streak)
+		1.85%	      1 Fighter (Altar Ego)
+		1.85%	      1 Fighter (Starlight Rose)
+		1.85%	      1 Fighter (Bombshell)
+		1.85%	      1 Fighter (Foot Soldier)
+		1.85%	      1 Fighter (Web Crawler)
+		1.85%	      1 Fighter (Apex Complex)
+		1.85%	      1 Fighter (Seraph Soldier)
+		1.85%	      1 Fighter (Ogre Achiever)
+		1.85%	      1 Fighter (Deal Breaker)
+		1.85%	      1 Fighter (Brass Bandit)
+		1.85%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 54
+	Total Weight: 200
+Bronze Move Relic (Gacha_32_Moves_Bronze)
+	100.0% Chance
+		3.70%	      1 Randomized (SM B, BigBand)
+		3.70%	      1 Randomized (SM B, Cerebella)
+		3.70%	      1 Randomized (SM B, Filia)
+		3.70%	      1 Randomized (SM B, Painwheel)
+		3.70%	      1 Randomized (SM B, Peacock)
+		3.70%	      1 Randomized (SM B, Valentine)
+		3.70%	      1 Randomized (SM B, Parasoul)
+		3.70%	      1 Randomized (SM B, Eliza)
+		1.85%	      1 Randomized (BB B, BigBand)
+		1.85%	      1 Randomized (BB B, Cerebella)
+		1.85%	      1 Randomized (BB B, Eliza)
+		1.85%	      1 Randomized (BB B, Filia)
+		1.85%	      1 Randomized (BB B, Painwheel)
+		1.85%	      1 Randomized (BB B, Parasoul)
+		1.85%	      1 Randomized (BB B, Peacock)
+		1.85%	      1 Randomized (BB B, Valentine)
+		1.85%	      1 Randomized (BB B, Beowulf)
+		3.70%	      1 Randomized (SM B, Beowulf)
+		3.70%	      1 Randomized (SM B, Double)
+		1.85%	      1 Randomized (BB B, Double)
+		1.85%	      1 Randomized (BB B, Squigly)
+		3.70%	      1 Randomized (SM B, Squigly)
+		1.85%	      1 Randomized (BB B, MsFortune)
+		3.70%	      1 Randomized (SM B, MsFortune)
+		1.85%	      1 Randomized (BB B, RoboFortune)
+		3.70%	      1 Randomized (SM B, RoboFortune)
+		1.85%	      1 Randomized (BB B, Fukua)
+		3.70%	      1 Randomized (SM B, Fukua)
+		1.85%	      1 Randomized (BB B, Annie)
+		3.70%	      1 Randomized (SM B, Annie)
+		3.70%	      1 Randomized (SM B, Umbrella)
+		1.85%	      1 Randomized (BB B, Umbrella)
+		3.70%	      1 Randomized (SM B, BlackDahlia)
+		1.85%	      1 Randomized (BB B, BlackDahlia)
+		3.70%	      1 Randomized (SM B, Marie)
+		1.85%	      1 Randomized (BB B, Marie)
+		Subtotal Weight: 270
+	Total Weight: 70
+Silver Move Relic (Gacha_34_Moves_Silver)
+	100.0% Chance
+		3.70%	      1 Randomized (SM S, BigBand)
+		3.70%	      1 Randomized (SM S, Cerebella)
+		3.70%	      1 Randomized (SM S, Filia)
+		3.70%	      1 Randomized (SM S, Painwheel)
+		3.70%	      1 Randomized (SM S, Peacock)
+		3.70%	      1 Randomized (SM S, Valentine)
+		3.70%	      1 Randomized (SM S, Parasoul)
+		3.70%	      1 Randomized (SM S, Eliza)
+		1.85%	      1 Randomized (BB S, BigBand)
+		1.85%	      1 Randomized (BB S, Cerebella)
+		1.85%	      1 Randomized (BB S, Eliza)
+		1.85%	      1 Randomized (BB S, Filia)
+		1.85%	      1 Randomized (BB S, Painwheel)
+		1.85%	      1 Randomized (BB S, Parasoul)
+		1.85%	      1 Randomized (BB S, Peacock)
+		1.85%	      1 Randomized (BB S, Valentine)
+		1.85%	      1 Randomized (BB S, Beowulf)
+		3.70%	      1 Randomized (SM S, Beowulf)
+		1.85%	      1 Randomized (BB S, Double)
+		3.70%	      1 Randomized (SM S, Double)
+		1.85%	      1 Randomized (BB S, Squigly)
+		3.70%	      1 Randomized (SM S, Squigly)
+		1.85%	      1 Randomized (BB S, MsFortune)
+		3.70%	      1 Randomized (SM S, MsFortune)
+		1.85%	      1 Randomized (BB S, RoboFortune)
+		3.70%	      1 Randomized (SM S, RoboFortune)
+		1.85%	      1 Randomized (BB S, Fukua)
+		3.70%	      1 Randomized (SM S, Fukua)
+		1.85%	      1 Randomized (BB S, Annie)
+		3.70%	      1 Randomized (SM S, Annie)
+		1.85%	      1 Randomized (BB S, Umbrella)
+		3.70%	      1 Randomized (SM S, Umbrella)
+		3.70%	      1 Randomized (SM S, BlackDahlia)
+		1.85%	      1 Randomized (BB S, BlackDahlia)
+		3.70%	      1 Randomized (SM S, Marie)
+		1.85%	      1 Randomized (BB S, Marie)
+		Subtotal Weight: 270
+	Total Weight: 70
+Gold Move Relic (Gacha_35_Moves_Gold)
+	100.0% Chance
+		3.70%	      1 Randomized (SM G, BigBand)
+		3.70%	      1 Randomized (SM G, Cerebella)
+		3.70%	      1 Randomized (SM G, Filia)
+		3.70%	      1 Randomized (SM G, Painwheel)
+		3.70%	      1 Randomized (SM G, Peacock)
+		3.70%	      1 Randomized (SM G, Valentine)
+		3.70%	      1 Randomized (SM G, Parasoul)
+		3.70%	      1 Randomized (SM G, Eliza)
+		1.85%	      1 Randomized (BB G, BigBand)
+		1.85%	      1 Randomized (BB G, Cerebella)
+		1.85%	      1 Randomized (BB G, Eliza)
+		1.85%	      1 Randomized (BB G, Filia)
+		1.85%	      1 Randomized (BB G, Painwheel)
+		1.85%	      1 Randomized (BB G, Parasoul)
+		1.85%	      1 Randomized (BB G, Peacock)
+		1.85%	      1 Randomized (BB G, Valentine)
+		1.85%	      1 Randomized (BB G, Beowulf)
+		3.70%	      1 Randomized (SM G, Beowulf)
+		1.85%	      1 Randomized (BB G, Double)
+		3.70%	      1 Randomized (SM G, Double)
+		3.70%	      1 Randomized (SM G, Squigly)
+		1.85%	      1 Randomized (BB G, Squigly)
+		3.70%	      1 Randomized (SM G, MsFortune)
+		1.85%	      1 Randomized (BB G, MsFortune)
+		3.70%	      1 Randomized (SM G, RoboFortune)
+		1.85%	      1 Randomized (BB G, RoboFortune)
+		3.70%	      1 Randomized (SM G, Fukua)
+		1.85%	      1 Randomized (BB G, Fukua)
+		3.70%	      1 Randomized (SM G, Annie)
+		1.85%	      1 Randomized (BB G, Annie)
+		3.70%	      1 Randomized (SM G, Umbrella)
+		1.85%	      1 Randomized (BB G, Umbrella)
+		3.70%	      1 Randomized (SM G, BlackDahlia)
+		1.85%	      1 Randomized (BB G, BlackDahlia)
+		3.70%	      1 Randomized (SM G, Marie)
+		1.85%	      1 Randomized (BB G, Marie)
+		Subtotal Weight: 270
+	Total Weight: 70
+Jackpot Relic (Gacha_36_SilverLining)
+	90.0% Chance
+		1.75%	      1 Fighter (Hype Man)
+		1.75%	      1 Fighter (Number One)
+		1.75%	      1 Fighter (Wrestler X)
+		1.75%	      1 Fighter (Resonant Evil)
+		1.75%	      1 Fighter (Robocopy)
+		1.75%	      1 Fighter (Treble Maker)
+		1.75%	      1 Fighter (Big Top)
+		1.75%	      1 Fighter (Gray Matter)
+		1.75%	      1 Fighter (Toad Warrior)
+		1.75%	      1 Fighter (Doublicious)
+		1.75%	      1 Fighter (Myst-Match)
+		1.75%	      1 Fighter (Temple Tyrant)
+		1.75%	      1 Fighter (Bloody Valentine)
+		1.75%	      1 Fighter (Scarlet Viper)
+		1.75%	      1 Fighter (Tomb & Gloom)
+		1.75%	      1 Fighter (Bad Ms Frosty)
+		1.75%	      1 Fighter (Hair Apparent)
+		1.75%	      1 Fighter (Rock Star)
+		1.75%	      1 Fighter (Feline Lucky)
+		1.75%	      1 Fighter (Ms. Trial)
+		1.75%	      1 Fighter (Purrfect Dark)
+		1.75%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Rage Appropriate)
+		1.75%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Ivy League)
+		1.75%	      1 Fighter (No Egrets)
+		1.75%	      1 Fighter (Shadow Ops)
+		1.75%	      1 Fighter (Inkling)
+		1.75%	      1 Fighter (Pea Shooter)
+		1.75%	      1 Fighter (Wildcard)
+		1.75%	      1 Fighter (Blue Bomber)
+		1.75%	      1 Fighter (Nyanotech)
+		1.75%	      1 Fighter (Purrminator)
+		1.75%	      1 Fighter (Dead Heat)
+		1.75%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		1.75%	      1 Fighter (Graveyard Shift)
+		1.75%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		1.75%	      1 Fighter (Souls Sister)
+		1.75%	      1 Fighter (Rain Shadow)
+		1.75%	      1 Fighter (Chameleon Twist)
+		1.75%	      1 Fighter (Galactic Glamour)
+		1.75%	      1 Fighter (Ninja Star)
+		1.75%	      1 Fighter (Triple Threat)
+		1.75%	      1 Fighter (Gang Green)
+		1.75%	      1 Fighter (Prism Plumage)
+		1.75%	      1 Fighter (Vintage Virtuoso)
+		1.75%	      1 Fighter (Vector Protector)
+		1.75%	      1 Fighter (Candy Crusher)
+		1.75%	      1 Fighter (Puddle Pirate)
+		1.75%	      1 Fighter (Rose-Tinted)
+		1.75%	      1 Fighter (Wild Child)
+		1.75%	      1 Fighter (Dame Slayer)
+		1.75%	      1 Fighter (Lethal Weapon)
+		1.75%	      1 Fighter (Soul Crusher)
+		1.75%	      1 Fighter (Maid of Honor)
+		1.75%	      1 Fighter (Phantom Wrangler)
+		1.75%	      1 Fighter (Snake Charmer)
+		Subtotal Weight: 57
+	Total Weight: 100
+	9.0% Chance
+		1.22%	      1 Fighter (Dragon Brawler)
+		1.22%	      1 Fighter (Weekend Warrior)
+		1.22%	      1 Fighter (Wulfsbane)
+		1.22%	      1 Fighter (Freedom Fighter)
+		1.22%	      1 Fighter (Epic Sax)
+		1.22%	      1 Fighter (G.I. Jazz)
+		1.22%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.22%	      1 Fighter (Armed Forces)
+		1.22%	      1 Fighter (Brain Freeze)
+		1.22%	      1 Fighter (Harlequin)
+		1.22%	      1 Fighter (Criminal Mind)
+		1.22%	      1 Fighter (Immoral Fiber)
+		1.22%	      1 Fighter (Rainbow Blight)
+		1.22%	      1 Fighter (Xenomorph)
+		1.22%	      1 Fighter (Evergreen Evil)
+		1.22%	      1 Fighter (Bloodbath)
+		1.22%	      1 Fighter (Diva Intervention)
+		1.22%	      1 Fighter (Red Velvet)
+		1.22%	      1 Fighter (Lapis Luxury)
+		1.22%	      1 Fighter (Dread Locks)
+		1.22%	      1 Fighter (Parasite Weave)
+		1.22%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.22%	      1 Fighter (Buzzkill)
+		1.22%	      1 Fighter (Firefly)
+		1.22%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.22%	      1 Fighter (Primed)
+		1.22%	      1 Fighter (Princess Pride)
+		1.22%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.22%	      1 Fighter (That's All Folks!)
+		1.22%	      1 Fighter (Ultraviolent)
+		1.22%	      1 Fighter (Untouchable)
+		1.22%	      1 Fighter (Mean One)
+		1.22%	      1 Fighter (Last Hope)
+		1.22%	      1 Fighter (Silent Kill)
+		1.22%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.22%	      1 Fighter (Bio-Exorcist)
+		1.22%	      1 Fighter (Dead of Winter)
+		1.22%	      1 Fighter (Poltergust)
+		1.22%	      1 Fighter (Thrill Shrieker)
+		1.22%	      1 Fighter (Claw & Order)
+		1.22%	      1 Fighter (Hack n' Splash)
+		1.22%	      1 Fighter (Meow & Furever)
+		1.22%	      1 Fighter (Rogue Agent)
+		1.22%	      1 Fighter (Blue Screen)
+		1.22%	      1 Fighter (Terror Byte)
+		1.22%	      1 Fighter (Head Hunter)
+		1.22%	      1 Fighter (Persona Assistant)
+		1.22%	      1 Fighter (Vaporwave Vixen)
+		1.22%	      1 Fighter (Phantom Threads)
+		1.22%	      1 Fighter (Night Terror)
+		1.22%	      1 Fighter (Feathered Edges)
+		1.22%	      1 Fighter (Ageless Wonder)
+		1.22%	      1 Fighter (Materia Girl)
+		1.22%	      1 Fighter (Moonstruck)
+		1.22%	      1 Fighter (Timeless Hero)
+		1.22%	      1 Fighter (Time Thief)
+		1.22%	      1 Fighter (Biting Cold)
+		1.22%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.22%	      1 Fighter (Blitz & Glamour)
+		1.22%	      1 Fighter (Space Case)
+		1.22%	      1 Fighter (Tidal Traveler)
+		1.22%	      1 Fighter (Wunderkind)
+		1.22%	      1 Fighter (Corrosive Agent)
+		1.22%	      1 Fighter (Martial Outlaw)
+		1.22%	      1 Fighter (Psycommander)
+		1.22%	      1 Fighter (Unfazed)
+		1.22%	      1 Fighter (Dark Horse)
+		1.22%	      1 Fighter (Gravedigger)
+		1.22%	      1 Fighter (Gust Buster)
+		1.22%	      1 Fighter (Octoplasm)
+		1.22%	      1 Fighter (Red Rider)
+		1.22%	      1 Fighter (Final Fang)
+		1.22%	      1 Fighter (Psykid)
+		1.22%	      1 Fighter (Scare Giver)
+		1.22%	      1 Fighter (Primal Prodigy)
+		1.22%	      1 Fighter (Demon Artist)
+		1.22%	      1 Fighter (Cosmic Rebel)
+		1.22%	      1 Fighter (Indomitable)
+		1.22%	      1 Fighter (Buffer Zone)
+		1.22%	      1 Fighter (Curl Scout)
+		1.22%	      1 Fighter (Grin Reaper)
+		1.22%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 82
+	Total Weight: 100
+	1.0% Chance
+		1.85%	      1 Fighter (Dark Might)
+		1.85%	      1 Fighter (Snake Bite)
+		1.85%	      1 Fighter (Heavy Metal)
+		1.85%	      1 Fighter (Dream Band)
+		1.85%	      1 Fighter (Heavy Handed)
+		1.85%	      1 Fighter (Star-Spangled)
+		1.85%	      1 Fighter (Jawbreaker)
+		1.85%	      1 Fighter (Heart of Darkness)
+		1.85%	      1 Fighter (Stand Out)
+		1.85%	      1 Fighter (Mummy Dearest)
+		1.85%	      1 Fighter (Class Cutter)
+		1.85%	      1 Fighter (Djinn Frizz)
+		1.85%	      1 Fighter (Furry Fury)
+		1.85%	      1 Fighter (Wind Stalker)
+		1.85%	      1 Fighter (Fly Trap)
+		1.85%	      1 Fighter (Neuromancer)
+		1.85%	      1 Fighter (Summer Salt)
+		1.85%	      1 Fighter (Risky Ginger)
+		1.85%	      1 Fighter (Freeze Frame)
+		1.85%	      1 Fighter (Dream Catcher)
+		1.85%	      1 Fighter (Love Crafted)
+		1.85%	      1 Fighter (Plot Twisted)
+		1.85%	      1 Fighter (Assassin's Greed)
+		1.85%	      1 Fighter (Très Chic)
+		1.85%	      1 Fighter (Overclocked)
+		1.85%	      1 Fighter (X-Bot)
+		1.85%	      1 Fighter (Splitting Image)
+		1.85%	      1 Fighter (Shadow Puppet)
+		1.85%	      1 Fighter (Fire Branded)
+		1.85%	      1 Fighter (Model Leader)
+		1.85%	      1 Fighter (Star Shine)
+		1.85%	      1 Fighter (Beast King)
+		1.85%	      1 Fighter (Creature of Habit)
+		1.85%	      1 Fighter (Wetwork)
+		1.85%	      1 Fighter (Dream Demon)
+		1.85%	      1 Fighter (Eager Deceiver)
+		1.85%	      1 Fighter (Raining Champ)
+		1.85%	      1 Fighter (Fur Monger)
+		1.85%	      1 Fighter (Unholy Host)
+		1.85%	      1 Fighter (Death Wish)
+		1.85%	      1 Fighter (Heartless)
+		1.85%	      1 Fighter (Megalomaniac)
+		1.85%	      1 Fighter (Blue Streak)
+		1.85%	      1 Fighter (Altar Ego)
+		1.85%	      1 Fighter (Starlight Rose)
+		1.85%	      1 Fighter (Bombshell)
+		1.85%	      1 Fighter (Foot Soldier)
+		1.85%	      1 Fighter (Web Crawler)
+		1.85%	      1 Fighter (Apex Complex)
+		1.85%	      1 Fighter (Seraph Soldier)
+		1.85%	      1 Fighter (Ogre Achiever)
+		1.85%	      1 Fighter (Deal Breaker)
+		1.85%	      1 Fighter (Brass Bandit)
+		1.85%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 54
+	Total Weight: 100
+Newly Minted Relic (Gacha_37_NewlyMinted)
+	100.0% Chance
+		11.11%	      1 Fighter (Dragon Brawler)
+		11.11%	      1 Fighter (G.I. Jazz)
+		11.11%	      1 Fighter (Brain Freeze)
+		11.11%	      1 Fighter (Windswept)
+		11.11%	      1 Fighter (Firefly)
+		11.11%	      1 Fighter (Regally Blonde)
+		11.11%	      1 Fighter (Ultraviolent)
+		11.11%	      1 Fighter (Red Velvet)
+		11.11%	      1 Fighter (Surgeon General)
+		Subtotal Weight: 9
+	Total Weight: 100
+Unspeakable Relic (Gacha_38_Char_Double)
+	82.0% Chance
+		50.00%	      1 Fighter (Nunsense)
+		50.00%	      1 Fighter (Sundae School)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Doublicious)
+		33.33%	      1 Fighter (Temple Tyrant)
+		33.33%	      1 Fighter (Myst-Match)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Immoral Fiber)
+		25.00%	      1 Fighter (Rainbow Blight)
+		25.00%	      1 Fighter (Xenomorph)
+		25.00%	      1 Fighter (Evergreen Evil)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Jawbreaker)
+		25.00%	      1 Fighter (Heart of Darkness)
+		25.00%	      1 Fighter (Creature of Habit)
+		25.00%	      1 Fighter (Altar Ego)
+		Subtotal Weight: 4
+	Total Weight: 200
+Reanimated Relic (Gacha_39_Char_Squigly)
+	82.0% Chance
+		50.00%	      1 Fighter (Stage Fright)
+		50.00%	      1 Fighter (Scared Stiff)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Nearly Departed)
+		33.33%	      1 Fighter (Dead Heat)
+		33.33%	      1 Fighter (Gang Green)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Bio-Exorcist)
+		20.00%	      1 Fighter (Poltergust)
+		20.00%	      1 Fighter (Dead of Winter)
+		20.00%	      1 Fighter (Thrill Shrieker)
+		20.00%	      1 Fighter (Demon Artist)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Love Crafted)
+		50.00%	      1 Fighter (Plot Twisted)
+		Subtotal Weight: 2
+	Total Weight: 200
+Stormy Relic (Gacha_40_Air)
+	100.0% Chance
+		82.00%	      1 Randomized (Character B, Air)
+		14.00%	      1 Randomized (Character S, Air)
+		3.50%	      1 Randomized (Character G, Air)
+		0.50%	      1 Randomized (Character D, Air)
+		Subtotal Weight: 200
+		75.00%	     25 Elemental Shards (Air)
+		19.50%	     50 Elemental Shards (Air)
+		5.00%	    100 Elemental Shards (Air)
+		0.50%	      1 Elemental Essence (Air)
+		Subtotal Weight: 1000
+	Total Weight: 1
+Scorched Relic (Gacha_41_Fire)
+	100.0% Chance
+		82.00%	      1 Randomized (Character B, Fire)
+		14.00%	      1 Randomized (Character S, Fire)
+		3.50%	      1 Randomized (Character G, Fire)
+		0.50%	      1 Randomized (Character D, Fire)
+		Subtotal Weight: 200
+		75.00%	     25 Elemental Shards (Fire)
+		19.50%	     50 Elemental Shards (Fire)
+		5.00%	    100 Elemental Shards (Fire)
+		0.50%	      1 Elemental Essence (Fire)
+		Subtotal Weight: 1000
+	Total Weight: 1
+Sunken Relic (Gacha_42_Water)
+	100.0% Chance
+		82.00%	      1 Randomized (Character B, Water)
+		14.00%	      1 Randomized (Character S, Water)
+		3.50%	      1 Randomized (Character G, Water)
+		0.50%	      1 Randomized (Character D, Water)
+		Subtotal Weight: 200
+		75.00%	     25 Elemental Shards (Water)
+		19.50%	     50 Elemental Shards (Water)
+		5.00%	    100 Elemental Shards (Water)
+		0.50%	      1 Elemental Essence (Water)
+		Subtotal Weight: 1000
+	Total Weight: 1
+Shining Relic (Gacha_43_Light)
+	100.0% Chance
+		82.00%	      1 Randomized (Character B, Light)
+		14.00%	      1 Randomized (Character S, Light)
+		3.50%	      1 Randomized (Character G, Light)
+		0.50%	      1 Randomized (Character D, Light)
+		Subtotal Weight: 200
+		75.00%	     25 Elemental Shards (Light)
+		19.50%	     50 Elemental Shards (Light)
+		5.00%	    100 Elemental Shards (Light)
+		0.50%	      1 Elemental Essence (Light)
+		Subtotal Weight: 1000
+	Total Weight: 1
+Shrouded Relic (Gacha_44_Dark)
+	100.0% Chance
+		82.00%	      1 Randomized (Character B, Dark)
+		14.00%	      1 Randomized (Character S, Dark)
+		3.50%	      1 Randomized (Character G, Dark)
+		0.50%	      1 Randomized (Character D, Dark)
+		Subtotal Weight: 200
+		75.00%	     25 Elemental Shards (Dark)
+		19.50%	     50 Elemental Shards (Dark)
+		5.00%	    100 Elemental Shards (Dark)
+		0.50%	      1 Elemental Essence (Dark)
+		Subtotal Weight: 1000
+	Total Weight: 1
+Haunted Relic (Gacha_45_Haunted)
+	100.0% Chance
+		16.67%	      1 Fighter (Wrestler X)
+		16.67%	      1 Fighter (Toad Warrior)
+		16.67%	      1 Fighter (Myst-Match)
+		16.67%	      1 Fighter (Tomb & Gloom)
+		16.67%	      1 Fighter (Ms. Trial)
+		16.67%	      1 Fighter (Wildcard)
+		Subtotal Weight: 6
+	Total Weight: 100
+Diamond Fighter Relic (Gacha_46_Diamond)
+	100.0% Chance
+		1.85%	      1 Fighter (Dark Might)
+		1.85%	      1 Fighter (Snake Bite)
+		1.85%	      1 Fighter (Heavy Metal)
+		1.85%	      1 Fighter (Dream Band)
+		1.85%	      1 Fighter (Heavy Handed)
+		1.85%	      1 Fighter (Star-Spangled)
+		1.85%	      1 Fighter (Jawbreaker)
+		1.85%	      1 Fighter (Heart of Darkness)
+		1.85%	      1 Fighter (Stand Out)
+		1.85%	      1 Fighter (Mummy Dearest)
+		1.85%	      1 Fighter (Class Cutter)
+		1.85%	      1 Fighter (Djinn Frizz)
+		1.85%	      1 Fighter (Furry Fury)
+		1.85%	      1 Fighter (Wind Stalker)
+		1.85%	      1 Fighter (Fly Trap)
+		1.85%	      1 Fighter (Neuromancer)
+		1.85%	      1 Fighter (Summer Salt)
+		1.85%	      1 Fighter (Risky Ginger)
+		1.85%	      1 Fighter (Freeze Frame)
+		1.85%	      1 Fighter (Dream Catcher)
+		1.85%	      1 Fighter (Love Crafted)
+		1.85%	      1 Fighter (Plot Twisted)
+		1.85%	      1 Fighter (Assassin's Greed)
+		1.85%	      1 Fighter (Très Chic)
+		1.85%	      1 Fighter (Overclocked)
+		1.85%	      1 Fighter (X-Bot)
+		1.85%	      1 Fighter (Splitting Image)
+		1.85%	      1 Fighter (Shadow Puppet)
+		1.85%	      1 Fighter (Fire Branded)
+		1.85%	      1 Fighter (Model Leader)
+		1.85%	      1 Fighter (Star Shine)
+		1.85%	      1 Fighter (Beast King)
+		1.85%	      1 Fighter (Creature of Habit)
+		1.85%	      1 Fighter (Wetwork)
+		1.85%	      1 Fighter (Dream Demon)
+		1.85%	      1 Fighter (Eager Deceiver)
+		1.85%	      1 Fighter (Raining Champ)
+		1.85%	      1 Fighter (Fur Monger)
+		1.85%	      1 Fighter (Unholy Host)
+		1.85%	      1 Fighter (Death Wish)
+		1.85%	      1 Fighter (Heartless)
+		1.85%	      1 Fighter (Megalomaniac)
+		1.85%	      1 Fighter (Blue Streak)
+		1.85%	      1 Fighter (Altar Ego)
+		1.85%	      1 Fighter (Starlight Rose)
+		1.85%	      1 Fighter (Bombshell)
+		1.85%	      1 Fighter (Foot Soldier)
+		1.85%	      1 Fighter (Web Crawler)
+		1.85%	      1 Fighter (Apex Complex)
+		1.85%	      1 Fighter (Seraph Soldier)
+		1.85%	      1 Fighter (Ogre Achiever)
+		1.85%	      1 Fighter (Deal Breaker)
+		1.85%	      1 Fighter (Brass Bandit)
+		1.85%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 54
+	Total Weight: 100
+Rift Relic (Gacha_47_Rift)
+	100.0% Chance
+		82.00%	      1 Randomized (LootTable_Catalyst_ALL_B)
+		14.00%	      1 Randomized (LootTable_Catalyst_ALL_S)
+		4.00%	      1 Randomized (LootTable_Catalyst_ALL_G)
+		Subtotal Weight: 200
+		50.00%	     10 Rift Coins
+		40.00%	     25 Rift Coins
+		10.00%	     50 Rift Coins
+		Subtotal Weight: 100
+	Total Weight: 1
+Shamrock Relic (2023) (Gacha_48_Shamrock)
+	90.0% Chance
+		9.09%	      1 Fighter (Galactic Glamour)
+		9.09%	      1 Fighter (Treble Maker)
+		9.09%	      1 Fighter (Toad Warrior)
+		9.09%	      1 Fighter (Bloody Valentine)
+		9.09%	      1 Fighter (Hair Apparent)
+		9.09%	      1 Fighter (Chameleon Twist)
+		9.09%	      1 Fighter (Ivy League)
+		9.09%	      1 Fighter (Pea Shooter)
+		9.09%	      1 Fighter (Vector Protector)
+		9.09%	      1 Fighter (Gang Green)
+		9.09%	      1 Fighter (Candy Crusher)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Rainbow Blight)
+		33.33%	      1 Fighter (Surgeon General)
+		33.33%	      1 Fighter (Martial Outlaw)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Snake Bite)
+		33.33%	      1 Fighter (Fly Trap)
+		33.33%	      1 Fighter (Wind Stalker)
+		Subtotal Weight: 3
+	Total Weight: 100
+Random-Access Relic (Gacha_49_Char_Robo)
+	82.0% Chance
+		50.00%	      1 Fighter (Prototype)
+		50.00%	      1 Fighter (M-3OW)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Nyanotech)
+		25.00%	      1 Fighter (Purrminator)
+		25.00%	      1 Fighter (Blue Bomber)
+		25.00%	      1 Fighter (Vector Protector)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Blue Screen)
+		20.00%	      1 Fighter (Terror Byte)
+		20.00%	      1 Fighter (Head Hunter)
+		20.00%	      1 Fighter (Persona Assistant)
+		20.00%	      1 Fighter (Buffer Zone)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Overclocked)
+		50.00%	      1 Fighter (X-Bot)
+		Subtotal Weight: 2
+	Total Weight: 200
+Gold Fighter Relic (Gacha_4_Gold)
+	100.0% Chance
+		1.22%	      1 Fighter (Dragon Brawler)
+		1.22%	      1 Fighter (Weekend Warrior)
+		1.22%	      1 Fighter (Wulfsbane)
+		1.22%	      1 Fighter (Freedom Fighter)
+		1.22%	      1 Fighter (Epic Sax)
+		1.22%	      1 Fighter (G.I. Jazz)
+		1.22%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.22%	      1 Fighter (Armed Forces)
+		1.22%	      1 Fighter (Brain Freeze)
+		1.22%	      1 Fighter (Harlequin)
+		1.22%	      1 Fighter (Criminal Mind)
+		1.22%	      1 Fighter (Immoral Fiber)
+		1.22%	      1 Fighter (Rainbow Blight)
+		1.22%	      1 Fighter (Xenomorph)
+		1.22%	      1 Fighter (Evergreen Evil)
+		1.22%	      1 Fighter (Bloodbath)
+		1.22%	      1 Fighter (Diva Intervention)
+		1.22%	      1 Fighter (Red Velvet)
+		1.22%	      1 Fighter (Lapis Luxury)
+		1.22%	      1 Fighter (Dread Locks)
+		1.22%	      1 Fighter (Parasite Weave)
+		1.22%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.22%	      1 Fighter (Buzzkill)
+		1.22%	      1 Fighter (Firefly)
+		1.22%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.22%	      1 Fighter (Primed)
+		1.22%	      1 Fighter (Princess Pride)
+		1.22%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.22%	      1 Fighter (That's All Folks!)
+		1.22%	      1 Fighter (Ultraviolent)
+		1.22%	      1 Fighter (Untouchable)
+		1.22%	      1 Fighter (Mean One)
+		1.22%	      1 Fighter (Last Hope)
+		1.22%	      1 Fighter (Silent Kill)
+		1.22%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.22%	      1 Fighter (Bio-Exorcist)
+		1.22%	      1 Fighter (Dead of Winter)
+		1.22%	      1 Fighter (Poltergust)
+		1.22%	      1 Fighter (Thrill Shrieker)
+		1.22%	      1 Fighter (Claw & Order)
+		1.22%	      1 Fighter (Hack n' Splash)
+		1.22%	      1 Fighter (Meow & Furever)
+		1.22%	      1 Fighter (Rogue Agent)
+		1.22%	      1 Fighter (Blue Screen)
+		1.22%	      1 Fighter (Terror Byte)
+		1.22%	      1 Fighter (Head Hunter)
+		1.22%	      1 Fighter (Persona Assistant)
+		1.22%	      1 Fighter (Vaporwave Vixen)
+		1.22%	      1 Fighter (Phantom Threads)
+		1.22%	      1 Fighter (Night Terror)
+		1.22%	      1 Fighter (Feathered Edges)
+		1.22%	      1 Fighter (Ageless Wonder)
+		1.22%	      1 Fighter (Materia Girl)
+		1.22%	      1 Fighter (Moonstruck)
+		1.22%	      1 Fighter (Timeless Hero)
+		1.22%	      1 Fighter (Time Thief)
+		1.22%	      1 Fighter (Biting Cold)
+		1.22%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.22%	      1 Fighter (Blitz & Glamour)
+		1.22%	      1 Fighter (Space Case)
+		1.22%	      1 Fighter (Tidal Traveler)
+		1.22%	      1 Fighter (Wunderkind)
+		1.22%	      1 Fighter (Corrosive Agent)
+		1.22%	      1 Fighter (Martial Outlaw)
+		1.22%	      1 Fighter (Psycommander)
+		1.22%	      1 Fighter (Unfazed)
+		1.22%	      1 Fighter (Dark Horse)
+		1.22%	      1 Fighter (Gravedigger)
+		1.22%	      1 Fighter (Gust Buster)
+		1.22%	      1 Fighter (Octoplasm)
+		1.22%	      1 Fighter (Red Rider)
+		1.22%	      1 Fighter (Final Fang)
+		1.22%	      1 Fighter (Psykid)
+		1.22%	      1 Fighter (Scare Giver)
+		1.22%	      1 Fighter (Primal Prodigy)
+		1.22%	      1 Fighter (Demon Artist)
+		1.22%	      1 Fighter (Cosmic Rebel)
+		1.22%	      1 Fighter (Indomitable)
+		1.22%	      1 Fighter (Buffer Zone)
+		1.22%	      1 Fighter (Curl Scout)
+		1.22%	      1 Fighter (Grin Reaper)
+		1.22%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 82
+	Total Weight: 100
+Revolutionary Relic (2022) (Gacha_50_Revolutionary)
+	90.0% Chance
+		9.09%	      1 Fighter (Vintage Virtuoso)
+		9.09%	      1 Fighter (Wildcard)
+		9.09%	      1 Fighter (Myst-Match)
+		9.09%	      1 Fighter (Bloody Valentine)
+		9.09%	      1 Fighter (Hair Apparent)
+		9.09%	      1 Fighter (Feline Lucky)
+		9.09%	      1 Fighter (Ivy League)
+		9.09%	      1 Fighter (Freaky Friday)
+		9.09%	      1 Fighter (Gang Green)
+		9.09%	      1 Fighter (Puddle Pirate)
+		9.09%	      1 Fighter (Graveyard Shift)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Head Hunter)
+		33.33%	      1 Fighter (Unfazed)
+		33.33%	      1 Fighter (Freedom Fighter)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Fire Branded)
+		33.33%	      1 Fighter (Splitting Image)
+		33.33%	      1 Fighter (Star-Spangled)
+		Subtotal Weight: 3
+	Total Weight: 100
+Back to School Relic (2022) (Gacha_51_BackToSchool)
+	90.0% Chance
+		10.00%	      1 Fighter (Wild Child)
+		10.00%	      1 Fighter (Galactic Glamour)
+		10.00%	      1 Fighter (Doublicious)
+		10.00%	      1 Fighter (Scarlet Viper)
+		10.00%	      1 Fighter (Chameleon Twist)
+		10.00%	      1 Fighter (Rage Appropriate)
+		10.00%	      1 Fighter (No Egrets)
+		10.00%	      1 Fighter (Pea Shooter)
+		10.00%	      1 Fighter (Blue Bomber)
+		10.00%	      1 Fighter (Kill Joy)
+		Subtotal Weight: 10
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Brain Freeze)
+		33.33%	      1 Fighter (Bio-Exorcist)
+		33.33%	      1 Fighter (Meow & Furever)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Class Cutter)
+		33.33%	      1 Fighter (Heavy Metal)
+		33.33%	      1 Fighter (Beast King)
+		Subtotal Weight: 3
+	Total Weight: 100
+Legendary Relic (Gacha_52_Legendary)
+	90.0% Chance
+		1.22%	      1 Fighter (Dragon Brawler)
+		1.22%	      1 Fighter (Weekend Warrior)
+		1.22%	      1 Fighter (Wulfsbane)
+		1.22%	      1 Fighter (Freedom Fighter)
+		1.22%	      1 Fighter (Epic Sax)
+		1.22%	      1 Fighter (G.I. Jazz)
+		1.22%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.22%	      1 Fighter (Armed Forces)
+		1.22%	      1 Fighter (Brain Freeze)
+		1.22%	      1 Fighter (Harlequin)
+		1.22%	      1 Fighter (Criminal Mind)
+		1.22%	      1 Fighter (Immoral Fiber)
+		1.22%	      1 Fighter (Rainbow Blight)
+		1.22%	      1 Fighter (Xenomorph)
+		1.22%	      1 Fighter (Evergreen Evil)
+		1.22%	      1 Fighter (Bloodbath)
+		1.22%	      1 Fighter (Diva Intervention)
+		1.22%	      1 Fighter (Red Velvet)
+		1.22%	      1 Fighter (Lapis Luxury)
+		1.22%	      1 Fighter (Dread Locks)
+		1.22%	      1 Fighter (Parasite Weave)
+		1.22%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.22%	      1 Fighter (Buzzkill)
+		1.22%	      1 Fighter (Firefly)
+		1.22%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.22%	      1 Fighter (Primed)
+		1.22%	      1 Fighter (Princess Pride)
+		1.22%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.22%	      1 Fighter (That's All Folks!)
+		1.22%	      1 Fighter (Ultraviolent)
+		1.22%	      1 Fighter (Untouchable)
+		1.22%	      1 Fighter (Mean One)
+		1.22%	      1 Fighter (Last Hope)
+		1.22%	      1 Fighter (Silent Kill)
+		1.22%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.22%	      1 Fighter (Bio-Exorcist)
+		1.22%	      1 Fighter (Dead of Winter)
+		1.22%	      1 Fighter (Poltergust)
+		1.22%	      1 Fighter (Thrill Shrieker)
+		1.22%	      1 Fighter (Claw & Order)
+		1.22%	      1 Fighter (Hack n' Splash)
+		1.22%	      1 Fighter (Meow & Furever)
+		1.22%	      1 Fighter (Rogue Agent)
+		1.22%	      1 Fighter (Blue Screen)
+		1.22%	      1 Fighter (Terror Byte)
+		1.22%	      1 Fighter (Head Hunter)
+		1.22%	      1 Fighter (Persona Assistant)
+		1.22%	      1 Fighter (Vaporwave Vixen)
+		1.22%	      1 Fighter (Phantom Threads)
+		1.22%	      1 Fighter (Night Terror)
+		1.22%	      1 Fighter (Feathered Edges)
+		1.22%	      1 Fighter (Ageless Wonder)
+		1.22%	      1 Fighter (Materia Girl)
+		1.22%	      1 Fighter (Moonstruck)
+		1.22%	      1 Fighter (Timeless Hero)
+		1.22%	      1 Fighter (Time Thief)
+		1.22%	      1 Fighter (Biting Cold)
+		1.22%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.22%	      1 Fighter (Blitz & Glamour)
+		1.22%	      1 Fighter (Space Case)
+		1.22%	      1 Fighter (Tidal Traveler)
+		1.22%	      1 Fighter (Wunderkind)
+		1.22%	      1 Fighter (Corrosive Agent)
+		1.22%	      1 Fighter (Martial Outlaw)
+		1.22%	      1 Fighter (Psycommander)
+		1.22%	      1 Fighter (Unfazed)
+		1.22%	      1 Fighter (Dark Horse)
+		1.22%	      1 Fighter (Gravedigger)
+		1.22%	      1 Fighter (Gust Buster)
+		1.22%	      1 Fighter (Octoplasm)
+		1.22%	      1 Fighter (Red Rider)
+		1.22%	      1 Fighter (Final Fang)
+		1.22%	      1 Fighter (Psykid)
+		1.22%	      1 Fighter (Scare Giver)
+		1.22%	      1 Fighter (Primal Prodigy)
+		1.22%	      1 Fighter (Demon Artist)
+		1.22%	      1 Fighter (Cosmic Rebel)
+		1.22%	      1 Fighter (Indomitable)
+		1.22%	      1 Fighter (Buffer Zone)
+		1.22%	      1 Fighter (Curl Scout)
+		1.22%	      1 Fighter (Grin Reaper)
+		1.22%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 82
+	Total Weight: 100
+	10.0% Chance
+		1.85%	      1 Fighter (Dark Might)
+		1.85%	      1 Fighter (Snake Bite)
+		1.85%	      1 Fighter (Heavy Metal)
+		1.85%	      1 Fighter (Dream Band)
+		1.85%	      1 Fighter (Heavy Handed)
+		1.85%	      1 Fighter (Star-Spangled)
+		1.85%	      1 Fighter (Jawbreaker)
+		1.85%	      1 Fighter (Heart of Darkness)
+		1.85%	      1 Fighter (Stand Out)
+		1.85%	      1 Fighter (Mummy Dearest)
+		1.85%	      1 Fighter (Class Cutter)
+		1.85%	      1 Fighter (Djinn Frizz)
+		1.85%	      1 Fighter (Furry Fury)
+		1.85%	      1 Fighter (Wind Stalker)
+		1.85%	      1 Fighter (Fly Trap)
+		1.85%	      1 Fighter (Neuromancer)
+		1.85%	      1 Fighter (Summer Salt)
+		1.85%	      1 Fighter (Risky Ginger)
+		1.85%	      1 Fighter (Freeze Frame)
+		1.85%	      1 Fighter (Dream Catcher)
+		1.85%	      1 Fighter (Love Crafted)
+		1.85%	      1 Fighter (Plot Twisted)
+		1.85%	      1 Fighter (Assassin's Greed)
+		1.85%	      1 Fighter (Très Chic)
+		1.85%	      1 Fighter (Overclocked)
+		1.85%	      1 Fighter (X-Bot)
+		1.85%	      1 Fighter (Splitting Image)
+		1.85%	      1 Fighter (Shadow Puppet)
+		1.85%	      1 Fighter (Fire Branded)
+		1.85%	      1 Fighter (Model Leader)
+		1.85%	      1 Fighter (Star Shine)
+		1.85%	      1 Fighter (Beast King)
+		1.85%	      1 Fighter (Creature of Habit)
+		1.85%	      1 Fighter (Wetwork)
+		1.85%	      1 Fighter (Dream Demon)
+		1.85%	      1 Fighter (Eager Deceiver)
+		1.85%	      1 Fighter (Raining Champ)
+		1.85%	      1 Fighter (Fur Monger)
+		1.85%	      1 Fighter (Unholy Host)
+		1.85%	      1 Fighter (Death Wish)
+		1.85%	      1 Fighter (Heartless)
+		1.85%	      1 Fighter (Megalomaniac)
+		1.85%	      1 Fighter (Blue Streak)
+		1.85%	      1 Fighter (Altar Ego)
+		1.85%	      1 Fighter (Starlight Rose)
+		1.85%	      1 Fighter (Bombshell)
+		1.85%	      1 Fighter (Foot Soldier)
+		1.85%	      1 Fighter (Web Crawler)
+		1.85%	      1 Fighter (Apex Complex)
+		1.85%	      1 Fighter (Seraph Soldier)
+		1.85%	      1 Fighter (Ogre Achiever)
+		1.85%	      1 Fighter (Deal Breaker)
+		1.85%	      1 Fighter (Brass Bandit)
+		1.85%	      1 Fighter (Hex Caliber)
+		Subtotal Weight: 54
+	Total Weight: 100
+New Nightmare Relic (Gacha_53_NewNightmareDiamond)
+	100.0% Chance
+		33.33%	      1 Fighter (Snake Bite)
+		33.33%	      1 Fighter (Wetwork)
+		33.33%	      1 Fighter (Summer Salt)
+		Subtotal Weight: 3
+	Total Weight: 100
+Spooky Relic (2022) (Gacha_54_Spooky)
+	90.0% Chance
+		10.00%	      1 Fighter (Number One)
+		10.00%	      1 Fighter (Treble Maker)
+		10.00%	      1 Fighter (Gray Matter)
+		10.00%	      1 Fighter (Rock Star)
+		10.00%	      1 Fighter (Ms. Trial)
+		10.00%	      1 Fighter (Freaky Friday)
+		10.00%	      1 Fighter (Shadow Ops)
+		10.00%	      1 Fighter (Inkling)
+		10.00%	      1 Fighter (Nyanotech)
+		10.00%	      1 Fighter (Graveyard Shift)
+		Subtotal Weight: 10
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Moonstruck)
+		33.33%	      1 Fighter (Thrill Shrieker)
+		33.33%	      1 Fighter (Rainbow Blight)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Death Wish)
+		33.33%	      1 Fighter (Dream Demon)
+		33.33%	      1 Fighter (Mummy Dearest)
+		Subtotal Weight: 3
+	Total Weight: 100
+Ornamental Relic (2022) (Gacha_55_Holiday)
+	90.0% Chance
+		10.00%	      1 Fighter (Triple Threat)
+		10.00%	      1 Fighter (Number One)
+		10.00%	      1 Fighter (Vintage Virtuoso)
+		10.00%	      1 Fighter (Toad Warrior)
+		10.00%	      1 Fighter (Souls Sister)
+		10.00%	      1 Fighter (Feline Lucky)
+		10.00%	      1 Fighter (Rage Appropriate)
+		10.00%	      1 Fighter (No Egrets)
+		10.00%	      1 Fighter (Nyanotech)
+		10.00%	      1 Fighter (Kill Joy)
+		Subtotal Weight: 10
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Dead of Winter)
+		33.33%	      1 Fighter (Mean One)
+		33.33%	      1 Fighter (Evergreen Evil)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Raining Champ)
+		33.33%	      1 Fighter (Stand Out)
+		33.33%	      1 Fighter (Djinn Frizz)
+		Subtotal Weight: 3
+	Total Weight: 100
+Lovestruck Relic (2023) (Gacha_56_LoveStruck)
+	90.0% Chance
+		9.09%	      1 Fighter (Resonant Evil)
+		9.09%	      1 Fighter (Big Top)
+		9.09%	      1 Fighter (Doublicious)
+		9.09%	      1 Fighter (Bad Ms Frosty)
+		9.09%	      1 Fighter (Rain Shadow)
+		9.09%	      1 Fighter (Ms. Trial)
+		9.09%	      1 Fighter (No Egrets)
+		9.09%	      1 Fighter (Wildcard)
+		9.09%	      1 Fighter (Puddle Pirate)
+		9.09%	      1 Fighter (Kill Joy)
+		9.09%	      1 Fighter (Soul Crusher)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Moonstruck)
+		33.33%	      1 Fighter (Bloodbath)
+		33.33%	      1 Fighter (Firefly)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Beast King)
+		33.33%	      1 Fighter (Love Crafted)
+		33.33%	      1 Fighter (Overclocked)
+		Subtotal Weight: 3
+	Total Weight: 100
+Doppelgänger Relic (Gacha_57_Char_Fukua)
+	82.0% Chance
+		50.00%	      1 Fighter (Rough Copy)
+		50.00%	      1 Fighter (Infernal Twin)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Souls Sister)
+		33.33%	      1 Fighter (Rain Shadow)
+		33.33%	      1 Fighter (Chameleon Twist)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Vaporwave Vixen)
+		25.00%	      1 Fighter (Phantom Threads)
+		25.00%	      1 Fighter (Night Terror)
+		25.00%	      1 Fighter (Feathered Edges)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Splitting Image)
+		25.00%	      1 Fighter (Shadow Puppet)
+		25.00%	      1 Fighter (Dream Demon)
+		25.00%	      1 Fighter (Apex Complex)
+		Subtotal Weight: 4
+	Total Weight: 200
+Bandera Relic (2023) (Gacha_58_Bandera)
+	90.0% Chance
+		9.09%	      1 Fighter (Triple Threat)
+		9.09%	      1 Fighter (Number One)
+		9.09%	      1 Fighter (Resonant Evil)
+		9.09%	      1 Fighter (Rock Star)
+		9.09%	      1 Fighter (Rain Shadow)
+		9.09%	      1 Fighter (Purrfect Dark)
+		9.09%	      1 Fighter (Rage Appropriate)
+		9.09%	      1 Fighter (No Egrets)
+		9.09%	      1 Fighter (Nyanotech)
+		9.09%	      1 Fighter (Dead Heat)
+		9.09%	      1 Fighter (Graveyard Shift)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Armed Forces)
+		33.33%	      1 Fighter (Space Case)
+		33.33%	      1 Fighter (Red Velvet)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Creature of Habit)
+		33.33%	      1 Fighter (Dream Catcher)
+		33.33%	      1 Fighter (Fur Monger)
+		Subtotal Weight: 3
+	Total Weight: 100
+Cloned Premiere Relic (Gacha_59_Premiere_Fukua)
+	82.0% Chance
+		3.33%	      1 Fighter (Underdog)
+		3.33%	      1 Fighter (Cold Stones)
+		3.33%	      1 Fighter (Bassline)
+		3.33%	      1 Fighter (Beat Box)
+		3.33%	      1 Fighter (Understudy)
+		3.33%	      1 Fighter (Headstrong)
+		3.33%	      1 Fighter (Nunsense)
+		3.33%	      1 Fighter (Sundae School)
+		3.33%	      1 Fighter (In Denile)
+		3.33%	      1 Fighter (Decrypted)
+		3.33%	      1 Fighter (Bad Hair Day)
+		3.33%	      1 Fighter (Frayed Ends)
+		3.33%	      1 Fighter (Rusty)
+		3.33%	      1 Fighter (Twisted Mettle)
+		3.33%	      1 Fighter (Sheltered)
+		3.33%	      1 Fighter (Heavy Reign)
+		3.33%	      1 Fighter (Rerun)
+		3.33%	      1 Fighter (Sketchy)
+		3.33%	      1 Fighter (Scrub)
+		3.33%	      1 Fighter (Icy Hot)
+		3.33%	      1 Fighter (Scared Stiff)
+		3.33%	      1 Fighter (Stage Fright)
+		3.33%	      1 Fighter (Just Kitten)
+		3.33%	      1 Fighter (Hellcat)
+		3.33%	      1 Fighter (Prototype)
+		3.33%	      1 Fighter (M-3OW)
+		6.67%	      1 Fighter (Rough Copy)
+		6.67%	      1 Fighter (Infernal Twin)
+		Subtotal Weight: 30
+	Total Weight: 200
+	14.0% Chance
+		2.33%	      1 Fighter (Hype Man)
+		2.33%	      1 Fighter (Number One)
+		2.33%	      1 Fighter (Wrestler X)
+		2.33%	      1 Fighter (Resonant Evil)
+		2.33%	      1 Fighter (Robocopy)
+		2.33%	      1 Fighter (Treble Maker)
+		2.33%	      1 Fighter (Big Top)
+		2.33%	      1 Fighter (Gray Matter)
+		2.33%	      1 Fighter (Toad Warrior)
+		2.33%	      1 Fighter (Doublicious)
+		2.33%	      1 Fighter (Myst-Match)
+		2.33%	      1 Fighter (Temple Tyrant)
+		2.33%	      1 Fighter (Bloody Valentine)
+		2.33%	      1 Fighter (Scarlet Viper)
+		2.33%	      1 Fighter (Tomb & Gloom)
+		2.33%	      1 Fighter (Bad Ms Frosty)
+		2.33%	      1 Fighter (Hair Apparent)
+		2.33%	      1 Fighter (Rock Star)
+		2.33%	      1 Fighter (Feline Lucky)
+		2.33%	      1 Fighter (Ms. Trial)
+		2.33%	      1 Fighter (Purrfect Dark)
+		2.33%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		2.33%	      1 Fighter (Rage Appropriate)
+		2.33%	      1 Fighter (Freaky Friday)
+		2.33%	      1 Fighter (Ivy League)
+		2.33%	      1 Fighter (No Egrets)
+		2.33%	      1 Fighter (Shadow Ops)
+		2.33%	      1 Fighter (Inkling)
+		2.33%	      1 Fighter (Pea Shooter)
+		2.33%	      1 Fighter (Wildcard)
+		2.33%	      1 Fighter (Blue Bomber)
+		2.33%	      1 Fighter (Nyanotech)
+		2.33%	      1 Fighter (Purrminator)
+		2.33%	      1 Fighter (Dead Heat)
+		2.33%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		2.33%	      1 Fighter (Graveyard Shift)
+		2.33%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		4.65%	      1 Fighter (Souls Sister)
+		4.65%	      1 Fighter (Rain Shadow)
+		4.65%	      1 Fighter (Chameleon Twist)
+		Subtotal Weight: 43
+	Total Weight: 200
+	3.5% Chance
+		1.82%	      1 Fighter (Dragon Brawler)
+		1.82%	      1 Fighter (Weekend Warrior)
+		1.82%	      1 Fighter (Wulfsbane)
+		1.82%	      1 Fighter (Freedom Fighter)
+		1.82%	      1 Fighter (Epic Sax)
+		1.82%	      1 Fighter (G.I. Jazz)
+		1.82%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.82%	      1 Fighter (Armed Forces)
+		1.82%	      1 Fighter (Brain Freeze)
+		1.82%	      1 Fighter (Harlequin)
+		1.82%	      1 Fighter (Criminal Mind)
+		1.82%	      1 Fighter (Immoral Fiber)
+		1.82%	      1 Fighter (Rainbow Blight)
+		1.82%	      1 Fighter (Xenomorph)
+		1.82%	      1 Fighter (Evergreen Evil)
+		1.82%	      1 Fighter (Bloodbath)
+		1.82%	      1 Fighter (Diva Intervention)
+		1.82%	      1 Fighter (Red Velvet)
+		1.82%	      1 Fighter (Lapis Luxury)
+		1.82%	      1 Fighter (Dread Locks)
+		1.82%	      1 Fighter (Parasite Weave)
+		1.82%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.82%	      1 Fighter (Buzzkill)
+		1.82%	      1 Fighter (Firefly)
+		1.82%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.82%	      1 Fighter (Primed)
+		1.82%	      1 Fighter (Princess Pride)
+		1.82%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.82%	      1 Fighter (That's All Folks!)
+		1.82%	      1 Fighter (Ultraviolent)
+		1.82%	      1 Fighter (Untouchable)
+		1.82%	      1 Fighter (Mean One)
+		1.82%	      1 Fighter (Last Hope)
+		1.82%	      1 Fighter (Silent Kill)
+		1.82%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.82%	      1 Fighter (Bio-Exorcist)
+		1.82%	      1 Fighter (Dead of Winter)
+		1.82%	      1 Fighter (Poltergust)
+		1.82%	      1 Fighter (Thrill Shrieker)
+		1.82%	      1 Fighter (Claw & Order)
+		1.82%	      1 Fighter (Hack n' Splash)
+		1.82%	      1 Fighter (Meow & Furever)
+		1.82%	      1 Fighter (Rogue Agent)
+		1.82%	      1 Fighter (Blue Screen)
+		1.82%	      1 Fighter (Terror Byte)
+		1.82%	      1 Fighter (Head Hunter)
+		1.82%	      1 Fighter (Persona Assistant)
+		3.64%	      1 Fighter (Vaporwave Vixen)
+		3.64%	      1 Fighter (Phantom Threads)
+		3.64%	      1 Fighter (Night Terror)
+		3.64%	      1 Fighter (Feathered Edges)
+		Subtotal Weight: 55
+	Total Weight: 200
+	0.5% Chance
+		3.33%	      1 Fighter (Dark Might)
+		3.33%	      1 Fighter (Snake Bite)
+		3.33%	      1 Fighter (Heavy Metal)
+		3.33%	      1 Fighter (Dream Band)
+		3.33%	      1 Fighter (Heavy Handed)
+		3.33%	      1 Fighter (Star-Spangled)
+		3.33%	      1 Fighter (Jawbreaker)
+		3.33%	      1 Fighter (Heart of Darkness)
+		3.33%	      1 Fighter (Stand Out)
+		3.33%	      1 Fighter (Mummy Dearest)
+		3.33%	      1 Fighter (Class Cutter)
+		3.33%	      1 Fighter (Djinn Frizz)
+		3.33%	      1 Fighter (Furry Fury)
+		3.33%	      1 Fighter (Wind Stalker)
+		3.33%	      1 Fighter (Fly Trap)
+		3.33%	      1 Fighter (Neuromancer)
+		3.33%	      1 Fighter (Summer Salt)
+		3.33%	      1 Fighter (Risky Ginger)
+		3.33%	      1 Fighter (Freeze Frame)
+		3.33%	      1 Fighter (Dream Catcher)
+		3.33%	      1 Fighter (Love Crafted)
+		3.33%	      1 Fighter (Plot Twisted)
+		3.33%	      1 Fighter (Assassin's Greed)
+		3.33%	      1 Fighter (Très Chic)
+		3.33%	      1 Fighter (Overclocked)
+		3.33%	      1 Fighter (X-Bot)
+		6.67%	      1 Fighter (Splitting Image)
+		6.67%	      1 Fighter (Shadow Puppet)
+		Subtotal Weight: 30
+	Total Weight: 200
+Cloned Jackpot Relic (Gacha_60_Jackpot_Fukua)
+	90.0% Chance
+		2.33%	      1 Fighter (Hype Man)
+		2.33%	      1 Fighter (Number One)
+		2.33%	      1 Fighter (Wrestler X)
+		2.33%	      1 Fighter (Resonant Evil)
+		2.33%	      1 Fighter (Robocopy)
+		2.33%	      1 Fighter (Treble Maker)
+		2.33%	      1 Fighter (Big Top)
+		2.33%	      1 Fighter (Gray Matter)
+		2.33%	      1 Fighter (Toad Warrior)
+		2.33%	      1 Fighter (Doublicious)
+		2.33%	      1 Fighter (Myst-Match)
+		2.33%	      1 Fighter (Temple Tyrant)
+		2.33%	      1 Fighter (Bloody Valentine)
+		2.33%	      1 Fighter (Scarlet Viper)
+		2.33%	      1 Fighter (Tomb & Gloom)
+		2.33%	      1 Fighter (Bad Ms Frosty)
+		2.33%	      1 Fighter (Hair Apparent)
+		2.33%	      1 Fighter (Rock Star)
+		2.33%	      1 Fighter (Feline Lucky)
+		2.33%	      1 Fighter (Ms. Trial)
+		2.33%	      1 Fighter (Purrfect Dark)
+		2.33%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		2.33%	      1 Fighter (Rage Appropriate)
+		2.33%	      1 Fighter (Freaky Friday)
+		2.33%	      1 Fighter (Ivy League)
+		2.33%	      1 Fighter (No Egrets)
+		2.33%	      1 Fighter (Shadow Ops)
+		2.33%	      1 Fighter (Inkling)
+		2.33%	      1 Fighter (Pea Shooter)
+		2.33%	      1 Fighter (Wildcard)
+		2.33%	      1 Fighter (Blue Bomber)
+		2.33%	      1 Fighter (Nyanotech)
+		2.33%	      1 Fighter (Purrminator)
+		2.33%	      1 Fighter (Dead Heat)
+		2.33%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		2.33%	      1 Fighter (Graveyard Shift)
+		2.33%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		4.65%	      1 Fighter (Souls Sister)
+		4.65%	      1 Fighter (Rain Shadow)
+		4.65%	      1 Fighter (Chameleon Twist)
+		Subtotal Weight: 43
+	Total Weight: 100
+	9.0% Chance
+		1.82%	      1 Fighter (Dragon Brawler)
+		1.82%	      1 Fighter (Weekend Warrior)
+		1.82%	      1 Fighter (Wulfsbane)
+		1.82%	      1 Fighter (Freedom Fighter)
+		1.82%	      1 Fighter (Epic Sax)
+		1.82%	      1 Fighter (G.I. Jazz)
+		1.82%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.82%	      1 Fighter (Armed Forces)
+		1.82%	      1 Fighter (Brain Freeze)
+		1.82%	      1 Fighter (Harlequin)
+		1.82%	      1 Fighter (Criminal Mind)
+		1.82%	      1 Fighter (Immoral Fiber)
+		1.82%	      1 Fighter (Rainbow Blight)
+		1.82%	      1 Fighter (Xenomorph)
+		1.82%	      1 Fighter (Evergreen Evil)
+		1.82%	      1 Fighter (Bloodbath)
+		1.82%	      1 Fighter (Diva Intervention)
+		1.82%	      1 Fighter (Red Velvet)
+		1.82%	      1 Fighter (Lapis Luxury)
+		1.82%	      1 Fighter (Dread Locks)
+		1.82%	      1 Fighter (Parasite Weave)
+		1.82%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.82%	      1 Fighter (Buzzkill)
+		1.82%	      1 Fighter (Firefly)
+		1.82%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.82%	      1 Fighter (Primed)
+		1.82%	      1 Fighter (Princess Pride)
+		1.82%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.82%	      1 Fighter (That's All Folks!)
+		1.82%	      1 Fighter (Ultraviolent)
+		1.82%	      1 Fighter (Untouchable)
+		1.82%	      1 Fighter (Mean One)
+		1.82%	      1 Fighter (Last Hope)
+		1.82%	      1 Fighter (Silent Kill)
+		1.82%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.82%	      1 Fighter (Bio-Exorcist)
+		1.82%	      1 Fighter (Dead of Winter)
+		1.82%	      1 Fighter (Poltergust)
+		1.82%	      1 Fighter (Thrill Shrieker)
+		1.82%	      1 Fighter (Claw & Order)
+		1.82%	      1 Fighter (Hack n' Splash)
+		1.82%	      1 Fighter (Meow & Furever)
+		1.82%	      1 Fighter (Rogue Agent)
+		1.82%	      1 Fighter (Blue Screen)
+		1.82%	      1 Fighter (Terror Byte)
+		1.82%	      1 Fighter (Head Hunter)
+		1.82%	      1 Fighter (Persona Assistant)
+		3.64%	      1 Fighter (Vaporwave Vixen)
+		3.64%	      1 Fighter (Phantom Threads)
+		3.64%	      1 Fighter (Night Terror)
+		3.64%	      1 Fighter (Feathered Edges)
+		Subtotal Weight: 55
+	Total Weight: 100
+	1.0% Chance
+		3.33%	      1 Fighter (Dark Might)
+		3.33%	      1 Fighter (Snake Bite)
+		3.33%	      1 Fighter (Heavy Metal)
+		3.33%	      1 Fighter (Dream Band)
+		3.33%	      1 Fighter (Heavy Handed)
+		3.33%	      1 Fighter (Star-Spangled)
+		3.33%	      1 Fighter (Jawbreaker)
+		3.33%	      1 Fighter (Heart of Darkness)
+		3.33%	      1 Fighter (Stand Out)
+		3.33%	      1 Fighter (Mummy Dearest)
+		3.33%	      1 Fighter (Class Cutter)
+		3.33%	      1 Fighter (Djinn Frizz)
+		3.33%	      1 Fighter (Furry Fury)
+		3.33%	      1 Fighter (Wind Stalker)
+		3.33%	      1 Fighter (Fly Trap)
+		3.33%	      1 Fighter (Neuromancer)
+		3.33%	      1 Fighter (Summer Salt)
+		3.33%	      1 Fighter (Risky Ginger)
+		3.33%	      1 Fighter (Freeze Frame)
+		3.33%	      1 Fighter (Dream Catcher)
+		3.33%	      1 Fighter (Love Crafted)
+		3.33%	      1 Fighter (Plot Twisted)
+		3.33%	      1 Fighter (Assassin's Greed)
+		3.33%	      1 Fighter (Très Chic)
+		3.33%	      1 Fighter (Overclocked)
+		3.33%	      1 Fighter (X-Bot)
+		6.67%	      1 Fighter (Splitting Image)
+		6.67%	      1 Fighter (Shadow Puppet)
+		Subtotal Weight: 30
+	Total Weight: 100
+Celestial Relic (Gacha_61_Char_Annie)
+	82.0% Chance
+		50.00%	      1 Fighter (Star Child)
+		50.00%	      1 Fighter (Solar Flair)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Galactic Glamour)
+		33.33%	      1 Fighter (Triple Threat)
+		33.33%	      1 Fighter (Ninja Star)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Timeless Hero)
+		20.00%	      1 Fighter (Materia Girl)
+		20.00%	      1 Fighter (Moonstruck)
+		20.00%	      1 Fighter (Ageless Wonder)
+		20.00%	      1 Fighter (Cosmic Rebel)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Fire Branded)
+		25.00%	      1 Fighter (Model Leader)
+		25.00%	      1 Fighter (Star Shine)
+		25.00%	      1 Fighter (Starlight Rose)
+		Subtotal Weight: 4
+	Total Weight: 200
+Cosmic Premiere Relic (Gacha_62_Premiere_Annie)
+	82.0% Chance
+		3.12%	      1 Fighter (Underdog)
+		3.12%	      1 Fighter (Cold Stones)
+		3.12%	      1 Fighter (Bassline)
+		3.12%	      1 Fighter (Beat Box)
+		3.12%	      1 Fighter (Understudy)
+		3.12%	      1 Fighter (Headstrong)
+		3.12%	      1 Fighter (Nunsense)
+		3.12%	      1 Fighter (Sundae School)
+		3.12%	      1 Fighter (In Denile)
+		3.12%	      1 Fighter (Decrypted)
+		3.12%	      1 Fighter (Bad Hair Day)
+		3.12%	      1 Fighter (Frayed Ends)
+		3.12%	      1 Fighter (Rusty)
+		3.12%	      1 Fighter (Twisted Mettle)
+		3.12%	      1 Fighter (Sheltered)
+		3.12%	      1 Fighter (Heavy Reign)
+		3.12%	      1 Fighter (Rerun)
+		3.12%	      1 Fighter (Sketchy)
+		3.12%	      1 Fighter (Scrub)
+		3.12%	      1 Fighter (Icy Hot)
+		3.12%	      1 Fighter (Scared Stiff)
+		3.12%	      1 Fighter (Stage Fright)
+		3.12%	      1 Fighter (Just Kitten)
+		3.12%	      1 Fighter (Hellcat)
+		3.12%	      1 Fighter (Prototype)
+		3.12%	      1 Fighter (M-3OW)
+		3.12%	      1 Fighter (Rough Copy)
+		3.12%	      1 Fighter (Infernal Twin)
+		6.25%	      1 Fighter (Star Child)
+		6.25%	      1 Fighter (Solar Flair)
+		Subtotal Weight: 32
+	Total Weight: 200
+	14.0% Chance
+		2.17%	      1 Fighter (Hype Man)
+		2.17%	      1 Fighter (Number One)
+		2.17%	      1 Fighter (Wrestler X)
+		2.17%	      1 Fighter (Resonant Evil)
+		2.17%	      1 Fighter (Robocopy)
+		2.17%	      1 Fighter (Treble Maker)
+		2.17%	      1 Fighter (Big Top)
+		2.17%	      1 Fighter (Gray Matter)
+		2.17%	      1 Fighter (Toad Warrior)
+		2.17%	      1 Fighter (Doublicious)
+		2.17%	      1 Fighter (Myst-Match)
+		2.17%	      1 Fighter (Temple Tyrant)
+		2.17%	      1 Fighter (Bloody Valentine)
+		2.17%	      1 Fighter (Scarlet Viper)
+		2.17%	      1 Fighter (Tomb & Gloom)
+		2.17%	      1 Fighter (Bad Ms Frosty)
+		2.17%	      1 Fighter (Hair Apparent)
+		2.17%	      1 Fighter (Rock Star)
+		2.17%	      1 Fighter (Feline Lucky)
+		2.17%	      1 Fighter (Ms. Trial)
+		2.17%	      1 Fighter (Purrfect Dark)
+		2.17%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		2.17%	      1 Fighter (Rage Appropriate)
+		2.17%	      1 Fighter (Freaky Friday)
+		2.17%	      1 Fighter (Ivy League)
+		2.17%	      1 Fighter (No Egrets)
+		2.17%	      1 Fighter (Shadow Ops)
+		2.17%	      1 Fighter (Inkling)
+		2.17%	      1 Fighter (Pea Shooter)
+		2.17%	      1 Fighter (Wildcard)
+		2.17%	      1 Fighter (Blue Bomber)
+		2.17%	      1 Fighter (Nyanotech)
+		2.17%	      1 Fighter (Purrminator)
+		2.17%	      1 Fighter (Dead Heat)
+		2.17%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		2.17%	      1 Fighter (Graveyard Shift)
+		2.17%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		2.17%	      1 Fighter (Souls Sister)
+		2.17%	      1 Fighter (Rain Shadow)
+		2.17%	      1 Fighter (Chameleon Twist)
+		4.35%	      1 Fighter (Galactic Glamour)
+		4.35%	      1 Fighter (Ninja Star)
+		4.35%	      1 Fighter (Triple Threat)
+		Subtotal Weight: 46
+	Total Weight: 200
+	3.5% Chance
+		1.69%	      1 Fighter (Dragon Brawler)
+		1.69%	      1 Fighter (Weekend Warrior)
+		1.69%	      1 Fighter (Wulfsbane)
+		1.69%	      1 Fighter (Freedom Fighter)
+		1.69%	      1 Fighter (Epic Sax)
+		1.69%	      1 Fighter (G.I. Jazz)
+		1.69%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.69%	      1 Fighter (Armed Forces)
+		1.69%	      1 Fighter (Brain Freeze)
+		1.69%	      1 Fighter (Harlequin)
+		1.69%	      1 Fighter (Criminal Mind)
+		1.69%	      1 Fighter (Immoral Fiber)
+		1.69%	      1 Fighter (Rainbow Blight)
+		1.69%	      1 Fighter (Xenomorph)
+		1.69%	      1 Fighter (Evergreen Evil)
+		1.69%	      1 Fighter (Bloodbath)
+		1.69%	      1 Fighter (Diva Intervention)
+		1.69%	      1 Fighter (Red Velvet)
+		1.69%	      1 Fighter (Lapis Luxury)
+		1.69%	      1 Fighter (Dread Locks)
+		1.69%	      1 Fighter (Parasite Weave)
+		1.69%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.69%	      1 Fighter (Buzzkill)
+		1.69%	      1 Fighter (Firefly)
+		1.69%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.69%	      1 Fighter (Primed)
+		1.69%	      1 Fighter (Princess Pride)
+		1.69%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.69%	      1 Fighter (That's All Folks!)
+		1.69%	      1 Fighter (Ultraviolent)
+		1.69%	      1 Fighter (Untouchable)
+		1.69%	      1 Fighter (Mean One)
+		1.69%	      1 Fighter (Last Hope)
+		1.69%	      1 Fighter (Silent Kill)
+		1.69%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.69%	      1 Fighter (Bio-Exorcist)
+		1.69%	      1 Fighter (Dead of Winter)
+		1.69%	      1 Fighter (Poltergust)
+		1.69%	      1 Fighter (Thrill Shrieker)
+		1.69%	      1 Fighter (Claw & Order)
+		1.69%	      1 Fighter (Hack n' Splash)
+		1.69%	      1 Fighter (Meow & Furever)
+		1.69%	      1 Fighter (Rogue Agent)
+		1.69%	      1 Fighter (Blue Screen)
+		1.69%	      1 Fighter (Terror Byte)
+		1.69%	      1 Fighter (Head Hunter)
+		1.69%	      1 Fighter (Persona Assistant)
+		1.69%	      1 Fighter (Vaporwave Vixen)
+		1.69%	      1 Fighter (Phantom Threads)
+		1.69%	      1 Fighter (Night Terror)
+		1.69%	      1 Fighter (Feathered Edges)
+		3.39%	      1 Fighter (Ageless Wonder)
+		3.39%	      1 Fighter (Materia Girl)
+		3.39%	      1 Fighter (Moonstruck)
+		3.39%	      1 Fighter (Timeless Hero)
+		Subtotal Weight: 59
+	Total Weight: 200
+	0.5% Chance
+		3.12%	      1 Fighter (Dark Might)
+		3.12%	      1 Fighter (Snake Bite)
+		3.12%	      1 Fighter (Heavy Metal)
+		3.12%	      1 Fighter (Dream Band)
+		3.12%	      1 Fighter (Heavy Handed)
+		3.12%	      1 Fighter (Star-Spangled)
+		3.12%	      1 Fighter (Jawbreaker)
+		3.12%	      1 Fighter (Heart of Darkness)
+		3.12%	      1 Fighter (Stand Out)
+		3.12%	      1 Fighter (Mummy Dearest)
+		3.12%	      1 Fighter (Class Cutter)
+		3.12%	      1 Fighter (Djinn Frizz)
+		3.12%	      1 Fighter (Furry Fury)
+		3.12%	      1 Fighter (Wind Stalker)
+		3.12%	      1 Fighter (Fly Trap)
+		3.12%	      1 Fighter (Neuromancer)
+		3.12%	      1 Fighter (Summer Salt)
+		3.12%	      1 Fighter (Risky Ginger)
+		3.12%	      1 Fighter (Freeze Frame)
+		3.12%	      1 Fighter (Dream Catcher)
+		3.12%	      1 Fighter (Love Crafted)
+		3.12%	      1 Fighter (Plot Twisted)
+		3.12%	      1 Fighter (Assassin's Greed)
+		3.12%	      1 Fighter (Très Chic)
+		3.12%	      1 Fighter (Overclocked)
+		3.12%	      1 Fighter (X-Bot)
+		3.12%	      1 Fighter (Splitting Image)
+		3.12%	      1 Fighter (Shadow Puppet)
+		6.25%	      1 Fighter (Fire Branded)
+		6.25%	      1 Fighter (Model Leader)
+		Subtotal Weight: 32
+	Total Weight: 200
+Cosmic Jackpot Relic (Gacha_63_Jackpot_Annie)
+	90.0% Chance
+		2.17%	      1 Fighter (Hype Man)
+		2.17%	      1 Fighter (Number One)
+		2.17%	      1 Fighter (Wrestler X)
+		2.17%	      1 Fighter (Resonant Evil)
+		2.17%	      1 Fighter (Robocopy)
+		2.17%	      1 Fighter (Treble Maker)
+		2.17%	      1 Fighter (Big Top)
+		2.17%	      1 Fighter (Gray Matter)
+		2.17%	      1 Fighter (Toad Warrior)
+		2.17%	      1 Fighter (Doublicious)
+		2.17%	      1 Fighter (Myst-Match)
+		2.17%	      1 Fighter (Temple Tyrant)
+		2.17%	      1 Fighter (Bloody Valentine)
+		2.17%	      1 Fighter (Scarlet Viper)
+		2.17%	      1 Fighter (Tomb & Gloom)
+		2.17%	      1 Fighter (Bad Ms Frosty)
+		2.17%	      1 Fighter (Hair Apparent)
+		2.17%	      1 Fighter (Rock Star)
+		2.17%	      1 Fighter (Feline Lucky)
+		2.17%	      1 Fighter (Ms. Trial)
+		2.17%	      1 Fighter (Purrfect Dark)
+		2.17%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		2.17%	      1 Fighter (Rage Appropriate)
+		2.17%	      1 Fighter (Freaky Friday)
+		2.17%	      1 Fighter (Ivy League)
+		2.17%	      1 Fighter (No Egrets)
+		2.17%	      1 Fighter (Shadow Ops)
+		2.17%	      1 Fighter (Inkling)
+		2.17%	      1 Fighter (Pea Shooter)
+		2.17%	      1 Fighter (Wildcard)
+		2.17%	      1 Fighter (Blue Bomber)
+		2.17%	      1 Fighter (Nyanotech)
+		2.17%	      1 Fighter (Purrminator)
+		2.17%	      1 Fighter (Dead Heat)
+		2.17%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		2.17%	      1 Fighter (Graveyard Shift)
+		2.17%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		2.17%	      1 Fighter (Souls Sister)
+		2.17%	      1 Fighter (Rain Shadow)
+		2.17%	      1 Fighter (Chameleon Twist)
+		4.35%	      1 Fighter (Galactic Glamour)
+		4.35%	      1 Fighter (Ninja Star)
+		4.35%	      1 Fighter (Triple Threat)
+		Subtotal Weight: 46
+	Total Weight: 100
+	9.0% Chance
+		1.69%	      1 Fighter (Dragon Brawler)
+		1.69%	      1 Fighter (Weekend Warrior)
+		1.69%	      1 Fighter (Wulfsbane)
+		1.69%	      1 Fighter (Freedom Fighter)
+		1.69%	      1 Fighter (Epic Sax)
+		1.69%	      1 Fighter (G.I. Jazz)
+		1.69%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.69%	      1 Fighter (Armed Forces)
+		1.69%	      1 Fighter (Brain Freeze)
+		1.69%	      1 Fighter (Harlequin)
+		1.69%	      1 Fighter (Criminal Mind)
+		1.69%	      1 Fighter (Immoral Fiber)
+		1.69%	      1 Fighter (Rainbow Blight)
+		1.69%	      1 Fighter (Xenomorph)
+		1.69%	      1 Fighter (Evergreen Evil)
+		1.69%	      1 Fighter (Bloodbath)
+		1.69%	      1 Fighter (Diva Intervention)
+		1.69%	      1 Fighter (Red Velvet)
+		1.69%	      1 Fighter (Lapis Luxury)
+		1.69%	      1 Fighter (Dread Locks)
+		1.69%	      1 Fighter (Parasite Weave)
+		1.69%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.69%	      1 Fighter (Buzzkill)
+		1.69%	      1 Fighter (Firefly)
+		1.69%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.69%	      1 Fighter (Primed)
+		1.69%	      1 Fighter (Princess Pride)
+		1.69%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.69%	      1 Fighter (That's All Folks!)
+		1.69%	      1 Fighter (Ultraviolent)
+		1.69%	      1 Fighter (Untouchable)
+		1.69%	      1 Fighter (Mean One)
+		1.69%	      1 Fighter (Last Hope)
+		1.69%	      1 Fighter (Silent Kill)
+		1.69%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.69%	      1 Fighter (Bio-Exorcist)
+		1.69%	      1 Fighter (Dead of Winter)
+		1.69%	      1 Fighter (Poltergust)
+		1.69%	      1 Fighter (Thrill Shrieker)
+		1.69%	      1 Fighter (Claw & Order)
+		1.69%	      1 Fighter (Hack n' Splash)
+		1.69%	      1 Fighter (Meow & Furever)
+		1.69%	      1 Fighter (Rogue Agent)
+		1.69%	      1 Fighter (Blue Screen)
+		1.69%	      1 Fighter (Terror Byte)
+		1.69%	      1 Fighter (Head Hunter)
+		1.69%	      1 Fighter (Persona Assistant)
+		1.69%	      1 Fighter (Vaporwave Vixen)
+		1.69%	      1 Fighter (Phantom Threads)
+		1.69%	      1 Fighter (Night Terror)
+		1.69%	      1 Fighter (Feathered Edges)
+		3.39%	      1 Fighter (Ageless Wonder)
+		3.39%	      1 Fighter (Materia Girl)
+		3.39%	      1 Fighter (Moonstruck)
+		3.39%	      1 Fighter (Timeless Hero)
+		Subtotal Weight: 59
+	Total Weight: 100
+	1.0% Chance
+		3.12%	      1 Fighter (Dark Might)
+		3.12%	      1 Fighter (Snake Bite)
+		3.12%	      1 Fighter (Heavy Metal)
+		3.12%	      1 Fighter (Dream Band)
+		3.12%	      1 Fighter (Heavy Handed)
+		3.12%	      1 Fighter (Star-Spangled)
+		3.12%	      1 Fighter (Jawbreaker)
+		3.12%	      1 Fighter (Heart of Darkness)
+		3.12%	      1 Fighter (Stand Out)
+		3.12%	      1 Fighter (Mummy Dearest)
+		3.12%	      1 Fighter (Class Cutter)
+		3.12%	      1 Fighter (Djinn Frizz)
+		3.12%	      1 Fighter (Furry Fury)
+		3.12%	      1 Fighter (Wind Stalker)
+		3.12%	      1 Fighter (Fly Trap)
+		3.12%	      1 Fighter (Neuromancer)
+		3.12%	      1 Fighter (Summer Salt)
+		3.12%	      1 Fighter (Risky Ginger)
+		3.12%	      1 Fighter (Freeze Frame)
+		3.12%	      1 Fighter (Dream Catcher)
+		3.12%	      1 Fighter (Love Crafted)
+		3.12%	      1 Fighter (Plot Twisted)
+		3.12%	      1 Fighter (Assassin's Greed)
+		3.12%	      1 Fighter (Très Chic)
+		3.12%	      1 Fighter (Overclocked)
+		3.12%	      1 Fighter (X-Bot)
+		3.12%	      1 Fighter (Splitting Image)
+		3.12%	      1 Fighter (Shadow Puppet)
+		6.25%	      1 Fighter (Fire Branded)
+		6.25%	      1 Fighter (Model Leader)
+		Subtotal Weight: 32
+	Total Weight: 100
+Frosted Diamond Relic (2022) (Gacha_64_FrostedDiamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Raining Champ)
+		20.00%	      1 Fighter (Dream Band)
+		20.00%	      1 Fighter (Djinn Frizz)
+		20.00%	      1 Fighter (Stand Out)
+		20.00%	      1 Fighter (Splitting Image)
+		Subtotal Weight: 5
+	Total Weight: 100
+Royalty Relic (50% OFF!) (Gacha_65_Char_Parasoul_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Sheltered)
+		50.00%	      1 Fighter (Heavy Reign)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Ivy League)
+		33.33%	      1 Fighter (No Egrets)
+		33.33%	      1 Fighter (Shadow Ops)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Primed)
+		20.00%	      1 Fighter (Princess Pride)
+		20.00%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		20.00%	      1 Fighter (High Ruler)
+		20.00%	      1 Fighter (Indomitable)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Summer Salt)
+		33.33%	      1 Fighter (Risky Ginger)
+		33.33%	      1 Fighter (Bombshell)
+		Subtotal Weight: 3
+	Total Weight: 200
+Surgical Relic (50% OFF!) (Gacha_66_Char_Valentine_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Scrub)
+		50.00%	      1 Fighter (Icy Hot)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		50.00%	      1 Fighter (Graveyard Shift)
+		0.00%	      1 Fighter (Oh Mai)
+		50.00%	      1 Fighter (Kill Joy)
+		Subtotal Weight: 2
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Last Hope)
+		25.00%	      1 Fighter (Silent Kill)
+		25.00%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		25.00%	      1 Fighter (Final Fang)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Assassin's Greed)
+		25.00%	      1 Fighter (Très Chic)
+		25.00%	      1 Fighter (Wetwork)
+		25.00%	      1 Fighter (Seraph Soldier)
+		Subtotal Weight: 4
+	Total Weight: 200
+Random-Access Relic (50% OFF!) (Gacha_67_Char_Robo_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Prototype)
+		50.00%	      1 Fighter (M-3OW)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Nyanotech)
+		25.00%	      1 Fighter (Purrminator)
+		25.00%	      1 Fighter (Blue Bomber)
+		25.00%	      1 Fighter (Vector Protector)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Blue Screen)
+		20.00%	      1 Fighter (Terror Byte)
+		20.00%	      1 Fighter (Head Hunter)
+		20.00%	      1 Fighter (Persona Assistant)
+		20.00%	      1 Fighter (Buffer Zone)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Overclocked)
+		50.00%	      1 Fighter (X-Bot)
+		Subtotal Weight: 2
+	Total Weight: 200
+Celestial Relic (50% OFF!) (Gacha_69_Char_Annie_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Star Child)
+		50.00%	      1 Fighter (Solar Flair)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Galactic Glamour)
+		33.33%	      1 Fighter (Triple Threat)
+		33.33%	      1 Fighter (Ninja Star)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Timeless Hero)
+		20.00%	      1 Fighter (Materia Girl)
+		20.00%	      1 Fighter (Moonstruck)
+		20.00%	      1 Fighter (Ageless Wonder)
+		20.00%	      1 Fighter (Cosmic Rebel)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Fire Branded)
+		25.00%	      1 Fighter (Model Leader)
+		25.00%	      1 Fighter (Star Shine)
+		25.00%	      1 Fighter (Starlight Rose)
+		Subtotal Weight: 4
+	Total Weight: 200
+Beware Of Relic (50% OFF!) (Gacha_70_Char_Filia_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Bad Hair Day)
+		50.00%	      1 Fighter (Frayed Ends)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Bad Ms Frosty)
+		33.33%	      1 Fighter (Hair Apparent)
+		33.33%	      1 Fighter (Rock Star)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Dread Locks)
+		25.00%	      1 Fighter (Parasite Weave)
+		25.00%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		25.00%	      1 Fighter (Curl Scout)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Class Cutter)
+		33.33%	      1 Fighter (Djinn Frizz)
+		33.33%	      1 Fighter (Blue Streak)
+		Subtotal Weight: 3
+	Total Weight: 200
+Smackdown Relic (50% OFF!) (Gacha_71_Char_Beowulf_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Underdog)
+		50.00%	      1 Fighter (Cold Stones)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Hype Man)
+		33.33%	      1 Fighter (Number One)
+		33.33%	      1 Fighter (Wrestler X)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Dragon Brawler)
+		25.00%	      1 Fighter (Weekend Warrior)
+		25.00%	      1 Fighter (Wulfsbane)
+		25.00%	      1 Fighter (Freedom Fighter)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Dark Might)
+		25.00%	      1 Fighter (Snake Bite)
+		25.00%	      1 Fighter (Beast King)
+		25.00%	      1 Fighter (Ogre Achiever)
+		Subtotal Weight: 4
+	Total Weight: 200
+Ringleader Relic (50% OFF!) (Gacha_72_Char_Cerebella_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Understudy)
+		50.00%	      1 Fighter (Headstrong)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Big Top)
+		33.33%	      1 Fighter (Gray Matter)
+		33.33%	      1 Fighter (Toad Warrior)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		16.67%	      1 Fighter (Armed Forces)
+		16.67%	      1 Fighter (Brain Freeze)
+		16.67%	      1 Fighter (Harlequin)
+		16.67%	      1 Fighter (Criminal Mind)
+		16.67%	      1 Fighter (Blitz & Glamour)
+		16.67%	      1 Fighter (Scare Giver)
+		Subtotal Weight: 6
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Heavy Handed)
+		50.00%	      1 Fighter (Star-Spangled)
+		Subtotal Weight: 2
+	Total Weight: 200
+Doppelgänger Relic (50% OFF!) (Gacha_73_Char_Fukua_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Rough Copy)
+		50.00%	      1 Fighter (Infernal Twin)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Souls Sister)
+		33.33%	      1 Fighter (Rain Shadow)
+		33.33%	      1 Fighter (Chameleon Twist)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Vaporwave Vixen)
+		25.00%	      1 Fighter (Phantom Threads)
+		25.00%	      1 Fighter (Night Terror)
+		25.00%	      1 Fighter (Feathered Edges)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Splitting Image)
+		25.00%	      1 Fighter (Shadow Puppet)
+		25.00%	      1 Fighter (Dream Demon)
+		25.00%	      1 Fighter (Apex Complex)
+		Subtotal Weight: 4
+	Total Weight: 200
+Unspeakable Relic (50% OFF!) (Gacha_74_Char_Double_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Nunsense)
+		50.00%	      1 Fighter (Sundae School)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Doublicious)
+		33.33%	      1 Fighter (Temple Tyrant)
+		33.33%	      1 Fighter (Myst-Match)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Immoral Fiber)
+		25.00%	      1 Fighter (Rainbow Blight)
+		25.00%	      1 Fighter (Xenomorph)
+		25.00%	      1 Fighter (Evergreen Evil)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		25.00%	      1 Fighter (Jawbreaker)
+		25.00%	      1 Fighter (Heart of Darkness)
+		25.00%	      1 Fighter (Creature of Habit)
+		25.00%	      1 Fighter (Altar Ego)
+		Subtotal Weight: 4
+	Total Weight: 200
+Reanimated Relic (50% OFF!) (Gacha_75_Char_Squigly_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Stage Fright)
+		50.00%	      1 Fighter (Scared Stiff)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Nearly Departed)
+		33.33%	      1 Fighter (Dead Heat)
+		33.33%	      1 Fighter (Gang Green)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Bio-Exorcist)
+		20.00%	      1 Fighter (Poltergust)
+		20.00%	      1 Fighter (Dead of Winter)
+		20.00%	      1 Fighter (Thrill Shrieker)
+		20.00%	      1 Fighter (Demon Artist)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Love Crafted)
+		50.00%	      1 Fighter (Plot Twisted)
+		Subtotal Weight: 2
+	Total Weight: 200
+Hand-Drawn Relic (50% OFF!) (Gacha_76_Char_Peacock_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Rerun)
+		50.00%	      1 Fighter (Sketchy)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Inkling)
+		25.00%	      1 Fighter (Pea Shooter)
+		25.00%	      1 Fighter (Wildcard)
+		25.00%	      1 Fighter (Prism Plumage)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (That's All Folks!)
+		20.00%	      1 Fighter (Ultraviolent)
+		20.00%	      1 Fighter (Untouchable)
+		20.00%	      1 Fighter (Mean One)
+		20.00%	      1 Fighter (Primal Prodigy)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Freeze Frame)
+		33.33%	      1 Fighter (Dream Catcher)
+		33.33%	      1 Fighter (Deal Breaker)
+		Subtotal Weight: 3
+	Total Weight: 200
+Hieroglyphic Relic (50% OFF!) (Gacha_77_Char_Eliza_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (In Denile)
+		50.00%	      1 Fighter (Decrypted)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Bloody Valentine)
+		33.33%	      1 Fighter (Scarlet Viper)
+		33.33%	      1 Fighter (Tomb & Gloom)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Bloodbath)
+		20.00%	      1 Fighter (Diva Intervention)
+		20.00%	      1 Fighter (Red Velvet)
+		20.00%	      1 Fighter (Lapis Luxury)
+		0.00%	      1 Fighter (Inner Pieces)
+		20.00%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		50.00%	      1 Fighter (Stand Out)
+		50.00%	      1 Fighter (Mummy Dearest)
+		Subtotal Weight: 2
+	Total Weight: 200
+Schrödinger's Relic (50% OFF!) (Gacha_78_Char_MsFortune_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Just Kitten)
+		50.00%	      1 Fighter (Hellcat)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Feline Lucky)
+		33.33%	      1 Fighter (Purrfect Dark)
+		33.33%	      1 Fighter (Ms. Trial)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		20.00%	      1 Fighter (Hack n' Splash)
+		20.00%	      1 Fighter (Meow & Furever)
+		20.00%	      1 Fighter (Claw & Order)
+		20.00%	      1 Fighter (Rogue Agent)
+		20.00%	      1 Fighter (Time Thief)
+		Subtotal Weight: 5
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Furry Fury)
+		33.33%	      1 Fighter (Wind Stalker)
+		33.33%	      1 Fighter (Foot Soldier)
+		Subtotal Weight: 3
+	Total Weight: 200
+Tortured Relic (50% OFF!) (Gacha_79_Char_Painwheel_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Rusty)
+		50.00%	      1 Fighter (Twisted Mettle)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Blood Drive)
+		33.33%	      1 Fighter (Rage Appropriate)
+		33.33%	      1 Fighter (Freaky Friday)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Buzzkill)
+		25.00%	      1 Fighter (Firefly)
+		25.00%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		25.00%	      1 Fighter (Biting Cold)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Fly Trap)
+		33.33%	      1 Fighter (Neuromancer)
+		33.33%	      1 Fighter (Web Crawler)
+		Subtotal Weight: 3
+	Total Weight: 200
+Top Brass Relic (50% OFF!) (Gacha_80_Char_BigBand_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Bassline)
+		50.00%	      1 Fighter (Beat Box)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Resonant Evil)
+		25.00%	      1 Fighter (Robocopy)
+		25.00%	      1 Fighter (Treble Maker)
+		25.00%	      1 Fighter (Vintage Virtuoso)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		33.33%	      1 Fighter (Epic Sax)
+		33.33%	      1 Fighter (G.I. Jazz)
+		33.33%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		Subtotal Weight: 3
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Heavy Metal)
+		33.33%	      1 Fighter (Dream Band)
+		33.33%	      1 Fighter (Brass Bandit)
+		Subtotal Weight: 3
+	Total Weight: 200
+Nightmare Diamond Relic (2022) (Gacha_81_NightmareDiamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Death Wish)
+		20.00%	      1 Fighter (Dream Demon)
+		20.00%	      1 Fighter (Mummy Dearest)
+		20.00%	      1 Fighter (X-Bot)
+		20.00%	      1 Fighter (Fly Trap)
+		Subtotal Weight: 5
+	Total Weight: 100
+Interstellar Spotlight Relic (2023) (Gacha_82_Spotlight_Interstellar)
+	90.0% Chance
+		33.33%	      1 Fighter (Prism Plumage)
+		33.33%	      1 Fighter (Dame Slayer)
+		33.33%	      1 Fighter (Number One)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Space Case)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Star Shine)
+		Subtotal Weight: 1
+	Total Weight: 100
+Untamed Spotlight Relic (2022) (Gacha_83_Spotlight_Untamed)
+	90.0% Chance
+		33.33%	      1 Fighter (Toad Warrior)
+		33.33%	      1 Fighter (Scarlet Viper)
+		33.33%	      1 Fighter (Chameleon Twist)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Dragon Brawler)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Fly Trap)
+		Subtotal Weight: 1
+	Total Weight: 100
+Villainous Spotlight Relic (2023) (Gacha_84_Spotlight_Villainous)
+	90.0% Chance
+		33.33%	      1 Fighter (Purrminator)
+		33.33%	      1 Fighter (Resonant Evil)
+		33.33%	      1 Fighter (Wildcard)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Criminal Mind)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Unholy Host)
+		Subtotal Weight: 1
+	Total Weight: 100
+Heroic Spotlight Relic (2022) (Gacha_85_Spotlight_Heroic)
+	90.0% Chance
+		33.33%	      1 Fighter (Ms. Trial)
+		33.33%	      1 Fighter (Number One)
+		33.33%	      1 Fighter (Nyanotech)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Timeless Hero)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Djinn Frizz)
+		Subtotal Weight: 1
+	Total Weight: 100
+Sugar-Coated Spotlight Relic (Gacha_86_Spotlight_Sugary)
+	90.0% Chance
+		33.33%	      1 Fighter (Doublicious)
+		33.33%	      1 Fighter (Bad Ms Frosty)
+		33.33%	      1 Fighter (Candy Crusher)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Brain Freeze)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Summer Salt)
+		Subtotal Weight: 1
+	Total Weight: 100
+Distorted Spotlight Relic (2023) (Gacha_87_Spotlight_Distorted)
+	90.0% Chance
+		33.33%	      1 Fighter (Robocopy)
+		33.33%	      1 Fighter (Bad Ms Frosty)
+		33.33%	      1 Fighter (Freaky Friday)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Hack n' Splash)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Class Cutter)
+		Subtotal Weight: 1
+	Total Weight: 100
+Heartbreaker Diamond Relic (2023) (Gacha_88_Heartbreaker_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Beast King)
+		20.00%	      1 Fighter (Love Crafted)
+		20.00%	      1 Fighter (Overclocked)
+		20.00%	      1 Fighter (Assassin's Greed)
+		20.00%	      1 Fighter (Risky Ginger)
+		Subtotal Weight: 5
+	Total Weight: 100
+Tree of Life Diamond Relic (2023) (Gacha_89_TreeOfLife_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Snake Bite)
+		20.00%	      1 Fighter (Fly Trap)
+		20.00%	      1 Fighter (Wind Stalker)
+		20.00%	      1 Fighter (Heavy Handed)
+		20.00%	      1 Fighter (Wetwork)
+		Subtotal Weight: 5
+	Total Weight: 100
+Shard to Get Relic (Gacha_8_Sharded)
+	95.0% Chance
+		1.75%	      1 Fighter (Hype Man)
+		1.75%	      1 Fighter (Number One)
+		1.75%	      1 Fighter (Wrestler X)
+		1.75%	      1 Fighter (Resonant Evil)
+		1.75%	      1 Fighter (Robocopy)
+		1.75%	      1 Fighter (Treble Maker)
+		1.75%	      1 Fighter (Big Top)
+		1.75%	      1 Fighter (Gray Matter)
+		1.75%	      1 Fighter (Toad Warrior)
+		1.75%	      1 Fighter (Doublicious)
+		1.75%	      1 Fighter (Myst-Match)
+		1.75%	      1 Fighter (Temple Tyrant)
+		1.75%	      1 Fighter (Bloody Valentine)
+		1.75%	      1 Fighter (Scarlet Viper)
+		1.75%	      1 Fighter (Tomb & Gloom)
+		1.75%	      1 Fighter (Bad Ms Frosty)
+		1.75%	      1 Fighter (Hair Apparent)
+		1.75%	      1 Fighter (Rock Star)
+		1.75%	      1 Fighter (Feline Lucky)
+		1.75%	      1 Fighter (Ms. Trial)
+		1.75%	      1 Fighter (Purrfect Dark)
+		1.75%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Rage Appropriate)
+		1.75%	      1 Fighter (Freaky Friday)
+		1.75%	      1 Fighter (Ivy League)
+		1.75%	      1 Fighter (No Egrets)
+		1.75%	      1 Fighter (Shadow Ops)
+		1.75%	      1 Fighter (Inkling)
+		1.75%	      1 Fighter (Pea Shooter)
+		1.75%	      1 Fighter (Wildcard)
+		1.75%	      1 Fighter (Blue Bomber)
+		1.75%	      1 Fighter (Nyanotech)
+		1.75%	      1 Fighter (Purrminator)
+		1.75%	      1 Fighter (Dead Heat)
+		1.75%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		1.75%	      1 Fighter (Graveyard Shift)
+		1.75%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		1.75%	      1 Fighter (Souls Sister)
+		1.75%	      1 Fighter (Rain Shadow)
+		1.75%	      1 Fighter (Chameleon Twist)
+		1.75%	      1 Fighter (Galactic Glamour)
+		1.75%	      1 Fighter (Ninja Star)
+		1.75%	      1 Fighter (Triple Threat)
+		1.75%	      1 Fighter (Gang Green)
+		1.75%	      1 Fighter (Prism Plumage)
+		1.75%	      1 Fighter (Vintage Virtuoso)
+		1.75%	      1 Fighter (Vector Protector)
+		1.75%	      1 Fighter (Candy Crusher)
+		1.75%	      1 Fighter (Puddle Pirate)
+		1.75%	      1 Fighter (Rose-Tinted)
+		1.75%	      1 Fighter (Wild Child)
+		1.75%	      1 Fighter (Dame Slayer)
+		1.75%	      1 Fighter (Lethal Weapon)
+		1.75%	      1 Fighter (Soul Crusher)
+		1.75%	      1 Fighter (Maid of Honor)
+		1.75%	      1 Fighter (Phantom Wrangler)
+		1.75%	      1 Fighter (Snake Charmer)
+		Subtotal Weight: 57
+	Total Weight: 100
+	5.0% Chance
+		1.22%	      1 Fighter (Dragon Brawler)
+		1.22%	      1 Fighter (Weekend Warrior)
+		1.22%	      1 Fighter (Wulfsbane)
+		1.22%	      1 Fighter (Freedom Fighter)
+		1.22%	      1 Fighter (Epic Sax)
+		1.22%	      1 Fighter (G.I. Jazz)
+		1.22%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.22%	      1 Fighter (Armed Forces)
+		1.22%	      1 Fighter (Brain Freeze)
+		1.22%	      1 Fighter (Harlequin)
+		1.22%	      1 Fighter (Criminal Mind)
+		1.22%	      1 Fighter (Immoral Fiber)
+		1.22%	      1 Fighter (Rainbow Blight)
+		1.22%	      1 Fighter (Xenomorph)
+		1.22%	      1 Fighter (Evergreen Evil)
+		1.22%	      1 Fighter (Bloodbath)
+		1.22%	      1 Fighter (Diva Intervention)
+		1.22%	      1 Fighter (Red Velvet)
+		1.22%	      1 Fighter (Lapis Luxury)
+		1.22%	      1 Fighter (Dread Locks)
+		1.22%	      1 Fighter (Parasite Weave)
+		1.22%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.22%	      1 Fighter (Buzzkill)
+		1.22%	      1 Fighter (Firefly)
+		1.22%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.22%	      1 Fighter (Primed)
+		1.22%	      1 Fighter (Princess Pride)
+		1.22%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.22%	      1 Fighter (That's All Folks!)
+		1.22%	      1 Fighter (Ultraviolent)
+		1.22%	      1 Fighter (Untouchable)
+		1.22%	      1 Fighter (Mean One)
+		1.22%	      1 Fighter (Last Hope)
+		1.22%	      1 Fighter (Silent Kill)
+		1.22%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.22%	      1 Fighter (Bio-Exorcist)
+		1.22%	      1 Fighter (Dead of Winter)
+		1.22%	      1 Fighter (Poltergust)
+		1.22%	      1 Fighter (Thrill Shrieker)
+		1.22%	      1 Fighter (Claw & Order)
+		1.22%	      1 Fighter (Hack n' Splash)
+		1.22%	      1 Fighter (Meow & Furever)
+		1.22%	      1 Fighter (Rogue Agent)
+		1.22%	      1 Fighter (Blue Screen)
+		1.22%	      1 Fighter (Terror Byte)
+		1.22%	      1 Fighter (Head Hunter)
+		1.22%	      1 Fighter (Persona Assistant)
+		1.22%	      1 Fighter (Vaporwave Vixen)
+		1.22%	      1 Fighter (Phantom Threads)
+		1.22%	      1 Fighter (Night Terror)
+		1.22%	      1 Fighter (Feathered Edges)
+		1.22%	      1 Fighter (Ageless Wonder)
+		1.22%	      1 Fighter (Materia Girl)
+		1.22%	      1 Fighter (Moonstruck)
+		1.22%	      1 Fighter (Timeless Hero)
+		1.22%	      1 Fighter (Time Thief)
+		1.22%	      1 Fighter (Biting Cold)
+		1.22%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.22%	      1 Fighter (Blitz & Glamour)
+		1.22%	      1 Fighter (Space Case)
+		1.22%	      1 Fighter (Tidal Traveler)
+		1.22%	      1 Fighter (Wunderkind)
+		1.22%	      1 Fighter (Corrosive Agent)
+		1.22%	      1 Fighter (Martial Outlaw)
+		1.22%	      1 Fighter (Psycommander)
+		1.22%	      1 Fighter (Unfazed)
+		1.22%	      1 Fighter (Dark Horse)
+		1.22%	      1 Fighter (Gravedigger)
+		1.22%	      1 Fighter (Gust Buster)
+		1.22%	      1 Fighter (Octoplasm)
+		1.22%	      1 Fighter (Red Rider)
+		1.22%	      1 Fighter (Final Fang)
+		1.22%	      1 Fighter (Psykid)
+		1.22%	      1 Fighter (Scare Giver)
+		1.22%	      1 Fighter (Primal Prodigy)
+		1.22%	      1 Fighter (Demon Artist)
+		1.22%	      1 Fighter (Cosmic Rebel)
+		1.22%	      1 Fighter (Indomitable)
+		1.22%	      1 Fighter (Buffer Zone)
+		1.22%	      1 Fighter (Curl Scout)
+		1.22%	      1 Fighter (Grin Reaper)
+		1.22%	      1 Fighter (Noble Mogul)
+		Subtotal Weight: 82
+	Total Weight: 100
+Blossom Relic (2023) (Gacha_90_Blossom)
+	90.0% Chance
+		9.09%	      1 Fighter (Ninja Star)
+		9.09%	      1 Fighter (Wrestler X)
+		9.09%	      1 Fighter (Vintage Virtuoso)
+		9.09%	      1 Fighter (Gray Matter)
+		9.09%	      1 Fighter (Souls Sister)
+		9.09%	      1 Fighter (Blood Drive)
+		9.09%	      1 Fighter (Shadow Ops)
+		9.09%	      1 Fighter (Prism Plumage)
+		9.09%	      1 Fighter (Blue Bomber)
+		9.09%	      1 Fighter (Kill Joy)
+		9.09%	      1 Fighter (Wild Child)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Idol Threat)
+		33.33%	      1 Fighter (Meow & Furever)
+		33.33%	      1 Fighter (Corrosive Agent)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Plot Twisted)
+		33.33%	      1 Fighter (Jawbreaker)
+		33.33%	      1 Fighter (Stand Out)
+		Subtotal Weight: 3
+	Total Weight: 100
+Sunshine Diamond Relic (2023) (Gacha_91_Sunshine_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Plot Twisted)
+		20.00%	      1 Fighter (Jawbreaker)
+		20.00%	      1 Fighter (Stand Out)
+		20.00%	      1 Fighter (Dream Demon)
+		20.00%	      1 Fighter (Raining Champ)
+		Subtotal Weight: 5
+	Total Weight: 100
+Mariachi Diamond Relic (2023) (Gacha_92_Mariachi_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Creature of Habit)
+		20.00%	      1 Fighter (Dream Catcher)
+		20.00%	      1 Fighter (Fur Monger)
+		20.00%	      1 Fighter (Neuromancer)
+		20.00%	      1 Fighter (Dream Band)
+		Subtotal Weight: 5
+	Total Weight: 100
+Hangry Relic (Gacha_93_Char_Umbrella)
+	82.0% Chance
+		50.00%	      1 Fighter (Salty)
+		50.00%	      1 Fighter (Fresh Heir)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Candy Crusher)
+		25.00%	      1 Fighter (Puddle Pirate)
+		25.00%	      1 Fighter (Rose-Tinted)
+		25.00%	      1 Fighter (Wild Child)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Tidal Traveler)
+		25.00%	      1 Fighter (Space Case)
+		25.00%	      1 Fighter (Wunderkind)
+		25.00%	      1 Fighter (Psykid)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Raining Champ)
+		33.33%	      1 Fighter (Eager Deceiver)
+		33.33%	      1 Fighter (Death Wish)
+		Subtotal Weight: 3
+	Total Weight: 200
+Peckish Premiere Relic (Gacha_94_Premiere_Umbrella)
+	82.0% Chance
+		2.94%	      1 Fighter (Underdog)
+		2.94%	      1 Fighter (Cold Stones)
+		2.94%	      1 Fighter (Bassline)
+		2.94%	      1 Fighter (Beat Box)
+		2.94%	      1 Fighter (Understudy)
+		2.94%	      1 Fighter (Headstrong)
+		2.94%	      1 Fighter (Nunsense)
+		2.94%	      1 Fighter (Sundae School)
+		2.94%	      1 Fighter (In Denile)
+		2.94%	      1 Fighter (Decrypted)
+		2.94%	      1 Fighter (Bad Hair Day)
+		2.94%	      1 Fighter (Frayed Ends)
+		2.94%	      1 Fighter (Rusty)
+		2.94%	      1 Fighter (Twisted Mettle)
+		2.94%	      1 Fighter (Sheltered)
+		2.94%	      1 Fighter (Heavy Reign)
+		2.94%	      1 Fighter (Rerun)
+		2.94%	      1 Fighter (Sketchy)
+		2.94%	      1 Fighter (Scrub)
+		2.94%	      1 Fighter (Icy Hot)
+		2.94%	      1 Fighter (Scared Stiff)
+		2.94%	      1 Fighter (Stage Fright)
+		2.94%	      1 Fighter (Just Kitten)
+		2.94%	      1 Fighter (Hellcat)
+		2.94%	      1 Fighter (Prototype)
+		2.94%	      1 Fighter (M-3OW)
+		2.94%	      1 Fighter (Rough Copy)
+		2.94%	      1 Fighter (Infernal Twin)
+		2.94%	      1 Fighter (Solar Flair)
+		2.94%	      1 Fighter (Star Child)
+		5.88%	      1 Fighter (Salty)
+		5.88%	      1 Fighter (Fresh Heir)
+		Subtotal Weight: 34
+	Total Weight: 200
+	14.0% Chance
+		1.82%	      1 Fighter (Hype Man)
+		1.82%	      1 Fighter (Number One)
+		1.82%	      1 Fighter (Wrestler X)
+		1.82%	      1 Fighter (Resonant Evil)
+		1.82%	      1 Fighter (Robocopy)
+		1.82%	      1 Fighter (Treble Maker)
+		1.82%	      1 Fighter (Big Top)
+		1.82%	      1 Fighter (Gray Matter)
+		1.82%	      1 Fighter (Toad Warrior)
+		1.82%	      1 Fighter (Doublicious)
+		1.82%	      1 Fighter (Myst-Match)
+		1.82%	      1 Fighter (Temple Tyrant)
+		1.82%	      1 Fighter (Bloody Valentine)
+		1.82%	      1 Fighter (Scarlet Viper)
+		1.82%	      1 Fighter (Tomb & Gloom)
+		1.82%	      1 Fighter (Bad Ms Frosty)
+		1.82%	      1 Fighter (Hair Apparent)
+		1.82%	      1 Fighter (Rock Star)
+		1.82%	      1 Fighter (Feline Lucky)
+		1.82%	      1 Fighter (Ms. Trial)
+		1.82%	      1 Fighter (Purrfect Dark)
+		1.82%	      1 Fighter (Blood Drive)
+		0.00%	      1 Fighter (Freaky Friday)
+		1.82%	      1 Fighter (Rage Appropriate)
+		1.82%	      1 Fighter (Freaky Friday)
+		1.82%	      1 Fighter (Ivy League)
+		1.82%	      1 Fighter (No Egrets)
+		1.82%	      1 Fighter (Shadow Ops)
+		1.82%	      1 Fighter (Inkling)
+		1.82%	      1 Fighter (Pea Shooter)
+		1.82%	      1 Fighter (Wildcard)
+		1.82%	      1 Fighter (Blue Bomber)
+		1.82%	      1 Fighter (Nyanotech)
+		1.82%	      1 Fighter (Purrminator)
+		1.82%	      1 Fighter (Dead Heat)
+		1.82%	      1 Fighter (Nearly Departed)
+		0.00%	      1 Fighter (Necrobreaker)
+		1.82%	      1 Fighter (Graveyard Shift)
+		1.82%	      1 Fighter (Kill Joy)
+		0.00%	      1 Fighter (Oh Mai)
+		1.82%	      1 Fighter (Souls Sister)
+		1.82%	      1 Fighter (Rain Shadow)
+		1.82%	      1 Fighter (Chameleon Twist)
+		1.82%	      1 Fighter (Galactic Glamour)
+		1.82%	      1 Fighter (Ninja Star)
+		1.82%	      1 Fighter (Triple Threat)
+		1.82%	      1 Fighter (Gang Green)
+		1.82%	      1 Fighter (Prism Plumage)
+		1.82%	      1 Fighter (Vintage Virtuoso)
+		1.82%	      1 Fighter (Vector Protector)
+		3.64%	      1 Fighter (Candy Crusher)
+		3.64%	      1 Fighter (Puddle Pirate)
+		3.64%	      1 Fighter (Rose-Tinted)
+		3.64%	      1 Fighter (Wild Child)
+		Subtotal Weight: 55
+	Total Weight: 200
+	3.5% Chance
+		1.54%	      1 Fighter (Dragon Brawler)
+		1.54%	      1 Fighter (Weekend Warrior)
+		1.54%	      1 Fighter (Wulfsbane)
+		1.54%	      1 Fighter (Freedom Fighter)
+		1.54%	      1 Fighter (Epic Sax)
+		1.54%	      1 Fighter (G.I. Jazz)
+		1.54%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Megasonic)
+		1.54%	      1 Fighter (Armed Forces)
+		1.54%	      1 Fighter (Brain Freeze)
+		1.54%	      1 Fighter (Harlequin)
+		1.54%	      1 Fighter (Criminal Mind)
+		1.54%	      1 Fighter (Immoral Fiber)
+		1.54%	      1 Fighter (Rainbow Blight)
+		1.54%	      1 Fighter (Xenomorph)
+		1.54%	      1 Fighter (Evergreen Evil)
+		1.54%	      1 Fighter (Bloodbath)
+		1.54%	      1 Fighter (Diva Intervention)
+		1.54%	      1 Fighter (Red Velvet)
+		1.54%	      1 Fighter (Lapis Luxury)
+		1.54%	      1 Fighter (Dread Locks)
+		1.54%	      1 Fighter (Parasite Weave)
+		1.54%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		1.54%	      1 Fighter (Buzzkill)
+		1.54%	      1 Fighter (Firefly)
+		1.54%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (Grim Fan)
+		1.54%	      1 Fighter (Primed)
+		1.54%	      1 Fighter (Princess Pride)
+		1.54%	      1 Fighter (Regally Blonde)
+		0.00%	      1 Fighter (Star-Crossed)
+		1.54%	      1 Fighter (That's All Folks!)
+		1.54%	      1 Fighter (Ultraviolent)
+		1.54%	      1 Fighter (Untouchable)
+		1.54%	      1 Fighter (Mean One)
+		1.54%	      1 Fighter (Last Hope)
+		1.54%	      1 Fighter (Silent Kill)
+		1.54%	      1 Fighter (Surgeon General)
+		0.00%	      1 Fighter (Pyro-Technique)
+		1.54%	      1 Fighter (Bio-Exorcist)
+		1.54%	      1 Fighter (Dead of Winter)
+		1.54%	      1 Fighter (Poltergust)
+		1.54%	      1 Fighter (Thrill Shrieker)
+		1.54%	      1 Fighter (Claw & Order)
+		1.54%	      1 Fighter (Hack n' Splash)
+		1.54%	      1 Fighter (Meow & Furever)
+		1.54%	      1 Fighter (Rogue Agent)
+		1.54%	      1 Fighter (Blue Screen)
+		1.54%	      1 Fighter (Terror Byte)
+		1.54%	      1 Fighter (Head Hunter)
+		1.54%	      1 Fighter (Persona Assistant)
+		1.54%	      1 Fighter (Vaporwave Vixen)
+		1.54%	      1 Fighter (Phantom Threads)
+		1.54%	      1 Fighter (Night Terror)
+		1.54%	      1 Fighter (Feathered Edges)
+		1.54%	      1 Fighter (Ageless Wonder)
+		1.54%	      1 Fighter (Materia Girl)
+		1.54%	      1 Fighter (Moonstruck)
+		1.54%	      1 Fighter (Timeless Hero)
+		1.54%	      1 Fighter (Time Thief)
+		1.54%	      1 Fighter (Biting Cold)
+		1.54%	      1 Fighter (High Ruler)
+		0.00%	      1 Fighter (Inner Pieces)
+		1.54%	      1 Fighter (Blitz & Glamour)
+		3.08%	      1 Fighter (Tidal Traveler)
+		3.08%	      1 Fighter (Space Case)
+		3.08%	      1 Fighter (Wunderkind)
+		Subtotal Weight: 65
+	Total Weight: 200
+	0.5% Chance
+		2.56%	      1 Fighter (Dark Might)
+		2.56%	      1 Fighter (Snake Bite)
+		2.56%	      1 Fighter (Heavy Metal)
+		2.56%	      1 Fighter (Dream Band)
+		2.56%	      1 Fighter (Heavy Handed)
+		2.56%	      1 Fighter (Star-Spangled)
+		2.56%	      1 Fighter (Jawbreaker)
+		2.56%	      1 Fighter (Heart of Darkness)
+		2.56%	      1 Fighter (Stand Out)
+		2.56%	      1 Fighter (Mummy Dearest)
+		2.56%	      1 Fighter (Class Cutter)
+		2.56%	      1 Fighter (Djinn Frizz)
+		2.56%	      1 Fighter (Furry Fury)
+		2.56%	      1 Fighter (Wind Stalker)
+		2.56%	      1 Fighter (Fly Trap)
+		2.56%	      1 Fighter (Neuromancer)
+		2.56%	      1 Fighter (Summer Salt)
+		2.56%	      1 Fighter (Risky Ginger)
+		2.56%	      1 Fighter (Freeze Frame)
+		2.56%	      1 Fighter (Dream Catcher)
+		2.56%	      1 Fighter (Love Crafted)
+		2.56%	      1 Fighter (Plot Twisted)
+		2.56%	      1 Fighter (Assassin's Greed)
+		2.56%	      1 Fighter (Très Chic)
+		2.56%	      1 Fighter (Overclocked)
+		2.56%	      1 Fighter (X-Bot)
+		2.56%	      1 Fighter (Splitting Image)
+		2.56%	      1 Fighter (Shadow Puppet)
+		2.56%	      1 Fighter (Fire Branded)
+		2.56%	      1 Fighter (Model Leader)
+		2.56%	      1 Fighter (Star Shine)
+		2.56%	      1 Fighter (Beast King)
+		2.56%	      1 Fighter (Creature of Habit)
+		2.56%	      1 Fighter (Wetwork)
+		2.56%	      1 Fighter (Dream Demon)
+		5.13%	      1 Fighter (Eager Deceiver)
+		5.13%	      1 Fighter (Raining Champ)
+		Subtotal Weight: 39
+	Total Weight: 200
+Hangry Relic (50% OFF!) (Gacha_95_Char_Umbrella_Sale)
+	82.0% Chance
+		50.00%	      1 Fighter (Salty)
+		50.00%	      1 Fighter (Fresh Heir)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		25.00%	      1 Fighter (Candy Crusher)
+		25.00%	      1 Fighter (Puddle Pirate)
+		25.00%	      1 Fighter (Rose-Tinted)
+		25.00%	      1 Fighter (Wild Child)
+		Subtotal Weight: 4
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Tidal Traveler)
+		25.00%	      1 Fighter (Space Case)
+		25.00%	      1 Fighter (Wunderkind)
+		25.00%	      1 Fighter (Psykid)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Raining Champ)
+		33.33%	      1 Fighter (Eager Deceiver)
+		33.33%	      1 Fighter (Death Wish)
+		Subtotal Weight: 3
+	Total Weight: 200
+Summer Breeze Relic (2023) (Gacha_96_SummerBreeze)
+	90.0% Chance
+		9.09%	      1 Fighter (Treble Maker)
+		9.09%	      1 Fighter (Big Top)
+		9.09%	      1 Fighter (Doublicious)
+		9.09%	      1 Fighter (Tomb & Gloom)
+		9.09%	      1 Fighter (Chameleon Twist)
+		9.09%	      1 Fighter (Ms. Trial)
+		9.09%	      1 Fighter (Rage Appropriate)
+		9.09%	      1 Fighter (Pea Shooter)
+		9.09%	      1 Fighter (Vector Protector)
+		9.09%	      1 Fighter (Nearly Departed)
+		9.09%	      1 Fighter (Kill Joy)
+		Subtotal Weight: 11
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Windswept)
+		33.33%	      1 Fighter (Weekend Warrior)
+		33.33%	      1 Fighter (Star-Crossed)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Model Leader)
+		33.33%	      1 Fighter (Unholy Host)
+		33.33%	      1 Fighter (Eager Deceiver)
+		Subtotal Weight: 3
+	Total Weight: 100
+Beach Day Diamond Relic (2023) (Gacha_97_BeachDay_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Model Leader)
+		20.00%	      1 Fighter (Unholy Host)
+		20.00%	      1 Fighter (Eager Deceiver)
+		20.00%	      1 Fighter (Furry Fury)
+		20.00%	      1 Fighter (Summer Salt)
+		Subtotal Weight: 5
+	Total Weight: 100
+Firecracker Diamond Relic (2022) (Gacha_98_Firecracker_Diamond)
+	100.0% Chance
+		20.00%	      1 Fighter (Fire Branded)
+		20.00%	      1 Fighter (Splitting Image)
+		20.00%	      1 Fighter (Star-Spangled)
+		20.00%	      1 Fighter (Djinn Frizz)
+		20.00%	      1 Fighter (Wetwork)
+		Subtotal Weight: 5
+	Total Weight: 100
+Singularity Spotlight Relic (2022) (Gacha_99_Spotlight_Singularity)
+	90.0% Chance
+		33.33%	      1 Fighter (Ninja Star)
+		33.33%	      1 Fighter (Purrminator)
+		33.33%	      1 Fighter (Wild Child)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Night Terror)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Love Crafted)
+		Subtotal Weight: 1
+	Total Weight: 100
+Beware Of Relic (Gacha_9_Char_Filia)
+	82.0% Chance
+		50.00%	      1 Fighter (Bad Hair Day)
+		50.00%	      1 Fighter (Frayed Ends)
+		Subtotal Weight: 2
+	Total Weight: 200
+	14.0% Chance
+		33.33%	      1 Fighter (Bad Ms Frosty)
+		33.33%	      1 Fighter (Hair Apparent)
+		33.33%	      1 Fighter (Rock Star)
+		Subtotal Weight: 3
+	Total Weight: 200
+	3.5% Chance
+		25.00%	      1 Fighter (Dread Locks)
+		25.00%	      1 Fighter (Parasite Weave)
+		25.00%	      1 Fighter (Windswept)
+		0.00%	      1 Fighter (Idol Threat)
+		25.00%	      1 Fighter (Curl Scout)
+		Subtotal Weight: 4
+	Total Weight: 200
+	0.5% Chance
+		33.33%	      1 Fighter (Class Cutter)
+		33.33%	      1 Fighter (Djinn Frizz)
+		33.33%	      1 Fighter (Blue Streak)
+		Subtotal Weight: 3
+	Total Weight: 200
+Take a Break Relic (Gacha_1_Hourly_NA)
+	40.0% Chance
+		40.00%	    500 Canopy Coins
+		40.00%	   1000 Canopy Coins
+		20.00%	   2000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	20.0% Chance
+		3.70%	      1 Randomized (SM B, BigBand)
+		3.70%	      1 Randomized (SM B, Cerebella)
+		3.70%	      1 Randomized (SM B, Filia)
+		3.70%	      1 Randomized (SM B, Painwheel)
+		3.70%	      1 Randomized (SM B, Peacock)
+		3.70%	      1 Randomized (SM B, Valentine)
+		3.70%	      1 Randomized (SM B, Parasoul)
+		3.70%	      1 Randomized (SM B, Eliza)
+		1.85%	      1 Randomized (BB B, BigBand)
+		1.85%	      1 Randomized (BB B, Cerebella)
+		1.85%	      1 Randomized (BB B, Eliza)
+		1.85%	      1 Randomized (BB B, Filia)
+		1.85%	      1 Randomized (BB B, Painwheel)
+		1.85%	      1 Randomized (BB B, Parasoul)
+		1.85%	      1 Randomized (BB B, Peacock)
+		1.85%	      1 Randomized (BB B, Valentine)
+		1.85%	      1 Randomized (BB B, Beowulf)
+		3.70%	      1 Randomized (SM B, Beowulf)
+		3.70%	      1 Randomized (SM B, Double)
+		1.85%	      1 Randomized (BB B, Double)
+		1.85%	      1 Randomized (BB B, Squigly)
+		3.70%	      1 Randomized (SM B, Squigly)
+		1.85%	      1 Randomized (BB B, MsFortune)
+		3.70%	      1 Randomized (SM B, MsFortune)
+		1.85%	      1 Randomized (BB B, RoboFortune)
+		3.70%	      1 Randomized (SM B, RoboFortune)
+		1.85%	      1 Randomized (BB B, Fukua)
+		3.70%	      1 Randomized (SM B, Fukua)
+		1.85%	      1 Randomized (BB B, Annie)
+		3.70%	      1 Randomized (SM B, Annie)
+		3.70%	      1 Randomized (SM B, Umbrella)
+		1.85%	      1 Randomized (BB B, Umbrella)
+		3.70%	      1 Randomized (SM B, BlackDahlia)
+		1.85%	      1 Randomized (BB B, BlackDahlia)
+		3.70%	      1 Randomized (SM B, Marie)
+		1.85%	      1 Randomized (BB B, Marie)
+		Subtotal Weight: 270
+	Total Weight: 100
+	10.0% Chance
+		3.70%	      1 Randomized (SM S, BigBand)
+		3.70%	      1 Randomized (SM S, Cerebella)
+		3.70%	      1 Randomized (SM S, Filia)
+		3.70%	      1 Randomized (SM S, Painwheel)
+		3.70%	      1 Randomized (SM S, Peacock)
+		3.70%	      1 Randomized (SM S, Valentine)
+		3.70%	      1 Randomized (SM S, Parasoul)
+		3.70%	      1 Randomized (SM S, Eliza)
+		1.85%	      1 Randomized (BB S, BigBand)
+		1.85%	      1 Randomized (BB S, Cerebella)
+		1.85%	      1 Randomized (BB S, Eliza)
+		1.85%	      1 Randomized (BB S, Filia)
+		1.85%	      1 Randomized (BB S, Painwheel)
+		1.85%	      1 Randomized (BB S, Parasoul)
+		1.85%	      1 Randomized (BB S, Peacock)
+		1.85%	      1 Randomized (BB S, Valentine)
+		1.85%	      1 Randomized (BB S, Beowulf)
+		3.70%	      1 Randomized (SM S, Beowulf)
+		1.85%	      1 Randomized (BB S, Double)
+		3.70%	      1 Randomized (SM S, Double)
+		1.85%	      1 Randomized (BB S, Squigly)
+		3.70%	      1 Randomized (SM S, Squigly)
+		1.85%	      1 Randomized (BB S, MsFortune)
+		3.70%	      1 Randomized (SM S, MsFortune)
+		1.85%	      1 Randomized (BB S, RoboFortune)
+		3.70%	      1 Randomized (SM S, RoboFortune)
+		1.85%	      1 Randomized (BB S, Fukua)
+		3.70%	      1 Randomized (SM S, Fukua)
+		1.85%	      1 Randomized (BB S, Annie)
+		3.70%	      1 Randomized (SM S, Annie)
+		1.85%	      1 Randomized (BB S, Umbrella)
+		3.70%	      1 Randomized (SM S, Umbrella)
+		3.70%	      1 Randomized (SM S, BlackDahlia)
+		1.85%	      1 Randomized (BB S, BlackDahlia)
+		3.70%	      1 Randomized (SM S, Marie)
+		1.85%	      1 Randomized (BB S, Marie)
+		Subtotal Weight: 270
+	Total Weight: 100
+	10.0% Chance
+		20.00%	     25 Elemental Shards (Water)
+		20.00%	     25 Elemental Shards (Fire)
+		20.00%	     25 Elemental Shards (Air)
+		20.00%	     25 Elemental Shards (Light)
+		20.00%	     25 Elemental Shards (Dark)
+		Subtotal Weight: 5
+	Total Weight: 100
+	20.0% Chance
+		40.00%	      1 Consumable (XP Treat (Small))
+		40.00%	      2 Consumables (XP Treat (Small))
+		20.00%	      1 Consumable (XP Treat (Medium))
+		Subtotal Weight: 100
+	Total Weight: 100
+ (Gacha_24_DEBUG_NA)
+ (Gacha_25_DEBUG_NA)
+ (Gacha_27_DEBUG_NA)
+ (Gacha_28_DEBUG_NA)
+ (Gacha_29_DEBUG_NA)
+ (Gacha_30_DEBUG_NA)
+ (Gacha_33_DEBUG_NA)
+Premium Relic (Gacha_3_Premium_NA)
+	25.0% Chance
+		5.56%	      1 Fighter (Bassline)
+		5.56%	      1 Fighter (Understudy)
+		5.56%	      1 Fighter (Bad Hair Day)
+		5.56%	      1 Fighter (Rusty)
+		5.56%	      1 Fighter (Rerun)
+		5.56%	      1 Fighter (Scrub)
+		5.56%	      1 Fighter (Sheltered)
+		5.56%	      1 Fighter (Beat Box)
+		5.56%	      1 Fighter (Headstrong)
+		5.56%	      1 Fighter (Frayed Ends)
+		5.56%	      1 Fighter (Twisted Mettle)
+		5.56%	      1 Fighter (Sketchy)
+		5.56%	      1 Fighter (Icy Hot)
+		5.56%	      1 Fighter (Heavy Reign)
+		5.56%	      1 Fighter (In Denile)
+		5.56%	      1 Fighter (Decrypted)
+		5.56%	      1 Fighter (Underdog)
+		5.56%	      1 Fighter (Cold Stones)
+		Subtotal Weight: 18
+	Total Weight: 200
+	50.0% Chance
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+	Total Weight: 200
+	20.0% Chance
+		5.56%	      1 Fighter (Bassline)
+		5.56%	      1 Fighter (Understudy)
+		5.56%	      1 Fighter (Bad Hair Day)
+		5.56%	      1 Fighter (Rusty)
+		5.56%	      1 Fighter (Rerun)
+		5.56%	      1 Fighter (Scrub)
+		5.56%	      1 Fighter (Sheltered)
+		5.56%	      1 Fighter (Beat Box)
+		5.56%	      1 Fighter (Headstrong)
+		5.56%	      1 Fighter (Frayed Ends)
+		5.56%	      1 Fighter (Twisted Mettle)
+		5.56%	      1 Fighter (Sketchy)
+		5.56%	      1 Fighter (Icy Hot)
+		5.56%	      1 Fighter (Heavy Reign)
+		5.56%	      1 Fighter (In Denile)
+		5.56%	      1 Fighter (Decrypted)
+		5.56%	      1 Fighter (Underdog)
+		5.56%	      1 Fighter (Cold Stones)
+		Subtotal Weight: 18
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+	Total Weight: 200
+	2.0% Chance
+		5.88%	      1 Fighter (Resonant Evil)
+		5.88%	      1 Fighter (Robocopy)
+		5.88%	      1 Fighter (Big Top)
+		5.88%	      1 Fighter (Gray Matter)
+		5.88%	      1 Fighter (Hair Apparent)
+		5.88%	      1 Fighter (Rage Appropriate)
+		5.88%	      1 Fighter (Inkling)
+		5.88%	      1 Fighter (Pea Shooter)
+		5.88%	      1 Fighter (Graveyard Shift)
+		5.88%	      1 Fighter (Bad Ms Frosty)
+		5.88%	      1 Fighter (Blood Drive)
+		5.88%	      1 Fighter (Ivy League)
+		5.88%	      1 Fighter (No Egrets)
+		5.88%	      1 Fighter (Scarlet Viper)
+		5.88%	      1 Fighter (Bloody Valentine)
+		5.88%	      1 Fighter (Hype Man)
+		5.88%	      1 Fighter (Number One)
+		Subtotal Weight: 17
+	Total Weight: 200
+	2.0% Chance
+		5.88%	      1 Fighter (Resonant Evil)
+		5.88%	      1 Fighter (Robocopy)
+		5.88%	      1 Fighter (Big Top)
+		5.88%	      1 Fighter (Gray Matter)
+		5.88%	      1 Fighter (Hair Apparent)
+		5.88%	      1 Fighter (Rage Appropriate)
+		5.88%	      1 Fighter (Inkling)
+		5.88%	      1 Fighter (Pea Shooter)
+		5.88%	      1 Fighter (Graveyard Shift)
+		5.88%	      1 Fighter (Bad Ms Frosty)
+		5.88%	      1 Fighter (Blood Drive)
+		5.88%	      1 Fighter (Ivy League)
+		5.88%	      1 Fighter (No Egrets)
+		5.88%	      1 Fighter (Scarlet Viper)
+		5.88%	      1 Fighter (Bloody Valentine)
+		5.88%	      1 Fighter (Hype Man)
+		5.88%	      1 Fighter (Number One)
+		Subtotal Weight: 17
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+	Total Weight: 200
+	0.5% Chance
+		10.00%	      1 Randomized (Var G, Beowulf)
+		10.00%	      1 Randomized (Var G, BigBand)
+		10.00%	      1 Randomized (Var G, Cerebella)
+		10.00%	      1 Randomized (Var G, Double)
+		10.00%	      1 Randomized (Var G, Eliza)
+		10.00%	      1 Randomized (Var G, Filia)
+		10.00%	      1 Randomized (Var G, Painwheel)
+		10.00%	      1 Randomized (Var G, Parasoul)
+		10.00%	      1 Randomized (Var G, Peacock)
+		10.00%	      1 Randomized (Var G, Valentine)
+		Subtotal Weight: 10
+	Total Weight: 200
+	0.5% Chance
+		0.00%	      1 Fighter (Private Dick)
+		0.00%	      1 Fighter (Armed Forces)
+		5.56%	      1 Fighter (Harlequin)
+		5.56%	      1 Fighter (Parasite Weave)
+		0.00%	      1 Fighter (Buzzkill)
+		5.56%	      1 Fighter (Raw Nerv)
+		0.00%	      1 Fighter (That's All Folks!)
+		5.56%	      1 Fighter (Untouchable)
+		5.56%	      1 Fighter (Silent Kill)
+		5.56%	      1 Fighter (Epic Sax)
+		0.00%	      1 Fighter (Dread Locks)
+		0.00%	      1 Fighter (Last Hope)
+		0.00%	      1 Fighter (Princess Pride)
+		5.56%	      1 Fighter (Primed)
+		0.00%	      1 Fighter (Bloodbath)
+		5.56%	      1 Fighter (Diva Intervention)
+		0.00%	      1 Fighter (Weekend Warrior)
+		5.56%	      1 Fighter (Wulfsbane)
+		5.56%	      1 Fighter (Dragon Brawler)
+		5.56%	      1 Fighter (G.I. Jazz)
+		5.56%	      1 Fighter (Brain Freeze)
+		5.56%	      1 Fighter (Red Velvet)
+		5.56%	      1 Fighter (Windswept)
+		5.56%	      1 Fighter (Firefly)
+		5.56%	      1 Fighter (Regally Blonde)
+		5.56%	      1 Fighter (Ultraviolent)
+		5.56%	      1 Fighter (Surgeon General)
+		Subtotal Weight: 18
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+	Total Weight: 200
+Specialist Relic (Gacha_6_SpecialMoves_NA)
+	16.666666666666668% Chance
+		12.50%	      1 Move (Bronze, Brass Knuckles)
+		12.50%	      1 Move (Bronze, Giant Step)
+		12.50%	      1 Move (Bronze, Bagpipe Blues)
+		12.50%	      1 Move (Bronze, Burst)
+		12.50%	      1 Move (Bronze, Cymbal Clash)
+		12.50%	      1 Move (Bronze, Take Five)
+		12.50%	      1 Move (Bronze, Noise Cancel)
+		12.50%	      1 Move (Bronze, Sweet Clarinet)
+		Subtotal Weight: 8
+	Total Weight: 6
+	16.666666666666668% Chance
+		11.11%	      1 Move (Bronze, Butt Slam)
+		11.11%	      1 Move (Bronze, Cerecopter)
+		11.11%	      1 Move (Bronze, Medici Muscle)
+		11.11%	      1 Move (Bronze, Lock n' Load)
+		11.11%	      1 Move (Bronze, Battle Butt)
+		11.11%	      1 Move (Bronze, Hammer Toss)
+		11.11%	      1 Move (Bronze, Merry Go-rilla)
+		11.11%	      1 Move (Bronze, Burst)
+		11.11%	      1 Move (Bronze, Pummel Horse)
+		Subtotal Weight: 9
+	Total Weight: 6
+	16.666666666666668% Chance
+		14.29%	      1 Move (Bronze, French Twist)
+		14.29%	      1 Move (Bronze, Hairball)
+		14.29%	      1 Move (Bronze, Burst)
+		14.29%	      1 Move (Bronze, Lash Out)
+		14.29%	      1 Move (Bronze, Drillationship)
+		14.29%	      1 Move (Bronze, Born With It)
+		14.29%	      1 Move (Bronze, Ringlet Spike)
+		Subtotal Weight: 7
+	Total Weight: 6
+	16.666666666666668% Chance
+		14.29%	      1 Move (Bronze, Hi Hi Birdie)
+		14.29%	      1 Move (Bronze, BANG, BANG, BANG!)
+		14.29%	      1 Move (Bronze, George's Day Out)
+		14.29%	      1 Move (Bronze, George at the Air Show)
+		14.29%	      1 Move (Bronze, Who's On Second?)
+		14.29%	      1 Move (Bronze, Burst)
+		14.29%	      1 Move (Bronze, Boxcar George)
+		Subtotal Weight: 7
+	Total Weight: 6
+	16.666666666666668% Chance
+		14.29%	      1 Move (Bronze, Snapdragon)
+		14.29%	      1 Move (Bronze, Smile!)
+		14.29%	      1 Move (Bronze, Violet Grudge)
+		14.29%	      1 Move (Bronze, Cruel Lily)
+		14.29%	      1 Move (Bronze, Pinion Dash)
+		14.29%	      1 Move (Bronze, Burst)
+		14.29%	      1 Move (Bronze, Gae Bolga Stinger)
+		Subtotal Weight: 7
+	Total Weight: 6
+	16.666666666666668% Chance
+		12.50%	      1 Move (Bronze, Chocoglycemia)
+		12.50%	      1 Move (Bronze, Triage!)
+		12.50%	      1 Move (Bronze, Dead Cross)
+		12.50%	      1 Move (Bronze, Burst)
+		12.50%	      1 Move (Bronze, Vial Hazard: Type A)
+		12.50%	      1 Move (Bronze, Vial Hazard: Type B)
+		12.50%	      1 Move (Bronze, Vial Hazard: Type C)
+		12.50%	      1 Move (Bronze, Mortuary Drop)
+		Subtotal Weight: 8
+	Total Weight: 6
+Bare Knuckle Relic (Gacha_7_VS_NA)
+	50.0% Chance
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	25.0% Chance
+		70.00%	     20 Theonite
+		30.00%	     40 Theonite
+		Subtotal Weight: 100
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	15.0% Chance
+		65.00%	      1 Randomized (LootTable_Moves_B)
+		30.00%	      1 Randomized (LootTable_Moves_S)
+		5.00%	      1 Randomized (LootTable_Moves_G)
+		Subtotal Weight: 100
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	9.0% Chance
+		5.56%	      1 Fighter (Bassline)
+		5.56%	      1 Fighter (Understudy)
+		5.56%	      1 Fighter (Bad Hair Day)
+		5.56%	      1 Fighter (Rusty)
+		5.56%	      1 Fighter (Rerun)
+		5.56%	      1 Fighter (Scrub)
+		5.56%	      1 Fighter (Sheltered)
+		5.56%	      1 Fighter (Beat Box)
+		5.56%	      1 Fighter (Headstrong)
+		5.56%	      1 Fighter (Frayed Ends)
+		5.56%	      1 Fighter (Twisted Mettle)
+		5.56%	      1 Fighter (Sketchy)
+		5.56%	      1 Fighter (Icy Hot)
+		5.56%	      1 Fighter (Heavy Reign)
+		5.56%	      1 Fighter (In Denile)
+		5.56%	      1 Fighter (Decrypted)
+		5.56%	      1 Fighter (Underdog)
+		5.56%	      1 Fighter (Cold Stones)
+		Subtotal Weight: 18
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
+	1.0% Chance
+		5.88%	      1 Fighter (Resonant Evil)
+		5.88%	      1 Fighter (Robocopy)
+		5.88%	      1 Fighter (Big Top)
+		5.88%	      1 Fighter (Gray Matter)
+		5.88%	      1 Fighter (Hair Apparent)
+		5.88%	      1 Fighter (Rage Appropriate)
+		5.88%	      1 Fighter (Inkling)
+		5.88%	      1 Fighter (Pea Shooter)
+		5.88%	      1 Fighter (Graveyard Shift)
+		5.88%	      1 Fighter (Bad Ms Frosty)
+		5.88%	      1 Fighter (Blood Drive)
+		5.88%	      1 Fighter (Ivy League)
+		5.88%	      1 Fighter (No Egrets)
+		5.88%	      1 Fighter (Scarlet Viper)
+		5.88%	      1 Fighter (Bloody Valentine)
+		5.88%	      1 Fighter (Hype Man)
+		5.88%	      1 Fighter (Number One)
+		Subtotal Weight: 17
+		50.00%	   1000 Canopy Coins
+		25.00%	   2000 Canopy Coins
+		25.00%	   5000 Canopy Coins
+		Subtotal Weight: 100
+	Total Weight: 100
