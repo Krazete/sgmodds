@@ -2492,64 +2492,6 @@ Blossom Relic (Gacha_191_Blossom_2025)
 		25.00%	      1 Randomized (Var ShinySG, Valentine)
 		Subtotal Weight: 4
 	Total Weight: 100
-Blossom Relic (Gacha_191_Blossom_2025_Opacity50)
-	90.0% Chance
-		8.33%	      1 Fighter (Galactic Glamour)
-		8.33%	      1 Fighter (Robocopy)
-		8.33%	      1 Fighter (Lethal Weapon)
-		8.33%	      1 Fighter (Graveyard Shift)
-		8.33%	      1 Fighter (Purrminator)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Tomb & Gloom)
-		8.33%	      1 Fighter (Rain Shadow)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Feline Lucky)
-		8.33%	      1 Fighter (Rage Appropriate)
-		8.33%	      1 Fighter (Nearly Departed)
-		Subtotal Weight: 12
-	Total Weight: 100
-	9.0% Chance
-		33.33%	      1 Fighter (Surgeon General)
-		33.33%	      1 Fighter (Blitz & Glamour)
-		33.33%	      1 Fighter (Star-Crossed)
-		Subtotal Weight: 3
-	Total Weight: 100
-	1.0% Chance
-		25.00%	      1 Fighter (Deal Breaker)
-		25.00%	      1 Fighter (Snake Bite)
-		25.00%	      1 Fighter (Model Leader)
-		25.00%	      1 Randomized (Var ShinySG, Valentine)
-		Subtotal Weight: 4
-	Total Weight: 100
-Blossom Relic (Gacha_191_Blossom_2025_Opacity75)
-	90.0% Chance
-		8.33%	      1 Fighter (Galactic Glamour)
-		8.33%	      1 Fighter (Robocopy)
-		8.33%	      1 Fighter (Lethal Weapon)
-		8.33%	      1 Fighter (Graveyard Shift)
-		8.33%	      1 Fighter (Purrminator)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Tomb & Gloom)
-		8.33%	      1 Fighter (Rain Shadow)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Feline Lucky)
-		8.33%	      1 Fighter (Rage Appropriate)
-		8.33%	      1 Fighter (Nearly Departed)
-		Subtotal Weight: 12
-	Total Weight: 100
-	9.0% Chance
-		33.33%	      1 Fighter (Surgeon General)
-		33.33%	      1 Fighter (Blitz & Glamour)
-		33.33%	      1 Fighter (Star-Crossed)
-		Subtotal Weight: 3
-	Total Weight: 100
-	1.0% Chance
-		25.00%	      1 Fighter (Deal Breaker)
-		25.00%	      1 Fighter (Snake Bite)
-		25.00%	      1 Fighter (Model Leader)
-		25.00%	      1 Randomized (Var ShinySG, Valentine)
-		Subtotal Weight: 4
-	Total Weight: 100
 Sunshine Diamond Relic (Gacha_192_Sunshine_Diamond_2025)
 	100.0% Chance
 		20.00%	      1 Fighter (Reimaged)
@@ -2609,6 +2551,58 @@ Duality Spotlight Relic (Gacha_195_Spotlight_Duality_2025)
 	Total Weight: 100
 	1.0% Chance
 		100.00%	      1 Fighter (Wetwork)
+		Subtotal Weight: 1
+	Total Weight: 100
+Summer Breeze Relic (Gacha_196_SummerBreeze_2025)
+	90.0% Chance
+		8.33%	      1 Fighter (Ninja Star)
+		8.33%	      1 Fighter (Rose-Tinted)
+		8.33%	      1 Fighter (Kill Joy)
+		8.33%	      1 Fighter (Toad Warrior)
+		8.33%	      1 Fighter (Myst-Match)
+		8.33%	      1 Fighter (Nyanotech)
+		8.33%	      1 Fighter (Chameleon Twist)
+		8.33%	      1 Fighter (Phantom Wrangler)
+		8.33%	      1 Fighter (Ms. Trial)
+		8.33%	      1 Fighter (Shadow Ops)
+		8.33%	      1 Fighter (Pea Shooter)
+		8.33%	      1 Fighter (Gang Green)
+		Subtotal Weight: 12
+	Total Weight: 100
+	9.0% Chance
+		33.33%	      1 Fighter (Sea Witch)
+		33.33%	      1 Fighter (Last Hope)
+		33.33%	      1 Fighter (Persona Assistant)
+		Subtotal Weight: 3
+	Total Weight: 100
+	1.0% Chance
+		33.33%	      1 Fighter (Crimson Cyclone)
+		33.33%	      1 Fighter (Wind Stalker)
+		33.33%	      1 Fighter (Heavy Metal)
+		Subtotal Weight: 3
+	Total Weight: 100
+Beach Day Diamond Relic (Gacha_197_BeachDay_Diamond_2025)
+	100.0% Chance
+		20.00%	      1 Fighter (Crimson Cyclone)
+		20.00%	      1 Fighter (Wind Stalker)
+		20.00%	      1 Fighter (Heavy Metal)
+		20.00%	      1 Fighter (Stand Out)
+		20.00%	      1 Fighter (Unholy Host)
+		Subtotal Weight: 5
+	Total Weight: 100
+Villainous Spotlight Relic (Gacha_198_Spotlight_Villainous_2025)
+	90.0% Chance
+		33.33%	      1 Fighter (Purrminator)
+		33.33%	      1 Fighter (Bloody Valentine)
+		33.33%	      1 Fighter (Resonant Evil)
+		Subtotal Weight: 3
+	Total Weight: 100
+	9.0% Chance
+		100.00%	      1 Fighter (Poltergust)
+		Subtotal Weight: 1
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Dream Demon)
 		Subtotal Weight: 1
 	Total Weight: 100
 Silver Fighter Relic (Gacha_19_Silver)

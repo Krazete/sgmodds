@@ -776,6 +776,14 @@ LootTableSet_Char_BeachDay_D_2024
 		20.00%	      1 Fighter (Plot Twisted)
 		20.00%	      1 Fighter (Fly Trap)
 		Total Weight: 5
+LootTableSet_Char_BeachDay_D_2025
+	 LootTable_Var_BeachDay_D_2025
+		20.00%	      1 Fighter (Crimson Cyclone)
+		20.00%	      1 Fighter (Wind Stalker)
+		20.00%	      1 Fighter (Heavy Metal)
+		20.00%	      1 Fighter (Stand Out)
+		20.00%	      1 Fighter (Unholy Host)
+		Total Weight: 5
 LootTableSet_Char_Blossom_D
 	 LootTable_Var_Blossom_D
 		33.33%	      1 Fighter (Plot Twisted)
@@ -1657,6 +1665,12 @@ LootTableSet_Char_SummerBreeze_D_2024
 		33.33%	      1 Fighter (Beast King)
 		33.33%	      1 Fighter (Heavy Metal)
 		Total Weight: 3
+LootTableSet_Char_SummerBreeze_D_2025
+	 LootTable_Var_SummerBreeze_D_2025
+		33.33%	      1 Fighter (Crimson Cyclone)
+		33.33%	      1 Fighter (Wind Stalker)
+		33.33%	      1 Fighter (Heavy Metal)
+		Total Weight: 3
 LootTableSet_Char_SummerBreeze_G
 	 LootTable_Var_SummerBreeze_G
 		33.33%	      1 Fighter (Windswept)
@@ -1668,6 +1682,12 @@ LootTableSet_Char_SummerBreeze_G_2024
 		33.33%	      1 Fighter (Noble Mogul)
 		33.33%	      1 Fighter (Windswept)
 		33.33%	      1 Fighter (Grim Fan)
+		Total Weight: 3
+LootTableSet_Char_SummerBreeze_G_2025
+	 LootTable_Var_SummerBreeze_G_2025
+		33.33%	      1 Fighter (Sea Witch)
+		33.33%	      1 Fighter (Last Hope)
+		33.33%	      1 Fighter (Persona Assistant)
 		Total Weight: 3
 LootTableSet_Char_SummerBreeze_S
 	 LootTable_Var_SummerBreeze_S
@@ -7246,6 +7266,10 @@ LootTableSet_Char_Spotlight_Villainous_D_2024
 	 LootTable_Var_Spotlight_Villainous_D_2024
 		100.00%	      1 Fighter (Heartless)
 		Total Weight: 1
+LootTableSet_Char_Spotlight_Villainous_D_2025
+	 LootTable_Var_Spotlight_Villainous_D_2025
+		100.00%	      1 Fighter (Dream Demon)
+		Total Weight: 1
 LootTableSet_Char_Spotlight_Villainous_G
 	 LootTable_Var_Spotlight_Villainous_G
 		100.00%	      1 Fighter (Criminal Mind)
@@ -7253,6 +7277,10 @@ LootTableSet_Char_Spotlight_Villainous_G
 LootTableSet_Char_Spotlight_Villainous_G_2024
 	 LootTable_Var_Spotlight_Villainous_G_2024
 		100.00%	      1 Fighter (Red Rider)
+		Total Weight: 1
+LootTableSet_Char_Spotlight_Villainous_G_2025
+	 LootTable_Var_Spotlight_Villainous_G_2025
+		100.00%	      1 Fighter (Poltergust)
 		Total Weight: 1
 LootTableSet_Char_Spotlight_Villainous_S
 	 LootTable_Var_Spotlight_Villainous_S
@@ -7264,6 +7292,12 @@ LootTableSet_Char_Spotlight_Villainous_S_2024
 	 LootTable_Var_Spotlight_Villainous_S_2024
 		33.33%	      1 Fighter (Purrminator)
 		33.33%	      1 Fighter (Wildcard)
+		33.33%	      1 Fighter (Resonant Evil)
+		Total Weight: 3
+LootTableSet_Char_Spotlight_Villainous_S_2025
+	 LootTable_Var_Spotlight_Villainous_S_2025
+		33.33%	      1 Fighter (Purrminator)
+		33.33%	      1 Fighter (Bloody Valentine)
 		33.33%	      1 Fighter (Resonant Evil)
 		Total Weight: 3
 LootTableSet_Char_Squigly_Var_B

@@ -4679,15 +4679,33 @@ SCOREBASED REWARDS:
 	    100 Theonite
 	 384000 Canopy Coins
 	Tier 10:
-	    200 Elemental Shards (Light)
+	    200 Elemental Shards (Water)
 	    500 Relic Shards (Gold)
 	Tier 11:
-	    300 Elemental Shards (Light)
-	    250 Relic Shards (Diamond)
+	 100000 Canopy Coins
 	Tier 12:
-	    500 Elemental Shards (Light)
-	      1 Relic (Legendary Relic)
+	 100000 Canopy Coins
 	Tier 13:
+	    300 Elemental Shards (Water)
+	    250 Relic Shards (Diamond)
+	Tier 14:
+	 100000 Canopy Coins
+	Tier 15:
+	 100000 Canopy Coins
+	Tier 16:
+	 100000 Canopy Coins
+	Tier 17:
+	 100000 Canopy Coins
+	Tier 18:
+	    500 Elemental Shards (Water)
+	      1 Relic (Legendary Relic)
+	Tier 19:
+	 100000 Canopy Coins
+	Tier 20:
+	 100000 Canopy Coins
+	Tier 21:
+	 100000 Canopy Coins
+	Tier 22:
 	      1 Relic (Beach Day Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
@@ -5018,7 +5036,7 @@ RANK REWARDS:
 	      1 Relic (Gold Move Relic)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 17617},
+ 'character': {'m_FileID': 0, 'm_PathID': 17815},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -5028,7 +5046,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 18828},
+ 'reel': {'m_FileID': 0, 'm_PathID': 19034},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
