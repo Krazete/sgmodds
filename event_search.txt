@@ -670,6 +670,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Ageless Wonder)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -973,6 +974,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Wulfsbane)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -1274,6 +1276,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Epic Sax)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -1577,6 +1580,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Psycommander)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -1880,6 +1884,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Harlequin)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -2183,6 +2188,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Immoral Fiber)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -2744,6 +2750,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Diva Intervention)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -3045,6 +3052,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Parasite Weave)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -3348,6 +3356,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Vaporwave Vixen)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -3881,6 +3890,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Gust Buster)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -4477,12 +4487,30 @@ SCOREBASED REWARDS:
 	    200 Elemental Shards (Fire)
 	    500 Relic Shards (Gold)
 	Tier 11:
+	 150000 Canopy Coins
+	Tier 12:
+	 150000 Canopy Coins
+	Tier 13:
 	    300 Elemental Shards (Fire)
 	    250 Relic Shards (Diamond)
-	Tier 12:
+	Tier 14:
+	 150000 Canopy Coins
+	Tier 15:
+	 150000 Canopy Coins
+	Tier 16:
+	 150000 Canopy Coins
+	Tier 17:
+	 150000 Canopy Coins
+	Tier 18:
 	    500 Elemental Shards (Fire)
 	      1 Relic (Legendary Relic)
-	Tier 13:
+	Tier 19:
+	 150000 Canopy Coins
+	Tier 20:
+	 150000 Canopy Coins
+	Tier 21:
+	 150000 Canopy Coins
+	Tier 22:
 	      1 Relic (Firecracker Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
@@ -5036,7 +5064,7 @@ RANK REWARDS:
 	      1 Relic (Gold Move Relic)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 17815},
+ 'character': {'m_FileID': 0, 'm_PathID': 18236},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -5046,7 +5074,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 19034},
+ 'reel': {'m_FileID': 0, 'm_PathID': 19482},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
@@ -5112,14 +5140,32 @@ SCOREBASED REWARDS:
 	    100 Elemental Shards (Dark)
 	    500 Relic Shards (Gold)
 	Tier 11:
+	 150000 Canopy Coins
+	Tier 12:
+	 150000 Canopy Coins
+	Tier 13:
 	    150 Elemental Shards (Air)
 	    150 Elemental Shards (Dark)
 	    250 Relic Shards (Diamond)
-	Tier 12:
+	Tier 14:
+	 150000 Canopy Coins
+	Tier 15:
+	 150000 Canopy Coins
+	Tier 16:
+	 150000 Canopy Coins
+	Tier 17:
+	 150000 Canopy Coins
+	Tier 18:
 	    250 Elemental Shards (Air)
 	    250 Elemental Shards (Dark)
 	      1 Relic (Legendary Relic)
-	Tier 13:
+	Tier 19:
+	 150000 Canopy Coins
+	Tier 20:
+	 150000 Canopy Coins
+	Tier 21:
+	 150000 Canopy Coins
+	Tier 22:
 	      1 Relic (Royal Flush Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
@@ -5578,6 +5624,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Claw & Order)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -5883,6 +5930,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Raw Nerv)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -6186,6 +6234,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Primed)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -6487,6 +6536,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Untouchable)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -6790,6 +6840,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Blue Screen)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -7093,6 +7144,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Poltergust)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -7396,6 +7448,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Wunderkind)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -7699,6 +7752,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Fighter (Silent Kill)
+	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
