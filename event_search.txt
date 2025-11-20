@@ -3555,29 +3555,35 @@ ENEMY MODIFIERS:
 minScore: 0
 SCOREBASED REWARDS:
 	Tier 0:
-	   6000 Canopy Coins
+	  10000 Canopy Coins
 	Tier 1:
-	  12000 Canopy Coins
+	  15000 Canopy Coins
 	Tier 2:
-	  18000 Canopy Coins
+	  25000 Canopy Coins
 	Tier 3:
-	  24000 Canopy Coins
+	  35000 Canopy Coins
 	Tier 4:
-	  30000 Canopy Coins
+	  45000 Canopy Coins
 	Tier 5:
-	  36000 Canopy Coins
-	Tier 6:
-	  42000 Canopy Coins
-	Tier 7:
-	  48000 Canopy Coins
-	Tier 8:
-	  54000 Canopy Coins
-	Tier 9:
 	  60000 Canopy Coins
+	Tier 6:
+	  75000 Canopy Coins
+	Tier 7:
+	  90000 Canopy Coins
+	Tier 8:
+	 100000 Canopy Coins
+	Tier 9:
+	 150000 Canopy Coins
+	Tier 10:
+	 200000 Canopy Coins
+	Tier 11:
+	 250000 Canopy Coins
 PERCENTILE REWARDS:
-RANK REWARDS:
 	Tier 0:
 	 250000 Canopy Coins
+RANK REWARDS:
+	Tier 0:
+	 500000 Canopy Coins
 
 pf-sDown2
 Medici Shakedown ()
@@ -3590,29 +3596,35 @@ ENEMY MODIFIERS:
 minScore: 0
 SCOREBASED REWARDS:
 	Tier 0:
-	   6000 Canopy Coins
+	  10000 Canopy Coins
 	Tier 1:
-	  12000 Canopy Coins
+	  15000 Canopy Coins
 	Tier 2:
-	  18000 Canopy Coins
+	  25000 Canopy Coins
 	Tier 3:
-	  24000 Canopy Coins
+	  35000 Canopy Coins
 	Tier 4:
-	  30000 Canopy Coins
+	  45000 Canopy Coins
 	Tier 5:
-	  36000 Canopy Coins
-	Tier 6:
-	  42000 Canopy Coins
-	Tier 7:
-	  48000 Canopy Coins
-	Tier 8:
-	  54000 Canopy Coins
-	Tier 9:
 	  60000 Canopy Coins
+	Tier 6:
+	  75000 Canopy Coins
+	Tier 7:
+	  90000 Canopy Coins
+	Tier 8:
+	 100000 Canopy Coins
+	Tier 9:
+	 150000 Canopy Coins
+	Tier 10:
+	 200000 Canopy Coins
+	Tier 11:
+	 250000 Canopy Coins
 PERCENTILE REWARDS:
-RANK REWARDS:
 	Tier 0:
 	 250000 Canopy Coins
+RANK REWARDS:
+	Tier 0:
+	 500000 Canopy Coins
 
 pf-cSpree
 Medici Crime Spree ()
@@ -4302,47 +4314,65 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
 	     20 Theonite
-	  15000 Canopy Coins
+	  30000 Canopy Coins
 	Tier 2:
 	     30 Theonite
-	  22500 Canopy Coins
+	  45000 Canopy Coins
 	Tier 3:
 	      1 Relic (Spooky Relic)
 	     40 Theonite
-	  34000 Canopy Coins
+	  68000 Canopy Coins
 	Tier 4:
 	     50 Theonite
-	  50000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 5:
 	     60 Theonite
-	  76000 Canopy Coins
+	 152000 Canopy Coins
 	Tier 6:
 	      1 Relic (Spooky Relic)
 	     70 Theonite
-	 114000 Canopy Coins
+	 228000 Canopy Coins
 	Tier 7:
 	     80 Theonite
-	 171000 Canopy Coins
+	 342000 Canopy Coins
 	Tier 8:
 	     90 Theonite
-	 256000 Canopy Coins
+	 512000 Canopy Coins
 	Tier 9:
 	      1 Relic (Spooky Relic)
 	    100 Theonite
-	 384000 Canopy Coins
+	 768000 Canopy Coins
 	Tier 10:
 	    200 Elemental Shards (Dark)
 	    500 Relic Shards (Gold)
 	Tier 11:
+	 300000 Canopy Coins
+	Tier 12:
+	 300000 Canopy Coins
+	Tier 13:
 	    300 Elemental Shards (Dark)
 	    250 Relic Shards (Diamond)
-	Tier 12:
+	Tier 14:
+	 300000 Canopy Coins
+	Tier 15:
+	 300000 Canopy Coins
+	Tier 16:
+	 300000 Canopy Coins
+	Tier 17:
+	 300000 Canopy Coins
+	Tier 18:
 	    500 Elemental Shards (Dark)
 	      1 Relic (Legendary Relic)
-	Tier 13:
+	Tier 19:
+	 300000 Canopy Coins
+	Tier 20:
+	 300000 Canopy Coins
+	Tier 21:
+	 300000 Canopy Coins
+	Tier 22:
 	      1 Relic (Nightmare Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
@@ -4355,15 +4385,15 @@ PERCENTILE REWARDS:
 	      1 Relic (Spooky Relic)
 	      1 Relic (Spooky Relic)
 	Tier 3:
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
+	      1 Relic (Spooky Relic)
 	      1 Fighter (Necrobreaker)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
 RANK REWARDS:
 	Tier 0:
-	      1 Fighter (Necrobreaker)
 	      1 Key (Diamond)
+	      1 Fighter (Necrobreaker)
 	      1 Relic (Spooky Relic)
 	      1 Relic (Spooky Relic)
 	      1 Relic (Spooky Relic)
@@ -5082,7 +5112,7 @@ RANK REWARDS:
 	      1 Relic (Gold Move Relic)
 {'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
- 'character': {'m_FileID': 0, 'm_PathID': 18322},
+ 'character': {'m_FileID': 0, 'm_PathID': 26969},
  'consumable': {'m_FileID': 0, 'm_PathID': 0},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 3,
@@ -5092,7 +5122,7 @@ RANK REWARDS:
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 0,
- 'reel': {'m_FileID': 0, 'm_PathID': 19581},
+ 'reel': {'m_FileID': 0, 'm_PathID': 28269},
  'voucherDenomination': 1}
 	      1 Unknown [17]
 	      1 Universal Retake
@@ -5318,49 +5348,67 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
 	     20 Theonite
-	  15000 Canopy Coins
+	  30000 Canopy Coins
 	Tier 2:
 	     30 Theonite
-	  22500 Canopy Coins
+	  45000 Canopy Coins
 	Tier 3:
 	      1 Relic (Harvest Moon Relic)
 	     40 Theonite
-	  34000 Canopy Coins
+	  68000 Canopy Coins
 	Tier 4:
 	     50 Theonite
-	  50000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 5:
 	     60 Theonite
-	  76000 Canopy Coins
+	 152000 Canopy Coins
 	Tier 6:
 	      1 Relic (Harvest Moon Relic)
 	     70 Theonite
-	 114000 Canopy Coins
+	 228000 Canopy Coins
 	Tier 7:
 	     80 Theonite
-	 171000 Canopy Coins
+	 342000 Canopy Coins
 	Tier 8:
 	     90 Theonite
-	 256000 Canopy Coins
+	 512000 Canopy Coins
 	Tier 9:
 	      1 Relic (Harvest Moon Relic)
 	    100 Theonite
-	 384000 Canopy Coins
+	 768000 Canopy Coins
 	Tier 10:
 	    100 Elemental Shards (Air)
-	    100 Elemental Shards (Light)
+	    100 Elemental Shards (Air)
 	    500 Relic Shards (Gold)
 	Tier 11:
-	    150 Elemental Shards (Air)
-	    150 Elemental Shards (Light)
-	    250 Relic Shards (Diamond)
+	 300000 Canopy Coins
 	Tier 12:
-	    500 Elemental Shards (Light)
-	      1 Relic (Legendary Relic)
+	 300000 Canopy Coins
 	Tier 13:
+	    150 Elemental Shards (Air)
+	    150 Elemental Shards (Air)
+	    250 Relic Shards (Diamond)
+	Tier 14:
+	 300000 Canopy Coins
+	Tier 15:
+	 300000 Canopy Coins
+	Tier 16:
+	 300000 Canopy Coins
+	Tier 17:
+	 300000 Canopy Coins
+	Tier 18:
+	    500 Elemental Shards (Air)
+	      1 Relic (Legendary Relic)
+	Tier 19:
+	 300000 Canopy Coins
+	Tier 20:
+	 300000 Canopy Coins
+	Tier 21:
+	 300000 Canopy Coins
+	Tier 22:
 	      1 Relic (Dressed Up Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
@@ -7956,476 +8004,170 @@ RANK REWARDS:
 	      3 Keys (Silver)
 	     40 Skill Points (Valentine)
 
-the-only-rift-battle-ever
-RIFT BATTLES (There can be only one)
+rb-01
+UNDYING EVENT ()
 minScore: 0
 SCOREBASED REWARDS:
-PERCENTILE REWARDS:
 	Tier 0:
-	      1 Key (Bronze)
-	    225 Relic Shards (Silver)
-	     30 Relic Shards (Gold)
-	    100 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
 	Tier 1:
-	      1 Key (Bronze)
-	    250 Relic Shards (Silver)
-	     50 Relic Shards (Gold)
-	    150 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
 	Tier 2:
-	      2 Keys (Bronze)
-	    275 Relic Shards (Silver)
-	     70 Relic Shards (Gold)
-	    200 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
 	Tier 3:
-	      2 Keys (Bronze)
-	    300 Relic Shards (Silver)
-	     90 Relic Shards (Gold)
-	    250 Rift Coins
+	      1 Relic (Premiere Relic)
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 29,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 28374},
+ 'voucherDenomination': 0}
+	      3 Unknown [29]s
+	      4 Consumables (XP Treat (Medium))
+	   7500 Canopy Coins
 	Tier 4:
-	      1 Key (Bronze)
-	      1 Key (Silver)
-	    350 Relic Shards (Silver)
-	    110 Relic Shards (Gold)
-	    300 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Large))
+	   9000 Canopy Coins
 	Tier 5:
-	      1 Key (Bronze)
-	      1 Key (Silver)
-	    400 Relic Shards (Silver)
-	    140 Relic Shards (Gold)
-	    350 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Large))
+	  12000 Canopy Coins
 	Tier 6:
-	      2 Keys (Silver)
-	    450 Relic Shards (Silver)
-	    170 Relic Shards (Gold)
-	    400 Rift Coins
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
+	      2 Consumables (XP Treat (Large))
+	  15000 Canopy Coins
 	Tier 7:
-	      2 Keys (Silver)
-	    500 Relic Shards (Silver)
-	    200 Relic Shards (Gold)
-	    450 Rift Coins
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 29,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [29]s
+	      4 Consumables (XP Treat (Large))
+	  20000 Canopy Coins
 	Tier 8:
-	      1 Key (Silver)
-	      1 Key (Gold)
-	    575 Relic Shards (Silver)
-	    230 Relic Shards (Gold)
-	     20 Relic Shards (Diamond)
-	    500 Rift Coins
-	Tier 9:
-	      1 Key (Silver)
-	      1 Key (Gold)
-	    650 Relic Shards (Silver)
-	    270 Relic Shards (Gold)
-	     40 Relic Shards (Diamond)
-	    550 Rift Coins
-	Tier 10:
-	      2 Keys (Gold)
-	    725 Relic Shards (Silver)
-	    310 Relic Shards (Gold)
-	     60 Relic Shards (Diamond)
-	    600 Rift Coins
-	Tier 11:
-	      2 Keys (Gold)
-	    800 Relic Shards (Silver)
-	    350 Relic Shards (Gold)
-	     80 Relic Shards (Diamond)
-	    650 Rift Coins
-	Tier 12:
-	      1 Key (Gold)
-	      1 Key (Diamond)
-	    900 Relic Shards (Silver)
-	    390 Relic Shards (Gold)
-	    200 Relic Shards (Diamond)
-	    700 Rift Coins
-RANK REWARDS:
-	Tier 0:
-	      1 Key (Gold)
-	      1 Key (Diamond)
-	   1000 Relic Shards (Silver)
-	    450 Relic Shards (Gold)
-	    230 Relic Shards (Diamond)
-	    750 Rift Coins
-	Tier 1:
-	      2 Keys (Diamond)
-	   1000 Relic Shards (Silver)
-	    510 Relic Shards (Gold)
-	    260 Relic Shards (Diamond)
-	    800 Rift Coins
-	Tier 2:
-	      2 Keys (Diamond)
-	   1000 Relic Shards (Silver)
-	    570 Relic Shards (Gold)
-	    300 Relic Shards (Diamond)
-	    850 Rift Coins
-	Tier 3:
-	      2 Keys (Diamond)
-	   1000 Relic Shards (Silver)
-	    650 Relic Shards (Gold)
-	    350 Relic Shards (Diamond)
-	    900 Rift Coins
-	Tier 4:
-	      2 Keys (Diamond)
-	   1000 Relic Shards (Silver)
-	    750 Relic Shards (Gold)
-	    400 Relic Shards (Diamond)
-	    950 Rift Coins
-	Tier 5:
-	      2 Keys (Diamond)
-	   1000 Relic Shards (Silver)
-	    850 Relic Shards (Gold)
-	    500 Relic Shards (Diamond)
-	   1000 Rift Coins
-
-Event_SyncPvp_BronzeOnly
-Versus (Free For All - Bronze)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-Event_SyncPvp_Competitive
-Versus (Competitive)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-Event_SyncPvp_DiamondOnly
-Versus (Free For All - Diamond)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-Event_SyncPvp_FreeForAll
-Versus (Free For All)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-Event_SyncPvp_GoldOnly
-Versus (Free For All - Gold)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-Event_SyncPvp_SilverOnly
-Versus (Free For All - Silver)
-PLAYER MODIFIERS:
-ENEMY MODIFIERS:
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
-NO GUID
-minScore: 0
-SCOREBASED REWARDS:
-PERCENTILE REWARDS:
-RANK REWARDS:
-
+{'amount': 3,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
+ 'elementType': 0,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 0},
+ 'lootType': 28,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 0,
+ 'reel': {'m_FileID': 0, 'm_PathID': 0},
+ 'voucherDenomination': 0}
+	      3 Unknown [28]s
