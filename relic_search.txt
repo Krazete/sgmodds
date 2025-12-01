@@ -2498,12 +2498,13 @@ Hand-Drawn Relic (Gacha_18_Char_Peacock)
 		Subtotal Weight: 4
 	Total Weight: 200
 	3.5% Chance
-		20.00%	      1 Fighter (That's All Folks!)
-		20.00%	      1 Fighter (Ultraviolent)
-		20.00%	      1 Fighter (Untouchable)
-		20.00%	      1 Fighter (Mean One)
-		20.00%	      1 Fighter (Primal Prodigy)
-		Subtotal Weight: 5
+		16.67%	      1 Fighter (That's All Folks!)
+		16.67%	      1 Fighter (Ultraviolent)
+		16.67%	      1 Fighter (Untouchable)
+		16.67%	      1 Fighter (Mean One)
+		16.67%	      1 Fighter (Primal Prodigy)
+		16.67%	      1 Fighter (Ionic Icon)
+		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
 		33.33%	      1 Fighter (Freeze Frame)
@@ -2965,6 +2966,32 @@ Dressed Up Diamond Relic (Gacha_208_Dinnertime_Diamond_2025)
 		50.00%	      1 Fighter (Idol Echo)
 		Subtotal Weight: 4
 	Total Weight: 100
+Ornamental Relic (Gacha_209_Holiday_2025)
+	90.0% Chance
+		8.33%	      1 Fighter (Triple Threat)
+		8.33%	      1 Fighter (Robocopy)
+		8.33%	      1 Fighter (Big Top)
+		8.33%	      1 Fighter (Doublicious)
+		8.33%	      1 Fighter (Scarlet Viper)
+		8.33%	      1 Fighter (Rock Star)
+		8.33%	      1 Fighter (Chameleon Twist)
+		8.33%	      1 Fighter (Snake Charmer)
+		8.33%	      1 Fighter (Feline Lucky)
+		8.33%	      1 Fighter (Rage Appropriate)
+		8.33%	      1 Fighter (Nearly Departed)
+		8.33%	      1 Fighter (Wild Child)
+		Subtotal Weight: 12
+	Total Weight: 100
+	9.0% Chance
+		25.00%	      1 Fighter (Pickle Baller)
+		25.00%	      1 Fighter (Iron Matron)
+		50.00%	      1 Fighter (Magicurl)
+		Subtotal Weight: 4
+	Total Weight: 100
+	1.0% Chance
+		100.00%	      1 Fighter (Soulbound)
+		Subtotal Weight: 1
+	Total Weight: 100
 Royalty Relic (Gacha_20_Char_Parasoul)
 	82.0% Chance
 		50.00%	      1 Fighter (Sheltered)
@@ -2995,6 +3022,13 @@ Royalty Relic (Gacha_20_Char_Parasoul)
 		25.00%	      1 Fighter (Locked In)
 		Subtotal Weight: 4
 	Total Weight: 200
+Frosted Diamond Relic (Gacha_210_FrostedDiamond_2025)
+	100.0% Chance
+		25.00%	      1 Fighter (Locked In)
+		25.00%	      1 Fighter (Unholy Host)
+		50.00%	      1 Fighter (Soulbound)
+		Subtotal Weight: 4
+	Total Weight: 100
 Smackdown Relic (Gacha_21_Char_Beowulf)
 	82.0% Chance
 		50.00%	      1 Fighter (Underdog)
@@ -4036,10 +4070,11 @@ Random-Access Relic (Gacha_49_Char_Robo)
 		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
-		33.33%	      1 Fighter (Overclocked)
-		33.33%	      1 Fighter (X-Bot)
-		33.33%	      1 Fighter (Reimaged)
-		Subtotal Weight: 3
+		25.00%	      1 Fighter (Overclocked)
+		25.00%	      1 Fighter (X-Bot)
+		25.00%	      1 Fighter (Reimaged)
+		25.00%	      1 Fighter (Proton Pulse)
+		Subtotal Weight: 4
 	Total Weight: 200
 Gold Fighter Relic (Gacha_4_Gold)
 	100.0% Chance
@@ -5338,10 +5373,11 @@ Random-Access Relic (50% OFF!) (Gacha_67_Char_Robo_Sale)
 		Subtotal Weight: 5
 	Total Weight: 200
 	0.5% Chance
-		33.33%	      1 Fighter (Overclocked)
-		33.33%	      1 Fighter (X-Bot)
-		33.33%	      1 Fighter (Reimaged)
-		Subtotal Weight: 3
+		25.00%	      1 Fighter (Overclocked)
+		25.00%	      1 Fighter (X-Bot)
+		25.00%	      1 Fighter (Reimaged)
+		25.00%	      1 Fighter (Proton Pulse)
+		Subtotal Weight: 4
 	Total Weight: 200
 Celestial Relic (50% OFF!) (Gacha_69_Char_Annie_Sale)
 	82.0% Chance
@@ -5550,12 +5586,13 @@ Hand-Drawn Relic (50% OFF!) (Gacha_76_Char_Peacock_Sale)
 		Subtotal Weight: 4
 	Total Weight: 200
 	3.5% Chance
-		20.00%	      1 Fighter (That's All Folks!)
-		20.00%	      1 Fighter (Ultraviolent)
-		20.00%	      1 Fighter (Untouchable)
-		20.00%	      1 Fighter (Mean One)
-		20.00%	      1 Fighter (Primal Prodigy)
-		Subtotal Weight: 5
+		16.67%	      1 Fighter (That's All Folks!)
+		16.67%	      1 Fighter (Ultraviolent)
+		16.67%	      1 Fighter (Untouchable)
+		16.67%	      1 Fighter (Mean One)
+		16.67%	      1 Fighter (Primal Prodigy)
+		16.67%	      1 Fighter (Ionic Icon)
+		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
 		33.33%	      1 Fighter (Freeze Frame)

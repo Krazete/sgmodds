@@ -437,41 +437,43 @@ LootTableSet_Element_Light
 			8.33%	      1 Fighter (Clue Chaser)
 			Subtotal Weight: 12
 		3.50%	      1 Randomized (Character G, Light)
-			5.26%	      1 Fighter (Weekend Warrior)
-			5.26%	      1 Fighter (Epic Sax)
-			5.26%	      1 Fighter (Diva Intervention)
-			5.26%	      1 Fighter (Dread Locks)
-			5.26%	      1 Fighter (Grim Fan)
-			5.26%	      1 Fighter (Princess Pride)
-			5.26%	      1 Fighter (That's All Folks!)
-			5.26%	      1 Fighter (Last Hope)
-			5.26%	      1 Fighter (Meow & Furever)
-			5.26%	      1 Fighter (Persona Assistant)
-			5.26%	      1 Fighter (Phantom Threads)
-			5.26%	      1 Fighter (Ageless Wonder)
-			5.26%	      1 Fighter (High Ruler)
-			5.26%	      1 Fighter (Blitz & Glamour)
-			5.26%	      1 Fighter (Gravedigger)
-			5.26%	      1 Fighter (Psykid)
-			5.26%	      1 Fighter (Noble Mogul)
-			5.26%	      1 Fighter (Furmidable)
-			5.26%	      1 Fighter (Spell-Bent)
-			Subtotal Weight: 19
+			5.00%	      1 Fighter (Weekend Warrior)
+			5.00%	      1 Fighter (Epic Sax)
+			5.00%	      1 Fighter (Diva Intervention)
+			5.00%	      1 Fighter (Dread Locks)
+			5.00%	      1 Fighter (Grim Fan)
+			5.00%	      1 Fighter (Princess Pride)
+			5.00%	      1 Fighter (That's All Folks!)
+			5.00%	      1 Fighter (Last Hope)
+			5.00%	      1 Fighter (Meow & Furever)
+			5.00%	      1 Fighter (Persona Assistant)
+			5.00%	      1 Fighter (Phantom Threads)
+			5.00%	      1 Fighter (Ageless Wonder)
+			5.00%	      1 Fighter (High Ruler)
+			5.00%	      1 Fighter (Blitz & Glamour)
+			5.00%	      1 Fighter (Gravedigger)
+			5.00%	      1 Fighter (Psykid)
+			5.00%	      1 Fighter (Noble Mogul)
+			5.00%	      1 Fighter (Furmidable)
+			5.00%	      1 Fighter (Spell-Bent)
+			5.00%	      1 Fighter (Ionic Icon)
+			Subtotal Weight: 20
 		0.50%	      1 Randomized (Character D, Light)
-			7.69%	      1 Fighter (Jawbreaker)
-			7.69%	      1 Fighter (Summer Salt)
-			7.69%	      1 Fighter (Assassin's Greed)
-			7.69%	      1 Fighter (Dream Band)
-			7.69%	      1 Fighter (Mummy Dearest)
-			7.69%	      1 Fighter (Dream Catcher)
-			7.69%	      1 Fighter (Splitting Image)
-			7.69%	      1 Fighter (Star Shine)
-			7.69%	      1 Fighter (Raining Champ)
-			7.69%	      1 Fighter (Ogre Achiever)
-			7.69%	      1 Fighter (Hex Caliber)
-			7.69%	      1 Fighter (Masked Menace)
-			7.69%	      1 Fighter (Mad Malice)
-			Subtotal Weight: 13
+			7.14%	      1 Fighter (Jawbreaker)
+			7.14%	      1 Fighter (Summer Salt)
+			7.14%	      1 Fighter (Assassin's Greed)
+			7.14%	      1 Fighter (Dream Band)
+			7.14%	      1 Fighter (Mummy Dearest)
+			7.14%	      1 Fighter (Dream Catcher)
+			7.14%	      1 Fighter (Splitting Image)
+			7.14%	      1 Fighter (Star Shine)
+			7.14%	      1 Fighter (Raining Champ)
+			7.14%	      1 Fighter (Ogre Achiever)
+			7.14%	      1 Fighter (Hex Caliber)
+			7.14%	      1 Fighter (Masked Menace)
+			7.14%	      1 Fighter (Mad Malice)
+			7.14%	      1 Fighter (Proton Pulse)
+			Subtotal Weight: 14
 		Total Weight: 200
 	 LootTable_Element_Light_Essence
 		75.00%	     25 Elemental Shards (Light)
@@ -1064,6 +1066,12 @@ LootTableSet_Char_Frosted_D_2024
 		20.00%	      1 Fighter (Heavy Metal)
 		20.00%	      1 Fighter (Star-Spangled)
 		Total Weight: 5
+LootTableSet_Char_Frosted_D_2025
+	 LootTable_Var_Frosted_D_2025
+		25.00%	      1 Fighter (Locked In)
+		25.00%	      1 Fighter (Unholy Host)
+		50.00%	      1 Fighter (Soulbound)
+		Total Weight: 4
 LootTableSet_Char_HarvestMoon_D
 	 LootTable_Var_HarvestMoon_D
 		33.33%	      1 Fighter (Jawbreaker)
@@ -1305,6 +1313,10 @@ LootTableSet_Char_Holiday_D_2024
 		33.33%	      1 Fighter (Unholy Host)
 		33.33%	      1 Fighter (X-Bot)
 		Total Weight: 3
+LootTableSet_Char_Holiday_D_2025
+	 LootTable_Var_Holiday_D_2025
+		100.00%	      1 Fighter (Soulbound)
+		Total Weight: 1
 LootTableSet_Char_Holiday_G
 	 LootTable_Var_Holiday_G
 		33.33%	      1 Fighter (Dead of Winter)
@@ -1323,6 +1335,12 @@ LootTableSet_Char_Holiday_G_2024
 		33.33%	      1 Fighter (Mean One)
 		33.33%	      1 Fighter (Pyro-Technique)
 		Total Weight: 3
+LootTableSet_Char_Holiday_G_2025
+	 LootTable_Var_Holiday_G_2025
+		25.00%	      1 Fighter (Pickle Baller)
+		25.00%	      1 Fighter (Iron Matron)
+		50.00%	      1 Fighter (Magicurl)
+		Total Weight: 4
 LootTableSet_Char_Holiday_S
 	 LootTable_Var_Holiday_S
 		10.00%	      1 Fighter (Triple Threat)
@@ -3890,7 +3908,7 @@ LootTableSet_GuildGifts_Premium
 			10.93%{'amount': 1,
  'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
  'character': {'m_FileID': 0, 'm_PathID': 0},
- 'consumable': {'m_FileID': 0, 'm_PathID': 27723},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 27746},
  'cosmetic': {'m_FileID': 0, 'm_PathID': 0},
  'elementType': 0,
  'forceShiny': False,
@@ -3899,7 +3917,7 @@ LootTableSet_GuildGifts_Premium
  'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
  'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
  'rarityTier': 1,
- 'reel': {'m_FileID': 0, 'm_PathID': 28348},
+ 'reel': {'m_FileID': 0, 'm_PathID': 28382},
  'voucherDenomination': 0}
 	      1 Unknown [31]
 			6.56%	   4000 Canopy Coins
