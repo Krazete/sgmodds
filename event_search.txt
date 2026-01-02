@@ -4829,53 +4829,71 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
 	     20 Theonite
-	  15000 Canopy Coins
+	  30000 Canopy Coins
 	Tier 2:
 	     30 Theonite
-	  22500 Canopy Coins
+	  45000 Canopy Coins
 	Tier 3:
 	      1 Relic (High Resolution Relic)
 	     40 Theonite
-	  34000 Canopy Coins
+	  68000 Canopy Coins
 	Tier 4:
 	     50 Theonite
-	  50000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 5:
 	     60 Theonite
-	  76000 Canopy Coins
+	 152000 Canopy Coins
 	Tier 6:
 	      1 Relic (High Resolution Relic)
 	     70 Theonite
-	 114000 Canopy Coins
+	 228000 Canopy Coins
 	Tier 7:
 	     80 Theonite
-	 171000 Canopy Coins
+	 342000 Canopy Coins
 	Tier 8:
 	     90 Theonite
-	 256000 Canopy Coins
+	 512000 Canopy Coins
 	Tier 9:
 	      1 Relic (High Resolution Relic)
 	    100 Theonite
-	 384000 Canopy Coins
+	 768000 Canopy Coins
 	Tier 10:
-	     50 Elemental Shards (Light)
-	     50 Elemental Shards (Air)
-	    100 Elemental Shards (Water)
+	     75 Elemental Shards (Fire)
+	     75 Elemental Shards (Air)
+	     75 Elemental Shards (Water)
 	    500 Relic Shards (Gold)
 	Tier 11:
-	    100 Elemental Shards (Light)
-	    100 Elemental Shards (Air)
-	    150 Elemental Shards (Water)
-	    250 Relic Shards (Diamond)
+	 300000 Canopy Coins
 	Tier 12:
-	    100 Elemental Shards (Light)
-	    100 Elemental Shards (Air)
-	    250 Elemental Shards (Water)
-	      1 Relic (Legendary Relic)
+	 300000 Canopy Coins
 	Tier 13:
+	    125 Elemental Shards (Fire)
+	    125 Elemental Shards (Air)
+	    125 Elemental Shards (Water)
+	    250 Relic Shards (Diamond)
+	Tier 14:
+	 300000 Canopy Coins
+	Tier 15:
+	 300000 Canopy Coins
+	Tier 16:
+	 300000 Canopy Coins
+	Tier 17:
+	 300000 Canopy Coins
+	Tier 18:
+	    150 Elemental Shards (Fire)
+	    150 Elemental Shards (Air)
+	    150 Elemental Shards (Water)
+	      1 Relic (Legendary Relic)
+	Tier 19:
+	 300000 Canopy Coins
+	Tier 20:
+	 300000 Canopy Coins
+	Tier 21:
+	 300000 Canopy Coins
+	Tier 22:
 	      1 Relic (Debutante Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
