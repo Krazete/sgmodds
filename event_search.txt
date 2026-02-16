@@ -8793,6 +8793,506 @@ RANK REWARDS:
 	   1000 Relic Shards (Gold)
 	    300 Relic Shards (Diamond)
 
+rb-03
+UNDYING EVENT ()
+minScore: 0
+SCOREBASED REWARDS:
+	Tier 0:
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
+	Tier 1:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 2:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 3:
+	   7500 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Medium))
+	Tier 4:
+	   9000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 5:
+	  12000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 6:
+	  15000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 7:
+	  20000 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Large))
+	Tier 8:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 9:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 10:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	     10 Elemental Shards (Random)
+	      3 Gold Guild Chests
+	Tier 12:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 13:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 14:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 15:
+	      2 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 16:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 17:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 18:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 19:
+	      3 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     50 Elemental Shards (Random)
+PERCENTILE REWARDS:
+	Tier 0:
+	    750 Elemental Shards (Random)
+	     11 Universal Retakes
+	      3 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    200 Relic Shards (Diamond)
+	Tier 1:
+	    500 Elemental Shards (Random)
+	      9 Universal Retakes
+	      1 Gold Guild Chest
+	      9 Guild Chests
+	   1000 Relic Shards (Gold)
+	    100 Relic Shards (Diamond)
+	Tier 2:
+	    400 Elemental Shards (Random)
+	      7 Universal Retakes
+	      7 Guild Chests
+	    750 Relic Shards (Gold)
+	Tier 3:
+	    300 Elemental Shards (Random)
+	      5 Universal Retakes
+	      5 Guild Chests
+	    500 Relic Shards (Gold)
+	Tier 4:
+	    200 Elemental Shards (Random)
+	      3 Universal Retakes
+	      3 Guild Chests
+	    200 Relic Shards (Gold)
+	Tier 5:
+	    100 Elemental Shards (Random)
+	      1 Universal Retake
+	      1 Guild Chest
+	    100 Relic Shards (Gold)
+RANK REWARDS:
+	Tier 0:
+	   1000 Elemental Shards (Random)
+	     15 Universal Retakes
+	      5 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    300 Relic Shards (Diamond)
+
+rb-03-mod1
+UNDYING EVENT ()
+minScore: 0
+SCOREBASED REWARDS:
+	Tier 0:
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
+	Tier 1:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 2:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 3:
+	   7500 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Medium))
+	Tier 4:
+	   9000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 5:
+	  12000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 6:
+	  15000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 7:
+	  20000 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Large))
+	Tier 8:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 9:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 10:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	     10 Elemental Shards (Random)
+	      3 Gold Guild Chests
+	Tier 12:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 13:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 14:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 15:
+	      2 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 16:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 17:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 18:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 19:
+	      3 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     50 Elemental Shards (Random)
+PERCENTILE REWARDS:
+	Tier 0:
+	    750 Elemental Shards (Random)
+	     11 Universal Retakes
+	      3 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    200 Relic Shards (Diamond)
+	Tier 1:
+	    500 Elemental Shards (Random)
+	      9 Universal Retakes
+	      1 Gold Guild Chest
+	      9 Guild Chests
+	   1000 Relic Shards (Gold)
+	    100 Relic Shards (Diamond)
+	Tier 2:
+	    400 Elemental Shards (Random)
+	      7 Universal Retakes
+	      7 Guild Chests
+	    750 Relic Shards (Gold)
+	Tier 3:
+	    300 Elemental Shards (Random)
+	      5 Universal Retakes
+	      5 Guild Chests
+	    500 Relic Shards (Gold)
+	Tier 4:
+	    200 Elemental Shards (Random)
+	      3 Universal Retakes
+	      3 Guild Chests
+	    200 Relic Shards (Gold)
+	Tier 5:
+	    100 Elemental Shards (Random)
+	      1 Universal Retake
+	      1 Guild Chest
+	    100 Relic Shards (Gold)
+RANK REWARDS:
+	Tier 0:
+	   1000 Elemental Shards (Random)
+	     15 Universal Retakes
+	      5 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    300 Relic Shards (Diamond)
+
+rb-03-mod2
+UNDYING EVENT ()
+minScore: 0
+SCOREBASED REWARDS:
+	Tier 0:
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
+	Tier 1:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 2:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 3:
+	   7500 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Medium))
+	Tier 4:
+	   9000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 5:
+	  12000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 6:
+	  15000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 7:
+	  20000 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Large))
+	Tier 8:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 9:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 10:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	     10 Elemental Shards (Random)
+	      3 Gold Guild Chests
+	Tier 12:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 13:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 14:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 15:
+	      2 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 16:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 17:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 18:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 19:
+	      3 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     50 Elemental Shards (Random)
+PERCENTILE REWARDS:
+	Tier 0:
+	    750 Elemental Shards (Random)
+	     11 Universal Retakes
+	      3 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    200 Relic Shards (Diamond)
+	Tier 1:
+	    500 Elemental Shards (Random)
+	      9 Universal Retakes
+	      1 Gold Guild Chest
+	      9 Guild Chests
+	   1000 Relic Shards (Gold)
+	    100 Relic Shards (Diamond)
+	Tier 2:
+	    400 Elemental Shards (Random)
+	      7 Universal Retakes
+	      7 Guild Chests
+	    750 Relic Shards (Gold)
+	Tier 3:
+	    300 Elemental Shards (Random)
+	      5 Universal Retakes
+	      5 Guild Chests
+	    500 Relic Shards (Gold)
+	Tier 4:
+	    200 Elemental Shards (Random)
+	      3 Universal Retakes
+	      3 Guild Chests
+	    200 Relic Shards (Gold)
+	Tier 5:
+	    100 Elemental Shards (Random)
+	      1 Universal Retake
+	      1 Guild Chest
+	    100 Relic Shards (Gold)
+RANK REWARDS:
+	Tier 0:
+	   1000 Elemental Shards (Random)
+	     15 Universal Retakes
+	      5 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    300 Relic Shards (Diamond)
+
+rb-03-mod3
+UNDYING EVENT ()
+minScore: 0
+SCOREBASED REWARDS:
+	Tier 0:
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	   5000 Canopy Coins
+	Tier 1:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 2:
+	   5000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Medium))
+	Tier 3:
+	   7500 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Medium))
+	Tier 4:
+	   9000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 5:
+	  12000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 6:
+	  15000 Canopy Coins
+	      3 Guild Chests
+	      2 Consumables (XP Treat (Large))
+	Tier 7:
+	  20000 Canopy Coins
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	      4 Consumables (XP Treat (Large))
+	Tier 8:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 9:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 10:
+	      3 Guild Chests
+	     10 Elemental Shards (Random)
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Key Relic)
+	     10 Elemental Shards (Random)
+	      3 Gold Guild Chests
+	Tier 12:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 13:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 14:
+	      3 Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 15:
+	      2 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     25 Elemental Shards (Random)
+	Tier 16:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 17:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 18:
+	      3 Guild Chests
+	     50 Elemental Shards (Random)
+	Tier 19:
+	      3 Relics (Premiere Relic)
+	      1 Relic (Key Relic)
+	      3 Gold Guild Chests
+	     50 Elemental Shards (Random)
+PERCENTILE REWARDS:
+	Tier 0:
+	    750 Elemental Shards (Random)
+	     11 Universal Retakes
+	      3 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    200 Relic Shards (Diamond)
+	Tier 1:
+	    500 Elemental Shards (Random)
+	      9 Universal Retakes
+	      1 Gold Guild Chest
+	      9 Guild Chests
+	   1000 Relic Shards (Gold)
+	    100 Relic Shards (Diamond)
+	Tier 2:
+	    400 Elemental Shards (Random)
+	      7 Universal Retakes
+	      7 Guild Chests
+	    750 Relic Shards (Gold)
+	Tier 3:
+	    300 Elemental Shards (Random)
+	      5 Universal Retakes
+	      5 Guild Chests
+	    500 Relic Shards (Gold)
+	Tier 4:
+	    200 Elemental Shards (Random)
+	      3 Universal Retakes
+	      3 Guild Chests
+	    200 Relic Shards (Gold)
+	Tier 5:
+	    100 Elemental Shards (Random)
+	      1 Universal Retake
+	      1 Guild Chest
+	    100 Relic Shards (Gold)
+RANK REWARDS:
+	Tier 0:
+	   1000 Elemental Shards (Random)
+	     15 Universal Retakes
+	      5 Gold Guild Chests
+	     10 Guild Chests
+	   1000 Relic Shards (Gold)
+	    300 Relic Shards (Diamond)
+
 the-only-rift-battle-ever
 RIFT BATTLES (There can be only one)
 minScore: 0
