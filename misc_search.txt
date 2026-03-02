@@ -38,6 +38,10 @@ LootTableSet_Char_Beowulf_Var_D
 		25.00%	      1 Fighter (Beast King)
 		25.00%	      1 Fighter (Ogre Achiever)
 		Total Weight: 4
+LootTableSet_Char_Beowulf_Var_FanFavorite
+	 LootTable_Char_Beowulf_Var_FanFavorite
+		100.00%	      1 Fighter (Fan Favorite)
+		Total Weight: 1
 LootTableSet_Char_Beowulf_Var_G
 	 LootTable_Char_Beowulf_Var_G
 		16.67%	      1 Fighter (Dragon Brawler)
@@ -1212,6 +1216,24 @@ LootTableSet_Char_Haunted_D
 		33.33%	      1 Fighter (Wetwork)
 		33.33%	      1 Fighter (Summer Salt)
 		Total Weight: 3
+LootTableSet_Char_Headliner_D
+	 LootTable_Var_Headliner_D
+		16.67%	      1 Fighter (Grand Mother)
+		16.67%	      1 Fighter (Locked 'N' Loaded)
+		16.67%	      1 Fighter (Soulbound)
+		16.67%	      1 Fighter (Idol Echo)
+		16.67%	      1 Fighter (Dark Lord)
+		16.67%	      1 Fighter (Fatal Fray)
+		Total Weight: 6
+LootTableSet_Char_Headliner_G
+	 LootTable_Var_Headliner_G
+		16.67%	      1 Fighter (Lucky Lure)
+		16.67%	      1 Fighter (One Up)
+		16.67%	      1 Fighter (Magicurl)
+		16.67%	      1 Fighter (Superluminal)
+		16.67%	      1 Fighter (Nail Biter)
+		16.67%	      1 Fighter (Double Exposure)
+		Total Weight: 6
 LootTableSet_Char_Heartbreaker_D
 	 LootTable_Var_Heartbreaker_D
 		20.00%	      1 Fighter (Beast King)
@@ -1991,6 +2013,15 @@ LootTableSet_Char_TreeOfLife_D_2025
 		20.00%	      1 Fighter (Freeze Frame)
 		20.00%	      1 Fighter (Mummy Dearest)
 		Total Weight: 5
+LootTableSet_Char_TreeOfLife_D_2026
+	 LootTable_Var_TreeOfLife_D_2026
+		16.67%	      1 Fighter (Fatal Fray)
+		16.67%	      1 Fighter (Grand Mother)
+		16.67%	      1 Fighter (Locked 'N' Loaded)
+		16.67%	      1 Fighter (Soulbound)
+		16.67%	      1 Fighter (Idol Echo)
+		16.67%	      1 Fighter (Dark Lord)
+		Total Weight: 6
 LootTableSet_Char_Filia_Var_B
 	 LootTable_Char_Filia_Var_B
 		50.00%	      1 Fighter (Bad Hair Day)
@@ -7257,6 +7288,10 @@ LootTableSet_Char_RoboFortune_Var_G
 		20.00%	      1 Fighter (Persona Assistant)
 		20.00%	      1 Fighter (Buffer Zone)
 		Total Weight: 5
+LootTableSet_Char_RoboFortune_Var_NumberCruncher
+	 LootTable_Char_RoboFortune_Var_NumberCruncher
+		100.00%	      1 Fighter (Number Cruncher)
+		Total Weight: 1
 LootTableSet_Char_RoboFortune_Var_S
 	 LootTable_Char_RoboFortune_Var_S
 		25.00%	      1 Fighter (Nyanotech)

@@ -3105,19 +3105,63 @@ Heartbreaker Diamond Relic (Gacha_214_Heartbreaker_Diamond_2026)
 		25.00%	      1 Fighter (Dream Band)
 		Subtotal Weight: 4
 	Total Weight: 100
+Headliner Relic (Gacha_215_Headliner)
+	92.0% Chance
+		8.33%	      1 Fighter (Triple Threat)
+		8.33%	      1 Fighter (Hype Man)
+		8.33%	      1 Fighter (Soul Crusher)
+		8.33%	      1 Fighter (Doublicious)
+		8.33%	      1 Fighter (Bloody Valentine)
+		8.33%	      1 Fighter (Chameleon Twist)
+		8.33%	      1 Fighter (Snake Charmer)
+		8.33%	      1 Fighter (Ms. Trial)
+		8.33%	      1 Fighter (No Egrets)
+		8.33%	      1 Fighter (Pea Shooter)
+		8.33%	      1 Fighter (Nearly Departed)
+		8.33%	      1 Fighter (Candy Crusher)
+		Subtotal Weight: 12
+	Total Weight: 100
+	7.0% Chance
+		16.67%	      1 Fighter (Lucky Lure)
+		16.67%	      1 Fighter (One Up)
+		16.67%	      1 Fighter (Magicurl)
+		16.67%	      1 Fighter (Superluminal)
+		16.67%	      1 Fighter (Nail Biter)
+		16.67%	      1 Fighter (Double Exposure)
+		Subtotal Weight: 6
+	Total Weight: 100
+	1.0% Chance
+		16.67%	      1 Fighter (Grand Mother)
+		16.67%	      1 Fighter (Locked 'N' Loaded)
+		16.67%	      1 Fighter (Soulbound)
+		16.67%	      1 Fighter (Idol Echo)
+		16.67%	      1 Fighter (Dark Lord)
+		16.67%	      1 Fighter (Fatal Fray)
+		Subtotal Weight: 6
+	Total Weight: 100
+Tree of Life Diamond Relic (Gacha_216_TreeOfLife_Diamond_2026)
+	100.0% Chance
+		16.67%	      1 Fighter (Fatal Fray)
+		16.67%	      1 Fighter (Grand Mother)
+		16.67%	      1 Fighter (Locked 'N' Loaded)
+		16.67%	      1 Fighter (Soulbound)
+		16.67%	      1 Fighter (Idol Echo)
+		16.67%	      1 Fighter (Dark Lord)
+		Subtotal Weight: 6
+	Total Weight: 100
 Smackdown Relic (Gacha_21_Char_Beowulf)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Underdog)
 		50.00%	      1 Fighter (Cold Stones)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		33.33%	      1 Fighter (Hype Man)
 		33.33%	      1 Fighter (Number One)
 		33.33%	      1 Fighter (Wrestler X)
 		Subtotal Weight: 3
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		16.67%	      1 Fighter (Dragon Brawler)
 		16.67%	      1 Fighter (Weekend Warrior)
 		16.67%	      1 Fighter (Wulfsbane)
@@ -3125,14 +3169,18 @@ Smackdown Relic (Gacha_21_Char_Beowulf)
 		16.67%	      1 Fighter (Pickle Baller)
 		16.67%	      1 Fighter (Chill Guy)
 		Subtotal Weight: 6
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		25.00%	      1 Fighter (Dark Might)
 		25.00%	      1 Fighter (Snake Bite)
 		25.00%	      1 Fighter (Beast King)
 		25.00%	      1 Fighter (Ogre Achiever)
 		Subtotal Weight: 4
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Fan Favorite)
+		Subtotal Weight: 1
+	Total Weight: 997
 Schrödinger's Relic (Gacha_22_Char_MsFortune)
 	82.0% Chance
 		50.00%	      1 Fighter (Just Kitten)
@@ -4156,33 +4204,37 @@ Shamrock Relic (2023) (Gacha_48_Shamrock)
 		Subtotal Weight: 3
 	Total Weight: 100
 Random-Access Relic (Gacha_49_Char_Robo)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Prototype)
 		50.00%	      1 Fighter (M-3OW)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		25.00%	      1 Fighter (Nyanotech)
 		25.00%	      1 Fighter (Purrminator)
 		25.00%	      1 Fighter (Blue Bomber)
 		25.00%	      1 Fighter (Vector Protector)
 		Subtotal Weight: 4
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		20.00%	      1 Fighter (Blue Screen)
 		20.00%	      1 Fighter (Terror Byte)
 		20.00%	      1 Fighter (Head Hunter)
 		20.00%	      1 Fighter (Persona Assistant)
 		20.00%	      1 Fighter (Buffer Zone)
 		Subtotal Weight: 5
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		25.00%	      1 Fighter (Overclocked)
 		25.00%	      1 Fighter (X-Bot)
 		25.00%	      1 Fighter (Reimaged)
 		25.00%	      1 Fighter (Proton Pulse)
 		Subtotal Weight: 4
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Number Cruncher)
+		Subtotal Weight: 1
+	Total Weight: 997
 Gold Fighter Relic (Gacha_4_Gold)
 	100.0% Chance
 		1.03%	      1 Fighter (Dragon Brawler)
@@ -5471,33 +5523,37 @@ Surgical Relic (50% OFF!) (Gacha_66_Char_Valentine_Sale)
 		Subtotal Weight: 5
 	Total Weight: 200
 Random-Access Relic (50% OFF!) (Gacha_67_Char_Robo_Sale)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Prototype)
 		50.00%	      1 Fighter (M-3OW)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		25.00%	      1 Fighter (Nyanotech)
 		25.00%	      1 Fighter (Purrminator)
 		25.00%	      1 Fighter (Blue Bomber)
 		25.00%	      1 Fighter (Vector Protector)
 		Subtotal Weight: 4
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		20.00%	      1 Fighter (Blue Screen)
 		20.00%	      1 Fighter (Terror Byte)
 		20.00%	      1 Fighter (Head Hunter)
 		20.00%	      1 Fighter (Persona Assistant)
 		20.00%	      1 Fighter (Buffer Zone)
 		Subtotal Weight: 5
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		25.00%	      1 Fighter (Overclocked)
 		25.00%	      1 Fighter (X-Bot)
 		25.00%	      1 Fighter (Reimaged)
 		25.00%	      1 Fighter (Proton Pulse)
 		Subtotal Weight: 4
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Number Cruncher)
+		Subtotal Weight: 1
+	Total Weight: 997
 Celestial Relic (50% OFF!) (Gacha_69_Char_Annie_Sale)
 	82.0% Chance
 		50.00%	      1 Fighter (Star Child)
@@ -5556,18 +5612,18 @@ Beware Of Relic (50% OFF!) (Gacha_70_Char_Filia_Sale)
 		Subtotal Weight: 4
 	Total Weight: 200
 Smackdown Relic (50% OFF!) (Gacha_71_Char_Beowulf_Sale)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Underdog)
 		50.00%	      1 Fighter (Cold Stones)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		33.33%	      1 Fighter (Hype Man)
 		33.33%	      1 Fighter (Number One)
 		33.33%	      1 Fighter (Wrestler X)
 		Subtotal Weight: 3
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		16.67%	      1 Fighter (Dragon Brawler)
 		16.67%	      1 Fighter (Weekend Warrior)
 		16.67%	      1 Fighter (Wulfsbane)
@@ -5575,14 +5631,18 @@ Smackdown Relic (50% OFF!) (Gacha_71_Char_Beowulf_Sale)
 		16.67%	      1 Fighter (Pickle Baller)
 		16.67%	      1 Fighter (Chill Guy)
 		Subtotal Weight: 6
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		25.00%	      1 Fighter (Dark Might)
 		25.00%	      1 Fighter (Snake Bite)
 		25.00%	      1 Fighter (Beast King)
 		25.00%	      1 Fighter (Ogre Achiever)
 		Subtotal Weight: 4
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Fan Favorite)
+		Subtotal Weight: 1
+	Total Weight: 997
 Ringleader Relic (50% OFF!) (Gacha_72_Char_Cerebella_Sale)
 	82.0% Chance
 		50.00%	      1 Fighter (Understudy)
