@@ -2489,19 +2489,19 @@ High Society Spotlight Relic (Gacha_189_Spotlight_HighSociety_2025)
 		Subtotal Weight: 1
 	Total Weight: 100
 Hand-Drawn Relic (Gacha_18_Char_Peacock)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Rerun)
 		50.00%	      1 Fighter (Sketchy)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		25.00%	      1 Fighter (Inkling)
 		25.00%	      1 Fighter (Pea Shooter)
 		25.00%	      1 Fighter (Wildcard)
 		25.00%	      1 Fighter (Prism Plumage)
 		Subtotal Weight: 4
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		16.67%	      1 Fighter (That's All Folks!)
 		16.67%	      1 Fighter (Ultraviolent)
 		16.67%	      1 Fighter (Untouchable)
@@ -2509,79 +2509,26 @@ Hand-Drawn Relic (Gacha_18_Char_Peacock)
 		16.67%	      1 Fighter (Primal Prodigy)
 		16.67%	      1 Fighter (Ionic Icon)
 		Subtotal Weight: 6
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		33.33%	      1 Fighter (Freeze Frame)
 		33.33%	      1 Fighter (Dream Catcher)
 		33.33%	      1 Fighter (Deal Breaker)
 		Subtotal Weight: 3
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Solid Gold)
+		Subtotal Weight: 1
+	Total Weight: 997
 Key Relic (Gacha_190_Keys)
 	100.0% Chance
-		10.00%	      1 Key (Diamond)
-		33.00%	      1 Key (Gold)
-		57.00%	      1 Key (Silver)
+		2.00%	      1 Key (Diamond)
+		8.00%	      1 Key (Gold)
+		35.00%	      1 Key (Silver)
+		55.00%	      1 Key (Bronze)
 		Subtotal Weight: 100
 	Total Weight: 90
 Blossom Relic (Gacha_191_Blossom_2025)
-	90.0% Chance
-		8.33%	      1 Fighter (Galactic Glamour)
-		8.33%	      1 Fighter (Robocopy)
-		8.33%	      1 Fighter (Lethal Weapon)
-		8.33%	      1 Fighter (Graveyard Shift)
-		8.33%	      1 Fighter (Purrminator)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Tomb & Gloom)
-		8.33%	      1 Fighter (Rain Shadow)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Feline Lucky)
-		8.33%	      1 Fighter (Rage Appropriate)
-		8.33%	      1 Fighter (Nearly Departed)
-		Subtotal Weight: 12
-	Total Weight: 100
-	9.0% Chance
-		33.33%	      1 Fighter (Surgeon General)
-		33.33%	      1 Fighter (Blitz & Glamour)
-		33.33%	      1 Fighter (Star-Crossed)
-		Subtotal Weight: 3
-	Total Weight: 100
-	1.0% Chance
-		25.00%	      1 Fighter (Deal Breaker)
-		25.00%	      1 Fighter (Snake Bite)
-		25.00%	      1 Fighter (Model Leader)
-		25.00%	      1 Randomized (Var ShinySG, Valentine)
-		Subtotal Weight: 4
-	Total Weight: 100
-Blossom Relic (Gacha_191_Blossom_2025_Opacity50)
-	90.0% Chance
-		8.33%	      1 Fighter (Galactic Glamour)
-		8.33%	      1 Fighter (Robocopy)
-		8.33%	      1 Fighter (Lethal Weapon)
-		8.33%	      1 Fighter (Graveyard Shift)
-		8.33%	      1 Fighter (Purrminator)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Tomb & Gloom)
-		8.33%	      1 Fighter (Rain Shadow)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Feline Lucky)
-		8.33%	      1 Fighter (Rage Appropriate)
-		8.33%	      1 Fighter (Nearly Departed)
-		Subtotal Weight: 12
-	Total Weight: 100
-	9.0% Chance
-		33.33%	      1 Fighter (Surgeon General)
-		33.33%	      1 Fighter (Blitz & Glamour)
-		33.33%	      1 Fighter (Star-Crossed)
-		Subtotal Weight: 3
-	Total Weight: 100
-	1.0% Chance
-		25.00%	      1 Fighter (Deal Breaker)
-		25.00%	      1 Fighter (Snake Bite)
-		25.00%	      1 Fighter (Model Leader)
-		25.00%	      1 Randomized (Var ShinySG, Valentine)
-		Subtotal Weight: 4
-	Total Weight: 100
-Blossom Relic (Gacha_191_Blossom_2025_Opacity75)
 	90.0% Chance
 		8.33%	      1 Fighter (Galactic Glamour)
 		8.33%	      1 Fighter (Robocopy)
@@ -3126,8 +3073,8 @@ Headliner Relic (Gacha_215_Headliner)
 		16.67%	      1 Fighter (One Up)
 		16.67%	      1 Fighter (Magicurl)
 		16.67%	      1 Fighter (Superluminal)
-		16.67%	      1 Fighter (Nail Biter)
 		16.67%	      1 Fighter (Double Exposure)
+		16.67%	      1 Fighter (Flower Power)
 		Subtotal Weight: 6
 	Total Weight: 100
 	1.0% Chance
@@ -3135,8 +3082,8 @@ Headliner Relic (Gacha_215_Headliner)
 		16.67%	      1 Fighter (Locked 'N' Loaded)
 		16.67%	      1 Fighter (Soulbound)
 		16.67%	      1 Fighter (Idol Echo)
-		16.67%	      1 Fighter (Dark Lord)
 		16.67%	      1 Fighter (Fatal Fray)
+		16.67%	      1 Fighter (Comet Custodian)
 		Subtotal Weight: 6
 	Total Weight: 100
 Tree of Life Diamond Relic (Gacha_216_TreeOfLife_Diamond_2026)
@@ -3148,6 +3095,16 @@ Tree of Life Diamond Relic (Gacha_216_TreeOfLife_Diamond_2026)
 		16.67%	      1 Fighter (Idol Echo)
 		16.67%	      1 Fighter (Dark Lord)
 		Subtotal Weight: 6
+	Total Weight: 100
+Sunshine Diamond Relic (Gacha_217_Sunshine_Diamond_2026)
+	100.0% Chance
+		10.00%	      1 Fighter (Idol Echo)
+		10.00%	      1 Fighter (Soulbound)
+		10.00%	      1 Fighter (Locked 'N' Loaded)
+		10.00%	      1 Fighter (Grand Mother)
+		10.00%	      1 Fighter (Fatal Fray)
+		50.00%	      1 Fighter (Comet Custodian)
+		Subtotal Weight: 10
 	Total Weight: 100
 Smackdown Relic (Gacha_21_Char_Beowulf)
 	81.74523570712137% Chance
@@ -5758,19 +5715,19 @@ Reanimated Relic (50% OFF!) (Gacha_75_Char_Squigly_Sale)
 		Subtotal Weight: 4
 	Total Weight: 200
 Hand-Drawn Relic (50% OFF!) (Gacha_76_Char_Peacock_Sale)
-	82.0% Chance
+	81.74523570712137% Chance
 		50.00%	      1 Fighter (Rerun)
 		50.00%	      1 Fighter (Sketchy)
 		Subtotal Weight: 2
-	Total Weight: 200
-	14.0% Chance
+	Total Weight: 997
+	14.042126379137413% Chance
 		25.00%	      1 Fighter (Inkling)
 		25.00%	      1 Fighter (Pea Shooter)
 		25.00%	      1 Fighter (Wildcard)
 		25.00%	      1 Fighter (Prism Plumage)
 		Subtotal Weight: 4
-	Total Weight: 200
-	3.5% Chance
+	Total Weight: 997
+	3.510531594784353% Chance
 		16.67%	      1 Fighter (That's All Folks!)
 		16.67%	      1 Fighter (Ultraviolent)
 		16.67%	      1 Fighter (Untouchable)
@@ -5778,13 +5735,17 @@ Hand-Drawn Relic (50% OFF!) (Gacha_76_Char_Peacock_Sale)
 		16.67%	      1 Fighter (Primal Prodigy)
 		16.67%	      1 Fighter (Ionic Icon)
 		Subtotal Weight: 6
-	Total Weight: 200
-	0.5% Chance
+	Total Weight: 997
+	0.5015045135406219% Chance
 		33.33%	      1 Fighter (Freeze Frame)
 		33.33%	      1 Fighter (Dream Catcher)
 		33.33%	      1 Fighter (Deal Breaker)
 		Subtotal Weight: 3
-	Total Weight: 200
+	Total Weight: 997
+	0.20060180541624875% Chance
+		100.00%	      1 Fighter (Solid Gold)
+		Subtotal Weight: 1
+	Total Weight: 997
 Hieroglyphic Relic (50% OFF!) (Gacha_77_Char_Eliza_Sale)
 	82.0% Chance
 		50.00%	      1 Fighter (In Denile)

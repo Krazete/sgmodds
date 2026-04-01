@@ -1222,8 +1222,8 @@ LootTableSet_Char_Headliner_D
 		16.67%	      1 Fighter (Locked 'N' Loaded)
 		16.67%	      1 Fighter (Soulbound)
 		16.67%	      1 Fighter (Idol Echo)
-		16.67%	      1 Fighter (Dark Lord)
 		16.67%	      1 Fighter (Fatal Fray)
+		16.67%	      1 Fighter (Comet Custodian)
 		Total Weight: 6
 LootTableSet_Char_Headliner_G
 	 LootTable_Var_Headliner_G
@@ -1231,8 +1231,8 @@ LootTableSet_Char_Headliner_G
 		16.67%	      1 Fighter (One Up)
 		16.67%	      1 Fighter (Magicurl)
 		16.67%	      1 Fighter (Superluminal)
-		16.67%	      1 Fighter (Nail Biter)
 		16.67%	      1 Fighter (Double Exposure)
+		16.67%	      1 Fighter (Flower Power)
 		Total Weight: 6
 LootTableSet_Char_Heartbreaker_D
 	 LootTable_Var_Heartbreaker_D
@@ -1989,6 +1989,15 @@ LootTableSet_Char_Sunshine_D_2025
 		20.00%	      1 Fighter (Bombshell)
 		20.00%	      1 Fighter (Model Leader)
 		Total Weight: 5
+LootTableSet_Char_Sunshine_D_2026
+	 LootTable_Var_Sunshine_D_2026
+		10.00%	      1 Fighter (Idol Echo)
+		10.00%	      1 Fighter (Soulbound)
+		10.00%	      1 Fighter (Locked 'N' Loaded)
+		10.00%	      1 Fighter (Grand Mother)
+		10.00%	      1 Fighter (Fatal Fray)
+		50.00%	      1 Fighter (Comet Custodian)
+		Total Weight: 10
 LootTableSet_Char_TreeOfLife_D
 	 LootTable_Var_TreeOfLife_D
 		20.00%	      1 Fighter (Snake Bite)
@@ -2078,9 +2087,10 @@ LootTableSet_Char_Fukua_Var_S
 		Total Weight: 4
 LootTableSet_Keys
 	 LootTable_KeyGacha
-		10.00%	      1 Key (Diamond)
-		33.00%	      1 Key (Gold)
-		57.00%	      1 Key (Silver)
+		2.00%	      1 Key (Diamond)
+		8.00%	      1 Key (Gold)
+		35.00%	      1 Key (Silver)
+		55.00%	      1 Key (Bronze)
 		Total Weight: 100
 LootTableSet_AdReward_Alternating
 	 LootTable_AdReward_Alternating
@@ -7078,6 +7088,10 @@ LootTableSet_Char_Peacock_Var_S
 		25.00%	      1 Fighter (Wildcard)
 		25.00%	      1 Fighter (Prism Plumage)
 		Total Weight: 4
+LootTableSet_Char_Peacock_Var_SolidGold
+	 LootTable_Char_Peacock_Var_SolidGold
+		100.00%	      1 Fighter (Solid Gold)
+		Total Weight: 1
 LootTableSet_RiftRelic
 	 LootTable_Catalyst_ALL
 		82.00%	      1 Randomized (LootTable_Catalyst_ALL_B)

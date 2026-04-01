@@ -670,7 +670,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Wave Warrior)
+	      1 Fighter (Materia Girl)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -752,7 +752,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Wave Warrior)
+	      1 Fighter (Materia Girl)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -1278,7 +1278,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Rhythm Rider)
+	      1 Fighter (Epic Sax)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1358,7 +1358,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Rhythm Rider)
+	      1 Fighter (Epic Sax)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -1888,7 +1888,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Scare Giver)
+	      1 Fighter (Criminal Mind)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1968,7 +1968,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Scare Giver)
+	      1 Fighter (Criminal Mind)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -2756,7 +2756,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Bloodbath)
+	      1 Fighter (Diva Intervention)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2836,7 +2836,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Bloodbath)
+	      1 Fighter (Diva Intervention)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -3364,7 +3364,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Hell's Belle)
+	      1 Fighter (Feathered Edges)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3446,7 +3446,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Hell's Belle)
+	      1 Fighter (Feathered Edges)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -3911,7 +3911,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Gravedigger)
+	      1 Fighter (Spell-Bent)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3995,7 +3995,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Gravedigger)
+	      1 Fighter (Spell-Bent)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -5305,74 +5305,89 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
 	     20 Theonite
-	  15000 Canopy Coins
+	  30000 Canopy Coins
 	Tier 2:
 	     30 Theonite
-	  22500 Canopy Coins
+	  45000 Canopy Coins
 	Tier 3:
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
 	     40 Theonite
-	  34000 Canopy Coins
+	  68000 Canopy Coins
 	Tier 4:
 	     50 Theonite
-	  50000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 5:
 	     60 Theonite
-	  76000 Canopy Coins
+	 152000 Canopy Coins
 	Tier 6:
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
 	     70 Theonite
-	 114000 Canopy Coins
+	 228000 Canopy Coins
 	Tier 7:
 	     80 Theonite
-	 171000 Canopy Coins
+	 342000 Canopy Coins
 	Tier 8:
 	     90 Theonite
-	 256000 Canopy Coins
+	 512000 Canopy Coins
 	Tier 9:
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
 	    100 Theonite
-	 384000 Canopy Coins
+	 768000 Canopy Coins
 	Tier 10:
-	    100 Elemental Shards (Water)
-	    100 Elemental Shards (Dark)
+	    200 Elemental Shards (Fire)
 	    500 Relic Shards (Gold)
 	Tier 11:
-	    150 Elemental Shards (Water)
-	    150 Elemental Shards (Dark)
-	    250 Relic Shards (Diamond)
+	 300000 Canopy Coins
 	Tier 12:
-	    250 Elemental Shards (Water)
-	    250 Elemental Shards (Dark)
-	      1 Relic (Legendary Relic)
+	 300000 Canopy Coins
 	Tier 13:
+	    300 Elemental Shards (Fire)
+	    250 Relic Shards (Diamond)
+	Tier 14:
+	 300000 Canopy Coins
+	Tier 15:
+	 300000 Canopy Coins
+	Tier 16:
+	 300000 Canopy Coins
+	Tier 17:
+	 300000 Canopy Coins
+	Tier 18:
+	    500 Elemental Shards (Fire)
+	      1 Relic (Legendary Relic)
+	Tier 19:
+	 300000 Canopy Coins
+	Tier 20:
+	 300000 Canopy Coins
+	Tier 21:
+	 300000 Canopy Coins
+	Tier 22:
 	      1 Relic (Sunshine Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
 	Tier 1:
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 2:
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 3:
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
-	      1 Relic (Blossom Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 
 pf-thanksgiving
 Combocopia ()
@@ -7285,7 +7300,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Dead of Winter)
+	      1 Fighter (Demon Artist)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7365,7 +7380,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Dead of Winter)
+	      1 Fighter (Demon Artist)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -7895,7 +7910,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      1 Relic (Headliner Relic)
-	      1 Fighter (Final Fang)
+	      1 Fighter (Last Hope)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7975,7 +7990,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Fighter (Final Fang)
+	      1 Fighter (Last Hope)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
@@ -9506,6 +9521,18 @@ PERCENTILE REWARDS:
 RANK REWARDS:
 
 complete_or_skip_daily_event
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+NO GUID
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+NO GUID
 minScore: 0
 SCOREBASED REWARDS:
 PERCENTILE REWARDS:
