@@ -514,6 +514,54 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 RANK REWARDS:
 
+lta-pe-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-pe-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-pe-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-pe-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-sq-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-sq-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-sq-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-sq-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
 maze_01_5
 minScore: 0
 SCOREBASED REWARDS:
@@ -557,36 +605,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Annie)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Annie)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Annie)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Annie)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Star Child)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -670,8 +720,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Materia Girl)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -754,8 +803,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Materia Girl)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -829,7 +876,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Annie)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Ninja Star)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -871,35 +917,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Beowulf)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Beowulf)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Beowulf)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Beowulf)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
+	Tier 11:
 	      2 Relics (Premiere Relic)
 	      1 Fighter (Underdog)
 	  10000 Canopy Coins
@@ -939,6 +988,8 @@ RANK REWARDS:
 pf-runWild-d
 Rumble Pack (Diamond)
 PLAYER MODIFIERS:
+	LOADED GLOVES
+	Suffer CRIPPLE and DEATH MARK for 10.0 seconds when blocking a HIT.
 	LOADED GLOVES
 	Suffer CRIPPLE and DEATH MARK for 10.0 seconds when blocking a HIT.
 ENEMY MODIFIERS:
@@ -981,7 +1032,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      2 Relics (Premiere Relic)
 	      1 Fighter (Weekend Warrior)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -1179,36 +1230,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Big Band)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Big Band)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Big Band)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Big Band)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Bassline)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1288,8 +1341,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Epic Sax)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -1370,8 +1422,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Epic Sax)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1445,7 +1495,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Big Band)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Robocopy)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1487,36 +1536,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Black Dahlia)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Black Dahlia)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Black Dahlia)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Black Dahlia)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Trigger Happy)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1598,8 +1649,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Corrosive Agent)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -1682,8 +1732,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Corrosive Agent)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1757,7 +1805,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Black Dahlia)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Dame Slayer)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1799,36 +1846,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Cerebella)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Cerebella)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Cerebella)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Cerebella)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Understudy)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -1908,8 +1957,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Criminal Mind)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -1990,8 +2038,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Criminal Mind)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2065,7 +2111,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Cerebella)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Gray Matter)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2107,36 +2152,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Double)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Double)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Double)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Double)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Nunsense)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2218,8 +2265,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Xenomorph)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -2300,8 +2346,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Xenomorph)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2377,7 +2421,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Double)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Doublicious)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2677,36 +2720,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Eliza)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Eliza)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Eliza)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Eliza)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (In Denile)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2786,8 +2831,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Diva Intervention)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -2868,8 +2912,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Diva Intervention)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2943,7 +2985,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Eliza)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Scarlet Viper)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -2985,36 +3026,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Filia)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Filia)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Filia)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Filia)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Bad Hair Day)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3094,8 +3137,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Parasite Weave)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -3176,8 +3218,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Parasite Weave)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3251,7 +3291,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Filia)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Hair Apparent)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3293,36 +3332,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Fukua)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Fukua)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Fukua)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Fukua)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Rough Copy)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3404,8 +3445,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Feathered Edges)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -3488,8 +3528,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Feathered Edges)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3563,7 +3601,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Fukua)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Souls Sister)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3642,10 +3679,12 @@ SCOREBASED REWARDS:
 	 500000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
-	 250000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 1:
-	 500000 Canopy Coins
+	 250000 Canopy Coins
 	Tier 2:
+	 500000 Canopy Coins
+	Tier 3:
 	 750000 Canopy Coins
 RANK REWARDS:
 	Tier 0:
@@ -3695,10 +3734,12 @@ SCOREBASED REWARDS:
 	 500000 Canopy Coins
 PERCENTILE REWARDS:
 	Tier 0:
-	 250000 Canopy Coins
+	 100000 Canopy Coins
 	Tier 1:
-	 500000 Canopy Coins
+	 250000 Canopy Coins
 	Tier 2:
+	 500000 Canopy Coins
+	Tier 3:
 	 750000 Canopy Coins
 RANK REWARDS:
 	Tier 0:
@@ -3867,36 +3908,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Marie)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Marie)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Marie)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Marie)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Bare Bones)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -3980,8 +4023,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Spell-Bent)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -4066,8 +4108,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Spell-Bent)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -4145,7 +4185,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Marie)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Maid of Honor)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -4819,89 +4858,104 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
-	     20 Theonite
-	  15000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 2:
-	     30 Theonite
-	  22500 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 3:
-	      1 Relic (Summer Breeze Relic)
-	     40 Theonite
-	  34000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 4:
-	     50 Theonite
-	  50000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 5:
-	     60 Theonite
-	  76000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 6:
-	      1 Relic (Summer Breeze Relic)
-	     70 Theonite
-	 114000 Canopy Coins
+	     20 Theonite
+	  30000 Canopy Coins
 	Tier 7:
-	     80 Theonite
-	 171000 Canopy Coins
+	     30 Theonite
+	  45000 Canopy Coins
 	Tier 8:
-	     90 Theonite
-	 256000 Canopy Coins
+	      1 Relic (Headliner Relic)
+	     40 Theonite
+	  68000 Canopy Coins
 	Tier 9:
-	      1 Relic (Summer Breeze Relic)
-	    100 Theonite
-	 384000 Canopy Coins
+	     50 Theonite
+	 100000 Canopy Coins
 	Tier 10:
-	    200 Elemental Shards (Water)
-	    500 Relic Shards (Gold)
+	     60 Theonite
+	 152000 Canopy Coins
 	Tier 11:
-	 100000 Canopy Coins
+	      1 Relic (Headliner Relic)
+	     70 Theonite
+	 228000 Canopy Coins
 	Tier 12:
-	 100000 Canopy Coins
+	     80 Theonite
+	 342000 Canopy Coins
 	Tier 13:
-	    300 Elemental Shards (Water)
-	    250 Relic Shards (Diamond)
+	     90 Theonite
+	 512000 Canopy Coins
 	Tier 14:
-	 100000 Canopy Coins
+	      1 Relic (Headliner Relic)
+	    100 Theonite
+	 768000 Canopy Coins
 	Tier 15:
-	 100000 Canopy Coins
+	    200 Elemental Shards (Light)
+	    500 Relic Shards (Gold)
 	Tier 16:
-	 100000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 17:
-	 100000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 18:
-	    500 Elemental Shards (Water)
-	      1 Relic (Legendary Relic)
+	    300 Elemental Shards (Light)
+	    250 Relic Shards (Diamond)
 	Tier 19:
-	 100000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 20:
-	 100000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 21:
-	 100000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 22:
+	 300000 Canopy Coins
+	Tier 23:
+	    500 Elemental Shards (Light)
+	      1 Relic (Legendary Relic)
+	Tier 24:
+	 300000 Canopy Coins
+	Tier 25:
+	 300000 Canopy Coins
+	Tier 26:
+	 300000 Canopy Coins
+	Tier 27:
 	      1 Relic (Beach Day Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Summer Breeze Relic)
+	      1 Relic (Headliner Relic)
 	Tier 1:
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 2:
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 3:
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 RANK REWARDS:
 	Tier 0:
 	      1 Key (Diamond)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
-	      1 Relic (Summer Breeze Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 
 pf-newyears
 Beginnings & Ends ()
@@ -5727,6 +5781,158 @@ RANK REWARDS:
 	      1 Relic (Guest Star Relic)
 	      1 Universal Retake
 
+pf-hotmess
+HOT MESS! ()
+PLAYER MODIFIERS:
+	Sun Block
+	When landing a WELL-TIMED BLOCK, gain 2 stacks of BARRIER for 7.0 seconds.
+	Sunburn
+	Non-FIRE Fighters lose 2.0% MAX HEALTH per second while not benfiting from BARRIER.
+	Heat Crash
+	Non-FIRE Fighters have their SPECIAL MOVE COOLDOWNS increased by 35.0% and lose 10.0% BLOCKBUSTER METER every 5.0 seconds.
+	
+ENEMY MODIFIERS:
+	Sun Block
+	When landing a WELL-TIMED BLOCK, gain 2 stacks of BARRIER for 7.0 seconds.
+	Sunburn
+	Non-FIRE Fighters lose 2.0% MAX HEALTH per second while not benfiting from BARRIER.
+	Heated Rivalry
+	When a FIRE variant is facing a WATER variant, gain 5.0% permanent ATTACK per second. When an attack deals over 20.0% of the opponent's MAX HEALTH, all opponents suffer Permanent FATIGUE.
+	
+minScore: 100000
+SCOREBASED REWARDS:
+	Tier 0:
+	      1 Relic (Scorched Relic)
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 1:
+	      3 Energy Refills
+	  25000 Canopy Coins
+	Tier 2:
+	      1 Relic (Scorched Relic)
+	  30000 Canopy Coins
+	     20 Theonite
+	Tier 3:
+	      1 Relic (Scorched Relic)
+	  35000 Canopy Coins
+	Tier 4:
+	      3 Energy Refills
+	  40000 Canopy Coins
+	     30 Theonite
+	Tier 5:
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	  50000 Canopy Coins
+	Tier 6:
+	      1 Relic (Premiere Relic)
+	     40 Theonite
+	Tier 7:
+	      3 Energy Refills
+	  80000 Canopy Coins
+	Tier 8:
+	      1 Relic (Headliner Relic)
+	     50 Theonite
+	Tier 9:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 160000 Canopy Coins
+	Tier 10:
+	      3 Energy Refills
+	     60 Theonite
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 240000 Canopy Coins
+	Tier 12:
+	      1 Relic (Jackpot Relic)
+	     70 Theonite
+	Tier 13:
+	      3 Energy Refills
+	 320000 Canopy Coins
+	Tier 14:
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	     80 Theonite
+	Tier 15:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 16:
+	      1 Relic (Legendary Relic)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 17:
+	      1 Key (Gold)
+	 400000 Canopy Coins
+	Tier 18:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 19:
+	    100 Elemental Shards (Fire)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 20:
+	      1 Key (Gold)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	 400000 Canopy Coins
+	Tier 21:
+	      1 Relic (Legendary Relic)
+	    100 Elemental Shards (Fire)
+	 400000 Canopy Coins
+	Tier 22:
+	      3 Energy Refills
+	    100 Theonite
+	Tier 23:
+	    200 Elemental Shards (Fire)
+	 400000 Canopy Coins
+	Tier 24:
+	    200 Elemental Shards (Fire)
+	 400000 Canopy Coins
+	Tier 25:
+	      1 Key (Gold)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 26:
+	    200 Elemental Shards (Fire)
+	 400000 Canopy Coins
+	Tier 27:
+	    200 Elemental Shards (Fire)
+	 400000 Canopy Coins
+	Tier 28:
+	      1 Elemental Essence (Fire)
+	 400000 Canopy Coins
+	Tier 29:
+	      1 Key (Diamond)
+	      3 Energy Refills
+	    100 Theonite
+	      1 Relic (Legendary Relic)
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	Tier 1:
+	    100 Elemental Shards (Fire)
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	      1 Relic (Scorched Relic)
+	Tier 2:
+	    300 Elemental Shards (Fire)
+	      1 Key (Gold)
+	      1 10+1 Retake Relic Voucher
+	Tier 3:
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
+	    500 Elemental Shards (Fire)
+RANK REWARDS:
+	Tier 0:
+	      1 Elemental Essence (Fire)
+	      1 Key (Diamond)
+	      1 10+1 Retake Relic Voucher
+
 pf-cradle-b
 A Head of the Game (Bronze)
 PLAYER MODIFIERS:
@@ -5734,36 +5940,40 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Ms. Fortune)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Ms. Fortune)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
+	   3750 Canopy Coins
+	Tier 7:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Ms. Fortune)
-	Tier 6:
+	Tier 8:
 	   5250 Canopy Coins
-	Tier 7:
+	Tier 9:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
+	Tier 10:
 	   6750 Canopy Coins
-	Tier 9:
+	Tier 11:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Ms. Fortune)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 12:
 	      1 Fighter (Just Kitten)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -5843,8 +6053,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Furmidable)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -5927,8 +6136,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Furmidable)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6004,7 +6211,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Ms. Fortune)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Feline Lucky)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6046,36 +6252,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Painwheel)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Painwheel)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Painwheel)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Painwheel)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Rusty)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6155,8 +6363,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Biting Cold)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -6237,8 +6444,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Biting Cold)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6312,7 +6517,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Painwheel)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Rage Appropriate)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6354,36 +6558,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Parasoul)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Parasoul)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Parasoul)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Parasoul)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Sheltered)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6465,8 +6671,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Regally Blonde)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -6547,8 +6752,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Regally Blonde)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6622,7 +6825,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Parasoul)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Ivy League)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -6664,35 +6866,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Peacock)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Peacock)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Peacock)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Peacock)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
+	Tier 11:
 	      2 Relics (Premiere Relic)
 	      1 Fighter (Rerun)
 	  10000 Canopy Coins
@@ -6732,6 +6937,8 @@ RANK REWARDS:
 pf-cutFlo-d
 Cutting Room Floor (Diamond)
 PLAYER MODIFIERS:
+	TRANQUILIZER DARTS
+	0.000000% chance to suffer FATIGUE for 0 seconds when blocking a projectile.
 	TRANQUILIZER DARTS
 	50.000000% chance to suffer FATIGUE for 5.0 seconds when blocking a projectile.
 ENEMY MODIFIERS:
@@ -6774,7 +6981,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	Tier 10:
 	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      2 Relics (Premiere Relic)
 	      1 Fighter (Primal Prodigy)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -6972,36 +7179,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Robo-Fortune)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Robo-Fortune)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Robo-Fortune)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Robo-Fortune)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Prototype)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7083,8 +7292,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Persona Assistant)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -7167,8 +7375,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Persona Assistant)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7242,7 +7448,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Robo-Fortune)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Nyanotech)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7284,36 +7489,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Squigly)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Squigly)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Squigly)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Squigly)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Stage Fright)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7393,8 +7600,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Demon Artist)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -7475,8 +7681,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Demon Artist)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7550,7 +7754,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Squigly)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Nearly Departed)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7592,36 +7795,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Umbrella)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Umbrella)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Umbrella)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Umbrella)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
-	      2 Relics (Premiere Relic)
+	Tier 11:
 	      1 Fighter (Salty)
 	  10000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7703,8 +7908,7 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Headliner Relic)
-	      3 Relics (Premiere Relic)
+	      1 Relic (Headliner Relic)
 	      1 Fighter (Palace Plunderer)
 	      1 Key (Diamond)
 	  70000 Canopy Coins
@@ -7785,8 +7989,6 @@ SCOREBASED REWARDS:
 	      1 Relic (Gold Move Relic)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      1 Relic (Headliner Relic)
-	      2 Relics (Premiere Relic)
 	      1 Fighter (Palace Plunderer)
 	  40000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7860,7 +8062,6 @@ SCOREBASED REWARDS:
 	     20 Skill Points (Umbrella)
 	      1 Relic (Gold Move Relic)
 	Tier 10:
-	      3 Relics (Premiere Relic)
 	      1 Fighter (Puddle Pirate)
 	  20000 Canopy Coins
 PERCENTILE REWARDS:
@@ -7902,35 +8103,38 @@ ENEMY MODIFIERS:
 minScore: 15000
 SCOREBASED REWARDS:
 	Tier 0:
-	    750 Canopy Coins
+	      5 Skill Points (Valentine)
+	    500 Canopy Coins
 	Tier 1:
+	    750 Canopy Coins
+	Tier 2:
 	      5 Theonite
 	   1500 Canopy Coins
 	      5 Skill Points (Valentine)
-	Tier 2:
-	   2250 Canopy Coins
 	Tier 3:
+	   2250 Canopy Coins
+	Tier 4:
 	     10 Theonite
 	   3000 Canopy Coins
-	Tier 4:
-	   3750 Canopy Coins
 	Tier 5:
+	   3750 Canopy Coins
+	Tier 6:
 	     10 Theonite
 	   4500 Canopy Coins
 	      5 Skill Points (Valentine)
-	Tier 6:
-	   5250 Canopy Coins
 	Tier 7:
+	   5250 Canopy Coins
+	Tier 8:
 	     15 Theonite
 	   6000 Canopy Coins
-	Tier 8:
-	   6750 Canopy Coins
 	Tier 9:
+	   6750 Canopy Coins
+	Tier 10:
 	     15 Theonite
 	   7500 Canopy Coins
 	     10 Skill Points (Valentine)
 	      1 Relic (Silver Move Relic)
-	Tier 10:
+	Tier 11:
 	      2 Relics (Premiere Relic)
 	      1 Fighter (Scrub)
 	  10000 Canopy Coins
