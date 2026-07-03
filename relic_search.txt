@@ -3070,21 +3070,21 @@ Headliner Relic (Gacha_215_Headliner)
 		Subtotal Weight: 12
 	Total Weight: 100
 	7.0% Chance
-		10.00%	      1 Fighter (Lucky Lure)
-		10.00%	      1 Fighter (One Up)
-		50.00%	      1 Fighter (Yellow One)
-		10.00%	      1 Fighter (Scale Tipper)
-		10.00%	      1 Fighter (Double Exposure)
-		10.00%	      1 Fighter (Flower Power)
-		Subtotal Weight: 10
+		9.09%	      1 Fighter (Lucky Lure)
+		45.45%	      1 Fighter (Death Defier)
+		18.18%	      1 Fighter (Yellow One)
+		9.09%	      1 Fighter (Scale Tipper)
+		9.09%	      1 Fighter (Double Exposure)
+		9.09%	      1 Fighter (Flower Power)
+		Subtotal Weight: 11
 	Total Weight: 100
 	1.0% Chance
 		16.67%	      1 Fighter (Grand Mother)
-		16.67%	      1 Fighter (Locked 'N' Loaded)
 		16.67%	      1 Fighter (Inkfluencer)
 		16.67%	      1 Fighter (Mana Flow)
 		16.67%	      1 Fighter (Fatal Fray)
 		16.67%	      1 Fighter (Comet Custodian)
+		16.67%	      1 Fighter (Killing Time)
 		Subtotal Weight: 6
 	Total Weight: 100
 Tree of Life Diamond Relic (Gacha_216_TreeOfLife_Diamond_2026)
@@ -3159,6 +3159,16 @@ Smackdown Relic (Gacha_21_Char_Beowulf)
 		100.00%	      1 Fighter (Fan Favorite)
 		Subtotal Weight: 1
 	Total Weight: 997
+Firecracker Diamond Relic (Gacha_220_Firecracker_Diamond_2026)
+	100.0% Chance
+		50.00%	      1 Fighter (Killing Time)
+		10.00%	      1 Fighter (Inkfluencer)
+		10.00%	      1 Fighter (Mana Flow)
+		10.00%	      1 Fighter (Comet Custodian)
+		10.00%	      1 Fighter (Grand Mother)
+		10.00%	      1 Fighter (Fatal Fray)
+		Subtotal Weight: 10
+	Total Weight: 100
 Schrödinger's Relic (Gacha_22_Char_MsFortune)
 	82.0% Chance
 		50.00%	      1 Fighter (Just Kitten)

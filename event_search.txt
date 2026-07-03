@@ -562,6 +562,54 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 RANK REWARDS:
 
+lta-annie-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-annie-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-annie-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-annie-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-eliza-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-eliza-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-eliza-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-eliza-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
 maze_01_5
 minScore: 0
 SCOREBASED REWARDS:
@@ -988,13 +1036,15 @@ RANK REWARDS:
 pf-runWild-d
 Rumble Pack (Diamond)
 PLAYER MODIFIERS:
-	LOADED GLOVES
-	Suffer CRIPPLE and DEATH MARK for 10.0 seconds when blocking a HIT.
-	LOADED GLOVES
-	Suffer CRIPPLE and DEATH MARK for 10.0 seconds when blocking a HIT.
+	Beowulf's Wrath
+	All opponents gain 5 stacks of permanent ENRAGE and have their SPECIAL COOLDOWNS reduced by 50.0% while Beowulf is not a teammate.
+	Beob And Weave
+	Every 5.0 seconds while away from the opponent, suffer DISABLE SPECIALS for 3.0 seconds and regain 20.0% MAX HEALTH. Every 5.0 seconds while near the opponent, gain HASTE for 3.0 seconds and lose 35.0% BLOCKBUSTER METER.
+	
 ENEMY MODIFIERS:
-	LOADED GLOVES
-	Suffer CRIPPLE and DEATH MARK for 10.0 seconds when blocking a HIT.
+	Beob And Weave
+	Every 5.0 seconds while away from the opponent, suffer DISABLE SPECIALS for 3.0 seconds and regain 20.0% MAX HEALTH. Every 5.0 seconds while near the opponent, gain HASTE for 3.0 seconds and lose 35.0% BLOCKBUSTER METER.
+	
 minScore: 1000000
 SCOREBASED REWARDS:
 	Tier 0:
@@ -4635,89 +4685,104 @@ minScore: 100000
 SCOREBASED REWARDS:
 	Tier 0:
 	     10 Theonite
-	  10000 Canopy Coins
+	  20000 Canopy Coins
 	Tier 1:
-	     20 Theonite
-	  15000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 2:
-	     30 Theonite
-	  22500 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 3:
-	     40 Theonite
-	  34000 Canopy Coins
-	      1 Relic (Revolutionary Relic)
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 4:
-	     50 Theonite
-	  50000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 5:
-	     60 Theonite
-	  76000 Canopy Coins
+	     10 Theonite
+	  20000 Canopy Coins
 	Tier 6:
-	     70 Theonite
-	 114000 Canopy Coins
-	      1 Relic (Revolutionary Relic)
+	     20 Theonite
+	  30000 Canopy Coins
 	Tier 7:
-	     80 Theonite
-	 171000 Canopy Coins
+	     30 Theonite
+	  45000 Canopy Coins
 	Tier 8:
-	     90 Theonite
-	 256000 Canopy Coins
+	      1 Relic (Headliner Relic)
+	     40 Theonite
+	  68000 Canopy Coins
 	Tier 9:
-	    100 Theonite
-	 384000 Canopy Coins
-	      1 Relic (Revolutionary Relic)
+	     50 Theonite
+	 100000 Canopy Coins
 	Tier 10:
+	     60 Theonite
+	 152000 Canopy Coins
+	Tier 11:
+	      1 Relic (Headliner Relic)
+	     70 Theonite
+	 228000 Canopy Coins
+	Tier 12:
+	     80 Theonite
+	 342000 Canopy Coins
+	Tier 13:
+	     90 Theonite
+	 512000 Canopy Coins
+	Tier 14:
+	      1 Relic (Headliner Relic)
+	    100 Theonite
+	 768000 Canopy Coins
+	Tier 15:
 	    200 Elemental Shards (Fire)
 	    500 Relic Shards (Gold)
-	Tier 11:
-	 150000 Canopy Coins
-	Tier 12:
-	 150000 Canopy Coins
-	Tier 13:
+	Tier 16:
+	 300000 Canopy Coins
+	Tier 17:
+	 300000 Canopy Coins
+	Tier 18:
 	    300 Elemental Shards (Fire)
 	    250 Relic Shards (Diamond)
-	Tier 14:
-	 150000 Canopy Coins
-	Tier 15:
-	 150000 Canopy Coins
-	Tier 16:
-	 150000 Canopy Coins
-	Tier 17:
-	 150000 Canopy Coins
-	Tier 18:
+	Tier 19:
+	 300000 Canopy Coins
+	Tier 20:
+	 300000 Canopy Coins
+	Tier 21:
+	 300000 Canopy Coins
+	Tier 22:
+	 300000 Canopy Coins
+	Tier 23:
 	    500 Elemental Shards (Fire)
 	      1 Relic (Legendary Relic)
-	Tier 19:
-	 150000 Canopy Coins
-	Tier 20:
-	 150000 Canopy Coins
-	Tier 21:
-	 150000 Canopy Coins
-	Tier 22:
+	Tier 24:
+	 300000 Canopy Coins
+	Tier 25:
+	 300000 Canopy Coins
+	Tier 26:
+	 300000 Canopy Coins
+	Tier 27:
 	      1 Relic (Firecracker Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Revolutionary Relic)
+	      1 Relic (Headliner Relic)
 	Tier 1:
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 2:
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 	Tier 3:
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 RANK REWARDS:
 	Tier 0:
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
-	      1 Relic (Revolutionary Relic)
 	      1 Key (Diamond)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
 
 pf-hotPress
 Hot Off The Presses (Gold)
@@ -5927,6 +5992,164 @@ PERCENTILE REWARDS:
 	      1 10+1 Retake Relic Voucher
 	      1 Key (Diamond)
 	    500 Elemental Shards (Fire)
+	Tier 4:
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
+	    500 Elemental Shards (Fire)
+RANK REWARDS:
+	Tier 0:
+	      1 Elemental Essence (Fire)
+	      1 Key (Diamond)
+	      1 10+1 Retake Relic Voucher
+
+pf-SinkOrSwim
+SINK OR SWIM! ()
+PLAYER MODIFIERS:
+	It's Your Fin
+	[Non-Water Fighters] Start the match with one stack of permanent SLOW. Suffer HEAL BLOCK and lose 10.0% MAX HEALTH every 3.0 seconds while not benefiting from ARMOR.
+	
+	Catch Your Breath
+	Gain ARMOR when getting into the air. All ARMOR stacks are removed when getting KNOCKED DOWN.
+ENEMY MODIFIERS:
+	It's Your Fin
+	[Non-Water Fighters] Start the match with one stack of permanent SLOW. Suffer HEAL BLOCK and lose 10.0% MAX HEALTH every 3.0 seconds while not benefiting from ARMOR.
+	
+	Catch Your Breath
+	Gain ARMOR when getting into the air. All ARMOR stacks are removed when getting KNOCKED DOWN.
+	Natural Environment
+	[Water Defenders] When facing an Air Fighter, gain THORNS every 5.0 seconds while on the ground. Remove all stacks of THORNS from yourself when getting HIT in the air.
+minScore: 100000
+SCOREBASED REWARDS:
+	Tier 0:
+	      1 Relic (Sunken Relic)
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 1:
+	      3 Energy Refills
+	  25000 Canopy Coins
+	Tier 2:
+	      1 Relic (Sunken Relic)
+	  30000 Canopy Coins
+	     20 Theonite
+	Tier 3:
+	      1 Relic (Sunken Relic)
+	  35000 Canopy Coins
+	Tier 4:
+	      3 Energy Refills
+	  40000 Canopy Coins
+	     30 Theonite
+	Tier 5:
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	  50000 Canopy Coins
+	Tier 6:
+	      1 Relic (Premiere Relic)
+	     40 Theonite
+	Tier 7:
+	      3 Energy Refills
+	  80000 Canopy Coins
+	Tier 8:
+	      1 Relic (Headliner Relic)
+	     50 Theonite
+	Tier 9:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 160000 Canopy Coins
+	Tier 10:
+	      3 Energy Refills
+	     60 Theonite
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 240000 Canopy Coins
+	Tier 12:
+	      1 Relic (Jackpot Relic)
+	     70 Theonite
+	Tier 13:
+	      3 Energy Refills
+	 320000 Canopy Coins
+	Tier 14:
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	     80 Theonite
+	Tier 15:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 16:
+	      1 Relic (Legendary Relic)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 17:
+	      1 Key (Gold)
+	 400000 Canopy Coins
+	Tier 18:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 19:
+	    100 Elemental Shards (Water)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 20:
+	      1 Key (Gold)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	 400000 Canopy Coins
+	Tier 21:
+	      1 Relic (Legendary Relic)
+	    100 Elemental Shards (Water)
+	 400000 Canopy Coins
+	Tier 22:
+	      3 Energy Refills
+	    100 Theonite
+	Tier 23:
+	    200 Elemental Shards (Water)
+	 400000 Canopy Coins
+	Tier 24:
+	    200 Elemental Shards (Water)
+	 400000 Canopy Coins
+	Tier 25:
+	      1 Key (Gold)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 26:
+	    200 Elemental Shards (Water)
+	 400000 Canopy Coins
+	Tier 27:
+	    200 Elemental Shards (Water)
+	 400000 Canopy Coins
+	Tier 28:
+	      1 Elemental Essence (Water)
+	 400000 Canopy Coins
+	Tier 29:
+	      1 Key (Diamond)
+	      3 Energy Refills
+	    100 Theonite
+	      1 Relic (Legendary Relic)
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	Tier 1:
+	    100 Elemental Shards (Water)
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	      1 Relic (Sunken Relic)
+	Tier 2:
+	    300 Elemental Shards (Fire)
+	      1 Key (Gold)
+	      1 10+1 Retake Relic Voucher
+	Tier 3:
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
+	    500 Elemental Shards (Fire)
+	Tier 4:
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
+	    500 Elemental Shards (Fire)
 RANK REWARDS:
 	Tier 0:
 	      1 Elemental Essence (Fire)
@@ -6937,13 +7160,16 @@ RANK REWARDS:
 pf-cutFlo-d
 Cutting Room Floor (Diamond)
 PLAYER MODIFIERS:
-	TRANQUILIZER DARTS
-	0.000000% chance to suffer FATIGUE for 0 seconds when blocking a projectile.
-	TRANQUILIZER DARTS
-	50.000000% chance to suffer FATIGUE for 5.0 seconds when blocking a projectile.
+	Peacock's Demise
+	While Peacock is not a teammate, opponent PROJECTILES are UNBLOCKABLE and all opponents gain 100.0% CRIT RESIST.
+	
+	You're It!
+	PROJECTILE HITS (including blocked HITS) inflict DISABLE TAG-INS for 7.0 seconds, bypassing all DEBUFF prevention effects. Fighters must land a PROJECTILE HIT (including blocked HITS) to transfer this DEBUFF back to the opponent. When DISABLE TAG-INS expires, lose 10.0% MAX HEALTH and get STUNNED for 2.0 seconds.
+	
 ENEMY MODIFIERS:
-	TRANQUILIZER DARTS
-	50.000000% chance to suffer FATIGUE for 5.0 seconds when blocking a projectile.
+	You're It!
+	PROJECTILE HITS (including blocked HITS) inflict DISABLE TAG-INS for 7.0 seconds, bypassing all DEBUFF prevention effects. Fighters must land a PROJECTILE HIT (including blocked HITS) to transfer this DEBUFF back to the opponent. When DISABLE TAG-INS expires, lose 10.0% MAX HEALTH and get STUNNED for 2.0 seconds.
+	
 minScore: 1000000
 SCOREBASED REWARDS:
 	Tier 0:
@@ -9833,6 +10059,24 @@ PERCENTILE REWARDS:
 RANK REWARDS:
 
 complete_or_skip_daily_event
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+NO GUID
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+NO GUID
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+NO GUID
 minScore: 0
 SCOREBASED REWARDS:
 PERCENTILE REWARDS:

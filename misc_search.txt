@@ -1080,6 +1080,15 @@ LootTableSet_Char_Firecracker_D_2025
 		20.00%	      1 Fighter (Neuromancer)
 		20.00%	      1 Fighter (Djinn Frizz)
 		Total Weight: 5
+LootTableSet_Char_Firecracker_D_2026
+	 LootTable_Var_Firecracker_D_2026
+		50.00%	      1 Fighter (Killing Time)
+		10.00%	      1 Fighter (Inkfluencer)
+		10.00%	      1 Fighter (Mana Flow)
+		10.00%	      1 Fighter (Comet Custodian)
+		10.00%	      1 Fighter (Grand Mother)
+		10.00%	      1 Fighter (Fatal Fray)
+		Total Weight: 10
 LootTableSet_Char_Frosted_D
 	 LootTable_Var_Frosted_D
 		20.00%	      1 Fighter (Raining Champ)
@@ -1232,21 +1241,21 @@ LootTableSet_Char_Haunted_D
 LootTableSet_Char_Headliner_D
 	 LootTable_Var_Headliner_D
 		16.67%	      1 Fighter (Grand Mother)
-		16.67%	      1 Fighter (Locked 'N' Loaded)
 		16.67%	      1 Fighter (Inkfluencer)
 		16.67%	      1 Fighter (Mana Flow)
 		16.67%	      1 Fighter (Fatal Fray)
 		16.67%	      1 Fighter (Comet Custodian)
+		16.67%	      1 Fighter (Killing Time)
 		Total Weight: 6
 LootTableSet_Char_Headliner_G
 	 LootTable_Var_Headliner_G
-		10.00%	      1 Fighter (Lucky Lure)
-		10.00%	      1 Fighter (One Up)
-		50.00%	      1 Fighter (Yellow One)
-		10.00%	      1 Fighter (Scale Tipper)
-		10.00%	      1 Fighter (Double Exposure)
-		10.00%	      1 Fighter (Flower Power)
-		Total Weight: 10
+		9.09%	      1 Fighter (Lucky Lure)
+		45.45%	      1 Fighter (Death Defier)
+		18.18%	      1 Fighter (Yellow One)
+		9.09%	      1 Fighter (Scale Tipper)
+		9.09%	      1 Fighter (Double Exposure)
+		9.09%	      1 Fighter (Flower Power)
+		Total Weight: 11
 LootTableSet_Char_Headliner_S
 	 LootTable_Var_Headliner_S
 		8.33%	      1 Fighter (Rose-Tinted)
