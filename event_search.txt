@@ -664,6 +664,54 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 RANK REWARDS:
 
+lta-ce-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-ce-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-ce-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-ce-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
 maze_01_5
 minScore: 0
 SCOREBASED REWARDS:
@@ -4290,86 +4338,104 @@ SCOREBASED REWARDS:
 	     10 Theonite
 	  20000 Canopy Coins
 	Tier 1:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 2:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 3:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 4:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 5:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 6:
 	     20 Theonite
 	  30000 Canopy Coins
-	Tier 2:
+	Tier 7:
 	     30 Theonite
 	  45000 Canopy Coins
-	Tier 3:
+	Tier 8:
+	      1 Relic (Headliner Relic)
 	     40 Theonite
-	      1 Relic (Back to School Relic)
 	  68000 Canopy Coins
-	Tier 4:
+	Tier 9:
 	     50 Theonite
 	 100000 Canopy Coins
-	Tier 5:
+	Tier 10:
 	     60 Theonite
 	 152000 Canopy Coins
-	Tier 6:
+	Tier 11:
+	      1 Relic (Headliner Relic)
 	     70 Theonite
-	      1 Relic (Back to School Relic)
 	 228000 Canopy Coins
-	Tier 7:
+	Tier 12:
 	     80 Theonite
 	 342000 Canopy Coins
-	Tier 8:
+	Tier 13:
 	     90 Theonite
 	 512000 Canopy Coins
-	Tier 9:
-	    100 Theonite
-	      1 Relic (Back to School Relic)
-	 768000 Canopy Coins
-	Tier 10:
-	    500 Relic Shards (Gold)
-	    200 Elemental Shards (Light)
-	Tier 11:
-	 200000 Canopy Coins
-	Tier 12:
-	 200000 Canopy Coins
-	Tier 13:
-	    250 Relic Shards (Diamond)
-	    300 Elemental Shards (Light)
 	Tier 14:
-	 200000 Canopy Coins
+	      1 Relic (Headliner Relic)
+	    100 Theonite
+	 768000 Canopy Coins
 	Tier 15:
-	 200000 Canopy Coins
+	     75 Elemental Shards (Fire)
+	     75 Elemental Shards (Water)
+	     75 Elemental Shards (Air)
+	    500 Relic Shards (Gold)
 	Tier 16:
-	 200000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 17:
-	 200000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 18:
-	    500 Elemental Shards (Light)
-	      1 Relic (Legendary Relic)
+	    100 Elemental Shards (Fire)
+	    100 Elemental Shards (Water)
+	    100 Elemental Shards (Air)
+	    250 Relic Shards (Diamond)
 	Tier 19:
-	 200000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 20:
-	 200000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 21:
-	 200000 Canopy Coins
+	 300000 Canopy Coins
 	Tier 22:
+	 300000 Canopy Coins
+	Tier 23:
+	    175 Elemental Shards (Fire)
+	    175 Elemental Shards (Water)
+	    175 Elemental Shards (Air)
+	      1 Relic (Legendary Relic)
+	Tier 24:
+	 300000 Canopy Coins
+	Tier 25:
+	 300000 Canopy Coins
+	Tier 26:
+	 300000 Canopy Coins
+	Tier 27:
 	      1 Relic (Homecoming Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Back to School Relic)
+	      1 Relic (Jackpot Relic)
 	Tier 1:
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
+	      3 Relics (Jackpot Relic)
+	     50 Theonite
+	      1 Key (Gold)
 	Tier 2:
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
+	     90 Theonite
+	      5 Relics (Jackpot Relic)
+	      1 Key (Gold)
 	Tier 3:
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	Tier 4:
+	      8 Relics (Jackpot Relic)
+	    150 Theonite
 	      1 Key (Diamond)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
-	      1 Relic (Back to School Relic)
+	Tier 4:
+	      1 10+1 Retake Relic Voucher
+	    300 Theonite
+	      1 Key (Diamond)
 RANK REWARDS:
 
 pf-cinco
@@ -5848,6 +5914,147 @@ PERCENTILE REWARDS:
 	Tier 4:
 	   1000 Stardusts
 	 325000 Canopy Coins
+RANK REWARDS:
+
+pf-AgainstTheWind
+AGAINST THE WIND ()
+PLAYER MODIFIERS:
+	Gust
+	Gain HASTE when DASHING. While benefiting from HASTE, gain 5.0% BLOCKBUSTER METER per second. HASTE is removed when BACK-DASHING or being HIT.
+	
+	
+	Winded
+	[Non-Air Fighters] While not benefiting from HASTE, lose 3.0% BLOCKBUSTER METER per second. After 10.0 seconds not benefiting from HASTE, suffer permanent WITHER.
+	
+ENEMY MODIFIERS:
+	Gust
+	Gain HASTE when DASHING. While benefiting from HASTE, gain 5.0% BLOCKBUSTER METER per second. HASTE is removed when BACK-DASHING or being HIT.
+	
+	
+minScore: 100000
+SCOREBASED REWARDS:
+	Tier 0:
+	      1 Relic (Stormy Relic)
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 1:
+	      3 Energy Refills
+	  25000 Canopy Coins
+	Tier 2:
+	      1 Relic (Stormy Relic)
+	  30000 Canopy Coins
+	     20 Theonite
+	Tier 3:
+	      1 Relic (Stormy Relic)
+	  35000 Canopy Coins
+	Tier 4:
+	      3 Energy Refills
+	  40000 Canopy Coins
+	     30 Theonite
+	Tier 5:
+	      1 Relic (Stormy Relic)
+	      1 Relic (Stormy Relic)
+	  50000 Canopy Coins
+	Tier 6:
+	      1 Relic (Premiere Relic)
+	     40 Theonite
+	Tier 7:
+	      3 Energy Refills
+	  80000 Canopy Coins
+	Tier 8:
+	      1 Relic (Headliner Relic)
+	     50 Theonite
+	Tier 9:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 160000 Canopy Coins
+	Tier 10:
+	      3 Energy Refills
+	     60 Theonite
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 240000 Canopy Coins
+	Tier 12:
+	      1 Relic (Jackpot Relic)
+	     70 Theonite
+	Tier 13:
+	      3 Energy Refills
+	 320000 Canopy Coins
+	Tier 14:
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	     80 Theonite
+	Tier 15:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 16:
+	      1 Relic (Legendary Relic)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 17:
+	      1 Key (Gold)
+	 400000 Canopy Coins
+	Tier 18:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 19:
+	    100 Elemental Shards (Air)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 20:
+	      1 Key (Gold)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	 400000 Canopy Coins
+	Tier 21:
+	      1 Relic (Legendary Relic)
+	    100 Elemental Shards (Air)
+	 400000 Canopy Coins
+	Tier 22:
+	      3 Energy Refills
+	    100 Theonite
+	Tier 23:
+	    200 Elemental Shards (Air)
+	 400000 Canopy Coins
+	Tier 24:
+	    200 Elemental Shards (Air)
+	 400000 Canopy Coins
+	Tier 25:
+	      1 Key (Gold)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 26:
+	    200 Elemental Shards (Air)
+	 400000 Canopy Coins
+	Tier 27:
+	    200 Elemental Shards (Air)
+	 400000 Canopy Coins
+	Tier 28:
+	      1 Elemental Essence (Air)
+	 400000 Canopy Coins
+	Tier 29:
+	      1 Key (Diamond)
+	      3 Energy Refills
+	    200 Theonite
+	      1 Relic (Diamond Fighter Relic)
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Relic (Headliner Relic)
+	Tier 1:
+	      3 Relics (Headliner Relic)
+	      1 Key (Gold)
+	Tier 2:
+	      5 Relics (Headliner Relic)
+	      1 Key (Gold)
+	Tier 3:
+	      8 Relics (Headliner Relic)
+	      1 Key (Diamond)
+	Tier 4:
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
 RANK REWARDS:
 
 pf-hotmess
