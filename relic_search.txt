@@ -1262,10 +1262,11 @@ Resurrection Relic (Gacha_139_Char_Marie)
 		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
-		33.33%	      1 Fighter (Heartless)
-		33.33%	      1 Fighter (Megalomaniac)
-		33.33%	      1 Fighter (Mad Malice)
-		Subtotal Weight: 3
+		25.00%	      1 Fighter (Heartless)
+		25.00%	      1 Fighter (Megalomaniac)
+		25.00%	      1 Fighter (Mad Malice)
+		25.00%	      1 Fighter (Comet Custodian)
+		Subtotal Weight: 4
 	Total Weight: 200
 Initiation Relic (Gacha_13_FTUE_2)
 	100.0% Chance
@@ -1295,10 +1296,11 @@ Resurrection Relic (Gacha_140_Char_Marie_Token)
 		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
-		33.33%	      1 Fighter (Heartless)
-		33.33%	      1 Fighter (Megalomaniac)
-		33.33%	      1 Fighter (Mad Malice)
-		Subtotal Weight: 3
+		25.00%	      1 Fighter (Heartless)
+		25.00%	      1 Fighter (Megalomaniac)
+		25.00%	      1 Fighter (Mad Malice)
+		25.00%	      1 Fighter (Comet Custodian)
+		Subtotal Weight: 4
 	Total Weight: 200
 Resurrection Relic (50% OFF!) (Gacha_141_Char_Marie_Sale)
 	82.0% Chance
@@ -1323,10 +1325,11 @@ Resurrection Relic (50% OFF!) (Gacha_141_Char_Marie_Sale)
 		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
-		33.33%	      1 Fighter (Heartless)
-		33.33%	      1 Fighter (Megalomaniac)
-		33.33%	      1 Fighter (Mad Malice)
-		Subtotal Weight: 3
+		25.00%	      1 Fighter (Heartless)
+		25.00%	      1 Fighter (Megalomaniac)
+		25.00%	      1 Fighter (Mad Malice)
+		25.00%	      1 Fighter (Comet Custodian)
+		Subtotal Weight: 4
 	Total Weight: 200
 Enhanced Wishful Premiere Relic (Gacha_142_Premiere_Marie_Sub)
 	82.0% Chance
@@ -3059,18 +3062,18 @@ Heartbreaker Diamond Relic (Gacha_214_Heartbreaker_Diamond_2026)
 	Total Weight: 100
 Headliner Relic (Gacha_215_Headliner)
 	92.0% Chance
-		8.33%	      1 Fighter (Vintage Virtuoso)
-		8.33%	      1 Fighter (Soul Crusher)
-		8.33%	      1 Fighter (Wildcard)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Puddle Pirate)
-		8.33%	      1 Fighter (Ivy League)
-		8.33%	      1 Fighter (Souls Sister)
-		8.33%	      1 Fighter (Vector Protector)
+		8.33%	      1 Fighter (Shadow Ops)
+		8.33%	      1 Fighter (Ninja Star)
+		8.33%	      1 Fighter (Resonant Evil)
+		8.33%	      1 Fighter (Lethal Weapon)
+		8.33%	      1 Fighter (Tomb & Gloom)
+		8.33%	      1 Fighter (Rock Star)
+		8.33%	      1 Fighter (Graveyard Shift)
+		8.33%	      1 Fighter (Dead Heat)
+		8.33%	      1 Fighter (Purrminator)
+		8.33%	      1 Fighter (Pea Shooter)
+		8.33%	      1 Fighter (Ms. Trial)
 		8.33%	      1 Fighter (Phantom Wrangler)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Kill Joy)
-		8.33%	      1 Fighter (Candy Crusher)
 		Subtotal Weight: 12
 	Total Weight: 100
 	7.0% Chance
@@ -3079,7 +3082,7 @@ Headliner Relic (Gacha_215_Headliner)
 		10.00%	      1 Fighter (Yellow One)
 		10.00%	      1 Fighter (Scale Tipper)
 		50.00%	      1 Fighter (Bellarina)
-		10.00%	      1 Fighter (Flower Power)
+		10.00%	      1 Fighter (Pillow Talk)
 		Subtotal Weight: 10
 	Total Weight: 100
 	1.0% Chance
@@ -3087,7 +3090,7 @@ Headliner Relic (Gacha_215_Headliner)
 		16.67%	      1 Fighter (Inkfluencer)
 		16.67%	      1 Fighter (Mana Flow)
 		16.67%	      1 Fighter (Baba Yaga)
-		16.67%	      1 Fighter (Comet Custodian)
+		16.67%	      1 Fighter (Dream Girl)
 		16.67%	      1 Fighter (Killing Time)
 		Subtotal Weight: 6
 	Total Weight: 100
@@ -3191,6 +3194,16 @@ Homecoming Diamond Relic (Gacha_222_Homecoming_Diamond_2026)
 		10.00%	      1 Fighter (Inkfluencer)
 		10.00%	      1 Fighter (Mana Flow)
 		10.00%	      1 Fighter (Comet Custodian)
+		Subtotal Weight: 10
+	Total Weight: 100
+Nightmare Diamond Relic (Gacha_223_NightmareDiamond_2026)
+	100.0% Chance
+		50.00%	      1 Fighter (Dream Girl)
+		10.00%	      1 Fighter (Baba Yaga)
+		10.00%	      1 Fighter (True Self)
+		10.00%	      1 Fighter (Killing Time)
+		10.00%	      1 Fighter (Inkfluencer)
+		10.00%	      1 Fighter (Mana Flow)
 		Subtotal Weight: 10
 	Total Weight: 100
 Schrödinger's Relic (Gacha_22_Char_MsFortune)
@@ -4729,12 +4742,13 @@ Doppelgänger Relic (Gacha_57_Char_Fukua)
 		Subtotal Weight: 4
 	Total Weight: 200
 	3.5% Chance
-		20.00%	      1 Fighter (Vaporwave Vixen)
-		20.00%	      1 Fighter (Phantom Threads)
-		20.00%	      1 Fighter (Night Terror)
-		20.00%	      1 Fighter (Feathered Edges)
-		20.00%	      1 Fighter (Hell's Belle)
-		Subtotal Weight: 5
+		16.67%	      1 Fighter (Vaporwave Vixen)
+		16.67%	      1 Fighter (Phantom Threads)
+		16.67%	      1 Fighter (Night Terror)
+		16.67%	      1 Fighter (Feathered Edges)
+		16.67%	      1 Fighter (Hell's Belle)
+		16.67%	      1 Fighter (Flower Power)
+		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
 		20.00%	      1 Fighter (Splitting Image)
@@ -5747,12 +5761,13 @@ Doppelgänger Relic (50% OFF!) (Gacha_73_Char_Fukua_Sale)
 		Subtotal Weight: 4
 	Total Weight: 200
 	3.5% Chance
-		20.00%	      1 Fighter (Vaporwave Vixen)
-		20.00%	      1 Fighter (Phantom Threads)
-		20.00%	      1 Fighter (Night Terror)
-		20.00%	      1 Fighter (Feathered Edges)
-		20.00%	      1 Fighter (Hell's Belle)
-		Subtotal Weight: 5
+		16.67%	      1 Fighter (Vaporwave Vixen)
+		16.67%	      1 Fighter (Phantom Threads)
+		16.67%	      1 Fighter (Night Terror)
+		16.67%	      1 Fighter (Feathered Edges)
+		16.67%	      1 Fighter (Hell's Belle)
+		16.67%	      1 Fighter (Flower Power)
+		Subtotal Weight: 6
 	Total Weight: 200
 	0.5% Chance
 		20.00%	      1 Fighter (Splitting Image)

@@ -712,6 +712,54 @@ SCOREBASED REWARDS:
 PERCENTILE REWARDS:
 RANK REWARDS:
 
+lta-be-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-be-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-para-v-3
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-para-v-2
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-para-v-1
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
+lta-para-v-0
+minScore: 0
+SCOREBASED REWARDS:
+PERCENTILE REWARDS:
+RANK REWARDS:
+
 maze_01_5
 minScore: 0
 SCOREBASED REWARDS:
@@ -812,7 +860,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Annie)
 	Tier 4:
-	      2 Relics (Celestial Relic)
+	      3 Relics (Celestial Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Annie)
 	      1 Randomized (SM G, Annie)
@@ -896,7 +944,7 @@ PERCENTILE REWARDS:
 	      5 Retakes (Annie)
 	Tier 4:
 	      4 Relics (Celestial Relic)
-	    750 Relic Shards (Gold)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Annie)
@@ -972,10 +1020,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Annie)
 	      3 Retakes (Annie)
 	Tier 4:
-	      3 Relics (Celestial Relic)
+	      5 Relics (Celestial Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Annie)
+	    200 Skill Points (Annie)
 	      5 Retakes (Annie)
 RANK REWARDS:
 
@@ -1046,8 +1094,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Annie)
 	Tier 4:
-	      3 Relics (Celestial Relic)
+	      4 Relics (Celestial Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Annie)
 	      1 Randomized (SM G, Annie)
 	      1 Randomized (SM G, Annie)
 	      1 Key (Gold)
@@ -1118,7 +1167,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Beowulf)
 	Tier 4:
-	      2 Relics (Smackdown Relic)
+	      3 Relics (Smackdown Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (SM G, Beowulf)
@@ -1201,8 +1250,8 @@ PERCENTILE REWARDS:
 	    140 Skill Points (Beowulf)
 	      5 Retakes (Beowulf)
 	Tier 4:
-	      4 Relics (Smackdown Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Smackdown Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Beowulf)
@@ -1276,10 +1325,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Beowulf)
 	      3 Retakes (Beowulf)
 	Tier 4:
-	      3 Relics (Smackdown Relic)
+	      5 Relics (Smackdown Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Beowulf)
+	    200 Skill Points (Beowulf)
 	      5 Retakes (Beowulf)
 RANK REWARDS:
 
@@ -1350,8 +1399,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Beowulf)
 	Tier 4:
-	      3 Relics (Smackdown Relic)
+	      4 Relics (Smackdown Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (SM G, Beowulf)
 	      1 Randomized (SM G, Beowulf)
 	      1 Key (Gold)
@@ -1422,7 +1472,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Big Band)
 	Tier 4:
-	      2 Relics (Top Brass Relic)
+	      3 Relics (Top Brass Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, BigBand)
 	      1 Randomized (SM G, BigBand)
@@ -1501,8 +1551,8 @@ PERCENTILE REWARDS:
 	    140 Skill Points (Big Band)
 	      5 Retakes (Big Band)
 	Tier 4:
-	      4 Relics (Top Brass Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Top Brass Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Big Band)
@@ -1576,10 +1626,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Big Band)
 	      3 Retakes (Big Band)
 	Tier 4:
-	      3 Relics (Top Brass Relic)
+	      5 Relics (Top Brass Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Big Band)
+	    200 Skill Points (Big Band)
 	      5 Retakes (Big Band)
 RANK REWARDS:
 
@@ -1650,8 +1700,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Big Band)
 	Tier 4:
-	      3 Relics (Top Brass Relic)
+	      4 Relics (Top Brass Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, BigBand)
 	      1 Randomized (SM G, BigBand)
 	      1 Randomized (SM G, BigBand)
 	      1 Key (Gold)
@@ -1722,7 +1773,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Black Dahlia)
 	Tier 4:
-	      2 Relics (Loose Cannon Relic)
+	      3 Relics (Loose Cannon Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (SM G, BlackDahlia)
@@ -1803,8 +1854,8 @@ PERCENTILE REWARDS:
 	    140 Skill Points (Black Dahlia)
 	      5 Retakes (Black Dahlia)
 	Tier 4:
-	      4 Relics (Loose Cannon Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Loose Cannon Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Black Dahlia)
@@ -1883,7 +1934,7 @@ PERCENTILE REWARDS:
 	      3 Relics (Loose Cannon Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Black Dahlia)
+	    200 Skill Points (Black Dahlia)
 	      5 Retakes (Black Dahlia)
 RANK REWARDS:
 
@@ -1954,8 +2005,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Black Dahlia)
 	Tier 4:
-	      3 Relics (Loose Cannon Relic)
+	      4 Relics (Loose Cannon Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Randomized (SM G, BlackDahlia)
 	      1 Key (Gold)
@@ -2026,7 +2078,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Cerebella)
 	Tier 4:
-	      2 Relics (Ringleader Relic)
+	      3 Relics (Ringleader Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (SM G, Cerebella)
@@ -2105,8 +2157,8 @@ PERCENTILE REWARDS:
 	    140 Skill Points (Cerebella)
 	      5 Retakes (Cerebella)
 	Tier 4:
-	      4 Relics (Ringleader Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Ringleader Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Cerebella)
@@ -2180,10 +2232,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Cerebella)
 	      3 Retakes (Cerebella)
 	Tier 4:
-	      3 Relics (Ringleader Relic)
+	      5 Relics (Ringleader Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Cerebella)
+	    200 Skill Points (Cerebella)
 	      5 Retakes (Cerebella)
 RANK REWARDS:
 
@@ -2254,8 +2306,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Cerebella)
 	Tier 4:
-	      3 Relics (Ringleader Relic)
+	      4 Relics (Ringleader Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (SM G, Cerebella)
 	      1 Randomized (SM G, Cerebella)
 	      1 Key (Gold)
@@ -2326,7 +2379,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Double)
 	Tier 4:
-	      2 Relics (Unspeakable Relic)
+	      3 Relics (Unspeakable Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Double)
 	      1 Randomized (SM G, Double)
@@ -2407,8 +2460,8 @@ PERCENTILE REWARDS:
 	    140 Skill Points (Double)
 	      5 Retakes (Double)
 	Tier 4:
-	      4 Relics (Unspeakable Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Unspeakable Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Double)
@@ -2482,10 +2535,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Double)
 	      3 Retakes (Double)
 	Tier 4:
-	      3 Relics (Unspeakable Relic)
+	      5 Relics (Unspeakable Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Double)
+	    200 Skill Points (Double)
 	      5 Retakes (Double)
 RANK REWARDS:
 
@@ -2558,8 +2611,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Double)
 	Tier 4:
-	      3 Relics (Unspeakable Relic)
+	      4 Relics (Unspeakable Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Double)
 	      1 Randomized (SM G, Double)
 	      1 Randomized (SM G, Double)
 	      1 Key (Gold)
@@ -2616,7 +2670,7 @@ PERCENTILE REWARDS:
 	    250 Relic Shards (Gold)
 	    500 Elemental Shards (Air)
 	Tier 4:
-	      5 Relics (Stormy Relic)
+	      6 Relics (Stormy Relic)
 	      1 Elemental Essence (Air)
 	    500 Relic Shards (Gold)
 RANK REWARDS:
@@ -2671,7 +2725,7 @@ PERCENTILE REWARDS:
 	    250 Relic Shards (Gold)
 	    500 Elemental Shards (Dark)
 	Tier 4:
-	      5 Relics (Shrouded Relic)
+	      6 Relics (Shrouded Relic)
 	    500 Relic Shards (Gold)
 	      1 Elemental Essence (Dark)
 RANK REWARDS:
@@ -2731,7 +2785,7 @@ PERCENTILE REWARDS:
 	    250 Relic Shards (Gold)
 	    500 Elemental Shards (Fire)
 	Tier 4:
-	      5 Relics (Scorched Relic)
+	      6 Relics (Scorched Relic)
 	    500 Relic Shards (Gold)
 	      1 Elemental Essence (Fire)
 RANK REWARDS:
@@ -2789,7 +2843,7 @@ PERCENTILE REWARDS:
 	    250 Relic Shards (Gold)
 	    500 Elemental Shards (Light)
 	Tier 4:
-	      5 Relics (Shining Relic)
+	      6 Relics (Shining Relic)
 	    500 Relic Shards (Gold)
 	      1 Elemental Essence (Light)
 RANK REWARDS:
@@ -2844,7 +2898,7 @@ PERCENTILE REWARDS:
 	    250 Relic Shards (Gold)
 	    500 Elemental Shards (Water)
 	Tier 4:
-	      5 Relics (Sunken Relic)
+	      6 Relics (Sunken Relic)
 	    500 Relic Shards (Gold)
 	      1 Elemental Essence (Water)
 RANK REWARDS:
@@ -2913,7 +2967,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Eliza)
 	Tier 4:
-	      2 Relics (Hieroglyphic Relic)
+	      3 Relics (Hieroglyphic Relic)
 	  90000 Canopy Coins
 	      2 Randomizeds (SM G, Eliza)
 	      1 Key (Gold)
@@ -2991,8 +3045,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Eliza)
 	    140 Skill Points (Eliza)
 	Tier 4:
-	      4 Relics (Hieroglyphic Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Hieroglyphic Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Eliza)
@@ -3066,11 +3120,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Eliza)
 	Tier 4:
-	      3 Relics (Hieroglyphic Relic)
+	      5 Relics (Hieroglyphic Relic)
 	      5 Retakes (Eliza)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Eliza)
+	    200 Skill Points (Eliza)
 RANK REWARDS:
 
 pf-bloSpo-s
@@ -3139,9 +3193,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Eliza)
 	Tier 4:
-	      3 Relics (Hieroglyphic Relic)
+	      4 Relics (Hieroglyphic Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, Eliza)
+	      1 Randomized (SM G, Eliza)
+	      1 Randomized (SM G, Eliza)
+	      1 Randomized (SM G, Eliza)
 	      1 Key (Gold)
 	    100 Skill Points (Eliza)
 RANK REWARDS:
@@ -3210,7 +3266,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Filia)
 	Tier 4:
-	      2 Relics (Beware Of Relic)
+	      3 Relics (Beware Of Relic)
 	  90000 Canopy Coins
 	      2 Randomizeds (SM G, Filia)
 	      1 Key (Gold)
@@ -3288,8 +3344,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Filia)
 	    140 Skill Points (Filia)
 	Tier 4:
-	      4 Relics (Beware Of Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Beware Of Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Filia)
@@ -3363,11 +3419,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Filia)
 	Tier 4:
-	      3 Relics (Beware Of Relic)
+	      5 Relics (Beware Of Relic)
 	      5 Retakes (Filia)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Filia)
+	    200 Skill Points (Filia)
 RANK REWARDS:
 
 pf-twoTang-s
@@ -3436,9 +3492,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Filia)
 	Tier 4:
-	      3 Relics (Beware Of Relic)
+	      4 Relics (Beware Of Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, Filia)
+	      1 Randomized (SM G, Filia)
+	      1 Randomized (SM G, Filia)
+	      1 Randomized (SM G, Filia)
 	      1 Key (Gold)
 	    100 Skill Points (Filia)
 RANK REWARDS:
@@ -3507,7 +3565,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Fukua)
 	Tier 4:
-	      2 Relics (Doppelgänger Relic)
+	      3 Relics (Doppelgänger Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Fukua)
 	      1 Key (Gold)
@@ -3587,8 +3645,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Fukua)
 	    140 Skill Points (Fukua)
 	Tier 4:
-	      4 Relics (Doppelgänger Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Doppelgänger Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Fukua)
@@ -3664,11 +3722,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Fukua)
 	Tier 4:
-	      3 Relics (Doppelgänger Relic)
+	      5 Relics (Doppelgänger Relic)
 	      5 Retakes (Fukua)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Fukua)
+	    200 Skill Points (Fukua)
 RANK REWARDS:
 
 pf-clone-s
@@ -3737,9 +3795,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Fukua)
 	Tier 4:
-	      3 Relics (Doppelgänger Relic)
+	      4 Relics (Doppelgänger Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, Fukua)
+	      1 Randomized (SM G, Fukua)
+	      1 Randomized (SM G, Fukua)
+	      1 Randomized (SM G, Fukua)
 	      1 Key (Gold)
 	    100 Skill Points (Fukua)
 RANK REWARDS:
@@ -3796,7 +3856,7 @@ PERCENTILE REWARDS:
 	Tier 3:
 	 650000 Canopy Coins
 	Tier 4:
-	 900000 Canopy Coins
+	1000000 Canopy Coins
 RANK REWARDS:
 
 pf-sDown2
@@ -3851,7 +3911,7 @@ PERCENTILE REWARDS:
 	Tier 3:
 	 650000 Canopy Coins
 	Tier 4:
-	 900000 Canopy Coins
+	1000000 Canopy Coins
 RANK REWARDS:
 
 pf-cSpree
@@ -4075,7 +4135,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Marie)
 	Tier 4:
-	      2 Relics (Resurrection Relic)
+	      3 Relics (Resurrection Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Marie)
 	      1 Key (Gold)
@@ -4157,8 +4217,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Marie)
 	    140 Skill Points (Marie)
 	Tier 4:
-	      4 Relics (Resurrection Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Resurrection Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Marie)
@@ -4236,11 +4296,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Marie)
 	Tier 4:
-	      3 Relics (Resurrection Relic)
+	      5 Relics (Resurrection Relic)
 	      5 Retakes (Marie)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Marie)
+	    200 Skill Points (Marie)
 RANK REWARDS:
 
 pf-deathmettle-s
@@ -4313,9 +4373,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Marie)
 	Tier 4:
-	      3 Relics (Resurrection Relic)
+	      4 Relics (Resurrection Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, Marie)
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (SM G, Marie)
+	      1 Randomized (SM G, Marie)
 	      1 Key (Gold)
 	    100 Skill Points (Marie)
 RANK REWARDS:
@@ -4552,56 +4614,60 @@ SCOREBASED REWARDS:
 	     10 Theonite
 	  20000 Canopy Coins
 	Tier 1:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 2:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 3:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 4:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 5:
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 6:
 	     20 Theonite
 	  30000 Canopy Coins
-	Tier 2:
+	Tier 7:
 	     30 Theonite
 	  45000 Canopy Coins
-	Tier 3:
-	      1 Relic (Spooky Relic)
+	Tier 8:
+	      1 Relic (Headliner Relic)
 	     40 Theonite
 	  68000 Canopy Coins
-	Tier 4:
+	Tier 9:
 	     50 Theonite
 	 100000 Canopy Coins
-	Tier 5:
+	Tier 10:
 	     60 Theonite
 	 152000 Canopy Coins
-	Tier 6:
-	      1 Relic (Spooky Relic)
+	Tier 11:
+	      1 Relic (Headliner Relic)
 	     70 Theonite
 	 228000 Canopy Coins
-	Tier 7:
+	Tier 12:
 	     80 Theonite
 	 342000 Canopy Coins
-	Tier 8:
+	Tier 13:
 	     90 Theonite
 	 512000 Canopy Coins
-	Tier 9:
-	      1 Relic (Spooky Relic)
+	Tier 14:
+	      1 Relic (Headliner Relic)
 	    100 Theonite
 	 768000 Canopy Coins
-	Tier 10:
-	    200 Elemental Shards (Dark)
-	    500 Relic Shards (Gold)
-	Tier 11:
-	 300000 Canopy Coins
-	Tier 12:
-	 300000 Canopy Coins
-	Tier 13:
-	    300 Elemental Shards (Dark)
-	    250 Relic Shards (Diamond)
-	Tier 14:
-	 300000 Canopy Coins
 	Tier 15:
-	 300000 Canopy Coins
+	    200 Elemental Shards (Air)
+	    500 Relic Shards (Gold)
 	Tier 16:
 	 300000 Canopy Coins
 	Tier 17:
 	 300000 Canopy Coins
 	Tier 18:
-	    500 Elemental Shards (Dark)
-	      1 Relic (Legendary Relic)
+	    300 Elemental Shards (Air)
+	    250 Relic Shards (Diamond)
 	Tier 19:
 	 300000 Canopy Coins
 	Tier 20:
@@ -4609,31 +4675,53 @@ SCOREBASED REWARDS:
 	Tier 21:
 	 300000 Canopy Coins
 	Tier 22:
+	 300000 Canopy Coins
+	Tier 23:
+	    500 Elemental Shards (Air)
+	      1 Relic (Legendary Relic)
+	Tier 24:
+	 300000 Canopy Coins
+	Tier 25:
+	 300000 Canopy Coins
+	Tier 26:
+	 300000 Canopy Coins
+	Tier 27:
 	      1 Relic (Nightmare Diamond Relic)
 PERCENTILE REWARDS:
 	Tier 0:
-	      1 Relic (Spooky Relic)
+	      1 Relic (Jackpot Relic)
 	Tier 1:
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
+	      3 Relics (Jackpot Relic)
+	     50 Theonite
+	      1 Key (Gold)
 	Tier 2:
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
+	     90 Theonite
+	      5 Relics (Jackpot Relic)
+	      1 Key (Gold)
 	Tier 3:
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Fighter (Necrobreaker)
-	Tier 4:
+	      8 Relics (Jackpot Relic)
+	    150 Theonite
 	      1 Key (Diamond)
-	      1 Fighter (Necrobreaker)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
-	      1 Relic (Spooky Relic)
+	Tier 4:
+{'amount': 1,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 30124},
+ 'elementType': 3,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 29039},
+ 'lootType': 25,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 3,
+ 'reel': {'m_FileID': 0, 'm_PathID': 30606},
+ 'showFullFormatOnDisplay': False,
+ 'voucherDenomination': 0}
+	      1 Unknown [25]
+	      1 10+1 Retake Relic Voucher
+	    300 Theonite
+	      1 Key (Diamond)
 RANK REWARDS:
 
 pf-paddys
@@ -5916,6 +6004,168 @@ PERCENTILE REWARDS:
 	 325000 Canopy Coins
 RANK REWARDS:
 
+pf-FallOfTheDark
+Fall of the Dark ()
+PLAYER MODIFIERS:
+	KNIGHT'S NIGHT
+	
+	[Dark Element Fighters]: Start the match with permanent DEADEYE. While near an opponent, inflict BLEED every 3 seconds. 
+	When the opponent reaches 5 stacks of BLEED, convert them to CURSE and HEX for 10.0 seconds.
+	HALLOWED GROUND
+	[Non-Dark Element] : While you and the opponent haven't landed a successful HIT within 3.0 seconds, suffer CURSE and BLEED.
+	When reaching 5 stacks of BLEED, remove all BLEEDs and suffer HEX for 13.0 seconds, CURSE is removed when knocking down an enemy
+	
+ENEMY MODIFIERS:
+	KNIGHT'S NIGHT
+	
+	[Dark Element Fighters]: Start the match with permanent DEADEYE. While near an opponent, inflict BLEED every 3 seconds. 
+	When the opponent reaches 5 stacks of BLEED, convert them to CURSE and HEX for 10.0 seconds.
+	HALLOWED GROUND
+	[Non-Dark Element] : While you and the opponent haven't landed a successful HIT within 3.0 seconds, suffer CURSE and BLEED.
+	When reaching 5 stacks of BLEED, remove all BLEEDs and suffer HEX for 13.0 seconds, CURSE is removed when knocking down an enemy
+	
+minScore: 100000
+SCOREBASED REWARDS:
+	Tier 0:
+	      1 Relic (Shrouded Relic)
+	     10 Theonite
+	  20000 Canopy Coins
+	Tier 1:
+	      3 Energy Refills
+	  25000 Canopy Coins
+	Tier 2:
+	      1 Relic (Shrouded Relic)
+	  30000 Canopy Coins
+	     20 Theonite
+	Tier 3:
+	      1 Relic (Shrouded Relic)
+	  35000 Canopy Coins
+	Tier 4:
+	      3 Energy Refills
+	  40000 Canopy Coins
+	     30 Theonite
+	Tier 5:
+	      1 Relic (Shrouded Relic)
+	      1 Relic (Shrouded Relic)
+	  50000 Canopy Coins
+	Tier 6:
+	      1 Relic (Premiere Relic)
+	     40 Theonite
+	Tier 7:
+	      3 Energy Refills
+	  80000 Canopy Coins
+	Tier 8:
+	      1 Relic (Headliner Relic)
+	     50 Theonite
+	Tier 9:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 160000 Canopy Coins
+	Tier 10:
+	      3 Energy Refills
+	     60 Theonite
+	Tier 11:
+	      1 Relic (Premiere Relic)
+	      1 Relic (Premiere Relic)
+	 240000 Canopy Coins
+	Tier 12:
+	      1 Relic (Jackpot Relic)
+	     70 Theonite
+	Tier 13:
+	      3 Energy Refills
+	 320000 Canopy Coins
+	Tier 14:
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	     80 Theonite
+	Tier 15:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 16:
+	      1 Relic (Legendary Relic)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 17:
+	      1 Key (Gold)
+	 400000 Canopy Coins
+	Tier 18:
+	      1 Relic (Jackpot Relic)
+	      1 Relic (Jackpot Relic)
+	 400000 Canopy Coins
+	Tier 19:
+	    100 Elemental Shards (Dark)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 20:
+	      1 Key (Gold)
+	      1 Relic (Headliner Relic)
+	      1 Relic (Headliner Relic)
+	 400000 Canopy Coins
+	Tier 21:
+	      1 Relic (Legendary Relic)
+	    100 Elemental Shards (Dark)
+	 400000 Canopy Coins
+	Tier 22:
+	      3 Energy Refills
+	    100 Theonite
+	Tier 23:
+	    200 Elemental Shards (Dark)
+	 400000 Canopy Coins
+	Tier 24:
+	    200 Elemental Shards (Dark)
+	 400000 Canopy Coins
+	Tier 25:
+	      1 Key (Gold)
+	      3 Energy Refills
+	    100 Theonite
+	Tier 26:
+	    200 Elemental Shards (Dark)
+	 400000 Canopy Coins
+	Tier 27:
+	    200 Elemental Shards (Dark)
+	 400000 Canopy Coins
+	Tier 28:
+	      1 Elemental Essence (Dark)
+	 400000 Canopy Coins
+	Tier 29:
+	      1 Key (Diamond)
+	      3 Energy Refills
+	    200 Theonite
+	      1 Relic (Diamond Fighter Relic)
+PERCENTILE REWARDS:
+	Tier 0:
+	      1 Relic (Headliner Relic)
+	Tier 1:
+	      3 Relics (Headliner Relic)
+	      1 Key (Gold)
+	Tier 2:
+	      5 Relics (Headliner Relic)
+	      1 Key (Gold)
+	Tier 3:
+	      8 Relics (Headliner Relic)
+	      1 Key (Diamond)
+	Tier 4:
+{'amount': 1,
+ 'baseCharacter': {'m_FileID': 0, 'm_PathID': 0},
+ 'character': {'m_FileID': 0, 'm_PathID': 0},
+ 'consumable': {'m_FileID': 0, 'm_PathID': 0},
+ 'cosmetic': {'m_FileID': 0, 'm_PathID': 30123},
+ 'elementType': 1,
+ 'forceShiny': False,
+ 'gear': {'m_FileID': 0, 'm_PathID': 29039},
+ 'lootType': 25,
+ 'nestedLootTable': {'m_FileID': 0, 'm_PathID': 0},
+ 'nodeModifier': {'m_FileID': 0, 'm_PathID': 0},
+ 'rarityTier': 3,
+ 'reel': {'m_FileID': 0, 'm_PathID': 30600},
+ 'showFullFormatOnDisplay': False,
+ 'voucherDenomination': 0}
+	      1 Unknown [25]
+	      1 10+1 Retake Relic Voucher
+	      1 Key (Diamond)
+RANK REWARDS:
+
 pf-AgainstTheWind
 AGAINST THE WIND ()
 PLAYER MODIFIERS:
@@ -6204,10 +6454,6 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    500 Elemental Shards (Fire)
 	Tier 4:
-	      1 10+1 Retake Relic Voucher
-	      1 Key (Diamond)
-	    500 Elemental Shards (Fire)
-	Tier 5:
 	      1 Elemental Essence (Fire)
 	      1 Key (Diamond)
 	      1 10+1 Retake Relic Voucher
@@ -6507,10 +6753,6 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    500 Elemental Shards (Water)
 	Tier 4:
-	      1 10+1 Retake Relic Voucher
-	      1 Key (Diamond)
-	    500 Elemental Shards (Water)
-	Tier 5:
 	      1 Elemental Essence (Water)
 	      1 Key (Diamond)
 	      1 10+1 Retake Relic Voucher
@@ -6583,7 +6825,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Ms. Fortune)
 	Tier 4:
-	      2 Relics (Schrödinger's Relic)
+	      3 Relics (Schrödinger's Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, MsFortune)
 	      1 Key (Gold)
@@ -6661,8 +6903,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Ms. Fortune)
 	    140 Skill Points (Ms. Fortune)
 	Tier 4:
-	    750 Relic Shards (Gold)
-	      4 Relics (Schrödinger's Relic)
+	      5 Relics (Schrödinger's Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Ms. Fortune)
@@ -6738,11 +6980,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Ms. Fortune)
 	Tier 4:
-	      3 Relics (Schrödinger's Relic)
+	      5 Relics (Schrödinger's Relic)
 	      5 Retakes (Ms. Fortune)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Ms. Fortune)
+	    200 Skill Points (Ms. Fortune)
 RANK REWARDS:
 
 pf-cradle-s
@@ -6813,9 +7055,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Ms. Fortune)
 	Tier 4:
-	      3 Relics (Schrödinger's Relic)
+	      4 Relics (Schrödinger's Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, MsFortune)
+	      1 Randomized (SM G, MsFortune)
+	      1 Randomized (SM G, MsFortune)
+	      1 Randomized (SM G, MsFortune)
 	      1 Key (Gold)
 	    100 Skill Points (Ms. Fortune)
 RANK REWARDS:
@@ -6885,7 +7129,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Painwheel)
 	Tier 4:
-	      2 Relics (Tortured Relic)
+	      3 Relics (Tortured Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Painwheel)
 	      1 Key (Gold)
@@ -6963,8 +7207,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Painwheel)
 	    140 Skill Points (Painwheel)
 	Tier 4:
-	      4 Relics (Tortured Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Tortured Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Painwheel)
@@ -7038,11 +7282,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Painwheel)
 	Tier 4:
-	      3 Relics (Tortured Relic)
+	      5 Relics (Tortured Relic)
 	      5 Retakes (Painwheel)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Painwheel)
+	    200 Skill Points (Painwheel)
 RANK REWARDS:
 
 pf-noPain-s
@@ -7111,9 +7355,11 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Painwheel)
 	Tier 4:
-	      3 Relics (Tortured Relic)
+	      4 Relics (Tortured Relic)
 	 180000 Canopy Coins
-	      2 Randomizeds (SM G, Painwheel)
+	      1 Randomized (SM G, Painwheel)
+	      1 Randomized (SM G, Painwheel)
+	      1 Randomized (SM G, Painwheel)
 	      1 Key (Gold)
 	    100 Skill Points (Painwheel)
 RANK REWARDS:
@@ -7183,7 +7429,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Parasoul)
 	Tier 4:
-	      2 Relics (Royalty Relic)
+	      3 Relics (Royalty Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
 	      1 Key (Gold)
@@ -7263,8 +7509,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Parasoul)
 	    140 Skill Points (Parasoul)
 	Tier 4:
-	      4 Relics (Royalty Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Royalty Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Parasoul)
@@ -7338,10 +7584,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Parasoul)
 	      3 Retakes (Parasoul)
 	Tier 4:
-	      3 Relics (Royalty Relic)
+	      5 Relics (Royalty Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Parasoul)
+	    200 Skill Points (Parasoul)
 	      5 Retakes (Parasoul)
 RANK REWARDS:
 
@@ -7408,11 +7654,14 @@ PERCENTILE REWARDS:
 	      2 Relics (Royalty Relic)
 	 100000 Canopy Coins
 	      1 Randomized (SM G, Parasoul)
+	      1 Randomized (SM G, Parasoul)
 	      1 Key (Gold)
 	     60 Skill Points (Parasoul)
 	Tier 4:
-	      3 Relics (Royalty Relic)
+	      4 Relics (Royalty Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Parasoul)
+	      1 Randomized (SM G, Parasoul)
 	      1 Randomized (SM G, Parasoul)
 	      1 Key (Gold)
 	    100 Skill Points (Parasoul)
@@ -7482,7 +7731,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Peacock)
 	Tier 4:
-	      2 Relics (Hand-Drawn Relic)
+	      3 Relics (Hand-Drawn Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Peacock)
 	      1 Randomized (SM G, Peacock)
@@ -7566,8 +7815,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Peacock)
 	    140 Skill Points (Peacock)
 	Tier 4:
-	      4 Relics (Hand-Drawn Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Hand-Drawn Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Peacock)
@@ -7642,10 +7891,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Peacock)
 	Tier 4:
 	      5 Retakes (Peacock)
-	      3 Relics (Hand-Drawn Relic)
+	      5 Relics (Hand-Drawn Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Peacock)
+	    200 Skill Points (Peacock)
 RANK REWARDS:
 
 pf-cutFlo-s
@@ -7715,8 +7964,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Peacock)
 	Tier 4:
-	      3 Relics (Hand-Drawn Relic)
+	      4 Relics (Hand-Drawn Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Peacock)
 	      1 Randomized (SM G, Peacock)
 	      1 Randomized (SM G, Peacock)
 	      1 Key (Gold)
@@ -7787,7 +8037,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Robo-Fortune)
 	Tier 4:
-	      2 Relics (Random-Access Relic)
+	      3 Relics (Random-Access Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (SM G, RoboFortune)
@@ -7868,8 +8118,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Robo-Fortune)
 	    140 Skill Points (Robo-Fortune)
 	Tier 4:
-	      4 Relics (Random-Access Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Random-Access Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Robo-Fortune)
@@ -7946,10 +8196,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Robo-Fortune)
 	Tier 4:
 	      5 Retakes (Robo-Fortune)
-	      3 Relics (Random-Access Relic)
+	      5 Relics (Random-Access Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Robo-Fortune)
+	    200 Skill Points (Robo-Fortune)
 RANK REWARDS:
 
 pf-1s&0s-s
@@ -8019,8 +8269,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Robo-Fortune)
 	Tier 4:
-	      3 Relics (Random-Access Relic)
+	      4 Relics (Random-Access Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (SM G, RoboFortune)
 	      1 Randomized (SM G, RoboFortune)
 	      1 Key (Gold)
@@ -8091,7 +8342,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Squigly)
 	Tier 4:
-	      2 Relics (Reanimated Relic)
+	      3 Relics (Reanimated Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Squigly)
 	      1 Randomized (SM G, Squigly)
@@ -8170,8 +8421,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Squigly)
 	    140 Skill Points (Squigly)
 	Tier 4:
-	      4 Relics (Reanimated Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Reanimated Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Squigly)
@@ -8246,10 +8497,10 @@ PERCENTILE REWARDS:
 	    125 Skill Points (Squigly)
 	Tier 4:
 	      5 Retakes (Squigly)
-	      3 Relics (Reanimated Relic)
+	      5 Relics (Reanimated Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Squigly)
+	    200 Skill Points (Squigly)
 RANK REWARDS:
 
 pf-nGhoul-s
@@ -8319,8 +8570,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Squigly)
 	Tier 4:
-	      3 Relics (Reanimated Relic)
+	      4 Relics (Reanimated Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Squigly)
 	      1 Randomized (SM G, Squigly)
 	      1 Randomized (SM G, Squigly)
 	      1 Key (Gold)
@@ -8391,7 +8643,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Umbrella)
 	Tier 4:
-	      2 Relics (Hangry Relic)
+	      3 Relics (Hangry Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (SM G, Umbrella)
@@ -8472,8 +8724,8 @@ PERCENTILE REWARDS:
 	      5 Retakes (Umbrella)
 	    140 Skill Points (Umbrella)
 	Tier 4:
-	      4 Relics (Hangry Relic)
-	    750 Relic Shards (Gold)
+	      5 Relics (Hangry Relic)
+	   1000 Relic Shards (Gold)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	     10 Retakes (Umbrella)
@@ -8551,7 +8803,7 @@ PERCENTILE REWARDS:
 	      3 Relics (Hangry Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Umbrella)
+	    200 Skill Points (Umbrella)
 RANK REWARDS:
 
 pf-cloudy-s
@@ -8621,8 +8873,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Umbrella)
 	Tier 4:
-	      3 Relics (Hangry Relic)
+	      4 Relics (Hangry Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (SM G, Umbrella)
 	      1 Randomized (SM G, Umbrella)
 	      1 Key (Gold)
@@ -8693,7 +8946,7 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     40 Skill Points (Valentine)
 	Tier 4:
-	      2 Relics (Surgical Relic)
+	      3 Relics (Surgical Relic)
 	  90000 Canopy Coins
 	      1 Randomized (SM G, Valentine)
 	      1 Randomized (SM G, Valentine)
@@ -8774,12 +9027,12 @@ PERCENTILE REWARDS:
 	      5 Retakes (Valentine)
 	    140 Skill Points (Valentine)
 	Tier 4:
-	     10 Retakes (Valentine)
-	    750 Relic Shards (Gold)
-	      4 Relics (Surgical Relic)
+	   1000 Relic Shards (Gold)
+	      5 Relics (Surgical Relic)
 	 432000 Canopy Coins
 	      1 Key (Diamond)
 	    250 Skill Points (Valentine)
+	     10 Retakes (Valentine)
 RANK REWARDS:
 
 pf-caskMat-g
@@ -8849,11 +9102,11 @@ PERCENTILE REWARDS:
 	      1 Key (Diamond)
 	    125 Skill Points (Valentine)
 	Tier 4:
-	      5 Retakes (Valentine)
-	      3 Relics (Surgical Relic)
+	      5 Relics (Surgical Relic)
 	 268000 Canopy Coins
 	      1 Key (Diamond)
-	    180 Skill Points (Valentine)
+	    200 Skill Points (Valentine)
+	      5 Retakes (Valentine)
 RANK REWARDS:
 
 pf-caskMat-s
@@ -8923,8 +9176,9 @@ PERCENTILE REWARDS:
 	      1 Key (Gold)
 	     60 Skill Points (Valentine)
 	Tier 4:
-	      3 Relics (Surgical Relic)
+	      4 Relics (Surgical Relic)
 	 180000 Canopy Coins
+	      1 Randomized (SM G, Valentine)
 	      1 Randomized (SM G, Valentine)
 	      1 Randomized (SM G, Valentine)
 	      1 Key (Gold)

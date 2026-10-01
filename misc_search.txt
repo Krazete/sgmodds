@@ -225,17 +225,18 @@ LootTableSet_Element_Air
 			4.76%	      1 Fighter (Lucky Lure)
 			Subtotal Weight: 21
 		0.50%	      1 Randomized (Character D, Air)
-			10.00%	      1 Fighter (Stand Out)
-			10.00%	      1 Fighter (Fly Trap)
-			10.00%	      1 Fighter (Snake Bite)
-			10.00%	      1 Fighter (Wind Stalker)
-			10.00%	      1 Fighter (X-Bot)
-			10.00%	      1 Fighter (Creature of Habit)
-			10.00%	      1 Fighter (Grave Danger)
-			10.00%	      1 Fighter (Shear Force)
-			10.00%	      1 Fighter (Crimson Cyclone)
-			10.00%	      1 Fighter (Locked 'N' Loaded)
-			Subtotal Weight: 10
+			9.09%	      1 Fighter (Stand Out)
+			9.09%	      1 Fighter (Fly Trap)
+			9.09%	      1 Fighter (Snake Bite)
+			9.09%	      1 Fighter (Wind Stalker)
+			9.09%	      1 Fighter (X-Bot)
+			9.09%	      1 Fighter (Creature of Habit)
+			9.09%	      1 Fighter (Grave Danger)
+			9.09%	      1 Fighter (Shear Force)
+			9.09%	      1 Fighter (Crimson Cyclone)
+			9.09%	      1 Fighter (Locked 'N' Loaded)
+			9.09%	      1 Fighter (Comet Custodian)
+			Subtotal Weight: 11
 		Total Weight: 200
 	 LootTable_Element_Air_Essence
 		75.00%	     25 Elemental Shards (Air)
@@ -393,26 +394,27 @@ LootTableSet_Element_Fire
 			10.00%	      1 Fighter (Phantom Wrangler)
 			Subtotal Weight: 10
 		3.50%	      1 Randomized (Character G, Fire)
-			5.26%	      1 Fighter (Dragon Brawler)
-			5.26%	      1 Fighter (Private Dick)
-			5.26%	      1 Fighter (Harlequin)
-			5.26%	      1 Fighter (Immoral Fiber)
-			5.26%	      1 Fighter (Red Velvet)
-			5.26%	      1 Fighter (Parasite Weave)
-			5.26%	      1 Fighter (Firefly)
-			5.26%	      1 Fighter (Pyro-Technique)
-			5.26%	      1 Fighter (Head Hunter)
-			5.26%	      1 Fighter (Thrill Shrieker)
-			5.26%	      1 Fighter (Mean One)
-			5.26%	      1 Fighter (Time Thief)
-			5.26%	      1 Fighter (Wunderkind)
-			5.26%	      1 Fighter (Psycommander)
-			5.26%	      1 Fighter (Red Rider)
-			5.26%	      1 Fighter (Cosmic Rebel)
-			5.26%	      1 Fighter (Indomitable)
-			5.26%	      1 Fighter (Hell's Belle)
-			5.26%	      1 Fighter (Iron Matron)
-			Subtotal Weight: 19
+			5.00%	      1 Fighter (Dragon Brawler)
+			5.00%	      1 Fighter (Private Dick)
+			5.00%	      1 Fighter (Harlequin)
+			5.00%	      1 Fighter (Immoral Fiber)
+			5.00%	      1 Fighter (Red Velvet)
+			5.00%	      1 Fighter (Parasite Weave)
+			5.00%	      1 Fighter (Firefly)
+			5.00%	      1 Fighter (Pyro-Technique)
+			5.00%	      1 Fighter (Head Hunter)
+			5.00%	      1 Fighter (Thrill Shrieker)
+			5.00%	      1 Fighter (Mean One)
+			5.00%	      1 Fighter (Time Thief)
+			5.00%	      1 Fighter (Wunderkind)
+			5.00%	      1 Fighter (Psycommander)
+			5.00%	      1 Fighter (Red Rider)
+			5.00%	      1 Fighter (Cosmic Rebel)
+			5.00%	      1 Fighter (Indomitable)
+			5.00%	      1 Fighter (Hell's Belle)
+			5.00%	      1 Fighter (Iron Matron)
+			5.00%	      1 Fighter (Flower Power)
+			Subtotal Weight: 20
 		0.50%	      1 Randomized (Character D, Fire)
 			8.33%	      1 Fighter (Heavy Handed)
 			8.33%	      1 Fighter (Furry Fury)
@@ -1261,7 +1263,7 @@ LootTableSet_Char_Headliner_D
 		16.67%	      1 Fighter (Inkfluencer)
 		16.67%	      1 Fighter (Mana Flow)
 		16.67%	      1 Fighter (Baba Yaga)
-		16.67%	      1 Fighter (Comet Custodian)
+		16.67%	      1 Fighter (Dream Girl)
 		16.67%	      1 Fighter (Killing Time)
 		Total Weight: 6
 LootTableSet_Char_Headliner_G
@@ -1271,22 +1273,22 @@ LootTableSet_Char_Headliner_G
 		10.00%	      1 Fighter (Yellow One)
 		10.00%	      1 Fighter (Scale Tipper)
 		50.00%	      1 Fighter (Bellarina)
-		10.00%	      1 Fighter (Flower Power)
+		10.00%	      1 Fighter (Pillow Talk)
 		Total Weight: 10
 LootTableSet_Char_Headliner_S
 	 LootTable_Var_Headliner_S
-		8.33%	      1 Fighter (Vintage Virtuoso)
-		8.33%	      1 Fighter (Soul Crusher)
-		8.33%	      1 Fighter (Wildcard)
-		8.33%	      1 Fighter (Snake Charmer)
-		8.33%	      1 Fighter (Puddle Pirate)
-		8.33%	      1 Fighter (Ivy League)
-		8.33%	      1 Fighter (Souls Sister)
-		8.33%	      1 Fighter (Vector Protector)
+		8.33%	      1 Fighter (Shadow Ops)
+		8.33%	      1 Fighter (Ninja Star)
+		8.33%	      1 Fighter (Resonant Evil)
+		8.33%	      1 Fighter (Lethal Weapon)
+		8.33%	      1 Fighter (Tomb & Gloom)
+		8.33%	      1 Fighter (Rock Star)
+		8.33%	      1 Fighter (Graveyard Shift)
+		8.33%	      1 Fighter (Dead Heat)
+		8.33%	      1 Fighter (Purrminator)
+		8.33%	      1 Fighter (Pea Shooter)
+		8.33%	      1 Fighter (Ms. Trial)
 		8.33%	      1 Fighter (Phantom Wrangler)
-		8.33%	      1 Fighter (Temple Tyrant)
-		8.33%	      1 Fighter (Kill Joy)
-		8.33%	      1 Fighter (Candy Crusher)
 		Total Weight: 12
 LootTableSet_Char_Heartbreaker_D
 	 LootTable_Var_Heartbreaker_D
@@ -1698,6 +1700,15 @@ LootTableSet_Char_Nightmare_D_2025
 		25.00%	      1 Fighter (Star Shine)
 		25.00%	      1 Fighter (Heavy Handed)
 		Total Weight: 4
+LootTableSet_Char_Nightmare_D_2026
+	 LootTable_Var_Nightmare_D_2026
+		50.00%	      1 Fighter (Dream Girl)
+		10.00%	      1 Fighter (Baba Yaga)
+		10.00%	      1 Fighter (True Self)
+		10.00%	      1 Fighter (Killing Time)
+		10.00%	      1 Fighter (Inkfluencer)
+		10.00%	      1 Fighter (Mana Flow)
+		Total Weight: 10
 LootTableSet_Char_Revolutionary_D
 	 LootTable_Var_Revolutionary_D
 		33.33%	      1 Fighter (Fire Branded)
@@ -2146,12 +2157,13 @@ LootTableSet_Char_Fukua_Var_D
 		Total Weight: 5
 LootTableSet_Char_Fukua_Var_G
 	 LootTable_Char_Fukua_Var_G
-		20.00%	      1 Fighter (Vaporwave Vixen)
-		20.00%	      1 Fighter (Phantom Threads)
-		20.00%	      1 Fighter (Night Terror)
-		20.00%	      1 Fighter (Feathered Edges)
-		20.00%	      1 Fighter (Hell's Belle)
-		Total Weight: 5
+		16.67%	      1 Fighter (Vaporwave Vixen)
+		16.67%	      1 Fighter (Phantom Threads)
+		16.67%	      1 Fighter (Night Terror)
+		16.67%	      1 Fighter (Feathered Edges)
+		16.67%	      1 Fighter (Hell's Belle)
+		16.67%	      1 Fighter (Flower Power)
+		Total Weight: 6
 LootTableSet_Char_Fukua_Var_S
 	 LootTable_Char_Fukua_Var_S
 		25.00%	      1 Fighter (Souls Sister)
@@ -7048,10 +7060,11 @@ LootTableSet_Char_Marie_Var_B
 		Total Weight: 2
 LootTableSet_Char_Marie_Var_D
 	 LootTable_Char_Marie_Var_D
-		33.33%	      1 Fighter (Heartless)
-		33.33%	      1 Fighter (Megalomaniac)
-		33.33%	      1 Fighter (Mad Malice)
-		Total Weight: 3
+		25.00%	      1 Fighter (Heartless)
+		25.00%	      1 Fighter (Megalomaniac)
+		25.00%	      1 Fighter (Mad Malice)
+		25.00%	      1 Fighter (Comet Custodian)
+		Total Weight: 4
 LootTableSet_Char_Marie_Var_G
 	 LootTable_Char_Marie_Var_G
 		16.67%	      1 Fighter (Dark Horse)
